@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "Shalom/Vo_Shalom_cacha_001.ogg",
+    "text": "It must have been very hard on you, you poor thing. You've done well. I'll take it from here, and everything will be all right."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "Shalom/Vo_Shalom_promotion_001.ogg",
+    "text": "Not satisfied with my performance? I should work harder in the future? Sure, if it's what you want me to do."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "Shalom/Vo_Shalom_promotion2_001.ogg",
+    "text": "Okay, that's enough, you've traveled too far. Go back, before it's too late."
+  },
+  {
+    "title": "Level Start",
+    "filename": "Shalom/Vo_Shalom_battlebegin_001.ogg",
+    "text": "You want me to come along? (Chuckles) Sure. I'd be glad to go with you."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "Shalom/Vo_Shalom_battlewin_001.ogg",
+    "text": "My work here is done. I wish you good luck."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "Shalom/Vo_Shalom_battlelose_001.ogg",
+    "text": "It's all right. Just a little mistake. I'm an expert at fixing things."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "Shalom/Bt_Shalom_uniqueskill_001.ogg",
+    "text": "Too much noise. Quiet!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "Shalom/Bt_Shalom_dead_001.ogg",
+    "text": "Heh, I'll take my leave... See you on the other side..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "Shalom/Vo_Shalom_greeting_001.ogg",
+    "text": "Hello there, ready for the busy day ahead? Do you need my help, or do you want my encouragement instead?"
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "Shalom/Vo_Shalom_talk1_001.ogg",
+    "text": "My job is to fix mistakes. I receive requests for help, analyze the situation, formulate plans, and execute them. I don't hate this job. It's just... many unnecessary costs could be avoided if everybody acts with more caution. My point is, you should be cautious out there, Chief. I hope that you will never require my services as Hush."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "Shalom/Vo_Shalom_talk1_002.ogg",
+    "text": "I'm neither a good fighter, nor do I have any special powers. The only thing that protects me from harm is my Schorl. Of course, from now on, it'll protect you too. I know you don't trust those who behind it, but you'll find a way to take advantage of its power, right?"
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "Shalom/Vo_Shalom_talk1_003.ogg",
+    "text": "You want me to work \"under\" you? Hehe, I suppose I can do that. I can do whatever you want me to do, only at the cost of everything you have, or a flower that has freshly come out of its bud."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "Shalom/Vo_Shalom_talk2_001.ogg",
+    "text": "I have nothing to ask of you, except that... you must take better care of yourself. Keeping you safe is no easy task. Hehe... But, if push comes to shove, I might have to make the best use of your life in the right time and right place."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "Shalom/Vo_Shalom_talk2_002.ogg",
+    "text": "Shh... I'm counting your heartbeats. Sixteen, seventeen, eighteen... Mm, it's fun. Your heart is full of fascinating emotions. How about you? Would you be able to understand the language of my heart?"
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "Shalom/Vo_Shalom_talk2_003.ogg",
+    "text": "I've worked for many, and many have worked for me. But you... you are truly different, one of a kind. You can achieve more, you can make a much bigger difference than me. So... stay here with me, don't leave me, don't go away."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "Shalom/Vo_Shalom_obeyfull_001.ogg",
+    "text": "Tell me about the books you like, and music, movies, places, people... Yes, I want to know more about you, learn more about your world. I want to have the image of you burned into my mind before your fate catches up with you, before you meet your solitary end."
+  },
+  {
+    "title": "Idle",
+    "filename": "Shalom/Vo_Shalom_idle_001.ogg",
+    "text": "*Humming"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "Shalom/Vo_Shalom_clicking_001.ogg",
+    "text": "Okay, okay, okay... This is a \"virgin\" territory for you, huh? Now, give me your hand. I'll teach you how to do it properly. Try to remember the steps, sweetheart."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "Shalom/Vo_Shalom_specialattention_001.ogg",
+    "text": "Do you have to stare at me like that? (Chuckles lightly) All right then, I'm gonna do the same to you."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "Shalom/Vo_Shalom_dispatch_001.ogg",
+    "text": "Hmm, that's new... Can you put more manpower on it?"
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "Shalom/Vo_Shalom_dispatch2_001.ogg",
+    "text": "Don't worry, it's been a smooth trip. These good lambs have done a wonderful job."
+  },
+  {
+    "title": "Level Up",
+    "filename": "Shalom/Vo_Shalom_levelup_002.ogg",
+    "text": "Ah, this feels familiar..."
+  },
+  {
+    "title": "Join Team",
+    "filename": "Shalom/Bt_Shalom_jointeam_001.ogg",
+    "text": "Oh, I don't have much to contribute on the front line. I'll count on you guys."
+  },
+  {
+    "title": "Head Pat",
+    "filename": "Shalom/Vo_Shalom_head_001.ogg",
+    "text": "Oh, you want a reward too?"
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_cacha_001.ogg",
+    "text": "Seems like you're really not cut out for \"social events\" like this one. Don't worry, you've tried your best. Leave the rest to me."
+  },
+  {
+    "title": "Greeting",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_greeting_001.ogg",
+    "text": "Eastside nights all unfold like this one, so boring. It's like deja vu, isn't it... Who'd want to get stuck in this limbo if they didn't have ulterior motives?"
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_talk_001.ogg",
+    "text": "Both flattery and curses are but the frivolous chatter of those who look up to you. Don't let it get to your head. After all, you're not one of them."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_talk_002.ogg",
+    "text": "Most Eastsiders are immersed in a dream they'll never wake up from. You and I are the only exceptions. The word \"dream\" has had nothing to do with us for a long time."
+  },
+  {
+    "title": "Ordinary Contact 3",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_hand_001.ogg",
+    "text": "This soirée... these spotlights and flowers, celebrities and tycoons... and even myself... We're all just side dishes. You're the only entrée of tonight."
+  },
+  {
+    "title": "Ordinary Contact 4",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_leg_001.ogg",
+    "text": "Too many mistakes have happened in DisCity. Even I can't deal with them all. But you... you're different. You shoulder everyone's hopes and dreams... Just go ahead and do what you have to do. Don't worry about making mistakes. I'll cover for you..."
+  },
+  {
+    "title": "Idle",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_idle_001.ogg",
+    "text": "In the end, regardless by who, I'm bound to be abandoned... I won't blame you. After all, it's your destiny."
+  },
+  {
+    "title": "Level Up",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_levelup_001.ogg",
+    "text": "Your dedication will be remembered."
+  },
+  {
+    "title": "Head Pat (touch head)",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_head_001.ogg",
+    "text": "You can't hide your true feelings even at a time like this? What a naughty child."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "Shalom/Vo_Shalom_yehuaruzhou_specialattention_001.ogg",
+    "text": "You like being with me? Hehe... Don't worry. I won't leave."
+  }
+]

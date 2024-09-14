@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "Angell/Vo_Angell_cacha_001.ogg",
+    "text": "If you need me for anything, just place an order and pay for it on the dark web and wait for your turn, I don't take commissions from line cutters. However, if you are here for trouble... Think it through. You can never afford that."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "Angell/Vo_Angell_promotion_001.ogg",
+    "text": "Skills? Clear mind, swift movement."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "Angell/Vo_Angell_promotion2_001.ogg",
+    "text": "Once a sharp blade is unsheathed, it must be calmed down by blood."
+  },
+  {
+    "title": "Level Start",
+    "filename": "Angell/Vo_Angell_battlebegin_001.ogg",
+    "text": "A scouting order? Sure."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "Angell/Vo_Angell_battlewin_001.ogg",
+    "text": "Order completed."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "Angell/Vo_Angell_battlelose_001.ogg",
+    "text": "...It's not over yet, the orders I take won't end this way."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "Angell/Bt_Angell_uniqueskill_001.ogg",
+    "text": "I'll take this life!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "Angell/Bt_Angell_dead_001.ogg",
+    "text": "Heh... my first disappointed client..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "Angell/Vo_Angell_greeting_001.ogg",
+    "text": "Didn't expect you here. New orders? Or just looking to hide as well?"
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "Angell/Vo_Angell_talk1_001.ogg",
+    "text": "...Don't move the curtains. It's dangerous if people outside see us."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "Angell/Vo_Angell_talk1_002.ogg",
+    "text": "I take orders from the dark web to make a living, whether it's finding cats or people, taking a life or not, I only take orders based on cost-effectiveness. Personal preferences... don't matter."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "Angell/Vo_Angell_talk1_003.ogg",
+    "text": "...Am I lonely? Maybe, but being alone is being safe, and being safe on this side of the world is hard to beat. So, I don't mind being alone."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "Angell/Vo_Angell_talk2_001.ogg",
+    "text": "I don't think my room is messy, as long as I can find what I need. My knife, rice balls, the computer, the door, and the bed, it's quite obvious, isn't it? This home is much more comfortable than my work sites, I'm quite satisfied."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "Angell/Vo_Angell_talk2_002.ogg",
+    "text": "The darkness that others fear and despise is the every day I'm accustomed to. I accept it and don't feel sorry for myself. Everyone has their own fate, I don't yearn for a life on the other end... except for your red bean soup, I really like that."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "Angell/Vo_Angell_talk2_003.ogg",
+    "text": "I've once seen the warm and bright beings, what you call hope and love, but they all disappeared without exception. In this world, those things are more fragile than illusions. None can ever stay."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "Angell/Vo_Angell_obeyfull_001.ogg",
+    "text": "You and I belong to different worlds. Darkness comes along with my steps, and you should walk in the light. But I will protect you from this end. The abyss is enough with me in it, no one can drag you in. This is... a lifetime order I've placed for myself."
+  },
+  {
+    "title": "Idle",
+    "filename": "Angell/Vo_Angell_idle_001.ogg",
+    "text": "...Who will break first, this blade or me?"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "Angell/Vo_Angell_clicking_001.ogg",
+    "text": "You seem anxious. Do you need me to do something?"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "Angell/Vo_Angell_specialattention_001.ogg",
+    "text": "Staring at me won't help, you can't catch up with my movements. If I want to leave, you can't keep me."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "Angell/Vo_Angell_dispatch_001.ogg",
+    "text": "Order accepted, payments upfront."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "Angell/Vo_Angell_dispatch2_001.ogg",
+    "text": "Here you go, remember to settle the balance."
+  },
+  {
+    "title": "Level Up",
+    "filename": "Angell/Vo_Angell_levelup_002.ogg",
+    "text": "Payment received."
+  },
+  {
+    "title": "Join Team",
+    "filename": "Angell/Bt_Angell_jointeam_001.ogg",
+    "text": "Gonna work."
+  },
+  {
+    "title": "Head Pat",
+    "filename": "Angell/Vo_Angell_head_001.ogg",
+    "text": "What, got something to say?"
+  }
+]
