@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Stargazer_cacha_001.ogg",
+    "text": "I never hesitate to step towards a companion... Take me with you, my little monster."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Stargazer_promotion_001.ogg",
+    "text": "How I wish to see what has become of my soul now."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Stargazer_promotion2_001.ogg",
+    "text": "Seeing me like this, what do you have on your mind now? I wish to hear it from you..."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Stargazer_battlebegin_001.ogg",
+    "text": "I've already seen through you. Save your futile struggle and surrender..."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Stargazer_battlewin_001.ogg",
+    "text": "Upright Chariot. I knew the victory would be ours."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Stargazer_battlelose_001.ogg",
+    "text": "Well, accidents happen in battles... It can't be helped..."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Stargazer_uniqueskill_001.ogg",
+    "text": "I will read your mind and everything else... I will see through your soul!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Stargazer_dead_001.ogg",
+    "text": "At long last... my soul is freed..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Stargazer_greeting_001.ogg",
+    "text": "According to the crystal, I'll be the first person you'll see today..."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Stargazer_talk1_001.ogg",
+    "text": "The white desert is like a pure dreamland where immaculate flowers bloom..."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Stargazer_talk1_002.ogg",
+    "text": "You seem to be really fond of my ability... Do you want to have your fortune read? Relax, whatever you want to know... I have an answer for you..."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Stargazer_talk1_003.ogg",
+    "text": "Never ask where they're from. Never ask where they'll go. Those are my rules of fortune-telling... Well, unless I answer those questions first..."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Stargazer_talk2_001.ogg",
+    "text": "The souls from the Black Ring possess true and pure beauty. They are not ugly at all. On the contrary, those humans who confine themselves... don't you think they look more ridiculous?"
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Stargazer_talk2_002.ogg",
+    "text": "I hear that you're looking into my past? Why don't you just ask me? Hmm... Which version do you want to hear?"
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Stargazer_talk2_003.ogg",
+    "text": "I have visited the realm of truth in my dreams. I hope that... one day, you will appear there as well."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Stargazer_obeyfull_001.ogg",
+    "text": "Now, I can take off all my disguises and show you my truest self... Hmm, what is it? All I did was lose a few pieces of clothing, are you shy?"
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Stargazer_idle_001.ogg",
+    "text": "Shh... I'm communicating with the souls."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Stargazer_clicking_001.ogg",
+    "text": "Are you satisfied with physical touch alone? Why don't you let me teach you... how to embrace each other's soul?"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Stargazer_specialattention_001.ogg",
+    "text": "You give me so much attention... Wanna run away with me, my dear little monster?"
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Stargazer_dispatch_001.ogg",
+    "text": "Hmm, is it the land of truth and purity before us?"
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Stargazer_dispatch2_001.ogg",
+    "text": "I feel most at ease around you."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Stargazer_levelup_002.ogg",
+    "text": "The true form of the soul is so elusive, yet so fascinating..."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Stargazer_jointeam_001.ogg",
+    "text": "Oh, those who are lost... Get in line if you want to have your fortune read..."
+  },
+  {
+    "title": "Head Pat",
+    "filename": "File:Vo_Stargazer_head_001.ogg",
+    "text": "Ha, that's exactly how those novice fortune-tellers touch the crystal ball."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Stargazer_yueyeqitan_cacha_001.ogg",
+    "text": "Finder of the legendary magic lamp of WhiteSands, you've summoned me. As a reward, I can grant you a wish."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Stargazer_yueyeqitan_greeting_001.ogg",
+    "text": "Poor lamb, have you lost your way in the desert? Fret not... Just follow me."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Stargazer_yueyeqitan_talk_001.ogg",
+    "text": "Those who share the water of life under WhiteSands' moon will meet again on the other side. Emm... You gaze... Do you want to raise a glass with me?"
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Stargazer_yueyeqitan_talk_002.ogg",
+    "text": "Charming her prey with her tame and lovely appearance. Luring them with their desires into her trap. Taking a fatal bite into the veins... Hmm? I'm only talking about... this adorable sand cat."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Stargazer_yueyeqitan_idle_001.ogg",
+    "text": "How many nights have passed already?"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Stargazer_yueyeqitan_clicking_001.ogg",
+    "text": "A heedless stroke at the cat's tail may come with consequences..."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Stargazer_yueyeqitan_levelup_001.ogg",
+    "text": "These kitties quite enjoy your petting."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Stargazer_yueyeqitan_specialattention_001.ogg",
+    "text": "As long as you stay by my side forever, I can grant you... any wish."
+  }
+]

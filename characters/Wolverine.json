@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Wolverine_cacha_001.ogg",
+    "text": "...Who is it this time? Stop there, back off... I said back off!"
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Wolverine_promotion_001.ogg",
+    "text": "I've gotten stronger? ...Oi, you. What have you done to me!"
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Wolverine_promotion2_001.ogg",
+    "text": "Rabbit, for you. You help me improve, and I bring you meat."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Wolverine_battlebegin_001.ogg",
+    "text": "Stay close, something's up."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Wolverine_battlewin_001.ogg",
+    "text": "Extra meat for dinner! We made a deal."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Wolverine_battlelose_001.ogg",
+    "text": "That doesn't count. One more round."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Wolverine_uniqueskill_001.ogg",
+    "text": "Too late to run away, prey!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Wolverine_dead_001.ogg",
+    "text": "Hmm..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Wolverine_greeting_001.ogg",
+    "text": "Ooh-eh? Ooh-eh-ee-ooh... Oh, it's you. Nothing, I'm just chatting with Pippy."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Wolverine_talk1_001.ogg",
+    "text": "Never slip up in the Rust, or... there will be trouble."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Wolverine_talk1_002.ogg",
+    "text": "Money... Tell me what it is? Why does everyone want it?"
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Wolverine_talk1_003.ogg",
+    "text": "Pippy is not my pet. It's my lunch. Too bad it's too fat, too greasy to eat."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Wolverine_talk2_001.ogg",
+    "text": "Hey! What's that thing? It's... eating trash? I-it's coming at me! A robot vac—what? M-make it go away!"
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Wolverine_talk2_002.ogg",
+    "text": "They used to call me a stray, one without a home. That's not me anymore."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Wolverine_talk2_003.ogg",
+    "text": "I'll go wherever you go. If you leave without me, I'll go out and find you."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Wolverine_obeyfull_001.ogg",
+    "text": "You're different from other humans. How... I can't put it into words. It's a hunch."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Wolverine_idle_001.ogg",
+    "text": "Oi! Oi? You can doze off like that? ...Just like Pippy."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Wolverine_clicking_001.ogg",
+    "text": "What are you doing?! I'm not a dog!"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Wolverine_specialattention_001.ogg",
+    "text": "Why are you staring at me? What do you want!"
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Wolverine_dispatch_001.ogg",
+    "text": "You... You're not coming?"
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Wolverine_dispatch2_001.ogg",
+    "text": "Here, the stuff."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Wolverine_levelup_002.ogg",
+    "text": "Boring."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Wolverine_jointeam_001.ogg",
+    "text": "If I win, extra meat for dinner."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_cacha_001.ogg",
+    "text": "I didn't want to come... but Pippy loves it here. Emmm... Why do I need to change my clothes to play in the water?"
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_greeting_001.ogg",
+    "text": "You want to play in the water, too? Here, take this horse with a horn. It can float."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_talk_001.ogg",
+    "text": "Oh-eh-ee-ooh-ee (Talking to Pippy)...Pippy says these colorful things look pretty."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_talk_002.ogg",
+    "text": "I'm not playing with it. I'm washing it clean! ...So that I can eat it later."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_idle_001.ogg",
+    "text": "Hmm... The water here is a lot better than the dirty Rust..."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_clicking_001.ogg",
+    "text": "Hey, quit splashing around! Water's getting into my eyes!"
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_levelup_001.ogg",
+    "text": "A water fight? I won't lose."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Wolverine_kuxiajiyang_specialattention_001.ogg",
+    "text": "My pants got a bit wet, that's all. Why are you staring at me?"
+  }
+]

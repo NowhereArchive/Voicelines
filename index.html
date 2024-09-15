@@ -1,15 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Character Selection</title>
-  <link rel="stylesheet" href="assets/styles/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>characters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            color: white;
+            padding: 20px;
+            margin: 0;
+            text-align: center;
+            font-size: 24px;
+        }
+        .character-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            padding: 20px;
+        }
+        .character {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: white;
+            padding: 15px;
+            text-align: center;
+            width: 200px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .character img {
+            width: 150px;
+            height: auto;
+            border-radius: 8px;
+            object-fit: cover;
+        }
+        .character:hover {
+            transform: scale(1.05);
+        }
+        .character p {
+            margin: 10px 0 0;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-  <div class="app">
-    <h1>Character Voicelines</h1>
-    <div id="character-list"></div>
-    <script src="assets/scripts/main.js"></script>
+    <h1>Characters</h1>
+    <div class="character-grid" id="characterGrid"></div>
+
+    <script>
+        // Helper function to sanitize the character name for folder/filenames
+        function sanitizeName(name) {
+            return name.toLowerCase().replace(/\s+/g, '_');
+        }
+    
+        // Fetch characters from JSON and dynamically create the character selection grid
+        fetch('characters.json')
+            .then(response => response.json())
+            .then(data => {
+                // Sort characters alphabetically by name
+                data.characters.sort((a, b) => a.name.localeCompare(b.name));
+    
+                const characterGrid = document.getElementById('characterGrid');
+                data.characters.forEach(character => {
+                    const sanitizedName = sanitizeName(character.name);
+                    const imagePath = `images/${sanitizedName}/${sanitizedName}.png`; // Dynamically generate the image path inside character folder
+                    const voicelinesFile = `characters/${sanitizedName}.json`;
+    
+                    const characterDiv = document.createElement('div');
+                    characterDiv.classList.add('character');
+                    characterDiv.innerHTML = `
+                        <img src="${imagePath}" alt="${character.name}">
+                        <p>${character.name}</p>
+                    `;
+                    characterDiv.onclick = () => {
+                        window.location.href = `character.html?name=${sanitizedName}`;
+                    };
+                    characterGrid.appendChild(characterDiv);
+                });
+            })
+            .catch(error => console.error('Error loading characters:', error));
+    </script>    
 </body>
 </html>

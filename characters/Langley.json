@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Langley_cacha_001.ogg",
+    "text": "Handcuffing your own boss... You've got balls, rookie. Come on then, show me what you have on me."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Langley_promotion_001.ogg",
+    "text": "Careful—You're in my crosshairs."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Langley_promotion2_001.ogg",
+    "text": "You don't deserve to see sunlight, filthy sewer scum!"
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Langley_battlebegin_001.ogg",
+    "text": "Let me see how you flee like rats."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Langley_battlewin_001.ogg",
+    "text": "Good job. Let's go back and celebrate."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Langley_battlelose_001.ogg",
+    "text": "Retreat. I can't waste the valuable lives of my subordinates here."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Langley_uniqueskill_001.ogg",
+    "text": "Time to die."
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Langley_dead_001.ogg",
+    "text": "Somebody... will carry on this will..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Langley_greeting_001.ogg",
+    "text": "You're late, rookie. Any progress on the mission?"
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Langley_talk1_001.ogg",
+    "text": "Do you like my cane? I'll let you borrow it. Beware though, there are quite a few hidden parts inside... Don't injure yourself."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Langley_talk1_002.ogg",
+    "text": "Crawl into darkness, bloody your hands... My subordinates do not need justice. Loyalty is their greatest virtue."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Langley_talk1_003.ogg",
+    "text": "What do they call the 9th Agency? A bunch of spiders in the shadows, a gang of merciless lackeys? Hmm... I like that. Their hatred comes from fear, and fear... is the favorite weapon of spies."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Langley_talk2_001.ogg",
+    "text": "Don't stress over the protocol. You have free rein to do whatever you see fit. Be confident. You work under me."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Langley_talk2_002.ogg",
+    "text": "I wish... for world peace. Can you believe it?"
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Langley_talk2_003.ogg",
+    "text": "Are you curious about this little accessory on my temple? You don't have to know what it is. It's nothing more than... my occasional vanity."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Langley_obeyfull_001.ogg",
+    "text": "Never ask me for truths, rookie. Some truths can only be traded for with blood. Some day, I'll carry them to the grave. As for you... you'll live on. I'll let you live on, with my city, through the dark night, into the dawn of a new day."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Langley_idle_001.ogg",
+    "text": "Hmm... Who should I get rid of next?"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Langley_clicking_001.ogg",
+    "text": "Are you sure? Losing your job and losing your life are both rather inconvenient consequences."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Langley_specialattention_001.ogg",
+    "text": "Just staring at me won't get you the intelligence you're after. What, need me to teach you some torture skills, rookie?"
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Langley_dispatch_001.ogg",
+    "text": "Oh? You want me to tend to this matter personally?"
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Langley_dispatch2_001.ogg",
+    "text": "Want firsthand intelligence? Come get it in my office tonight."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Langley_levelup_002.ogg",
+    "text": "Target—locked on."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Langley_jointeam_001.ogg",
+    "text": "Execution time."
+  },
+  {
+    "title": "Head Pat",
+    "filename": "File:Vo_Langley_head_001.ogg",
+    "text": "Wanna try on this hat, or try my bullets?"
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Langley_Banquet_Guest_cacha_001.ogg",
+    "text": "Everything is progressing smoothly. But I must say, your presence... makes this party even more interesting."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Langley_Banquet_Guest_greeting_001.ogg",
+    "text": "I don't want to hear your report. That's for tomorrow. Enjoy the party—that's the most important task at hand."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Langley_Banquet_Guest_talk_001.ogg",
+    "text": "You came too early, rookie. Is it because you don't trust me, or... you want to watch me complete the mission with your own eyes? I hope your answer is the latter."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Langley_Banquet_Guest_talk_002.ogg",
+    "text": "Looks clear but tastes zesty—this is what's special about Mitsumasa, the liquor that Kenichi Yagyu is most proud of. Just like Syndicate gangs... seemingly innocuous on the surface, but with sharp blades hidden underneath. Don't you think so, rookie?"
+  },
+  {
+    "title": "Ordinary Contact 3",
+    "filename": "File:Vo_Langley_Banquet_Guest_hand_001.ogg",
+    "text": "Some truths can only be exchanged for blood, but this time... I don't want to make too much of a ruckus."
+  },
+  {
+    "title": "Ordinary Contact 4",
+    "filename": "File:Vo_Langley_Banquet_Guest_leg_001.ogg",
+    "text": "Don't be so nervous, rookie. You won't get any intelligence with that sullen face... Come, sit and have a drink with me. Show some respect to this party and its host by enjoying it."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Langley_Banquet_Guest_idle_001.ogg",
+    "text": "Please give my friend a glass of orange juice—she/he can't handle such a strong drink."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Langley_Banquet_Guest_levelup_001.ogg",
+    "text": "Let me enjoy this party even more."
+  },
+  {
+    "title": "Head Pat (touch head)",
+    "filename": "File:Vo_Langley_Banquet_Guest_head_001.ogg",
+    "text": "Prairie gentian, yellow iris, camellia... Which flower shall I adorn my hair with?"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Langley_Banquet_Guest_specialattention_001.ogg",
+    "text": "All the intelligence is here. If you want it, come and stay with me after the party... to sort out the information, of course."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Langley_ehainujue_cacha_001.ogg",
+    "text": "Well, it seems that scurvy didn't take you down. That's my first mate for you. Now, everyone, back to your stations. Hoist the anchor, and raise the sails. The \"Madame Maelstrom\" is setting sail again!"
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Langley_ehainujue_greeting_001.ogg",
+    "text": "You're awake, first mate. Still savoring the aftertaste of yesterday's revelry? Relax, I'm not accusing you. Obey orders, enjoy yourself, and fight to your heart's content... These are the only rules on this \"Madame Maelstrom\"."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Langley_ehainujue_talk_001.ogg",
+    "text": "City... special agency... the 9th Agency? What are you yapping about? Chef, there's something off with that barrel of tequila. Dump it all into the sea."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Langley_ehainujue_talk_002.ogg",
+    "text": "The storm's brewing. First mate, tell the crew to change course for the nearest safe harbor... Save our courage for the enemies. There's no point in fighting the sea itself... It will get you nothing but a broken mast."
+  },
+  {
+    "title": "Ordinary Contact 3",
+    "filename": "File:Vo_Langley_ehainujue_hand_001.ogg",
+    "text": "Paradeisos? Don't worry, they won't bother me... You want to know about my relationship with them? Well, those who know that secret are either on the throne or at the bottom of the sea. Which one do you plan to be?"
+  },
+  {
+    "title": "Ordinary Contact 4",
+    "filename": "File:Vo_Langley_ehainujue_leg_001.ogg",
+    "text": "One of these days, I'll hand over this hat, along with this ship, to you. But before that, you've got to prove your worth. Understood?"
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Langley_ehainujue_idle_001.ogg",
+    "text": "Dare slack off and nap in front of your captain? You're bold, my dear first mate."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Langley_ehainujue_levelup_001.ogg",
+    "text": "This ship could use all the extra firepower we can get."
+  },
+  {
+    "title": "Head Pat (touch head)",
+    "filename": "File:Vo_Langley_ehainujue_head_001.ogg",
+    "text": "Great. Feed 'em to the sharks."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Langley_ehainujue_specialattention_001.ogg",
+    "text": "Welcome back, my first mate. How are things on that island? How many are stationed there? How many cannons do they have? Excellent scouting. Seems like our prey is about to show its weak spot."
+  }
+]

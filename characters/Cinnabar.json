@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Cinnabar_cacha_001.ogg",
+    "text": "Cinnabar, former supervisor of the private military company Serpent Eye. Anything concerning security, I should be of help."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Cinnabar_promotion_001.ogg",
+    "text": "So this is how you hone your abilities... Sinners sure are special."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Cinnabar_promotion2_001.ogg",
+    "text": "No more necessary sacrifices. This power will protect everyone."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Cinnabar_battlebegin_001.ogg",
+    "text": "Stay behind me."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Cinnabar_battlewin_001.ogg",
+    "text": "Rest assured, we're safe now."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Cinnabar_battlelose_001.ogg",
+    "text": "I'll hold them off, you get out of here now. Run!"
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Cinnabar_uniqueskill_001.ogg",
+    "text": "I'll protect them!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Cinnabar_dead_001.ogg",
+    "text": "No... Not yet, not when they're still here..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Cinnabar_greeting_001.ogg",
+    "text": "Welcome back, Chief. There have been no irregular activities in the Bureau while you were away."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Cinnabar_talk1_001.ogg",
+    "text": "As of now, I have a 100% assignment completion rate. You may rest assured that I will keep you safe."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Cinnabar_talk1_002.ogg",
+    "text": "My seniors at Serpent Eye are the best teachers I've ever had. The things they've taught me are way more useful than the professional knowledge taught in the police academy."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Cinnabar_talk1_003.ogg",
+    "text": "This is a GH-2 Shield Generator, custom-made high-end stuff from the Research Institute, very reliable. One thing though, it's got a ton of parts inside, hence a real pain to repair."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Cinnabar_talk2_001.ogg",
+    "text": "I was once lost too, about what I should protect, and how to do it. But after that incident, I've found my answer."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Cinnabar_talk2_002.ogg",
+    "text": "In the past, besides protecting the big shots of Paradeisos, I often did safety assessment for large organizations. As for MBCC... things are more complicated. My previous experience is not quite applicable here."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Cinnabar_talk2_003.ogg",
+    "text": "I've never protected anyone over such a long period. It's like I'm your personal bodyguard. But well... I do like this job."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Cinnabar_obeyfull_001.ogg",
+    "text": "Ever since leaving Serpent Eye, I haven't met any comrades I can count on in a long time... It is my honor to fight beside you."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Cinnabar_idle_001.ogg",
+    "text": "Hmm... Where did I put my bulletproof plate?"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Cinnabar_clicking_001.ogg",
+    "text": "Please keep an appropriate distance... I can't perform my tasks properly if you do that."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Cinnabar_specialattention_001.ogg",
+    "text": "Do you need close protection? Understood."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Cinnabar_dispatch_001.ogg",
+    "text": "No problem. I'll get it done in no time."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Cinnabar_dispatch2_001.ogg",
+    "text": "Mission accomplished. Hit me up whenever you need me."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Cinnabar_levelup_002.ogg",
+    "text": "Security leveled up."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Cinnabar_jointeam_001.ogg",
+    "text": "Your command, please."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Cinnabar_texuhuwei_cacha_001.ogg",
+    "text": "It's an honor to take part in this escort mission to the Rust. I've been looking forward to spending more time with you... Sorry... I... I just wanted you to know how happy I am."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Cinnabar_texuhuwei_greeting_001.ogg",
+    "text": "There you are, Chief. Everything is ready. We can go now."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Cinnabar_texuhuwei_talk_001.ogg",
+    "text": "Please tell me if you're tired. Don't worry. I'll clear a safe resting area for you."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Cinnabar_texuhuwei_talk_002.ogg",
+    "text": "Be careful! Rockfalls and landslides are common around the Rust. Please stay close to me."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Cinnabar_texuhuwei_idle_001.ogg",
+    "text": "Get some rest, Chief. No matter how long you need, I'll be by your side."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Cinnabar_texuhuwei_clicking_001.ogg",
+    "text": "You seem out of breath. Did you notice anything unusual?"
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Cinnabar_texuhuwei_levelup_001.ogg",
+    "text": "Guard power increased."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Cinnabar_texuhuwei_specialattention_001.ogg",
+    "text": "The Rust is indeed dangerous. But don't worry, I won't let any harm come to you—it's my duty."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_cacha_001.ogg",
+    "text": "Traveling by horse might seem a bit... too much, but it's a gesture from Miss Faye. She insisted we uphold the prestige of the MBCC... I can't just disregard her kind intentions."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_greeting_001.ogg",
+    "text": "It's time, Chief. I'm here to escort you to the party. Tonight, I'm the knight only for you."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_talk_001.ogg",
+    "text": "Would you like to pet him? It's okay, he's a gentle boy. Here, try riding him. Don't worry, I'll protect you."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_talk_002.ogg",
+    "text": "This look sacrifices a bit of functionality for aesthetics and does look a bit constricted and cumbersome... But rest assured, I will make sure you are unscathed no matter what happens."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_idle_001.ogg",
+    "text": "Shh, easy there... Are you feeling thirsty?"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_clicking_001.ogg",
+    "text": "Ahem... Please don't mess up these decorations. It's a little time-consuming to wear them. After the party is over, I will take them off and give them to you, you can examine them however you want."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_levelup_001.ogg",
+    "text": "I've been honing my horsemanship. It won't be a bumpy ride, I promise."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Cinnabar_qianhouzhiyi_specialattention_001.ogg",
+    "text": "This outfit suits me? Thanks... I'm glad to know you like it."
+  }
+]

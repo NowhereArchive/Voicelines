@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Letta_cacha_001.ogg",
+    "text": "(Yawns) Good... morning... I'm... Letta Devonshire, the link between dream and reality... Hmm... (Rubs eye) If there are no other questions, I'm gonna sit down..."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Letta_promotion_001.ogg",
+    "text": "Hmm... Now I can go to many more interesting places..."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Letta_promotion2_001.ogg",
+    "text": "Hehe, I'm not the innocent lady you think I am, dear Chief."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Letta_battlebegin_001.ogg",
+    "text": "Deep inside the fog... What will I find in there?"
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Letta_battlewin_001.ogg",
+    "text": "Hehe... What a wonderful adventure."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Letta_battlelose_001.ogg",
+    "text": "Oh... I feel dizzy... I must get out of this dangerous place now..."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Letta_uniqueskill_001.ogg",
+    "text": "Shine into... this endless fog!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Letta_dead_001.ogg",
+    "text": "I want to... go home..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Letta_greeting_001.ogg",
+    "text": "Hmm... (Stretches her back) I hope you'll have... an amazing day... Hehe..."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Letta_talk1_001.ogg",
+    "text": "Sorry, I sleepwalk a lot... Please wake me up at once if you find me doing anything weird, promise me!"
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Letta_talk1_002.ogg",
+    "text": "Um... Bedroom... My bedroom... Hmm, yes, found it... (Wakes up) Ah! This, this is your bedroom? Sorry, I hope I didn't disturb you."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Letta_talk1_003.ogg",
+    "text": "What's in these bottles... Vegetables? Huh? Are you sure they're not spoiled? Then why is this color so... Ehh?! Some Sinners survive on this near the end of the month? What... What an interesting food..."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Letta_talk2_001.ogg",
+    "text": "When can I... become a grown-up? Not controlled by anyone... I can just do whatever I want to do..."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Letta_talk2_002.ogg",
+    "text": "You've already... found out? That I pretend to sleepwalk? I knew I couldn't fool you... But you've known it for a while, right? Hehe, that makes us partners in crime."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Letta_talk2_003.ogg",
+    "text": "When I'm with you, I can feel real, uninhibited freedom and happiness... So, it's decided! You must take me with you on your next adventure in Eastside!"
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Letta_obeyfull_001.ogg",
+    "text": "Been here, been there too... Now, where should we explore next? Hehe, no matter where we go, even if it's a place I've already been to, I'm sure I'll have the most exciting experience with you around! ...You've still got work? Hmm... Alright, I can wait! After all... we've still got the whole night!"
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Letta_idle_001.ogg",
+    "text": "I can't eat them all... Hehe..."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Letta_clicking_001.ogg",
+    "text": "Ow... Ow... Stop making biscuits on me, little kitty..."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Letta_specialattention_001.ogg",
+    "text": "Shh... Care to look for some fun in the foggy DisCity with me tonight?"
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Letta_dispatch_001.ogg",
+    "text": "Hmm... See you later. No need to worry about me... I won't get lost."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Letta_dispatch2_001.ogg",
+    "text": "Hehe... As always, it was a fun trip to an interesting place."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Letta_levelup_002.ogg",
+    "text": "The light has gotten warmer..."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Letta_jointeam_001.ogg",
+    "text": "It's getting foggy! Let me see... Where should I go have fun today?"
+  }
+]

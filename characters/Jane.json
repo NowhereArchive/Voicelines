@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Jane_cacha_001.ogg",
+    "text": "Hello, my name is Jane. As you can see, I'm a Sinner. May I ask... Is this the place where Sinners come to look for work?"
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Jane_promotion_001.ogg",
+    "text": "If I become stronger, will I get a raise? If not, I may have to make another trip to the vault."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Jane_promotion2_001.ogg",
+    "text": "You've done enough for me. The mistakes I've made... I must pay the price for them myself."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Jane_battlebegin_001.ogg",
+    "text": "Finally... It's time to enjoy the fight..."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Jane_battlewin_001.ogg",
+    "text": "Hmph, so weak. Only a few shots, and it's over and done with."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Jane_battlelose_001.ogg",
+    "text": "Next time... next time... I swear I'll blast those Corruptors into a million pieces."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Jane_uniqueskill_001.ogg",
+    "text": "Goodbye and good riddance, reptiles."
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Jane_dead_001.ogg",
+    "text": "This... is... my punishment..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Jane_greeting_001.ogg",
+    "text": "Is there a suitable mission for me? Preferably a solo one."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Jane_talk1_001.ogg",
+    "text": "Why do I use this kind of weapon? Because it's easy and efficient. I load a tailor-made grenade into the barrel, lock the rod into position, and aim to shoot. As simple as that."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Jane_talk1_002.ogg",
+    "text": "My family gave this bullet to me. They want me to be as unstoppable as a powerful bullet, capable of piercing any obstacle that stands in its way. Of course, it's also the last resort I keep for myself when I lose control."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Jane_talk1_003.ogg",
+    "text": "Over the course of a mission, I can be a weapon, a tool, or anything else you want me to be, provided that it's legal and the pay is good."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Jane_talk2_001.ogg",
+    "text": "No matter how badly injured I am, I deserve it. It's part of my atonement for what I have done. You... you don't need to be so concerned about someone like me. I'll try my best to make everything right."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Jane_talk2_002.ogg",
+    "text": "What a psycho I am... Always finding satisfaction in violence and destruction. You must find me weird, right?"
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Jane_talk2_003.ogg",
+    "text": "Thanks to you and the MBCC, my family have returned to Eastside safely. I plan to visit them within the next few days. Wh-what?! You'd like to come with me?! I-isn't that a bit too soon...?"
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Jane_obeyfull_001.ogg",
+    "text": "If I had been more rational at the time, would everything have turned out differently? Ah, here I go again, thinking about the what-ifs. I know it. For all the choices in the world, there are no what-ifs, only the results. But I'm lucky that, of all my choices, you are the most correct one."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Jane_idle_001.ogg",
+    "text": "Eight, nine, ten... These bullets should be enough. Hmm, it's better to err on the side of caution. I'll pack some more. It took quite some time to take down just one Fire Bather during my last mission."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Jane_clicking_001.ogg",
+    "text": "It tickles. Please don't do this when I need to concentrate."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Jane_specialattention_001.ogg",
+    "text": "Please keep your distance, even if you're curious..."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Jane_dispatch_001.ogg",
+    "text": "Any place other than a bank is fine with me."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Jane_dispatch2_001.ogg",
+    "text": "It was a bit easier than I'd expected."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Jane_levelup_002.ogg",
+    "text": "If only my bullets could grow more powerful along with me. Some Corruptors really have thick skins."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Jane_jointeam_001.ogg",
+    "text": "Let me be clear, if you insist on putting me on the battlefield, I can't be held responsible if anything goes haywire."
+  }
+]

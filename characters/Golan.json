@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Golan_cacha_001.ogg",
+    "text": "Oh fu... ahem, who are you looking for? Syndicate gang? Sinner? I wouldn't dare touch these businesses! How could a refined girl like me be involved with the Iron Gang, haha."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Golan_promotion_001.ogg",
+    "text": "I really gotta practice harder, or those kids are gonna have a real laugh."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Golan_promotion2_001.ogg",
+    "text": "Now, I am powerful enough to take lead of the family, standing proud, in front of my peers."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Golan_battlebegin_001.ogg",
+    "text": "Stay back. Don't poke your head out."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Golan_battlewin_001.ogg",
+    "text": "Weren't ya causing a scene back then? Well then why don't you continue!"
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Golan_battlelose_001.ogg",
+    "text": "Think you're tough? I dare you to come to the back door, you and me!"
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Golan_uniqueskill_001.ogg",
+    "text": "Messing with MY people? Die!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Golan_dead_001.ogg",
+    "text": "At least... this time... I didn't run away..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Golan_greeting_001.ogg",
+    "text": "You're back? Did you get the fluffy thing you promised me? Just had a big figh... big party with them, the decorations on my umbrella were all torn off."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Golan_talk1_001.ogg",
+    "text": "You've been to so many places, tell me, what are the girls in Eastside wearing lately?"
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Golan_talk1_002.ogg",
+    "text": "Hmm... the wound is covered with a cute band-aid, and the collar torn during the fight is pinned with a pretty brooch, now I should look fine... Oh fu—Ah! Hello, Chief! Since when were you here?"
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Golan_talk1_003.ogg",
+    "text": "Now that I think about it, my life wasn't too far from ordinary. It's just eating, chatting, fighting with rival gangs, working out, sleeping..."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Golan_talk2_001.ogg",
+    "text": "You should know by now that I'm the heir to the Iron Gang, but don't worry, I won't go anywhere. After all, if I go back all of a sudden, I might bring them even bigger trouble..."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Golan_talk2_002.ogg",
+    "text": "When you go on a mission to Syndicate, if you see those brats doing something bad, you can use my name to teach them a lesson! But don't use real weapons, after all, they're my boys..."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Golan_talk2_003.ogg",
+    "text": "Being found out to be a Sinner in Syndicate is really troublesome, I have to do a dozen more fights every day. I can endure people looking for trouble, but my boys did nothing wrong to bear this with me... So I told myself: run, run to a place where no one knows you."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Golan_obeyfull_001.ogg",
+    "text": "I used to be a coward who only hid under the umbrella and relied on others to protect me... But now, you gave me the courage to face everything on my own, and to find a way to protect the family with my own strength. From now on, I will carry this umbrella, stand firm, and protect everyone I care about."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Golan_idle_001.ogg",
+    "text": "Hair, good, accessories, good, cute umbrella, good, mindset, good~ Today, I remain the cutest ******* little girl in Syndicate!"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Golan_clicking_001.ogg",
+    "text": "These jingling and jangling shits are kinda cute, but they ******* dangle too much!"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Golan_specialattention_001.ogg",
+    "text": "Wha... what you looking at? Is there... something weird about me?!"
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Golan_dispatch_001.ogg",
+    "text": "Chief, let's talk this over, can we, like, not go to Syndicate? That place... uh, it really scares me! Definitely not because I'm afraid of being seen by someone..."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Golan_dispatch2_001.ogg",
+    "text": "That was nothing scary! Got some loot for ya!"
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Golan_levelup_002.ogg",
+    "text": "That'll show ya!!! Um, I mean... how impressive!"
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Golan_jointeam_001.ogg",
+    "text": "Huh?! Are they even match for me?!"
+  }
+]

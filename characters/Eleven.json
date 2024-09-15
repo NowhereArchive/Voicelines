@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Eleven_cacha_001.ogg",
+    "text": "Hello, wandering souls. Come and pick up this \"Call at 3 AM.\" Wandering around on a lightless night, are you trying to say something to me?"
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Eleven_promotion_001.ogg",
+    "text": "The midnight chime sounded. Come, stay with me..."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Eleven_promotion2_001.ogg",
+    "text": "I will turn everything you give me into a cage that binds you...!"
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Eleven_battlebegin_001.ogg",
+    "text": "The phone is ringing, my dear. I'm right behind you..."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Eleven_battlewin_001.ogg",
+    "text": "Goodbye, my dear."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Eleven_battlelose_001.ogg",
+    "text": "The phone keeps ringing non-stop... Gimme a break..."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Eleven_uniqueskill_001.ogg",
+    "text": "Thank you for tuning in."
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Eleven_dead_001.ogg",
+    "text": "No... No... Stop talking..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Eleven_greeting_001.ogg",
+    "text": "What story will you share with me today?"
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Eleven_talk1_001.ogg",
+    "text": "If you can't sleep, why not tune in to my broadcast, \"Call at 3 AM\". I hope it can bring some gentleness into your night."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Eleven_talk1_002.ogg",
+    "text": "People always look for something they desire, something that soothe them in me. How sad... Ah, but, I'm looking forward to you being a guest on my show."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Eleven_talk1_003.ogg",
+    "text": "I can take all the emotions others flood me with, and grind them with my mind and heart into a smiling voice on the airwaves."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Eleven_talk2_001.ogg",
+    "text": "Humans are such amazing creatures. After that electrifying moment of locking eyes, you and I no longer look the same for each other."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Eleven_talk2_002.ogg",
+    "text": "If it weren't for all those rumors and legends, I could read poems or tell a story to the sound of the midnight rain... then greet the first ray of dawn after a rainy night..."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Eleven_talk2_003.ogg",
+    "text": "\"Her silhouette slowly approaches you from behind, envelops you, and finally... embraces you...!\" Oops, did I startle you? Don't be scared... it's just me."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Eleven_obeyfull_001.ogg",
+    "text": "My views have been overturned, and my world has been changed, but I know... this is not misfortune. Thank you for becoming the fissure in this world to free me from my shackles..."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Eleven_idle_001.ogg",
+    "text": "A Little Poem, line 27: \"If the world could be changed by dreaming, then I would sleep in this dream and never wake up, until the joyous world of my imagination has been created.\""
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Eleven_clicking_001.ogg",
+    "text": "You want me to stay with you this much...? Don't worry... I'll call you tonight."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Eleven_specialattention_001.ogg",
+    "text": "Don't be so nervous. I can stay on the line with you. You just continue with what you're doing, and I'll be here with you. If you still feel ill at ease... how about I sing a song for you?"
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Eleven_dispatch_001.ogg",
+    "text": "Let me see, what's different about your world."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Eleven_dispatch2_001.ogg",
+    "text": "This is all that I can give you."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Eleven_levelup_002.ogg",
+    "text": "Come, come closer... a little bit more."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Eleven_jointeam_001.ogg",
+    "text": "The phone is ringing... My dear."
+  },
+  {
+    "title": "Head Pat",
+    "filename": "File:Vo_Eleven_head_001.ogg",
+    "text": "Do you want to know how much I've missed you?"
+  }
+]

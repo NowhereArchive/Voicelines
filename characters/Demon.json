@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Demon_cacha_001.ogg",
+    "text": "It's not the first time I've been locked up in a place of this sort... Come on, show me how you're going to torture me this time! What kind of crime did those maggots assign to me again?"
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Demon_promotion_001.ogg",
+    "text": "The price has been paid. This is the power I deserve."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Demon_promotion2_001.ogg",
+    "text": "It's time. I must fulfill my promise."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Demon_battlebegin_001.ogg",
+    "text": "Operation ON. Everybody stay alert."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Demon_battlewin_001.ogg",
+    "text": "Enemy targets cleared. Operation still on. Stay on your guard."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Demon_battlelose_001.ogg",
+    "text": "Haha... In the end, I've been able to protect nothing and no one..."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Demon_uniqueskill_001.ogg",
+    "text": "Don't dream of getting past me!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Demon_dead_001.ogg",
+    "text": "I've... let you down..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Demon_greeting_001.ogg",
+    "text": "Corruptors, thugs and conspirators are still rampaging through the city... You should act now."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Demon_talk1_001.ogg",
+    "text": "Maggots have infested this city, pulling strings to manipulate everyone. I want them dead."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Demon_talk1_002.ogg",
+    "text": "Never underestimate the darkness lurking beneath this city. That's a lesson that's cost me everything."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Demon_talk1_003.ogg",
+    "text": "I should have died on the streets like other Syndicans, but Abel took me from that place. Looking back now, it might have been a mistake..."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Demon_talk2_001.ogg",
+    "text": "It's been eight years, and nothing has changed in the DisCity. Abel, together with his dream, has completely disappeared from people's memories. Sometimes I wonder, what do they actually remember?"
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Demon_talk2_002.ogg",
+    "text": "Murdering your own... father, your long-time subordinates, burying everything you cherish... You want to know what that feels like? Haha, you won't like it."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Demon_talk2_003.ogg",
+    "text": "Fighting alongside you might be the only sensible choice I've made in my whole life."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Demon_obeyfull_001.ogg",
+    "text": "Those whom I could call my friends are all gone now. Try to... stay alive a bit longer. Don't die in front of me."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Demon_idle_001.ogg",
+    "text": "Abel, Vera... I won't let you down... not again..."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Demon_clicking_001.ogg",
+    "text": "Tungsten carbide armors are indeed very useful. If you like it, you should get one for yourself too."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Demon_specialattention_001.ogg",
+    "text": "Are you monitoring me? Or... do you need someone to keep you safe?"
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Demon_dispatch_001.ogg",
+    "text": "Mission received. Drawing up an operation plan now."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Demon_dispatch2_001.ogg",
+    "text": "Mission accomplished. After-action report submitted."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Demon_levelup_002.ogg",
+    "text": "I can endure more."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Demon_jointeam_001.ogg",
+    "text": "I won't let them lay a hand on you."
+  },
+  {
+    "title": "Head Pat",
+    "filename": "File:Vo_Demon_head_001.ogg",
+    "text": "I... dislike that."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Demon_nihongzhixia_cacha_001.ogg",
+    "text": "How much longer do we still need to stay here? \"We need to wait for a reply?\" Sigh, alright... in case of an emergency, you can order me to do anything."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Demon_nihongzhixia_greeting_001.ogg",
+    "text": "Time to act. It's easy to lose yourself in this kind of fun. I don't want you to get addicted."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Demon_nihongzhixia_talk_001.ogg",
+    "text": "\"The dirtiest places hold the most precious intelligence\". I agree with you on this point. But... I still need some time to get used to these blinding neon lights."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Demon_nihongzhixia_talk_002.ogg",
+    "text": "Fight side by side? In such a tiny space, it's best that I handle anything that might happen."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Demon_nihongzhixia_idle_001.ogg",
+    "text": "...Stay away, I'm waiting for my... companion to come back."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Demon_nihongzhixia_clicking_001.ogg",
+    "text": "...We're still on a mission. No time for these distractions."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Demon_nihongzhixia_levelup_001.ogg",
+    "text": "I don't need to stand out."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Demon_nihongzhixia_specialattention_001.ogg",
+    "text": "I'll keep you safe and sound so you can complete the mission. I hope you muster enough courage and don't waste too much time."
+  }
+]

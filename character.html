@@ -1,16 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Character Voicelines</title>
-  <link rel="stylesheet" href="assets/styles/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Voice Lines</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+    color: white;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+    font-size: 24px;
+}
+
+#characterName {
+    text-transform: capitalize; /* Ensures the first letter is uppercase */
+}
+
+        #voicelinesContainer {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .voiceline {
+            padding: 15px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        .voiceline p {
+            margin: 0;
+            font-weight: bold;
+        }
+        .voiceline button {
+            background-color: #007bff;
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            margin-right: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .voiceline button:hover {
+            background-color: #0056b3;
+        }
+        .voiceline button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        .audio-controls {
+            margin-top: 10px;
+        }
+    </style>
 </head>
 <body>
-  <div class="app">
-    <h1>Character Voicelines</h1>
-    <div id="voiceline-player"></div>
-    <button onclick="window.location.href='index.html'">Back to Character Selection</button>
-    <script src="assets/scripts/main.js"></script>
+    <h1 id="characterName">Character</h1>
+    <div id="voicelinesContainer"></div>
+
+    <script>
+        // Function to get the query parameter from the URL
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+    
+        // Function to sanitize and format the name for folder/filenames
+        function sanitizeName(name) {
+            return name.toLowerCase().replace(/\s+/g, '_');
+        }
+    
+        // Function to trim "File:" prefix from filenames
+        function trimFilePrefix(filename) {
+            return filename.startsWith('File:') ? filename.slice(5) : filename;
+        }
+    
+        // Get the character name from the URL
+        const characterName = getQueryParam('name');
+        const characterNameDisplay = characterName.replace('_', ' '); // For displaying purposes
+        document.getElementById('characterName').innerText = `${characterNameDisplay}`;
+    
+        // Construct the JSON file path dynamically
+        const voicelinesFile = `characters/${characterName}.json`;
+    
+        if (voicelinesFile) {
+            fetch(voicelinesFile)
+                .then(response => response.json())
+                .then(data => {
+                    const voicelinesContainer = document.getElementById('voicelinesContainer');
+                    data.forEach(voiceline => { // Ensure data is an array
+                        const trimmedFilename = trimFilePrefix(voiceline.filename);
+                        const sanitizedAudioFile = `audio/${characterName}/${sanitizeName(trimmedFilename)}`; // Use filename directly
+                        const lineDiv = document.createElement('div');
+                        lineDiv.classList.add('voiceline');
+                        lineDiv.innerHTML = `
+                            <p>${voiceline.title}:</p>
+                            <button onclick="playVoice('${sanitizedAudioFile}')">Play</button>
+                            <button onclick="stopVoice()">Stop</button>
+                            <p>${voiceline.text}</p> <!-- Display voiceline text -->
+                        `;
+                        voicelinesContainer.appendChild(lineDiv);
+                    });
+                })
+                .catch(error => console.error('Error loading voice lines:', error));
+        }
+    
+        // Variables to keep track of currently playing audio
+        let currentAudio = null;
+    
+        // Function to play the audio
+        function playVoice(file) {
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+            currentAudio = new Audio(file);
+            currentAudio.play();
+        }
+    
+        // Function to stop the audio
+        function stopVoice() {
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+        }
+    </script>
+    
 </body>
 </html>

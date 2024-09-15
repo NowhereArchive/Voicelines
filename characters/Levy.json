@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Levy_cacha_001.ogg",
+    "text": "What are you doing? I'm a serious businessman. If you keep this up, I'm calling my lawyer! Help! Help! Assault! ...Of course I know lawyers can't come here. You really have no sense of humor..."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Levy_promotion_001.ogg",
+    "text": "There's nothing fun about becoming strong in and of itself, but after becoming strong, you will have more ways to seek out fun."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Levy_promotion2_001.ogg",
+    "text": "You give me things all day without taking any of my money... What's in it for you? Could it be that you want me? You gotta be careful then, because I will ultimately leave after I've had my fun..."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Levy_battlebegin_001.ogg",
+    "text": "Hey, want to know what you can buy from me... with your life?"
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Levy_battlewin_001.ogg",
+    "text": "Woohoo! I made a killing this time!"
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Levy_battlelose_001.ogg",
+    "text": "I lost a fortune! I'm not coming back."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Levy_uniqueskill_001.ogg",
+    "text": "Everything of yours is mine now!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Levy_dead_001.ogg",
+    "text": "Fair enough……"
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Levy_greeting_001.ogg",
+    "text": "Hey, when can I go out? If I don't find some clients soon, my factory is going to go bankrupt... Alternatively, you can place some orders with me."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Levy_talk1_001.ogg",
+    "text": "You gotta make friends to succeed in business, and to make friends, you gotta have fun with them. Who wouldn't seal a deal with you after having loads of fun together?"
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Levy_talk1_002.ogg",
+    "text": "When you have money, flies will swarm around you. But flies can also be fun, don't you think?"
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Levy_talk1_003.ogg",
+    "text": "I have a friend, a painter, who admires my physique and uses me as a canvas. Body art! You understand art? Though it smudges off with one wipe of detergent, I like to keep my friend happy. That way, maybe he'll buy a decade worth of paints from me..."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Levy_talk2_001.ogg",
+    "text": "I haven't been out for so long. My factory has taken a huge hit as a result. Chief, how will you compensate me?"
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Levy_talk2_002.ogg",
+    "text": "I don't view greed as a sin. To feel satisfied when you get what you want, to feel happy when you see things go your way... Isn't this human nature?"
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Levy_talk2_003.ogg",
+    "text": "Talking about money is the most boring part of business. I prefer something else... like offering a deal that cannot be refused, then watching the other person hand over something they cherish deeply with a look of utmost pain and despair... Now that is addictive."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Levy_obeyfull_001.ogg",
+    "text": "I've been wondering what your deepest desire is... what must I rob you of to enjoy a look of remorse and despair on your face? But I give up, because you are just like me. There is a bottomless void in your heart... Hahahaha."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Levy_idle_001.ogg",
+    "text": "I haven't sealed a single deal since coming here?! No... I gotta find Faye tomorrow... She's beautiful inside and out. Surely she will do something about this!"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Levy_clicking_001.ogg",
+    "text": "200 for one time... Just kidding, I wouldn't dream of sealing such a petty deal with you! If you sign this contract, feel free to touch whenever you want! It's all on me!"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Levy_specialattention_001.ogg",
+    "text": "Are you here to discuss business? Wait a bit, I'm busy watching this livestream. Hehe, this girl ain't bad. Let me send her some gifts..."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Levy_dispatch_001.ogg",
+    "text": "What a coincidence! I happen to have a friend there. Leave it to him!"
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Levy_dispatch2_001.ogg",
+    "text": "Hello? Oh, it's done? Great! Chief, it's done over there! Everything went according to plan!"
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Levy_levelup_002.ogg",
+    "text": "I don't need to pay for this? Are you serious?"
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Levy_jointeam_001.ogg",
+    "text": "You go to such dangerous places just for fun? Wow, you have my respect."
+  }
+]

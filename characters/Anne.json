@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Anne_cacha_001.ogg",
+    "text": "Seems like it's up to you to take care of things from now on... I just don't know if the patients of SALVA Hospital will take their meds on time without me?"
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Anne_promotion_001.ogg",
+    "text": "Wouldn't that person be scared to see what I look like now?"
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Anne_promotion2_001.ogg",
+    "text": "If I had such powers back then, perhaps I could have eased their pain..."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Anne_battlebegin_001.ogg",
+    "text": "Are you ready? Let's go then."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Anne_battlewin_001.ogg",
+    "text": "Thank goodness you're okay. I didn't do anything special. The credit belongs to everyone."
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Anne_battlelose_001.ogg",
+    "text": "Don't be discouraged. It's not your fault. You did a great job."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Anne_uniqueskill_001.ogg",
+    "text": "Time to take a shot..."
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Anne_dead_001.ogg",
+    "text": "You must... live on..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Anne_greeting_001.ogg",
+    "text": "Chief, let me know if you need help. Don't be shy with me."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Anne_talk1_001.ogg",
+    "text": "As head nurse, listening is also one of my responsibilities. If you don't mind, I'd be happy to share your burdens."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Anne_talk1_002.ogg",
+    "text": "Everyone loves your smile, Chief, so please do it often! Believe me, your smile is adorable."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Anne_talk1_003.ogg",
+    "text": "Dr. Iron can be scary sometimes. However... I can promise you that she's not a bad person. She must have her reasons for doing things."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Anne_talk2_001.ogg",
+    "text": "Children are adorable. Pure, innocent and carefree... Just like Chief! Gives one the urge to protect them."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Anne_talk2_002.ogg",
+    "text": "Victoria always asks me, \"Anne, aren't you tired from smiling all the time?\" Be careful, Chief. That kid is surprisingly sharp. Don't get stumped by her like me."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Anne_talk2_003.ogg",
+    "text": "Can Syndrome Mania really be cured? I'm not sure. But even if there's only a sliver of hope, I won't give up. This is a long, uphill battle. Will you join me?"
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Anne_obeyfull_001.ogg",
+    "text": "You can always rely on me. I'm always ready to help you, on patients' affairs or otherwise."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Anne_idle_001.ogg",
+    "text": "You fell asleep here... work must've been exhausting yesterday! Thank you for your hard work, Chief..."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Anne_clicking_001.ogg",
+    "text": "Chief, no! I'm going to be upset."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Anne_specialattention_001.ogg",
+    "text": "What is it? Does looking at me this way make you happy? Alright then. I'll let you look a bit longer."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Anne_dispatch_001.ogg",
+    "text": "Please help me look after the injured in the Bureau."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Anne_dispatch2_001.ogg",
+    "text": "Sorry for making you wait so long. Did they take their meds on time while I was away?"
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Anne_levelup_002.ogg",
+    "text": "Thank you for your help."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Anne_jointeam_001.ogg",
+    "text": "Don't worry. I won't let anything happen to you."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_cacha_001.ogg",
+    "text": "Sorry, my room is a bit messy. I didn't have time to clean it up... I'm the one who got caught off guard. Why are you blushing?"
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_greeting_001.ogg",
+    "text": "Sure enough, my tummy feels hungry after a hot bath. Mmm... I can already smell the delicious dumplings. Want to stay and have some with me?"
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_talk_001.ogg",
+    "text": "No matter how hard the work, it's worth it to win them more chances to live... Besides, whenever I come back here, I can wash away all the fatigue and get a good rest."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_talk_002.ogg",
+    "text": "Hmm? Are you worried that I was too busy to eat? Hehe... Don't worry, I can take good care of myself. You're the one I'm worried about, Chief. Did you eat and sleep well when I was away?"
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_idle_001.ogg",
+    "text": "I feel a bit sleepy."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_clicking_001.ogg",
+    "text": "You want to brush my hair? Then please be careful. Don't pull on it and hurt me."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_levelup_001.ogg",
+    "text": "A hot bath does wonders for relieving fatigue..."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Anne_Steamy_Night_Chat_specialattention_001.ogg",
+    "text": "You like my smell? Maybe it's the rose oil. It's great for relaxing the mind and relieving fatigue... Hehe, are you feeling sleepy, too? Is that why you keep looking at me?"
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Anne_yeyuweiguang_cacha_001.ogg",
+    "text": "Sorry, I took the liberty of leaving the ballroom. I heard the concierge shouting someone had fainted and needed immediate medical attention, so I came out here to see if there was anything I could do to help. Rest assured. The patient is now out of danger."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Anne_yeyuweiguang_greeting_001.ogg",
+    "text": "Sorry to keep you waiting. I'm finished here. Let's get back to the ball."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Anne_yeyuweiguang_talk_001.ogg",
+    "text": "The patient is in stable condition now; his blood pressure, heart rate, and body temperature have all returned to normal. And I believe the ambulance crew will contact his friends. Don't worry, he is in good hands now."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Anne_yeyuweiguang_talk_002.ogg",
+    "text": "No matter what kind of attire I wear, with or without expensive jewelry, saving lives is the first instinct I respond to."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Anne_yeyuweiguang_idle_001.ogg",
+    "text": "Ah, my dress has mud on it. It doesn't seem appropriate to go back to the hall wearing a dirty dress. I should probably change into a new one."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Anne_yeyuweiguang_clicking_001.ogg",
+    "text": "My clothes are all muddy, Chief. Please be careful not to get yours dirty."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Anne_yeyuweiguang_levelup_001.ogg",
+    "text": "The first aid treatment was successful. The patient's vital signs are stable now."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Anne_yeyuweiguang_specialattention_001.ogg",
+    "text": "Thank you for your concern. But don't worry, I'm fine, just a bit tired. I'm sure I'll feel better after getting some rest."
+  }
+]

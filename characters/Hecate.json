@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Hecate_cacha_001.ogg",
+    "text": "I've been waiting for you all this time."
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Hecate_promotion_001.ogg",
+    "text": "As long as you need me, I'll always stay by your side."
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Hecate_promotion2_001.ogg",
+    "text": "Everything that's mine will also be yours. This is the purpose of Hecate."
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Hecate_battlebegin_001.ogg",
+    "text": "Stay behind me."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Hecate_battlewin_001.ogg",
+    "text": "Now, what's next?"
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Hecate_battlelose_001.ogg",
+    "text": "I'm fine, I don't feel any pain."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Hecate_uniqueskill_001.ogg",
+    "text": "You... mustn't be too close to the Chief!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Hecate_dead_001.ogg",
+    "text": "It's okay... There will still be another me."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Hecate_greeting_001.ogg",
+    "text": "Did you sleep well last night, Chief? Today's order, please."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Hecate_talk1_001.ogg",
+    "text": "...All is well as long as you're safe, no?"
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Hecate_talk1_002.ogg",
+    "text": "How are Sinners different from Corruptors? After all, we all live, bleed, and die. What makes you think we're any different?"
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Hecate_talk1_003.ogg",
+    "text": "If I'm gone, there will still be another Hecate. You shouldn't worry."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Hecate_talk2_001.ogg",
+    "text": "You can be stricter with me. Those who are kind to me... always end up..."
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Hecate_talk2_002.ogg",
+    "text": "Ever since meeting you, I've always felt like I'm no longer Hecate. I don't know what I'll become. When that day comes... will you guide me?"
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Hecate_talk2_003.ogg",
+    "text": "If one day... I no longer exist as Hecate, will you still keep me by your side, Chief?"
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Hecate_obeyfull_001.ogg",
+    "text": "I don't need any more orders, Chief. Whatever journey awaits us ahead, I'll follow my heart and walk with you till the end."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Hecate_idle_001.ogg",
+    "text": "Sweet dreams."
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Hecate_clicking_001.ogg",
+    "text": "If it embarrasses you to say the order out loud, don't hesitate to just use me."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Hecate_specialattention_001.ogg",
+    "text": "You don't have to do this. I'll always stay by your side."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Hecate_dispatch_001.ogg",
+    "text": "Is this an order? Okay, I'll see to it."
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Hecate_dispatch2_001.ogg",
+    "text": "It's done. I'm home."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Hecate_levelup_002.ogg",
+    "text": "If this is what you wish for, I'll do it."
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Hecate_jointeam_001.ogg",
+    "text": "I'm here."
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_cacha_001.ogg",
+    "text": "Well, if you didn't request it... I wouldn't have had the chance to wear this outfit."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_greeting_001.ogg",
+    "text": "What do I need to do today?"
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_talk_001.ogg",
+    "text": "People always take pictures of me when I wear this outfit, but it's been a long time since anyone has asked me to put it on."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_talk_002.ogg",
+    "text": "If there's a chance... would you please take me somewhere outside the battlefield?"
+  },
+  {
+    "title": "Ordinary Contact 3",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_hand_001.ogg",
+    "text": "I used to listen to bedtime stories on the phone. But one day, I forgot what the story was about, then the phone never rang again."
+  },
+  {
+    "title": "Ordinary Contact 4",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_leg_001.ogg",
+    "text": "Adjutant Nightingale said my sketchbook was very dangerous and shouldn't be seen by anyone, so I hid it in this box."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_idle_001.ogg",
+    "text": "I have painted some paintings related to you, Chief. They all said I must not let you see them."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_levelup_001.ogg",
+    "text": "I don't slack off even during breaks."
+  },
+  {
+    "title": "Head Pat (touch head)",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_head_001.ogg",
+    "text": "My hat? They say only painters would wear it. By the way... what's a painter?"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Hecate_Yesterday_Revisits_specialattention_001.ogg",
+    "text": "If you like this style... Do you want to make it the Bureau's uniform?"
+  },
+  {
+    "title": "Attire Obtained",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_cacha_001.ogg",
+    "text": "Hi, I'm an otherworld mage with the power to manipulate dreams and fantasies... These are my lines, right?"
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_greeting_001.ogg",
+    "text": "Are you going to join us too, Chief? All right, I will do my best to protect you, even if it's just a game."
+  },
+  {
+    "title": "Ordinary Contact 1",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_talk_001.ogg",
+    "text": "It's nice to do something other than following orders once in a while... I guess this is what relaxing means."
+  },
+  {
+    "title": "Ordinary Contact 2",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_talk_002.ogg",
+    "text": "In the virtual world, anyone can become the character of their dreams, and do things that they can't do in reality... I guess this is what makes games so alluring."
+  },
+  {
+    "title": "Ordinary Contact 3",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_hand_001.ogg",
+    "text": "Nightmare also put on the new gear, it seems to like it a lot."
+  },
+  {
+    "title": "Ordinary Contact 4",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_leg_001.ogg",
+    "text": "Mulangrador... Ah... EMP says that to really immerse yourself in the game, you should say the magic skill names out loud."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_idle_001.ogg",
+    "text": "O brave warrior who have come here from afar, accept the guidance of the heavens and stars to embark on a quest for the secret treasure..."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_levelup_001.ogg",
+    "text": "Magic value increased."
+  },
+  {
+    "title": "Head Pat (touch head)",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_head_001.ogg",
+    "text": "Mess told me that this is the gear only a mage gets to have... The bigger the hat, the higher the bonus stats. Want one too, Chief?"
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Hecate_Traveller%27s_Tale_specialattention_001.ogg",
+    "text": "Where do you want to go for the mission, Chief? Just give me the order and I'll come with you."
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Obtain the Sinner",
+    "filename": "File:Vo_Kawa-kawa_cacha_001.ogg",
+    "text": "I can sleep here all the time, right? Wow! It's got so much space inside. Not even a breath of wind can get in! It's much better than camping. Great, I finally have a place to stay!"
+  },
+  {
+    "title": "Raise to Phase 1",
+    "filename": "File:Vo_Kawa-kawa_promotion_001.ogg",
+    "text": "Thank you! This will allow me to finish the map quicker!"
+  },
+  {
+    "title": "Raise to Phase 3",
+    "filename": "File:Vo_Kawa-kawa_promotion2_001.ogg",
+    "text": "One day, I will place beacons in every corner of WhiteSands. I'm confident of it now!"
+  },
+  {
+    "title": "Level Start",
+    "filename": "File:Vo_Kawa-kawa_battlebegin_001.ogg",
+    "text": "Don't worry. Fieldwork is my strong suit."
+  },
+  {
+    "title": "Win Battles",
+    "filename": "File:Vo_Kawa-kawa_battlewin_001.ogg",
+    "text": "Great! Now a safety beacon can be placed here too!"
+  },
+  {
+    "title": "Lose Battles",
+    "filename": "File:Vo_Kawa-kawa_battlelose_001.ogg",
+    "text": "Hurry! This way! We can duck through."
+  },
+  {
+    "title": "Ultimate Skill",
+    "filename": "File:Bt_Kawa-kawa_uniqueskill_001.ogg",
+    "text": "Hide beside it!"
+  },
+  {
+    "title": "Die in Battles",
+    "filename": "File:Bt_Kawa-kawa_dead_001.ogg",
+    "text": "I don't... feel well..."
+  },
+  {
+    "title": "Greeting",
+    "filename": "File:Vo_Kawa-kawa_greeting_001.ogg",
+    "text": "Hello! I thought you got lost and was about to look for you."
+  },
+  {
+    "title": "Conversation 1",
+    "filename": "File:Vo_Kawa-kawa_talk1_001.ogg",
+    "text": "If you encounter a sandstorm, look for a beacon nearby... like this one in my hand. Hide next to it, then you should be able to survive it."
+  },
+  {
+    "title": "Conversation 2",
+    "filename": "File:Vo_Kawa-kawa_talk1_002.ogg",
+    "text": "Why do you keep catching those... they are called desert bandits, right? They hardly ever hit me with a gun. Sometimes they would ask me to be their guide and give me fresh water after getting them to places. I think they are nice people."
+  },
+  {
+    "title": "Conversation 3",
+    "filename": "File:Vo_Kawa-kawa_talk1_003.ogg",
+    "text": "Hehehe, I'm not as impressive as you said, at least not as good as Dad and Grandpa. I learned all my geography knowledge from the book grandpa wrote."
+  },
+  {
+    "title": "Special Conversation 1",
+    "filename": "File:Vo_Kawa-kawa_talk2_001.ogg",
+    "text": "Your food here is so delicious. Especially the broth—I would never have thought putting large chunks of meat and water together would taste so much better than roasting scorpions and lizards!"
+  },
+  {
+    "title": "Special Conversation 2",
+    "filename": "File:Vo_Kawa-kawa_talk2_002.ogg",
+    "text": "There are a few very strange places in WhiteSands with people looking stern and carrying guns everywhere. I get kicked out every time I go in for a break—but it's so spacious inside. How mean."
+  },
+  {
+    "title": "Special Conversation 3",
+    "filename": "File:Vo_Kawa-kawa_talk2_003.ogg",
+    "text": "I always thought if I placed beacons all over WhiteSands, my dad would come back. But it's been seven years... I will finish his and Grandpa's plan, then I will go find him."
+  },
+  {
+    "title": "Full Compliance",
+    "filename": "File:Vo_Kawa-kawa_obeyfull_001.ogg",
+    "text": "The starry sky over WhiteSands is incredibly stunning, especially when there's a meteor shower... Let's go see it together when we have the chance. There's an awesome viewing spot that only I'd know."
+  },
+  {
+    "title": "Idle",
+    "filename": "File:Vo_Kawa-kawa_idle_001.ogg",
+    "text": "When Johnny Comes Marching Home"
+  },
+  {
+    "title": "Annoyed",
+    "filename": "File:Vo_Kawa-kawa_clicking_001.ogg",
+    "text": "Do you want my hat? But this one is very worn-out. Let me make a new one for you."
+  },
+  {
+    "title": "Special Attention",
+    "filename": "File:Vo_Kawa-kawa_specialattention_001.ogg",
+    "text": "You want me to stay here with you? Sure! By the way, when are we going back to WhiteSands? I have a lot of work to do there."
+  },
+  {
+    "title": "Dispatch",
+    "filename": "File:Vo_Kawa-kawa_dispatch_001.ogg",
+    "text": "Oh, did someone get lost?"
+  },
+  {
+    "title": "Dispatch Complete",
+    "filename": "File:Vo_Kawa-kawa_dispatch2_001.ogg",
+    "text": "No need to pay me. I don't need it. I'm glad I can help."
+  },
+  {
+    "title": "Level Up",
+    "filename": "File:Vo_Kawa-kawa_levelup_002.ogg",
+    "text": "Wind and sand can't stop me!"
+  },
+  {
+    "title": "Join Team",
+    "filename": "File:Bt_Kawa-kawa_jointeam_001.ogg",
+    "text": "Okay, I'll be the guide."
+  }
+]
