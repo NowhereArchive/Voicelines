@@ -14,24 +14,20 @@
             color: #333;
         }
         h1 {
-    color: white;
-    padding: 20px;
-    margin: 0;
-    text-align: center;
-    font-size: 24px;
-}
-
-#characterName {
-    text-transform: capitalize; /* Ensures the first letter is uppercase */
-}
-
-        #voicelinesContainer {
-            max-width: 800px;
-            margin: 20px auto;
+            color: white;
             padding: 20px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 0;
+            text-align: center;
+            font-size: 24px;
+        }
+        #characterName {
+            text-transform: capitalize;
+        }
+        .language-container {
+            margin: 20px;
+        }
+        .attire-container {
+            margin-top: 20px;
         }
         .voiceline {
             padding: 15px;
@@ -61,9 +57,6 @@
             background-color: #cccccc;
             cursor: not-allowed;
         }
-        .audio-controls {
-            margin-top: 10px;
-        }
     </style>
 </head>
 <body>
@@ -76,50 +69,59 @@
             const urlParams = new URLSearchParams(window.location.search);
             return urlParams.get(param);
         }
-    
+
         // Function to sanitize and format the name for folder/filenames
         function sanitizeName(name) {
             return name.toLowerCase().replace(/\s+/g, '_');
         }
-    
+
         // Function to trim "File:" prefix from filenames
         function trimFilePrefix(filename) {
             return filename.startsWith('File:') ? filename.slice(5) : filename;
         }
-    
-        // Get the character name from the URL
+
+        // Function to render voicelines for a given language and attire
+        function renderVoicelines(data, attire) {
+            const voicelinesContainer = document.getElementById('voicelinesContainer');
+            const voicelines = data[attire];
+            voicelinesContainer.innerHTML = ''; // Clear previous content
+            voicelines.forEach(voiceline => {
+                const trimmedFilename = trimFilePrefix(voiceline.filename);
+                const sanitizedAudioFile = `audio/${characterName}/${language}/${attire}/${sanitizeName(trimmedFilename)}`;
+                const lineDiv = document.createElement('div');
+                lineDiv.classList.add('voiceline');
+                lineDiv.innerHTML = `
+                    <p>${voiceline.title}:</p>
+                    <button onclick="playVoice('${sanitizedAudioFile}')">Play</button>
+                    <button onclick="stopVoice()">Stop</button>
+                    <p>${voiceline.text}</p>
+                `;
+                voicelinesContainer.appendChild(lineDiv);
+            });
+        }
+
+        // Get the character name, language, and attire from the URL
         const characterName = getQueryParam('name');
+        const language = getQueryParam('language') || 'English'; // Default to English if no language is specified
+        const attire = getQueryParam('attire') || 'Default'; // Default to Default if no attire is specified
         const characterNameDisplay = characterName.replace('_', ' '); // For displaying purposes
-        document.getElementById('characterName').innerText = `${characterNameDisplay}`;
-    
+        document.getElementById('characterName').innerText = `${characterNameDisplay} - ${language} - ${attire}`;
+
         // Construct the JSON file path dynamically
-        const voicelinesFile = `characters/${characterName}.json`;
-    
+        const voicelinesFile = `characters/${characterName}_${language.toLowerCase()}.json`;
+
         if (voicelinesFile) {
             fetch(voicelinesFile)
                 .then(response => response.json())
                 .then(data => {
-                    const voicelinesContainer = document.getElementById('voicelinesContainer');
-                    data.forEach(voiceline => { // Ensure data is an array
-                        const trimmedFilename = trimFilePrefix(voiceline.filename);
-                        const sanitizedAudioFile = `audio/${characterName}/${sanitizeName(trimmedFilename)}`; // Use filename directly
-                        const lineDiv = document.createElement('div');
-                        lineDiv.classList.add('voiceline');
-                        lineDiv.innerHTML = `
-                            <p>${voiceline.title}:</p>
-                            <button onclick="playVoice('${sanitizedAudioFile}')">Play</button>
-                            <button onclick="stopVoice()">Stop</button>
-                            <p>${voiceline.text}</p> <!-- Display voiceline text -->
-                        `;
-                        voicelinesContainer.appendChild(lineDiv);
-                    });
+                    renderVoicelines(data, attire);
                 })
                 .catch(error => console.error('Error loading voice lines:', error));
         }
-    
+
         // Variables to keep track of currently playing audio
         let currentAudio = null;
-    
+
         // Function to play the audio
         function playVoice(file) {
             if (currentAudio) {
@@ -129,7 +131,7 @@
             currentAudio = new Audio(file);
             currentAudio.play();
         }
-    
+
         // Function to stop the audio
         function stopVoice() {
             if (currentAudio) {
@@ -138,6 +140,5 @@
             }
         }
     </script>
-    
 </body>
 </html>
