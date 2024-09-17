@@ -81,13 +81,20 @@
         }
 
         // Function to render voicelines for a given language and attire
-        function renderVoicelines(data, attire) {
+        function renderVoicelines(data, sanitizedAttire) {
             const voicelinesContainer = document.getElementById('voicelinesContainer');
-            const voicelines = data[attire];
+            const voicelines = data[sanitizedAttire];
+            
+            // Ensure the voicelines exist for the attire
+            if (!voicelines) {
+                voicelinesContainer.innerHTML = `<p>No voice lines found for ${sanitizedAttire}.</p>`;
+                return;
+            }
+            
             voicelinesContainer.innerHTML = ''; // Clear previous content
             voicelines.forEach(voiceline => {
                 const trimmedFilename = trimFilePrefix(voiceline.filename);
-                const sanitizedAudioFile = `audio/${characterName}/${language}/${attire}/${sanitizeName(trimmedFilename)}`;
+                const sanitizedAudioFile = `audio/${characterName}/${sanitizeName(language)}/${sanitizedAttire}/${sanitizeName(trimmedFilename)}`;
                 const lineDiv = document.createElement('div');
                 lineDiv.classList.add('voiceline');
                 lineDiv.innerHTML = `
@@ -101,14 +108,15 @@
         }
 
         // Get the character name, language, and attire from the URL
-        const characterName = getQueryParam('name');
-        const language = getQueryParam('language') || 'English'; // Default to English if no language is specified
-        const attire = getQueryParam('attire') || 'Default'; // Default to Default if no attire is specified
+        const characterName = sanitizeName(getQueryParam('name'));
+        const language = sanitizeName(getQueryParam('language') || 'English'); // Default to English if no language is specified
+        const attire = sanitizeName(getQueryParam('attire') || 'Default'); // Default to Default if no attire is specified
+
         const characterNameDisplay = characterName.replace('_', ' '); // For displaying purposes
         document.getElementById('characterName').innerText = `${characterNameDisplay} - ${language} - ${attire}`;
 
         // Construct the JSON file path dynamically
-        const voicelinesFile = `characters/${characterName}_${language.toLowerCase()}.json`;
+        const voicelinesFile = `characters/${characterName}_${language}.json`;
 
         if (voicelinesFile) {
             fetch(voicelinesFile)
