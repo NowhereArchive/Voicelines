@@ -1,5 +1,5 @@
 {
-  "Default": [
+  "default": [
     {
       "title": "Obtain the Sinner",
       "filename": "File:Vo_Shalom_cacha_001.ogg",
@@ -121,7 +121,7 @@
       "text": "Oh, I don't have much to contribute on the front line. I'll count on you guys."
     }
   ],
-  "Sleeps": [
+  "sleeps": [
     {
       "title": "Level Up",
       "filename": "File:Vo_Shalom_yehuaruzhou_levelup_002.ogg",
