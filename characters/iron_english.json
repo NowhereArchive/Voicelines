@@ -1,0 +1,166 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_iron_cacha_001.ogg",
+      "text": "Leaving the Syndicate mob alone but locking up doctors who can save lives? Humph, what a depraved MBCC."
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_iron_promotion_001.ogg",
+      "text": "I can see you've made an effort, but the robotic arm won't fully integrate with the muscle nerves overnight."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_iron_promotion2_001.ogg",
+      "text": "The dream of wiping out Mania will soon come true."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_iron_battlebegin_001.ogg",
+      "text": "Don't touch the pollutant. Keep up."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_iron_battlewin_001.ogg",
+      "text": "The surgery was successful."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_iron_battlelose_001.ogg",
+      "text": "Protect the injured first! Retreat!"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_iron_uniqueskill_001.ogg",
+      "text": "Lesion removal!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_iron_dead_001.ogg",
+      "text": "Patients still need me, I... can't fall..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_iron_greeting_001.ogg",
+      "text": "Now that you're here, get working. Don't just stand around and waste time."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_iron_talk1_001.ogg",
+      "text": "When are you going to keep these Sinners in check? Brawling, getting drunk, gambling... It's like a mini version of Syndicate, except no one gets killed."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_iron_talk1_002.ogg",
+      "text": "There is no such thing as a gift of medical talent. I know what I have to do."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_iron_talk1_003.ogg",
+      "text": "People don't fear Mania itself, but the violence and death that it brings, and that is precisely why I must purge sinful thoughts."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_iron_talk2_001.ogg",
+      "text": "I have never forced a patient to remove their frontal lobe; they simply chose to live in the face of death."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_iron_talk2_002.ogg",
+      "text": "No clinician would want to see patients dying in front of them. Not me, and not Anne. So... forgive her."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_iron_talk2_003.ogg",
+      "text": "Turning into a brain-cutting demon to curb Mania is like sacrificing my left arm to stay sane. It's a choice I weighed, and I have nothing to regret."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_iron_obeyfull_001.ogg",
+      "text": "Since you want to be in this with me, I must warn you—there's no room for regret in frontal lobotomy, and it involves huge risks and blames to take Mania under control. Are you still willing to do this despite that?"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_iron_idle_001.ogg",
+      "text": "The criminals are rampant out there, yet the Chief of MBCC is taking a nap at work... It's time to fix DisCity."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_iron_clicking_001.ogg",
+      "text": "You have excessive dopamine and need a cranial examination. I'm not joking. If you don't believe me... try doing it again."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_iron_specialattention_001.ogg",
+      "text": "You're the first person without Mania that sees me regularly."
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_iron_dispatch_001.ogg",
+      "text": "Time is precious in treating Mania. Stop bothering me with trivial matters."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_iron_dispatch2_001.ogg",
+      "text": "Don't thank me. I'm not interested in anything non-medical."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_iron_levelup_002.ogg",
+      "text": "You're content with this? There's still room for improvement. Keep going."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_iron_jointeam_001.ogg",
+      "text": "I'll just put it out there. I won't save anyone who doesn't follow medical advice."
+    }
+  ],
+  "dr__ironstein": [
+    {
+      "title": "No",
+      "filename": "File:unknown.ogg",
+      "text": "2"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_iron_jinjiguaiyi_cacha_001.ogg",
+      "text": "What are you looking at? Today I'm on special duty, so I look a bit different. Don't worry, come in."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_iron_jinjiguaiyi_levelup_002.ogg",
+      "text": "Sutures confirmed. Keep going."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_iron_jinjiguaiyi_greeting_001.ogg",
+      "text": "Lie down over there. Let me see if I need to hammer a few surgical screws into that weak, wobbly body of yours."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_iron_jinjiguaiyi_talk_001.ogg",
+      "text": "Anne suggested that I should loosen up a bit and try on some different clothes, so as not to scare the patients and hinder the diagnosis... Hmph, now it seems like a useless gimmick."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_iron_jinjiguaiyi_talk_002.ogg",
+      "text": "Though we're both medical professionals, I'm not like the scientist in the story who creates monsters from corpses. He wants to create life out of death, while I try to stop death from arriving altogether."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_iron_jinjiguaiyi_idle_001.ogg",
+      "text": "The temperature in the room is fine. Why are all the patients shivering?"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_iron_jinjiguaiyi_clicking_001.ogg",
+      "text": "No need to make a big deal about these stitches. They're just painted on with pharmaceutical ink. If you like them so much, I'll give you some real ones next time."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_iron_jinjiguaiyi_specialattention_001.ogg",
+      "text": "Indeed, there are treatments that use metal to connect brain tissues so that the brain continues to function. Are you looking at me this way because you want to try it out?"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_owo_cacha_001.ogg",
+      "text": "I knew it! No one can say no to OwO the lion dancer! Even folks from the Bureau came to see me. What's so great about DisCity? <i>There's nothing special about it.</i>"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_owo_promotion_001.ogg",
+      "text": "Yup! That's OwO for you!"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_owo_promotion2_001.ogg",
+      "text": "OwO will never forget your support! ...I won't forget it... for at least this month!"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_owo_battlebegin_001.ogg",
+      "text": "Hey DisCity chump, it's your lucky day! Most people don't get the chance to be OwO's lion tail."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_owo_battlewin_001.ogg",
+      "text": "Haha! That's what you get for looking down upon the invincible lion dancing queen! Run with your tail between your legs!"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_owo_battlelose_001.ogg",
+      "text": "Damn it! Just you wait! I'll be back! OwO will be back!"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_owo_uniqueskill_001.ogg",
+      "text": "Behold, the grand entrance of the mighty lion queen!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_owo_dead_001.ogg",
+      "text": "OwO is strong... It's their fault... Sob... They cheated..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_owo_greeting_001.ogg",
+      "text": "Save your breath, you DisCity simpleton. The gap between you and this genius lion dancer can never be bridged!"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_owo_talk1_001.ogg",
+      "text": "♪In the ancient outlands, there is a little lion, and she is known as OwO."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_owo_talk1_002.ogg",
+      "text": "Who said lion dancing is out of fashion? Who said lion dancing is outdated? Who?! Sob... Tell those bastards to show themselves! Sob... <i>I... I'll bite them!</i>"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_owo_talk1_003.ogg",
+      "text": "<i>In the world of kung-fu, speed defines the winner...</i> Oh, those are movie lines. No one's stupid enough to mistake them for lion dancing tips, right? Hahaha! Idiot!"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_owo_talk2_001.ogg",
+      "text": "Hey, you! Didn't you forget something? Think harder! Did you remember? Sob... You forgot to praise OwO's big film today!"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_owo_talk2_002.ogg",
+      "text": "Your skeletal frame is quite unique. Want to become the eighteenth-generation heir to lion dancing? ...Wait, is it eighteenth or nineteenth... What generation am I again? ...One, two, three..."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_owo_talk2_003.ogg",
+      "text": "There's a saying where I come from: \"The awakened lion rousts, and brings in the God of Wealth!\" I'll make sure to put on a rowdy show for you!"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_owo_obeyfull_001.ogg",
+      "text": "Lion dancing is hard work! It takes years to hone, and injuries are common! You really want to learn? Seriously? No takebacks? ...OwO has an apprentice! OwO has an apprentice! OwO has an apprentice!!!"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_owo_idle_001.ogg",
+      "text": "Time to get up!!! <i>No way!</i> You really got scared? Hahahaha! People from DisCity are so funny!"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_owo_clicking_001.ogg",
+      "text": "I-I-I'm warning you! Those who disrespect lions won't be protected! I won't lift a finger when the monster comes to e-e-eat you! D-don't come over here!"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_owo_specialattention_001.ogg",
+      "text": "Feast your eyes upon the performance of the world's most amazing, majestic, and invincible little genius OwO! Don't blink!"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_owo_dispatch_001.ogg",
+      "text": "When it comes to fun, how can DisCity compare to my hometown? If you weren't so understaffed, I wouldn't go out at all!"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_owo_dispatch2_001.ogg",
+      "text": "You're not allowed to take these away! I worked so hard to rob these!"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_owo_levelup_002.ogg",
+      "text": "Awoooo!"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_owo_Head_001.ogg",
+      "text": "Doesn't this lion's head look beautiful? Isn't it grand? Isn't it majestic? Don't you want to touch it? Haha... In your dreams!"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_owo_jointeam_001.ogg",
+      "text": "Haha, tremble before me, you fiends! The queen of lion dancing is here!"
+    }
+  ]
+}

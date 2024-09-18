@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_ariel_cacha_001.ogg",
+      "text": "I came crawling back after doing so many wrong things... Chief, please don't tell my father. I can't bring more shame to my family."
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_ariel_promotion_001.ogg",
+      "text": "I don't want anyone else to get hurt."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_ariel_promotion2_001.ogg",
+      "text": "This way, I can help alleviate more people's suffering. Sorry... you must have been waiting for a long time."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_ariel_battlebegin_001.ogg",
+      "text": "Don't let go of my hand."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_ariel_battlewin_001.ogg",
+      "text": "Thank you everyone for your hard work!"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_ariel_battlelose_001.ogg",
+      "text": "I'm sorry, it's all my fault... I messed things up for everyone..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_ariel_uniqueskill_001.ogg",
+      "text": "This is my resolution!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_ariel_dead_001.ogg",
+      "text": "I still... can't do anything..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_ariel_greeting_001.ogg",
+      "text": "Chief, you look tired. Want me to help you relax? I know a thing or two about relieving pressure."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_ariel_talk1_001.ogg",
+      "text": "Why does everyone keep staring at my clothes? This is the most basic gown my family owns..."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_ariel_talk1_002.ogg",
+      "text": "I'm sorry, Chief... As a Sinner, I don't have any special combat skills, but I hope I can help others with my healing power. Even... even if I can help just a little bit."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_ariel_talk1_003.ogg",
+      "text": "I'm a member of the Spencer family... but don't call me something pretentious like \"my lady\"... Call me Ariel."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_ariel_talk2_001.ogg",
+      "text": "Chief... do you have any older siblings? It's exhausting to try to live up to talented siblings. Sometimes... I feel that it's hopeless no matter how hard I try..."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_ariel_talk2_002.ogg",
+      "text": "Oh Corruptors... your bodies are rotting constantly, so you must feel a lot of pain. Your disfigurement and pain is worsening... I'm sorry, I will definitely try to become stronger to save you."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_ariel_talk2_003.ogg",
+      "text": "Please don't stay up too late, it's not good for your health. Let me help you finish this work! Sigh... are you staying up late because I suck at my job? I'm sorry! It's all my fault!"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_ariel_obeyfull_001.ogg",
+      "text": "Please don't venture off too far from me on our next mission... If we get split up again, we'll become the laughing stock."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_ariel_idle_001.ogg",
+      "text": "What can I do to help? Sigh... no! I cannot give up. I know I can succeed!"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_ariel_clicking_001.ogg",
+      "text": "Chief... if I did anything wrong, please tell me directly... please... please don't be like this..."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_ariel_specialattention_001.ogg",
+      "text": "Huh? ... Chief, why are you staring at me like this? ... Did I do something wrong?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_ariel_dispatch_001.ogg",
+      "text": "I will succeed this time!"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_ariel_dispatch2_001.ogg",
+      "text": "I hope I didn't embarrass the Spencer family...?"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_ariel_levelup_002.ogg",
+      "text": "I hope I can become an asset to you."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_ariel_jointeam_001.ogg",
+      "text": "I don't like to fight, but I don't like to flee either."
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_ariel_Head_001.ogg",
+      "text": "Hmm? Chief... your hand is a bit cold."
+    }
+  ]
+}

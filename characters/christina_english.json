@@ -1,0 +1,119 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_christina_cacha_001.ogg",
+      "text": "Mhmm... The righteous MBCC Chief who destroys Black Rings and takes down Corruptors... Ahem, I've decided—you'll be my assistant! We're gonna crack tons of big cases in DisCity together!"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_christina_promotion_001.ogg",
+      "text": "\"I'm Christina, the Eastside Acting Inspector who leaves no cases unsolved!\" What do you think? Do I sound like a great detective?"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_christina_promotion2_001.ogg",
+      "text": "\"To find justice is to stare the truth in the face,\" they say. Now I can finally practice that."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_christina_battlebegin_001.ogg",
+      "text": "Mhmm... Well! ...What was the first step again? Let me check my notebook..."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_christina_battlewin_001.ogg",
+      "text": "When you have eliminated the impossible, whatever remains, however improbable, must be the truth!"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_christina_battlelose_001.ogg",
+      "text": "Chin up, assistant! I'll always be with you during our quest for justice!"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_christina_uniqueskill_001.ogg",
+      "text": "Truth is power!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_christina_dead_001.ogg",
+      "text": "Sorry... I couldn't..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_christina_greeting_001.ogg",
+      "text": "My dear assistant, you're just in time! Well... Are there any spare band-aids in the Bureau? If yes, can you do me a favor and put one on my wound?"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_christina_talk1_001.ogg",
+      "text": "Alas, this month's repair and compensation bill is huge! I-I swear I didn't break them on purpose! They... they got in the way of my investigation!"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_christina_talk1_002.ogg",
+      "text": "What? The door to the Sinner's training room is broken? And the AC is acting up too? Those trapped inside are gonna die from the heat! Ahem, this must be a locked-room mystery! I'm gonna get to the bottom of this!"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_christina_talk1_003.ogg",
+      "text": "Taking notes on electronic devices will ruin your eyes! If you end up with blurry vision, don't come crying to me! Here, take my notebook and fountain pen. You'll be better off using them for your notes!"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_christina_talk2_001.ogg",
+      "text": "I saw this really cool detective at the Public Security Bureau the other day. They called him Doyle! ...What's so funny? He used to be different? In-interesting. I'm gonna look into it."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_christina_talk2_002.ogg",
+      "text": "Assistant, what would you do if your little sister never calls you 'big sis'... Should you swallow your pride and call her 'lil sis' first, or... should you write her a letter to say you're sorry... something like that?"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_christina_talk2_003.ogg",
+      "text": "There was someone who would always lend me an ear, embrace all parts of me, and guide me just like you. That was once the whole world to me..."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_christina_obeyfull_001.ogg",
+      "text": "Thank you, my assistant, for always being by my side. The road to justice is bound to be long and difficult, but I will give my all for the light at the end. Even so, will you still follow me? Hah, I know you will. Then take my hand and march forward!"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_christina_idle_001.ogg",
+      "text": "Aha! I knew my hunch was right! My dear assistant, quit lazing around in the office, and let's get out there and solve some cases!"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_christina_clicking_001.ogg",
+      "text": "I made the notebook so heavy, just for... someone like you!"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_christina_specialattention_001.ogg",
+      "text": "My dear assistant, are you drooling over my gadgets? Do you wanna try this mini voice changer or this air pistol? Mm-mm, no touch before taking tutorials. Want me to teach you?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_christina_dispatch_001.ogg",
+      "text": "Huh? A new case? Let me help! Let me help!"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_christina_dispatch2_001.ogg",
+      "text": "Acting Inspector Christina has smashed—Ahh... I mean—solved the case!"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_christina_levelup_002.ogg",
+      "text": "Another step closer to justice!"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_christina_jointeam_001.ogg",
+      "text": "Time for the Eastside acting inspector to shine!"
+    }
+  ]
+}

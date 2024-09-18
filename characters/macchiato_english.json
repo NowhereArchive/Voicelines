@@ -1,0 +1,161 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_macchiato_cacha_001.ogg",
+      "text": "Hi, I'm Macchiato, client manager at Eastside Bank. Would you like to try our program... ah, you're the Chief here? My apologies. I subconsciously spew these lines whenever I meet someone new. I will definitely cooperate with you."
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_macchiato_promotion_001.ogg",
+      "text": "Is this what you wanted? I see. I will satisfy you."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_macchiato_promotion2_001.ogg",
+      "text": "Get ready for an unprecedented feast for the senses."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_macchiato_battlebegin_001.ogg",
+      "text": "I will give everyone to motivation to keep going."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_macchiato_battlewin_001.ogg",
+      "text": "My hand is sore... but I'm very happy."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_macchiato_battlelose_001.ogg",
+      "text": "What do I do, it's over... I'm going to die..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_macchiato_uniqueskill_001.ogg",
+      "text": "Feel the joy with your heart..."
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_macchiato_dead_001.ogg",
+      "text": "I can't die... I still have to..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_macchiato_greeting_001.ogg",
+      "text": "Chief, you're back? I put yesterday's work report on your desk already. Would you like something to drink? Coffee, tea or something else? I'll prepare it for you."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_macchiato_talk1_001.ogg",
+      "text": "Physical pain is short-lived, but mental pleasure brings long-lasting satisfaction—or so they say. Would you like to try it?"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_macchiato_talk1_002.ogg",
+      "text": "Eastside Bank's new wealth management program is superb! It's low-risk, high-return and boasts an annualized return of 12%. I joined it myself. Chief, are you really not going to consider it?"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_macchiato_talk1_003.ogg",
+      "text": "It's good to have a nine-to-five job. This way, I'll have enough time to pursue my \"hobbies\"."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_macchiato_talk2_001.ogg",
+      "text": "When my younger siblings get jobs, I will truly be free. When that day comes, I want to become a truck driver in Sandsea, or a rock drummer in the Syndicate... as long as I can leave Eastside."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_macchiato_talk2_002.ogg",
+      "text": "Life in Eastside is too depressing. Sales quotas, debts, stocks, emotions... Everyone has countless things to worry about. Maybe that's why they need me."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_macchiato_talk2_003.ogg",
+      "text": "This might sound a bit ungrateful, but I dislike the title \"Dominatrix\"... However, if it's what you desire, Chief, I'm willing to be your personal dominatrix."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_macchiato_obeyfull_001.ogg",
+      "text": "In the past, I somewhat resisted this power and identity. But ever since you showed up, I realized that satisfaction truly does exist... perhaps I'm addicted to you, dear Chief."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_macchiato_idle_001.ogg",
+      "text": "Welcome to Eastside Bank! Oh, I mean MBCC... sorry, I was dozing off just now."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_macchiato_clicking_001.ogg",
+      "text": "If you're really stressed, I can help you destress."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_macchiato_specialattention_001.ogg",
+      "text": "I've never been a secretary before. What do I need to do? Is satisfying all of your needs enough?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_macchiato_dispatch_001.ogg",
+      "text": "I will complete this mission for sure."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_macchiato_dispatch2_001.ogg",
+      "text": "Mission accomplished. Who do I find to write off the expenses?"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_macchiato_levelup_002.ogg",
+      "text": "Thank you for your support."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_macchiato_jointeam_001.ogg",
+      "text": "It might hurt a little. Is that fine?"
+    }
+  ],
+  "beguiled_heart": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_macchiato_yiluanqingmi_cacha_001.ogg",
+      "text": "Sure, if that's what you need, I'll raise the whip for you again... to satisfy the deepest desire within you."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_macchiato_yiluanqingmi_greeting_001.ogg",
+      "text": "Do you want a reward from me too? That's all right, don't be shy... I will accept every side of you."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_macchiato_yiluanqingmi_talk_001.ogg",
+      "text": "Sure you can't go on? Hang in there a little longer. I promise to take you to heaven at just the right moment... Trust me... I know your limits quite well."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_macchiato_yiluanqingmi_talk_002.ogg",
+      "text": "Here, open your mouth. This is your reward for being obedient and cooperative... Let's enjoy it together."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_macchiato_yiluanqingmi_idle_001.ogg",
+      "text": "Ah... Very nice, everyone is sated..."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_macchiato_yiluanqingmi_specialattention_001.ogg",
+      "text": "If you want it, just nod, and I'll show you... the sweetest reward."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_macchiato_yiluanqingmi_levelup_002.ogg",
+      "text": "How about that? Do you feel light as a feather now?"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_macchiato_yiluanqingmi_clicking_001.ogg",
+      "text": "Are you so eager? Then get into position, and don't move around..."
+    }
+  ]
+}

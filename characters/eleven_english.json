@@ -1,0 +1,176 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_eleven_cacha_001.ogg",
+      "text": "Hello, wandering souls. Come and pick up this \"Call at 3 AM.\" Wandering around on a lightless night, are you trying to say something to me?"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_eleven_promotion_001.ogg",
+      "text": "The midnight chime sounded. Come, stay with me..."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_eleven_promotion2_001.ogg",
+      "text": "I will turn everything you give me into a cage that binds you...!"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_eleven_battlebegin_001.ogg",
+      "text": "The phone is ringing, my dear. I'm right behind you..."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_eleven_battlewin_001.ogg",
+      "text": "Goodbye, my dear."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_eleven_battlelose_001.ogg",
+      "text": "The phone keeps ringing non-stop... Gimme a break..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_eleven_uniqueskill_001.ogg",
+      "text": "Thank you for tuning in."
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_eleven_dead_001.ogg",
+      "text": "No... No... Stop talking..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_eleven_greeting_001.ogg",
+      "text": "What story will you share with me today?"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_eleven_talk1_001.ogg",
+      "text": "If you can't sleep, why not tune in to my broadcast, \"Call at 3 AM\". I hope it can bring some gentleness into your night."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_eleven_talk1_002.ogg",
+      "text": "People always look for something they desire, something that soothe them in me. How sad... Ah, but, I'm looking forward to you being a guest on my show."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_eleven_talk1_003.ogg",
+      "text": "I can take all the emotions others flood me with, and grind them with my mind and heart into a smiling voice on the airwaves."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_eleven_talk2_001.ogg",
+      "text": "Humans are such amazing creatures. After that electrifying moment of locking eyes, you and I no longer look the same for each other."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_eleven_talk2_002.ogg",
+      "text": "If it weren't for all those rumors and legends, I could read poems or tell a story to the sound of the midnight rain... then greet the first ray of dawn after a rainy night..."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_eleven_talk2_003.ogg",
+      "text": "\"Her silhouette slowly approaches you from behind, envelops you, and finally... embraces you...!\" Oops, did I startle you? Don't be scared... it's just me."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_eleven_obeyfull_001.ogg",
+      "text": "My views have been overturned, and my world has been changed, but I know... this is not misfortune. Thank you for becoming the fissure in this world to free me from my shackles..."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_eleven_idle_001.ogg",
+      "text": "A Little Poem, line 27: \"If the world could be changed by dreaming, then I would sleep in this dream and never wake up, until the joyous world of my imagination has been created.\""
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_eleven_clicking_001.ogg",
+      "text": "You want me to stay with you this much...? Don't worry... I'll call you tonight."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_eleven_specialattention_001.ogg",
+      "text": "Don't be so nervous. I can stay on the line with you. You just continue with what you're doing, and I'll be here with you. If you still feel ill at ease... how about I sing a song for you?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_eleven_dispatch_001.ogg",
+      "text": "Let me see, what's different about your world."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_eleven_dispatch2_001.ogg",
+      "text": "This is all that I can give you."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_eleven_levelup_002.ogg",
+      "text": "Come, come closer... a little bit more."
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_eleven_Head_001.ogg",
+      "text": "Do you want to know how much I've missed you?"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_eleven_jointeam_001.ogg",
+      "text": "The phone is ringing... My dear."
+    }
+  ],
+  "rippling_heartthrobs": [
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_eleven_xinchaomanxia_levelup_002.ogg",
+      "text": "Thanks for the cold drink. Let's cool off together. Cheers!"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_eleven_xinchaomanxia_Head_001.ogg",
+      "text": "Are you worried I might come down with heatstroke too? Hehe... don't worry about me. I'll be fine."
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_eleven_xinchaomanxia_cacha_001.ogg",
+      "text": "You finally woke up! How do you feel right now? Still dizzy or nauseous? Thank goodness you're all right. You passed out from heatstroke. I was scared out of my wits... Luckily, I was close by, so I rushed to bring you back to rest."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_eleven_xinchaomanxia_greeting_001.ogg",
+      "text": "If you're still feeling unwell, how about I keep you company and talk to you for a while? My voice might make you feel better."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_eleven_xinchaomanxia_talk_001.ogg",
+      "text": "Have you ever heard of the \"inside-out cooling method\"? It's said that listening to creepy stories is a good way to cool down in summer. Let's give it a go. Well, I happen to have a story about this very beach. It's always bustling during daytime, but when night falls, strange things happen. Just the other night, a staff member was patrolling the grounds when..."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_eleven_xinchaomanxia_talk_002.ogg",
+      "text": "Don't stray from the safe area while you're in the water, and remember to do a proper warm-up before going in for a dip. See those guys over there? Like you did earlier, they jumped into the water without warming up first and ended up with cramps in their legs. The other lifeguards are rescuing them now..."
+    },
+    {
+      "title": "Ordinary Contact 3",
+      "filename": "File:Vo_eleven_xinchaomanxia_hand_001.ogg",
+      "text": "Still feeling hot? Okay, this towel may help. I've soaked it in cold water and wrung it out. Here, let me wipe your forehead and neck to cool you down... Feeling better now?"
+    },
+    {
+      "title": "Ordinary Contact 4",
+      "filename": "File:Vo_eleven_xinchaomanxia_leg_001.ogg",
+      "text": "No. You're not fully recovered yet, so it's not a good idea for you to go back in the water, not even with a lifebuoy. If you're feeling bored, why don't you play with this little octopus plushie? You'll find it very satisfying to squeeze it."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_eleven_xinchaomanxia_idle_001.ogg",
+      "text": "Even though you can't go in the water for now, it's still nice to just lie here under a parasol, watching the clouds drift by, feeling the breeze on your cheeks, and listening to the waves, don't you think?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_eleven_xinchaomanxia_specialattention_001.ogg",
+      "text": "Why do you keep staring at me? You're at the seaside. Shouldn't you be enjoying the sea view? Well, if you really want to talk with me some more, we can take a walk along the beach after my shift. All right then, wait for my call."
+    }
+  ]
+}

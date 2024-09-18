@@ -1,0 +1,161 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_lamia_cacha_001.ogg",
+      "text": "I've seen it all, your vulnerability, your weariness, your sadness... Come here, come to me, let me share your burden and pain, let me be a loyal companion to you..."
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_lamia_promotion_001.ogg",
+      "text": "Do not turn a blind eye to your own needs. Do not turn your back on your savior. A faithful \"seafarer\" shall attain the precious pearls they long for."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_lamia_promotion2_001.ogg",
+      "text": "What do you see in the center of the vortex?"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_lamia_levelup_002.ogg",
+      "text": "The more you offer, the more you will receive. Now, show me how sincere you are."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_lamia_battlebegin_001.ogg",
+      "text": "Come here, step into my trap."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_lamia_battlewin_001.ogg",
+      "text": "Thou, my enemy, shall forever be trapped under the billow and never see the sunlight anew."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_lamia_battlelose_001.ogg",
+      "text": "Tch, my tricks didn't work this time."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_lamia_uniqueskill_001.ogg",
+      "text": "Be trapped here forever!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_lamia_dead_001.ogg",
+      "text": "I can't die here... I've got to, got to live..."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_lamia_talk1_001.ogg",
+      "text": "Have you heard of an old deep-sea civilization far, far away, where the roofs of the houses are made of shells, and the walls of pearls? That's where I come from."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_lamia_talk1_002.ogg",
+      "text": "Be quiet, and don't turn on the light. Only tranquil darkness can calm my soul."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_lamia_talk1_003.ogg",
+      "text": "My appearance? Heh, I know what you're getting at. Strange, grotesque, terrifying... Are these the words you're looking for? I'm a monster, after all... What? I have a unique beauty? Me? This is the first time anyone's ever said that about me. Do you, um, really think so?"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_lamia_talk2_001.ogg",
+      "text": "Detested, like I used to be, by those who thought of me as a monster, or worshiped, like I am now, by the seafarers... It makes no difference to me, for I don't care what they think of me. But I do care... what I look like to you."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_lamia_talk2_002.ogg",
+      "text": "This beautiful little thing is, in fact, a ferocious predator. It ate all the fish that once shared this tank. Ferocious as it is, it is forever trapped behind this thin wall of glass. It must be longing for freedom too..."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_lamia_talk2_003.ogg",
+      "text": "Sometimes, beautiful, harmless-looking things can be extremely dangerous. Most people don't realize that until it's too late. Ah, is there anything more exciting than seeing the fear on a horror-stricken face at the moment of truth?"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_lamia_obeyfull_001.ogg",
+      "text": "I construct traps from lies and illusions, and lay them all around me to ensnare whoever gets near. Sincerity is a commodity that is of no use to me. But why? Why the waters parted and the thorn thicket made way for you to come through and see behind the walls that I've erected around me?"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_lamia_greeting_001.ogg",
+      "text": "Are you here to look for the answers to your questions? ...Why are you being so cautious? I don't bite."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_lamia_idle_001.ogg",
+      "text": "I'm a bit tired. I think I'll have a bath..."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_lamia_clicking_001.ogg",
+      "text": "You want to know what happened to those eager souls who came to me for help? What do you think happened to them? Of course I gave them what they wanted and made them live happily ever after."
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_lamia_dispatch_001.ogg",
+      "text": "Good, let us commiserate with more lost souls."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_lamia_dispatch2_001.ogg",
+      "text": "Hmm, more seafarers have received the blessing."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_lamia_specialattention_001.ogg",
+      "text": "Yeah, you're getting the hang of it now... Don't devert your eyes. Can you feel yourself being enveloped by the waves? Okay, let them wash away your pain, bring you serenity, cleanse you of all your sins."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_lamia_jointeam_001.ogg",
+      "text": "Whatever wishes you have... You can tell me."
+    }
+  ],
+  "hushed_tides": [
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_lamia_chaoximiyu_levelup_002.ogg",
+      "text": "Thank you for freeing me from entanglement."
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_lamia_chaoximiyu_cacha_001.ogg",
+      "text": "Please don't be afraid. I... I am... uh... a mermaid who just owned my legs... Yes, I was captured by some merchant seamen and smuggled here. I managed to escape with your help. I'm not gonna hurt you, nor do I have the strength to do so. If you don't believe me, you can take the pearls that my teardrops turn into when I cry... as long as you \nagree to help me."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_lamia_chaoximiyu_greeting_001.ogg",
+      "text": "You've come just at the right time, savior. It just occurs to me that a brigantine arrived here from the Black Sea not so long ago. Could it be the vessel you've been looking for, the \"Madame Maelstrom\"? If you wish to check it out, I'll be happy to show you the way."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_lamia_chaoximiyu_talk_001.ogg",
+      "text": "The elders warned me against greedy humans who would harm me for my appearance, tears, and flesh. But I know there are also good people like you in this world, pure in body and spirit, who must taste... Ah, I mean, who should be blessed with all the luck they need in their endeavors."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_lamia_chaoximiyu_talk_002.ogg",
+      "text": "When you fulfill your dream of becoming a great sailor, please do visit me at my home. We live in the depths of Mother Sea, in a palace adorned with coral and gems, where music is played with conches and turtles... The undercurrents and whirlpools safeguarding us may be a bit dangerous. Nevertheless, I don't think they will pose much of a challenge to you."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_lamia_chaoximiyu_idle_001.ogg",
+      "text": "I sing in the deep sea, lulling you to sleep. As you fulfill your dream in dream, I'll have my feast complete."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_lamia_chaoximiyu_clicking_001.ogg",
+      "text": "Ah... Oh, it's okay. You didn't hurt me. I got this wound from the sailboats and wish bottles while I was in the sea. It will heal on its own. Don't worry about me..."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_lamia_chaoximiyu_specialattention_001.ogg",
+      "text": "Please don't... don't stare at my legs like that. I've just got them, and they are still fragile. But I think they will become strong enough very soon, provided that there's enough love... and nourishment."
+    }
+  ]
+}

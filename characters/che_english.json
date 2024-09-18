@@ -1,0 +1,161 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_che_cacha_001.ogg",
+      "text": "There's nothing to be happy about catching someone like me, right? Keep going. Good luck on catching a better Sinner next time."
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_che_promotion_001.ogg",
+      "text": "Wait. Do you think I'll stop being lazy when I get stronger?"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_che_promotion2_001.ogg",
+      "text": "Yeah, I'm so strong now! Is it time for me to get myself killed in Black Rings?"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_che_battlebegin_001.ogg",
+      "text": "Stay close... I have to at least take you back alive."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_che_battlewin_001.ogg",
+      "text": "Let's go. It's just a few corpses. Nothing interesting."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_che_battlelose_001.ogg",
+      "text": "Ha... We can finally go home early."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_che_uniqueskill_001.ogg",
+      "text": "You can't escape!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_che_dead_001.ogg",
+      "text": "Can't believe I got defeated here..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_che_greeting_001.ogg",
+      "text": "You're not expecting me to say hello to you, are you? You must have got too much time..."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_che_talk1_001.ogg",
+      "text": "You've got a grindstone? Jon and Jay are getting blunt. Why do I name my weapons? Nothing special. I just think it's fun."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_che_talk1_002.ogg",
+      "text": "You wanna chat with me? Don't... I don't wanna chat right now. You'd better chat with someone else."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_che_talk1_003.ogg",
+      "text": "I can give you some odd jobs if you pay enough. Forget about fighting. I ain't good enough for that."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_che_talk2_001.ogg",
+      "text": "Hey, wanna make a deal? This week I'll do whatever you tell me to. I promise, no slacking off... Can you help me buy that Deadlover Radio special collection?"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_che_talk2_002.ogg",
+      "text": "Every time I see K.K., I feel like seeing myself from the past—it's too boring working all day long without any personal life. If I don't watch her, she will be sold by Bai Yi to pay off gambling debts sooner or later."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_che_talk2_003.ogg",
+      "text": "I know Bai Yi gets drunk, gambles, gets into trouble all the time, and calls me a dwarf when she gets drink too much... but she is the most interesting person in the world from the time I met her until now. It has always been the case."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_che_obeyfull_001.ogg",
+      "text": "I'm surprised that you, as the Chief, with that face, didn't go suck up to those high officials instead of hanging out with a bunch of Sinners all day. You are an interesting one... Don't get me wrong. I didn't mean anything by that."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_che_idle_001.ogg",
+      "text": "You tired? Take a nap then. Don't worry. I'll keep watch for you and won't let your men know their great Chief is slacking off."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_che_clicking_001.ogg",
+      "text": "Umm... Bro/Sis, what's your problem?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_che_specialattention_001.ogg",
+      "text": "You do your work, I take my nap. Let's not get in the way of each other, okay?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_che_dispatch_001.ogg",
+      "text": "Can you ask someone else to go? I'm busy."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_che_dispatch2_001.ogg",
+      "text": "Let's leave it at this. I'm off now."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_che_levelup_002.ogg",
+      "text": "Tsk, what a pain."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_che_jointeam_001.ogg",
+      "text": "Ah... My eyes... They hurt... I'm gonna turn blind. Do you still want me to go like this? Geez."
+    }
+  ],
+  "unexpected_guest": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_che_busuzhike_cacha_001.ogg",
+      "text": "Oh? It's just you. I'm working here. Whitestone just took on a debt collection job, and K.K. is in the middle of something else, so I had to come. I'm wearing this to look more like a badass. It's Bai Yi's idea, not mine."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_che_busuzhike_levelup_002.ogg",
+      "text": "Not again? It's so tiring to fight and kill."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_che_busuzhike_greeting_001.ogg",
+      "text": "The job is not done yet. Relax, I won't do anything nasty. He's open for business. If I sit here and stare at everyone, he'll want me to leave and give me the money in no time."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_che_busuzhike_talk_001.ogg",
+      "text": "Ugh, out of all the jobs they could've picked, they had to go for this debt collection gig, and of course, they forced me to do it... Well, if I can't get it done, so be it. It won't be the first job Whitestone couldn't finish anyway."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_che_busuzhike_talk_002.ogg",
+      "text": "If I keep sitting here, I'll be seen as their security guy. The only good thing here is free tea and snacks. Hey, you really not gonna have some?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_che_busuzhike_specialattention_001.ogg",
+      "text": "What brings you here? Well, not like it's any of my business. If you have nothing better to do, it's good to sit here and get some vitamin D from the sun too."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_che_busuzhike_clicking_001.ogg",
+      "text": "Don't rub it. It's not a tattoo, it's just a sleeve. Why would I want to sting myself with some colorful needles?"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_che_busuzhike_idle_001.ogg",
+      "text": "Hey~ You don't seem so busy. Why not join us in the back to play mahjong? Don't worry, the boss here is my buddy, he won't charge us."
+    }
+  ]
+}

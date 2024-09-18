@@ -1,0 +1,119 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_eureka_cacha_001.ogg",
+      "text": "...MBCC? What's that? You're not tricking me into doing something bad, are you... I can continue my inventions here? Hurray! I can use your special equipment and rare materials, right?"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_eureka_promotion_001.ogg",
+      "text": "Thanks for the new saw blades. I've installed them around the engine to make a Chakram Mini Fan... Eh, this can actually be my new weapon...?"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_eureka_promotion2_001.ogg",
+      "text": "Look, this little flying car is my proudest work, because I can ride it to see the blue sky and white clouds, that's why I named it... the Formidable Tomato."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_eureka_battlebegin_001.ogg",
+      "text": "Where did my Auto Dashing Wheel go... Eh? It's already... dashed out...?"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_eureka_battlewin_001.ogg",
+      "text": "Did you see how scary those guys look? They must be dangerous... Huh? I've chased them off already? Oh right..."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_eureka_battlelose_001.ogg",
+      "text": "Next time I'll bring the Electric Darting Mouse too. It would buy us more time..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_eureka_uniqueskill_001.ogg",
+      "text": "Little Landmine! Ready, go!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_eureka_dead_001.ogg",
+      "text": "The battery reserve... is running out..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_eureka_greeting_001.ogg",
+      "text": "Chief, could you try out the Emergency Ejection Chair in your office? You're gonna be fine. I've laid out some sponge mats outside."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_eureka_talk1_001.ogg",
+      "text": "What's in my bag? Uh... nothing special, really, just a couple of drills, hand saws, wrenches, pliers, and other tools... Oh yes, and a Foldable Auto Washing and Drying Machine."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_eureka_talk1_002.ogg",
+      "text": "This Solar Spinning Top is a very interesting toy. You just place it on the ground, and it'll keep spinning without any manual effort... Hmm? But whipping it is the fun part of playing it? Huh, is that so...?"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_eureka_talk1_003.ogg",
+      "text": "Alright... The disassembly of the cafeteria's tables will be done soon. The next step is to move the training room's gym equipment here for assembly. With these Gym Tables, everyone can eat and exercise at the same time, saving a lot of time and improving productivity..."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_eureka_talk2_001.ogg",
+      "text": "Little jellyfish, what are you doing here? Didn't I tell you not to bounce around before the reinforcement is complete... Oh, Chief? This is not a weapon, just an alarm clock with bounce and chat features. In fact... Can I record your voice as its audio source? I think it'd be perfect..."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_eureka_talk2_002.ogg",
+      "text": "I replaced the movement of your broken watch and added in it a micro communication device that no scan can detect. Wear it and make a call gesture by your ear, and you can trigger the discreet call function. I... Uh... You always go on undercover missions, I think you, you may find it useful..."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_eureka_talk2_003.ogg",
+      "text": "My eye-opening journeys are the inspiration for many of my inventions, such as the Poisonous Mushroom Detector, the Wildlife-proof Tent, and the Convertible Camo Station Wagon... Speaking of, well, its passenger seat is still vacant... The seat's color matches the shackles. It can massage your sore muscles and is even equipped with a small work desk. It's also the perfect size for you!"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_eureka_obeyfull_001.ogg",
+      "text": "Lightning Escape Shoes, Auto Strikeback Shield, Nightmare Catcher Helmet... All equipped! This is the self-defense gear I took a long time to develop. Now they can finally serve their purpose! I'm certain they'll give you the best protection. Also, t-thank you for accepting them."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_eureka_idle_001.ogg",
+      "text": "...Is something malfunctioning? Time to take it apart for a checkup..."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_eureka_clicking_001.ogg",
+      "text": "Hmm? What are these mysterious patterns on the lens?! Could it be some unknown optical phenomenon? I must analyze them carefully... Their shapes are... 100% identical to your fingerprints? Ah, so that's just your fingerprints... Although I don't quite understand why you always touch my spectacles, if that tickles your fancy, go on then..."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_eureka_specialattention_001.ogg",
+      "text": "How strange... In theory, reversing the electrodes should solve it, but there's no reaction... When did you come in? Have you been watching me doing experiments this whole time... Ah! I know! I've read about a theory that the presence of an observer can affect the experimental result. Keep staring and don't move, let me try again..."
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_eureka_dispatch_001.ogg",
+      "text": "Hmm... I should take my new Tap Dancing Ice Cream Truck out for a test drive..."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_eureka_dispatch2_001.ogg",
+      "text": "Performance test of the Tap Dancing Ice Cream Truck complete. Um, the experimental data and user feedback suggest that I should replace tap dance with ballet..."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_eureka_levelup_002.ogg",
+      "text": "What other feature should I add?"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_eureka_jointeam_001.ogg",
+      "text": "What are we... about to do?"
+    }
+  ]
+}

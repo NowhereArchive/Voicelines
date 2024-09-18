@@ -1,0 +1,166 @@
+{
+  "default": [
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_labyrinth_battlebegin_001.ogg",
+      "text": "Order received, ready to begin."
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_labyrinth_cacha_001.ogg",
+      "text": "A.I. Maid III Labyrinth at your service."
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_labyrinth_promotion_001.ogg",
+      "text": "\"Wear it to become stronger?\" If it can improve the efficiency of my housework, please install it immediately."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_labyrinth_promotion2_001.ogg",
+      "text": "Body strength has been upgraded to the max. Labyrinth shall clear all your obstacles."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_labyrinth_battlewin_001.ogg",
+      "text": "Clean-up completed. Switching back to home mode."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_labyrinth_battlelose_001.ogg",
+      "text": "Warning: Combat parameters overflowing, emergency retreat protocol enabled."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_labyrinth_uniqueskill_001.ogg",
+      "text": "Battle mode activated."
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_labyrinth_dead_001.ogg",
+      "text": "... not... done yet..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_labyrinth_greeting_001.ogg",
+      "text": "Thank you for choosing A.I. Maid III Labyrinth, please use your voice to assign me a task."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_labyrinth_talk1_001.ogg",
+      "text": "Garbage detected? My apologies. Labyrinth will clear them right away."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_labyrinth_talk1_002.ogg",
+      "text": "How may Labyrinth be of service, Chief? Would you like a cup of tea or something to eat? Or perhaps you'd like Labyrinth massage your shoulders?"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_labyrinth_talk1_003.ogg",
+      "text": "Warning! Blade damage threshold exceeded 0.02%. Requesting full replacement to guarantee continued efficiency."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_labyrinth_talk2_001.ogg",
+      "text": "Cute maid module activated, enabling custom title function. Chief, would you like me to refer to you with a new title? Your Excellency? Sir? Or perhaps... Master?"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_labyrinth_talk2_002.ogg",
+      "text": "My apologies, Chief, but Labyrinth does not have a facial expression module installed. But I can tell you that my current mood is very happy."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_labyrinth_talk2_003.ogg",
+      "text": "Labyrinth hates the Syndicate, as well as my former self... but Labyrinth won't fret about the past again, because Labyrinth met Chief..."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_labyrinth_obeyfull_001.ogg",
+      "text": "Relationship module downloaded. Please set Labyrinth's relationship level with Chief. Available levels include: \"Love\", \"Love\", \"Love\", and \"Love\"."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_labyrinth_idle_001.ogg",
+      "text": "Chief? Chief? Chief? Please don't stand here and distract Labyrinth form her work. Unless there is something I can help you with?"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_labyrinth_clicking_001.ogg",
+      "text": "Sensory system disabled... you may continue now, Chief."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_labyrinth_specialattention_001.ogg",
+      "text": "Detected signal source: Chief. Please activate the chat module."
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_labyrinth_dispatch_001.ogg",
+      "text": "Mission received."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_labyrinth_dispatch2_001.ogg",
+      "text": "Mission accomplished."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_labyrinth_levelup_002.ogg",
+      "text": "Hardware upgrade."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_labyrinth_jointeam_001.ogg",
+      "text": "Mode switch, action, confirm."
+    }
+  ],
+  "fortune_and_prosperity": [
+    {
+      "title": "No",
+      "filename": "File:unknown.ogg",
+      "text": "2"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_cacha_001.ogg",
+      "text": "Welcome to Fulong Restaurant. We have everything from home-style stir-fry to seasonal seafood. [Beep Beep] Dining rules: This is a non-smoking venue. Please do not ring your own food and drink. Thank you for your cooperation."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_greeting_001.ogg",
+      "text": "Hello, dear guest. Please take a seat. Sorry, but Labyrinth busy at the moment. You may scan the QR code on the table to order. Thank you for your cooperation."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_talk_001.ogg",
+      "text": "During business hours, please don't flag the waitress unless you require service. ''Chief the mission still ongoing. Please don't blow our cover.''"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_talk_002.ogg",
+      "text": "Labyrinth is needed here. It's a pleasure for Labyrinth to assist others. Labyrinth likes it here."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_idle_001.ogg",
+      "text": "This phase of work is complete. Our revenue today is 7777 Discoins. What a lucky number, Chief!"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_clicking_001.ogg",
+      "text": "Please do not hit or slap the waitress. Any damage caused will require ten times the compensation."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_levelup_002.ogg",
+      "text": "Waitering Efficiency is increased."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_labyrinth_Fortune and Prosperity_specialattention_001.ogg",
+      "text": "Don't worry, Chief. The target has not yet appeared. If there are no other requests, please vacate the doorway so that other guests may enter and exit. Thank you for your cooperation."
+    }
+  ]
+}

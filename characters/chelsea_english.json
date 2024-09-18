@@ -1,0 +1,218 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_chelsea_cacha_001.ogg",
+      "text": "I don't like being locked up... Say, how much do I need to pay to get out of here?"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_chelsea_promotion_001.ogg",
+      "text": "Oh? Is Sitri's clarity enhanced?"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_chelsea_promotion2_001.ogg",
+      "text": "From now on, no one can hurt us. No one."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_chelsea_battlebegin_001.ogg",
+      "text": "Time for a vacation?"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_chelsea_battlewin_001.ogg",
+      "text": "That's it?"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_chelsea_battlelose_001.ogg",
+      "text": "Oh... This feels worse than being rejected..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_chelsea_uniqueskill_001.ogg",
+      "text": "Sitri, hold them off!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_chelsea_dead_001.ogg",
+      "text": "How has it... come to this?"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_chelsea_greeting_001.ogg",
+      "text": "Yo, you're back. It's been a while since I last saw you. I was a little concerned."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_chelsea_talk1_001.ogg",
+      "text": "Why do people always find me arrogant? I'm only honest about being rich."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_chelsea_talk1_002.ogg",
+      "text": "Look at the fire in this emerald. Isn't it gorgeous? In fact, unrefined, its clarity was just so-so, but good faceting techniques work magic."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_chelsea_talk1_003.ogg",
+      "text": "The kids here are all adorable, but why won't any of them take my money?"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_chelsea_talk2_001.ogg",
+      "text": "I wonder how my kitties are doing at home... Can I bring them here, Chief? There aren't that many of them, just... a little over a hundred."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_chelsea_talk2_002.ogg",
+      "text": "I believe I exist in this world for the gems... But am I truly as dazzling as they are?"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_chelsea_talk2_003.ogg",
+      "text": "What would you say if I want to be your sugar mama, Chief? I'm serious."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_chelsea_obeyfull_001.ogg",
+      "text": "This is an inheritance distribution agreement. Come sign your name on it... If something happens to me one day, take care of the kids... and Sitri with this money. Got it?"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_chelsea_idle_001.ogg",
+      "text": "Sitri, sweetheart, you know what to do when they come, don't you?"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_chelsea_clicking_001.ogg",
+      "text": "That reminds me, I've never paid to have somebody's limbs cut off. I'd like to try it sometime."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_chelsea_specialattention_001.ogg",
+      "text": "You've come to meet me specifically? Are you short on cash these days, Chief?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_chelsea_dispatch_001.ogg",
+      "text": "A piece of cake."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_chelsea_dispatch2_001.ogg",
+      "text": "I'm back. Look, I've brought everyone souvenirs."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_chelsea_levelup_002.ogg",
+      "text": "Not bad."
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_chelsea_Head_001.ogg",
+      "text": "Oh, aren't you going to tickle my chin too? Who knows, I might purr a little for you."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_chelsea_jointeam_001.ogg",
+      "text": "Let's go, Sitri."
+    }
+  ],
+  "moonlight_rendezvous": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_chelsea_yueyinsheqing_cacha_001.ogg",
+      "text": "Welcome to my estate! Chief... You're my rare and precious guest, just make yourself at home. It'll be so boring if you're too nervous."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_chelsea_yueyinsheqing_greeting_001.ogg",
+      "text": "Let's have a drink? Relax, Chief... It's only pomegranate juice."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_chelsea_yueyinsheqing_talk_001.ogg",
+      "text": "Come closer, let me hear your breaths closely... Oh... you sound just like a kitten."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_chelsea_yueyinsheqing_talk_002.ogg",
+      "text": "Legend has it that if you keep chanting \"Countess Chelsea, take me as your sugar baby\" at a mirror in this room, no matter where I am, I'll immediately appear. Don't you want to try it?"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_chelsea_yueyinsheqing_idle_001.ogg",
+      "text": "Sitri, you're not eating your meals properly again today... Are the diamonds not to your taste? Sigh... Got it, I'll fetch you a few of your favorite boulder opals now."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_chelsea_yueyinsheqing_clicking_001.ogg",
+      "text": "You're finally getting bolder, Chief. Can I treat this as a love confession from you?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_chelsea_yueyinsheqing_specialattention_001.ogg",
+      "text": "Time to close the curtains and enjoy this night with just the two of us."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_chelsea_yueyinsheqing_levelup_002.ogg",
+      "text": "The night is long. Wanna do something fun?"
+    }
+  ],
+  "lake_of_mythos": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_chelsea_yiluoxinhu_cacha_001.ogg",
+      "text": "Did you lose this Golden Axe, or this Gemstone Axe? Don't be shy! You can take both if you like!"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_chelsea_yiluoxinhu_greeting_001.ogg",
+      "text": "Haha... You don't need to pretend that you dropped something into the lake. I can give you anything you want, but on one teensy little condition... that is, to stay with me forever~"
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_chelsea_yiluoxinhu_talk_001.ogg",
+      "text": "For those who don't suit my taste, even if every word they say is true, they are not worthy to take my collection."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_chelsea_yiluoxinhu_talk_002.ogg",
+      "text": "Every day, there are things that are forgotten, discarded, or lost. They slip right into the lake and come to me. So, what kind of things slipped through your fingers?"
+    },
+    {
+      "title": "Ordinary Contact 3",
+      "filename": "File:Vo_chelsea_yiluoxinhu_hand_001.ogg",
+      "text": "Your palm is dry and warm... I love this feeling! Name your price. How many gems it takes for you to hold my hand like this forever?"
+    },
+    {
+      "title": "Ordinary Contact 4",
+      "filename": "File:Vo_chelsea_yiluoxinhu_leg_001.ogg",
+      "text": "The water in the lake is my limbs, my heart, my dress... When you stir it, you are also touching me... Hehe, what, you don't believe me? I can really merge with the water~"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_chelsea_yiluoxinhu_idle_001.ogg",
+      "text": "Sitri, you went playing treasure hunt at the bottom of the lake again? You've dug up all these centuries-old things... Come here, let me wipe your paws."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_chelsea_yiluoxinhu_specialattention_001.ogg",
+      "text": "If you're interested in me, just say it. I can take you to my home right now. Don't worry, I've already prepared your room at the bottom of the lake. I specially decorated it with pearl curtains and a bed made of gems. You'll definitely love it."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_chelsea_yiluoxinhu_levelup_002.ogg",
+      "text": "Ah... Just as I thought, when the water becomes clear, one's mood is also lifted."
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_chelsea_yiluoxinhu_Head_001.ogg",
+      "text": "This flower crown is a precious gift from the spirits under the lake. What do you think? Much prettier than those accessories priced with a string of zeros, right?"
+    }
+  ]
+}

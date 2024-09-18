@@ -1,0 +1,166 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_pacassi_cacha_001.ogg",
+      "text": "My name is Pacassi... I'm an orphan of the old generation, a walking contaminant. Please keep your distance."
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_pacassi_promotion_001.ogg",
+      "text": "Energy level boosted. Please upgrade your radiation protection accordingly."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_pacassi_promotion2_001.ogg",
+      "text": "You still haven't given up... Then, touch me... and prepare to be pierced through by radiation."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_pacassi_battlebegin_001.ogg",
+      "text": "I won't let you down."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_pacassi_battlewin_001.ogg",
+      "text": "I did it."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_pacassi_battlelose_001.ogg",
+      "text": "Sorry... I'm sorry..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_pacassi_uniqueskill_001.ogg",
+      "text": "Get away... from me!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_pacassi_dead_001.ogg",
+      "text": "At last... it's over."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_pacassi_greeting_001.ogg",
+      "text": "Hello, Chief. Do you have any work for me today?"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_pacassi_talk1_001.ogg",
+      "text": "Is there anything I can help with, Chief? I'm not used to staying idle and doing nothing."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_pacassi_talk1_002.ogg",
+      "text": "The modification on this arm is to help the muscles exert force... Sorry, but please don't touch it. No, it's not forbidden. It's just that... it has absorbed too much radiation."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_pacassi_talk1_003.ogg",
+      "text": "I must live on, and remember everything that happened in the town. Otherwise, everything we'd experienced will be meaningless..."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_pacassi_talk2_001.ogg",
+      "text": "I still remember the last accident with the power station. That winter, the snow ruined the greater part of the grid. In thirty days, the town's population reduced by a quarter. We only found them under the melted snow when the spring came the next year..."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_pacassi_talk2_002.ogg",
+      "text": "Mayek means lighthouse. Even in the darkest hour, it provides the wanderers with guidance and hope. But no one knows, that even the lighthouse itself can be devoured by darkness..."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_pacassi_talk2_003.ogg",
+      "text": "I never dream of pity from others, not even from you. I... don't want to live without dignity, as an experimental subject or an exotic animal on display..."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_pacassi_obeyfull_001.ogg",
+      "text": "No one has ever told me what friendship means... I've read it in a book, that a friend is someone you would die for... If that's true, then you're my friend, my only friend."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_pacassi_idle_001.ogg",
+      "text": "...You've been working for hours, Chief. Don't you want to take a break?"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_pacassi_clicking_001.ogg",
+      "text": "Chief... Is this... how people in the DisCity show friendliness? Hmm... Okay."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_pacassi_specialattention_001.ogg",
+      "text": "Could you... stop staring at me? I... I'm not very used to it."
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_pacassi_dispatch_001.ogg",
+      "text": "I'll get it done."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_pacassi_dispatch2_001.ogg",
+      "text": "I've finished my work. Please give me a new task."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_pacassi_levelup_002.ogg",
+      "text": "The radiation has become stronger."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_pacassi_jointeam_001.ogg",
+      "text": "I'm used to battles. I can certainly do it."
+    }
+  ],
+  "winter_night": [
+    {
+      "title": "No",
+      "filename": "File:unknown.ogg",
+      "text": "2"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_pacassi_Winter Night_cacha_001.ogg",
+      "text": "Chief, please move closer to the fire. Even the outskirts of Mayek are much colder than DisCity. Take care and stay warm."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_pacassi_Winter Night_greeting_001.ogg",
+      "text": "Chief, do you feel warmer now? If you're still feeling cold... have some of the borscht I've just cooked."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_pacassi_Winter Night_talk_001.ogg",
+      "text": "\"A hundred years have passed. The young city has become the treasure and marvel of the Northern nation...\" I found this poetry collection in Bureau's library. It's very interesting... Care to read it, Chief?"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_pacassi_Winter Night_talk_002.ogg",
+      "text": "This was once the furthest I'd been from Mayek. And now... it's also the closest I've been to it."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_pacassi_Winter Night_idle_001.ogg",
+      "text": "When I was little, I always hoped winter could pass sooner. But now, I wish it could stay longer... Human beings are indeed strange."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_pacassi_Winter Night_clicking_001.ogg",
+      "text": "I... I only added some Mayek-style cutting and materials to the uniform. I suppose... I haven't violated the Bureau's rules, have I...?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_pacassi_Winter Night_specialattention_001.ogg",
+      "text": "Bone-chilling winds and snowy nights are unique to Mayek, and those who stand firm in winter nights in snow gear deserve to stay in our memories eternally too..."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_pacassi_Winter Night_levelup_002.ogg",
+      "text": "Hmm, it's very warm."
+    }
+  ]
+}

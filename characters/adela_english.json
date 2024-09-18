@@ -1,5 +1,5 @@
 {
-  "Default": [
+  "default": [
     {
       "title": "Obtain the Sinner",
       "filename": "File:Vo_adela_cacha_001.ogg",
@@ -121,7 +121,7 @@
       "text": "At your service."
     }
   ],
-  "Candlelit Turret": [
+  "candlelit_turret": [
     {
       "title": "Obtain the Sinner",
       "filename": "File:Vo_adela_talouzhuguang_cacha_001.ogg",

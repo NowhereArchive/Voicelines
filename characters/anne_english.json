@@ -1,0 +1,44 @@
+{
+  "glistening_raindrops": [
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_anne_yeyuweiguang_levelup_002.ogg",
+      "text": "The first aid treatment was successful. The patient's vital signs are stable now."
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_anne_yeyuweiguang_cacha_001.ogg",
+      "text": "Sorry, I took the liberty of leaving the ballroom. I heard the concierge shouting someone had fainted and needed immediate medical attention, so I came out here to see if there was anything I could do to help. Rest assured. The patient is now out of danger."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_anne_yeyuweiguang_greeting_001.ogg",
+      "text": "Sorry to keep you waiting. I'm finished here. Let's get back to the ball."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_anne_yeyuweiguang_talk_001.ogg",
+      "text": "The patient is in stable condition now; his blood pressure, heart rate, and body temperature have all returned to normal. And I believe the ambulance crew will contact his friends. Don't worry, he is in good hands now."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_anne_yeyuweiguang_talk_002.ogg",
+      "text": "No matter what kind of attire I wear, with or without expensive jewelry, saving lives is the first instinct I respond to."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_anne_yeyuweiguang_idle_001.ogg",
+      "text": "Ah, my dress has mud on it. It doesn't seem appropriate to go back to the hall wearing a dirty dress. I should probably change into a new one."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_anne_yeyuweiguang_clicking_001.ogg",
+      "text": "My clothes are all muddy, Chief. Please be careful not to get yours dirty."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_anne_yeyuweiguang_specialattention_001.ogg",
+      "text": "Thank you for your concern. But don't worry, I'm fine, just a bit tired. I'm sure I'll feel better after getting some rest."
+    }
+  ]
+}

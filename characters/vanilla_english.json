@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_vanilla_battlelose_001.ogg",
+      "text": "It's just one failed attempt. Take everyone back. I'll repair all the damaged parts."
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_vanilla_cacha_001.ogg",
+      "text": "A discrepancy in the mechanical operation... Did you cause it... What changes will you bring to the future?"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_vanilla_promotion_001.ogg",
+      "text": "Debugging completed... I can go even further now..."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_vanilla_promotion2_001.ogg",
+      "text": "The end of change... is eternity..."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_vanilla_battlebegin_001.ogg",
+      "text": "This is a necessary process..."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_vanilla_battlewin_001.ogg",
+      "text": "I create the machines to assist you. Go, I'll always be here."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_vanilla_uniqueskill_001.ogg",
+      "text": "It ends here!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_vanilla_dead_001.ogg",
+      "text": "Everything will eventually come to a standstill at somepoint..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_vanilla_greeting_001.ogg",
+      "text": "You seem a bit different... Discrepancies arise over time. How long has it been... since we last met?"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_vanilla_talk1_001.ogg",
+      "text": "Behavior... must be guided by rules... A broken machine... will only lead one into eternal deviation... I'll fix it for you..."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_vanilla_talk1_002.ogg",
+      "text": "Don't change... Don't deny it... Stay accurate... Stay... stable... I won't break... My existence will reach the final border..."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_vanilla_talk1_003.ogg",
+      "text": "From springs and cogs... to bearings and internal combustion engines... to circuits and semiconductors... Humans today, technology a century later from my time... What will it look like..."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_vanilla_talk2_001.ogg",
+      "text": "In DisSea, all laws are distorted... Time, space, and even memory... are no longer trustworthy... Perhaps what I'm obsessed with is something that can be relied upon in this torrent."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_vanilla_talk2_003.ogg",
+      "text": "So this is what the world outside DisSea looks like now... I thought... the scenery there, the never-ending disaster, and my watchtower... would never change... until eternity..."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_vanilla_obeyfull_001.ogg",
+      "text": "I didn't understand the meaning of our encounter before... But now, I do... It's like eternal gears being worn down, errant currents returning to their source... Your arrival signaled... the everlasting first second has passed."
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_vanilla_talk2_002.ogg",
+      "text": "Time won't twist a person's mind... Despair will... Remember your purpose. Remember the earliest promise. This way... even if you're caught up by despair... it can't devour you..."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_vanilla_idle_001.ogg",
+      "text": "Time's passing... at the normal rate... I'm not used to it yet..."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_vanilla_clicking_001.ogg",
+      "text": "Why repeat such movements? Your limbs are probably malfunctioning... Let me inspect and repair them for you now..."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_vanilla_specialattention_001.ogg",
+      "text": "When my companions feel lost, they often come to me... I guess people are always seeking unchanging things as anchors in turmoil... Are you the same? Are you... feeling uneasy?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_vanilla_dispatch_001.ogg",
+      "text": "This is my direction..."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_vanilla_dispatch2_001.ogg",
+      "text": "No deviation in the return path... I'm home."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_vanilla_levelup_002.ogg",
+      "text": "It's more stable now..."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_vanilla_jointeam_001.ogg",
+      "text": "Leave... Don't come any closer."
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_vanilla_Head_001.ogg",
+      "text": "There's no switch here. You can't turn me off..."
+    }
+  ]
+}

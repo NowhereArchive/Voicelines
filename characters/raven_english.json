@@ -1,0 +1,166 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_raven_cacha_001.ogg",
+      "text": "Hey, hey, hey, I'm just a humble writer. What have I done that could get me arrested? Or... did I expose your secret?"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:Vo_raven_promotion_001.ogg",
+      "text": "Thanks for coming. I'll write an excellent story this time."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:Vo_raven_promotion2_001.ogg",
+      "text": "Hmm, this is a moment that will make history."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:Vo_raven_battlebegin_001.ogg",
+      "text": "Hopefully I'll find some interesting news material."
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:Vo_raven_battlewin_001.ogg",
+      "text": "MBCC's Sinners Achieve Overwhelming Victory! That's a nice headline, isn't it?"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:Vo_raven_battlelose_001.ogg",
+      "text": "Cough... Just as tough as some interviewees I've dealt with in the past..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:Bt_raven_uniqueskill_001.ogg",
+      "text": "Nevermore!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:Bt_raven_dead_001.ogg",
+      "text": "Haha... Will my death... be remembered...?"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_raven_greeting_001.ogg",
+      "text": "Huh? I'm not pulling an all-nighter to write. I'm staying up so I can see you as soon as you come."
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:Vo_raven_talk1_001.ogg",
+      "text": "My ghostwriting fees are cheap. Tell me, what do you want me to write? Gossip? Celebrity scandals? Or perhaps... a love poem?"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:Vo_raven_talk1_002.ogg",
+      "text": "A wacko? You know, most of us poets are a bit wacky."
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:Vo_raven_talk1_003.ogg",
+      "text": "It's just an article. Does it really matter whether it's true or not? Anyway... another spill of ink won't make a difference to Syndicate."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:Vo_raven_talk2_001.ogg",
+      "text": "I know about every change here every day. Do you know what it's falling into now? Take a guess?"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:Vo_raven_talk2_002.ogg",
+      "text": "I don't write stories about missing dogs and cats. I want to write about... the MBCC's chief being lovesick and not leave my tiny newspaper office!"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:Vo_raven_talk2_003.ogg",
+      "text": "Words have a natural power in them. Their every pulse becomes my resistance against this world."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:Vo_raven_obeyfull_001.ogg",
+      "text": "I record everything in Syndicate with a quill. Obviously, when you came to me... Oh, excuse me. I wanted to describe it with a line of poetry, but I don't quite have it. You'll have my sincerity, at least."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_raven_idle_001.ogg",
+      "text": "What a boring day. It's the best time to present a limerick to the world."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_raven_clicking_001.ogg",
+      "text": "Is this some new way to make me write faster? In that case, I'm not taking that job from you!"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_raven_specialattention_001.ogg",
+      "text": "It seems like you care a lot about me! Are you worried about your image in my story? Relax, it's perfect."
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:Vo_raven_dispatch_001.ogg",
+      "text": "I used to love covering news outdoors, until I got shot in the knee..."
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:Vo_raven_dispatch2_001.ogg",
+      "text": "I'm exhausted... But I've found some useful material. After all, something interesting is always happening somewhere in the world."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_raven_levelup_002.ogg",
+      "text": "Raven's happy. I-I...I mean the bird."
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:Vo_raven_Head_001.ogg",
+      "text": "That's not a scar... It's my medal, my medal for becoming a wacko."
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:Bt_raven_jointeam_001.ogg",
+      "text": "Who put a glass and roses on my grave?"
+    }
+  ],
+  "arnheim_athenaeum": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_cacha_001.ogg",
+      "text": "Oh my, are you the end of my thousand-year-long waiting, the observer who adores me? Want my autograph?"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_levelup_002.ogg",
+      "text": "Tell me, what secrets do you want to hear?"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_greeting_001.ogg",
+      "text": "Thirsty for the future of this world or the Paramartha of past history? Come, let me take you on a quest. Hmmm, where did the previous owner put that book...? Huh? The previous? Haha... Did I say \"previous owner\"? You must've heard me wrong... Haha."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_talk_001.ogg",
+      "text": "When in trouble, come to the library. It has the answers to all."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_talk_002.ogg",
+      "text": "Don't be surprised if you see a crow reading here. It could be the previous owner returning to patrol her treasures."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_idle_001.ogg",
+      "text": "The rules dictate that I can only answer the questions that this library has answers to, and you can only ask 3 questions each turn, so query after careful thought."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_clicking_001.ogg",
+      "text": "Hey hey hey, this is a dress made by the rules of the world! You... Tsk, Etti rented this dress for me. It's very expensive. Be careful not to tear it!"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:Vo_raven_aenhaimuzhiguan_specialattention_001.ogg",
+      "text": "Are you curious about who I am? Do I look like someone you are very familiar with?"
+    }
+  ]
+}
