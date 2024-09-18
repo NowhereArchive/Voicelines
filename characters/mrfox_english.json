@@ -2,117 +2,117 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:vo_mr__fox_cacha_001.ogg",
+      "filename": "File:vo_mr._fox_cacha_001.ogg",
       "text": "According to the legislation, I cannot resist your arrest, but I want you to know that you can never trap me if I want to leave."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:vo_mr__fox_promotion_001.ogg",
+      "filename": "File:vo_mr._fox_promotion_001.ogg",
       "text": "Well, would you like to have a little chat with me now?"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:vo_mr__fox_promotion2_001.ogg",
+      "filename": "File:vo_mr._fox_promotion2_001.ogg",
       "text": "Thank you for sending me into the depths of hell."
     },
     {
       "title": "Level Start",
-      "filename": "File:vo_mr__fox_battlebegin_001.ogg",
+      "filename": "File:vo_mr._fox_battlebegin_001.ogg",
       "text": "Don't let me find your legal loophole."
     },
     {
       "title": "Win Battles",
-      "filename": "File:vo_mr__fox_battlewin_001.ogg",
+      "filename": "File:vo_mr._fox_battlewin_001.ogg",
       "text": "Listen to your lawyer, and I will help you win it all."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:vo_mr__fox_battlelose_001.ogg",
+      "filename": "File:vo_mr._fox_battlelose_001.ogg",
       "text": "How much money does it take to change your mind?"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:bt_mr__fox_uniqueskill_001.ogg",
+      "filename": "File:bt_mr._fox_uniqueskill_001.ogg",
       "text": "Do as I say."
     },
     {
       "title": "Die in Battles",
-      "filename": "File:bt_mr__fox_dead_001.ogg",
+      "filename": "File:bt_mr._fox_dead_001.ogg",
       "text": "This is the judgment... I deserve."
     },
     {
       "title": "Greeting",
-      "filename": "File:vo_mr__fox_greeting_001.ogg",
+      "filename": "File:vo_mr._fox_greeting_001.ogg",
       "text": "When there is a lawyer, there is strife. Only you can cope so well with having a lawyer as the first person you see each day."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:vo_mr__fox_talk1_001.ogg",
+      "filename": "File:vo_mr._fox_talk1_001.ogg",
       "text": "The scale is the symbol of law, and I can tip it in your favor."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:vo_mr__fox_talk1_002.ogg",
+      "filename": "File:vo_mr._fox_talk1_002.ogg",
       "text": "Mr. Fox? I like the name. It's one of the smartest animals."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:vo_mr__fox_talk1_003.ogg",
+      "filename": "File:vo_mr._fox_talk1_003.ogg",
       "text": "Everyone is born with the right to pursue justice with whatever method is employed."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:vo_mr__fox_talk2_001.ogg",
+      "filename": "File:vo_mr._fox_talk2_001.ogg",
       "text": "When gold coins are piled in front of people, many will trade their souls for it... and I gain justice from it."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:vo_mr__fox_talk2_002.ogg",
+      "filename": "File:vo_mr._fox_talk2_002.ogg",
       "text": "I am capable of getting you to do anything for me... but I can't bring myself to."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:vo_mr__fox_talk2_003.ogg",
+      "filename": "File:vo_mr._fox_talk2_003.ogg",
       "text": "If someone destroys the tender flower buds, they deserve hell no matter who it is, right?"
     },
     {
       "title": "Compliance",
-      "filename": "File:vo_mr__fox_obeyfull_001.ogg",
+      "filename": "File:vo_mr._fox_obeyfull_001.ogg",
       "text": "One day, you will bring punishment upon me, and I shall submit and accept it all."
     },
     {
       "title": "Idle",
-      "filename": "File:vo_mr__fox_idle_001.ogg",
+      "filename": "File:vo_mr._fox_idle_001.ogg",
       "text": "As it happens, I have a few more files I need to read through. I'll grab a coffee with you later."
     },
     {
       "title": "Annoyed",
-      "filename": "File:vo_mr__fox_clicking_001.ogg",
+      "filename": "File:vo_mr._fox_clicking_001.ogg",
       "text": "I have represented and won 38 cases of physical harassment, and you should know this, right?"
     },
     {
       "title": "Special Attention",
-      "filename": "File:vo_mr__fox_specialattention_001.ogg",
+      "filename": "File:vo_mr._fox_specialattention_001.ogg",
       "text": "I thought I would never get to experience this... feeling of special attention here."
     },
     {
       "title": "Dispatch",
-      "filename": "File:vo_mr__fox_dispatch_001.ogg",
+      "filename": "File:vo_mr._fox_dispatch_001.ogg",
       "text": "I charge by the hour for working outside the office. It doesn't include additional fees such as consulting fees."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:vo_mr__fox_dispatch2_001.ogg",
+      "filename": "File:vo_mr._fox_dispatch2_001.ogg",
       "text": "Job done. The bill will be sent to your email later. Please remember to pay on time."
     },
     {
       "title": "Level Up",
-      "filename": "File:vo_mr__fox_levelup_002.ogg",
+      "filename": "File:vo_mr._fox_levelup_002.ogg",
       "text": "Well, if you want to know whether I'm more eloquent, you can find out yourself."
     },
     {
       "title": "Deploy",
-      "filename": "File:bt_mr__fox_jointeam_001.ogg",
+      "filename": "File:bt_mr._fox_jointeam_001.ogg",
       "text": "The war without gunfire is the war of words."
     }
   ],
@@ -124,42 +124,42 @@
     },
     {
       "title": "Obtain the Sinner",
-      "filename": "File:vo_mr__fox_twilight_game_cacha_001.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_cacha_001.ogg",
       "text": "My dear friend, congratulations on crossing the twilight zone, and welcome to my palace."
     },
     {
       "title": "Level Up",
-      "filename": "File:vo_mr__fox_twilight_game_levelup_001.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_levelup_001.ogg",
       "text": "Let's hear what you think."
     },
     {
       "title": "Greeting",
-      "filename": "File:vo_mr__fox_twilight_game_greeting_001.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_greeting_001.ogg",
       "text": "I offer you my goodwill, my dear friend, but... don't take it too seriously"
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:vo_mr__fox_twilight_game_talk_001.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_talk_001.ogg",
       "text": "Pleasing poems and sweet serenades gush forth from my mouth and turn into sharp crescents."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:vo_mr__fox_twilight_game_talk_002.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_talk_002.ogg",
       "text": "I control all fairness, justice, metrology, and poetry in this world... Do you... wish to subvert me?"
     },
     {
       "title": "Idle",
-      "filename": "File:vo_mr__fox_twilight_game_idle_001.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_idle_001.ogg",
       "text": "Don't worry. There's still time for you to find a way to pry the victory from my hands."
     },
     {
       "title": "Annoyed",
-      "filename": "File:vo_mr__fox_twilight_game_clicking_001.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_clicking_001.ogg",
       "text": "This is not the way to light a fire..."
     },
     {
       "title": "Special Attention",
-      "filename": "File:vo_mr__fox_twilight_game_specialattention_001.ogg",
+      "filename": "File:vo_mr._fox_twilight_game_specialattention_001.ogg",
       "text": "Can you get the answer you want by just staring at me?"
     }
   ]
