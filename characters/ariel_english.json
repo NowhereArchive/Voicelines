@@ -2,123 +2,227 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_ariel_cacha_001.ogg",
+      "filename": "File:vo_ariel_cacha_001.ogg",
       "text": "I came crawling back after doing so many wrong things... Chief, please don't tell my father. I can't bring more shame to my family."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_ariel_promotion_001.ogg",
+      "filename": "File:vo_ariel_promotion_001.ogg",
       "text": "I don't want anyone else to get hurt."
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_ariel_promotion2_001.ogg",
+      "filename": "File:vo_ariel_promotion2_001.ogg",
       "text": "This way, I can help alleviate more people's suffering. Sorry... you must have been waiting for a long time."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_ariel_battlebegin_001.ogg",
+      "filename": "File:vo_ariel_battlebegin_001.ogg",
       "text": "Don't let go of my hand."
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_ariel_battlewin_001.ogg",
+      "filename": "File:vo_ariel_battlewin_001.ogg",
       "text": "Thank you everyone for your hard work!"
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_ariel_battlelose_001.ogg",
+      "filename": "File:vo_ariel_battlelose_001.ogg",
       "text": "I'm sorry, it's all my fault... I messed things up for everyone..."
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_ariel_uniqueskill_001.ogg",
+      "filename": "File:bt_ariel_uniqueskill_001.ogg",
       "text": "This is my resolution!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_ariel_dead_001.ogg",
+      "filename": "File:bt_ariel_dead_001.ogg",
       "text": "I still... can't do anything..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_ariel_greeting_001.ogg",
+      "filename": "File:vo_ariel_greeting_001.ogg",
       "text": "Chief, you look tired. Want me to help you relax? I know a thing or two about relieving pressure."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_ariel_talk1_001.ogg",
+      "filename": "File:vo_ariel_talk1_001.ogg",
       "text": "Why does everyone keep staring at my clothes? This is the most basic gown my family owns..."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_ariel_talk1_002.ogg",
+      "filename": "File:vo_ariel_talk1_002.ogg",
       "text": "I'm sorry, Chief... As a Sinner, I don't have any special combat skills, but I hope I can help others with my healing power. Even... even if I can help just a little bit."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_ariel_talk1_003.ogg",
+      "filename": "File:vo_ariel_talk1_003.ogg",
       "text": "I'm a member of the Spencer family... but don't call me something pretentious like \"my lady\"... Call me Ariel."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_ariel_talk2_001.ogg",
+      "filename": "File:vo_ariel_talk2_001.ogg",
       "text": "Chief... do you have any older siblings? It's exhausting to try to live up to talented siblings. Sometimes... I feel that it's hopeless no matter how hard I try..."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_ariel_talk2_002.ogg",
+      "filename": "File:vo_ariel_talk2_002.ogg",
       "text": "Oh Corruptors... your bodies are rotting constantly, so you must feel a lot of pain. Your disfigurement and pain is worsening... I'm sorry, I will definitely try to become stronger to save you."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_ariel_talk2_003.ogg",
+      "filename": "File:vo_ariel_talk2_003.ogg",
       "text": "Please don't stay up too late, it's not good for your health. Let me help you finish this work! Sigh... are you staying up late because I suck at my job? I'm sorry! It's all my fault!"
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_ariel_obeyfull_001.ogg",
+      "filename": "File:vo_ariel_obeyfull_001.ogg",
       "text": "Please don't venture off too far from me on our next mission... If we get split up again, we'll become the laughing stock."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_ariel_idle_001.ogg",
+      "filename": "File:vo_ariel_idle_001.ogg",
       "text": "What can I do to help? Sigh... no! I cannot give up. I know I can succeed!"
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_ariel_clicking_001.ogg",
+      "filename": "File:vo_ariel_clicking_001.ogg",
       "text": "Chief... if I did anything wrong, please tell me directly... please... please don't be like this..."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_ariel_specialattention_001.ogg",
+      "filename": "File:vo_ariel_specialattention_001.ogg",
       "text": "Huh? ... Chief, why are you staring at me like this? ... Did I do something wrong?"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_ariel_dispatch_001.ogg",
+      "filename": "File:vo_ariel_dispatch_001.ogg",
       "text": "I will succeed this time!"
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_ariel_dispatch2_001.ogg",
+      "filename": "File:vo_ariel_dispatch2_001.ogg",
       "text": "I hope I didn't embarrass the Spencer family...?"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_ariel_levelup_002.ogg",
+      "filename": "File:vo_ariel_levelup_002.ogg",
       "text": "I hope I can become an asset to you."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_ariel_jointeam_001.ogg",
+      "filename": "File:bt_ariel_jointeam_001.ogg",
       "text": "I don't like to fight, but I don't like to flee either."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_ariel_Head_001.ogg",
+      "filename": "File:vo_ariel_head_001.ogg",
       "text": "Hmm? Chief... your hand is a bit cold."
+    }
+  ],
+  "silent_nocturne": [
+    {
+      "title": "No",
+      "filename": "File:unknown.ogg",
+      "text": "2"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_ariel_jingmiyequ_cacha_001.ogg",
+      "text": "Can I really take this dress? Thank you, Chief. In return for your kindness... let me play a song for you."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_ariel_jingmiyequ_levelup_001.ogg",
+      "text": "I hope you like my performance."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_ariel_jingmiyequ_greeting_001.ogg",
+      "text": "You look tired. Would you like to listen to some soothing music on the piano?"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_ariel_jingmiyequ_head_001.ogg",
+      "text": "Aw... I can't concentrate... like this..."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_ariel_jingmiyequ_talk_001.ogg",
+      "text": "Music... expresses a wide gamut of emotions. Well... I wonder if you felt my emotions, Chief?"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_ariel_jingmiyequ_talk_002.ogg",
+      "text": "I can't help feeling a little nervous when I think about playing the piano in front of you..."
+    },
+    {
+      "title": "Ordinary Contact 3",
+      "filename": "File:vo_ariel_jingmiyequ_hand_001.ogg",
+      "text": "Chief... If you don't mind, will you play a duet with me?"
+    },
+    {
+      "title": "Ordinary Contact 4",
+      "filename": "File:vo_ariel_jingmiyequ_leg_001.ogg",
+      "text": "I often forget to release the right pedal when I'm nervous... Sorry, did it sound terrible?"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_ariel_jingmiyequ_idle_001.ogg",
+      "text": "Hmm... Which song should I practice today... Would the Chief like this one?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_ariel_jingmiyequ_specialattention_001.ogg",
+      "text": "Oh? Do you want to hear something else...? Phew—I'm glad I have prepared other songs as well."
+    }
+  ],
+  "cageling": [
+    {
+      "title": "No",
+      "filename": "File:unknown.ogg",
+      "text": "3"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_ariel_longzhongniao_cacha_001.ogg",
+      "text": "Lush green gardens, grand golden halls, and... cramped rooms. (Sigh) This is the Spencer house, a place I can never leave."
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_ariel_longzhongniao_levelup_001.ogg",
+      "text": "It seems... I can see further out."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_ariel_longzhongniao_greeting_001.ogg",
+      "text": "My mood always gets a lot better every time I see these flowers in my room."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_ariel_longzhongniao_talk_001.ogg",
+      "text": "I've always wondered... if I'd run away from home and hid in where they have to search for one whole day, then, would they... care about me a little more?"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_ariel_longzhongniao_talk_002.ogg",
+      "text": "I've heard... that anyone or anything that got tainted with Mania will become the most evil beings in the world... But, they didn't become like that voluntarily, did they? They must be in pain too... If only I could help them..."
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_ariel_longzhongniao_idle_001.ogg",
+      "text": "(Sigh) My big brothers and sisters are all so outstanding. I wish I could be like them..."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_ariel_longzhongniao_clicking_001.ogg",
+      "text": "How much longer will this monotonous life continue?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_ariel_longzhongniao_specialattention_001.ogg",
+      "text": "At tomorrow's ball, I must bring out the best in me and do the Spencer family proud! Oh, I almost forgot to get my dress ready."
     }
   ]
 }

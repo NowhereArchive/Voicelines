@@ -2,117 +2,117 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_yanyan_cacha_001.ogg",
+      "filename": "File:vo_yanyan_cacha_001.ogg",
       "text": "What exactly does your M... B... you know, that Bureau of yours do? Who are the people in it? Am I supposed to stay in there too? How long do I have to stay? Hmm... And what time is breakfast? What fun stuff is there?"
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_yanyan_promotion_001.ogg",
+      "filename": "File:vo_yanyan_promotion_001.ogg",
       "text": "I've re-read the myth of the Sun Crow and I've discovered something new! Hear me out..."
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_yanyan_promotion2_001.ogg",
+      "filename": "File:vo_yanyan_promotion2_001.ogg",
       "text": "When the last sun falls, the survival land will also be scarred... Uh... Did I say something just now?"
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_yanyan_battlebegin_001.ogg",
+      "filename": "File:vo_yanyan_battlebegin_001.ogg",
       "text": "What's that over there? It's moving! Come on, let's have a closer look!"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_yanyan_battlewin_001.ogg",
+      "filename": "File:vo_yanyan_battlewin_001.ogg",
       "text": "Where do you guys come from? Where will you go after I defeat you? Your weapons... Hey! I haven't finished my questions, why are they running so fast?"
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_yanyan_battlelose_001.ogg",
+      "filename": "File:vo_yanyan_battlelose_001.ogg",
       "text": "Sob... Why aren't they afraid of my flaming slingshot!?"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_yanyan_uniqueskill_001.ogg",
+      "filename": "File:bt_yanyan_uniqueskill_001.ogg",
       "text": "Eternal flame, indestructible!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_yanyan_dead_001.ogg",
+      "filename": "File:bt_yanyan_dead_001.ogg",
       "text": "I must find..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_yanyan_greeting_001.ogg",
+      "filename": "File:vo_yanyan_greeting_001.ogg",
       "text": "Hey! Ha! ...Oh, I'm working out, would you like to join? I learned these moves from my neighbor back home. It's great for your health, and it works wonders! My neighbor gramps does it every day, and I've never seen him sick!"
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_yanyan_talk1_001.ogg",
+      "filename": "File:vo_yanyan_talk1_001.ogg",
       "text": "DisCity has many interesting legends, like how the cupcakes in Eastside are incredibly delicious... Could this also be a sacred sign? Yes, very likely, I must go check it out... But what should I bring? The address is clear, so I probably don't need the compass? Then... a bowl? Napkins? A small spoon?"
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_yanyan_talk1_002.ogg",
+      "filename": "File:vo_yanyan_talk1_002.ogg",
       "text": "Why does it rarely rain in DisCity? Why do you use Hypercubes as your currency? Why do you have so many documents to read every day? Why are your shackles red? Can they turn yellow, green, or purple? And why do you wear the same coat every day? Do you really only have one coat or do all your coats look exactly the same...?"
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_yanyan_talk1_003.ogg",
+      "filename": "File:vo_yanyan_talk1_003.ogg",
       "text": "When the Sun Crow descends, the day will never end. The last drop of water will evaporate, and the vegetation will wither on the scorched earth... Huh? Why are you making that face? Oh, They must have spoken through me again. Hehe, you'll get used to it, I wouldn't be alive today without Them."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_yanyan_talk2_001.ogg",
+      "filename": "File:vo_yanyan_talk2_001.ogg",
       "text": "My grandmother said that I am a chosen and blessed child, and pursuing the gods is my destiny... I really saw Them! They must be hiding somewhere in this vast world! If I can't find Them today, I'll keep looking for Them tomorrow; if I can't find Them here, I'll go somewhere else... I've got a whole life in front of me, I'm sure we'll meet one day!"
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_yanyan_talk2_002.ogg",
+      "filename": "File:vo_yanyan_talk2_002.ogg",
       "text": "Wait, wait, wait! Don't rush off, how did you place your shoes when you went to bed last night? The toe facing out? Good... And which foot did you step out of the room with first? Right foot, hmm... And did your eyelid twitch? Left eye? Right eye? Neither twitched... Phew, what a relief! You can go out with peace of mind now, nothing will harm you today."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_yanyan_talk2_003.ogg",
+      "filename": "File:vo_yanyan_talk2_003.ogg",
       "text": "At first, I thought everything here was different from my hometown, but after staying for a while, I found that everything seems the same. Like everyone in the Bureau, they're all very nice people and care for each other like a family... And you! You're the first DisFriend I've made, and I want to introduce you to my grandmother. She'll be so happy!"
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_yanyan_obeyfull_001.ogg",
+      "filename": "File:vo_yanyan_obeyfull_001.ogg",
       "text": "The ruins under the lake, the secret texts in the cave, and the bone that is said to grow one inch every year... And many more sacred signs my grandmother wrote in her notes, do you want to see them with me? Not everyone can see these things, just you and me! ...Hehe, I knew you couldn't refuse! Let's set off tomorrow. Ah wait, how about now!"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_yanyan_idle_001.ogg",
+      "filename": "File:vo_yanyan_idle_001.ogg",
       "text": "...Hehe, grandma's beef soup is the best in the whole world... I... I want more..."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_yanyan_clicking_001.ogg",
+      "filename": "File:vo_yanyan_clicking_001.ogg",
       "text": "No, no, no! That's not how you use the Dragon Seeking Ruler! You have to hold the handle, then think about what you want to find in your heart, and it will start to spin by itself... Huh? How was the mechanism designed? Uh... Design... Mechanism... Th-the mechanism is a secret! Yes, a secret! How can I casually tell you the tricks of the mysterious Eastern power!"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_yanyan_dispatch_001.ogg",
+      "filename": "File:vo_yanyan_dispatch_001.ogg",
       "text": "Heaven and Earth, the vast universe. The compass turns, and the good luck returns! ...Ahem, the compass points to the North, it must be that way!"
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_yanyan_dispatch2_001.ogg",
+      "filename": "File:vo_yanyan_dispatch2_001.ogg",
       "text": "Ah...? Is it time to go back already...? I haven't had enough fun yet..."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_yanyan_specialattention_001.ogg",
+      "filename": "File:vo_yanyan_specialattention_001.ogg",
       "text": "...Ha, I get it! You must want to have a staring contest with me, right! Hehe, bring it on, I'm really good at this. The first one to blink can't ask questions for three days!"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_yanyan_levelup_002.ogg",
+      "filename": "File:vo_yanyan_levelup_002.ogg",
       "text": "Tell me more folklore about this place, myths, legends, whatever it may be, tell me more, tell me more!"
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_yanyan_jointeam_001.ogg",
+      "filename": "File:bt_yanyan_jointeam_001.ogg",
       "text": "Oh! Are we going to beat up the bad guys?! Surely I'll give those baddies a taste of fire!"
     }
   ]

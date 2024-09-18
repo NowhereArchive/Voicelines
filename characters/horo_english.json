@@ -2,159 +2,159 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_horo_cacha_001.ogg",
+      "filename": "File:vo_horo_cacha_001.ogg",
       "text": "Here again?! Let me out! The Legion won't let you off! My boss will come and crash this dump. You hear me?!"
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_horo_promotion_001.ogg",
+      "filename": "File:vo_horo_promotion_001.ogg",
       "text": "Wow, this power... Let me try it out on Boss Zoya now!"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_horo_promotion2_001.ogg",
+      "filename": "File:vo_horo_promotion2_001.ogg",
       "text": "From now on, leave the Legion to me."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_horo_battlebegin_001.ogg",
+      "filename": "File:vo_horo_battlebegin_001.ogg",
       "text": "Don't worry. I've got you covered."
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_horo_battlewin_001.ogg",
+      "filename": "File:vo_horo_battlewin_001.ogg",
       "text": "Humph, now you know I'm not to be messed with."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_horo_battlelose_001.ogg",
+      "filename": "File:vo_horo_battlelose_001.ogg",
       "text": "It's okay. As long as we're still alive, we have a chance to win!"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_horo_uniqueskill_001.ogg",
+      "filename": "File:bt_horo_uniqueskill_001.ogg",
       "text": "Ah!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_horo_dead_001.ogg",
+      "filename": "File:bt_horo_dead_001.ogg",
       "text": "We... won't lose..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_horo_greeting_001.ogg",
+      "filename": "File:vo_horo_greeting_001.ogg",
       "text": "Yo, you're here? I'm warming up. Wanna join me? A great warrior should never neglect training, or their body will get stiff. That's what Boss Zoya taught me!"
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_horo_talk1_001.ogg",
+      "filename": "File:vo_horo_talk1_001.ogg",
       "text": "We both came out of the same mother, why is Earl so tall... Wait and see, I'll outgrow him."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_horo_talk1_002.ogg",
+      "filename": "File:vo_horo_talk1_002.ogg",
       "text": "The secret to being strong? Training, unrelenting courage, and a liter of milk per day... What are you laughing at?! Nutrition's important!"
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_horo_talk1_003.ogg",
+      "filename": "File:vo_horo_talk1_003.ogg",
       "text": "My bros at the Legion gave me this axe. What do you think? It goes with my bravery and invincibility, right?"
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_horo_talk2_001.ogg",
+      "filename": "File:vo_horo_talk2_001.ogg",
       "text": "Boss Zoya is incredibly strong, thoughtful, and brainy. I wish I could be like her someday. Well, I'd be happy if I'm half as good as she is."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_horo_talk2_002.ogg",
+      "filename": "File:vo_horo_talk2_002.ogg",
       "text": "Dresses? I don't wear dresses. They're inconvenient to fight in and very revealing. You... You liar! I wasn't staring at the dress in the window last time... Shut up!"
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_horo_talk2_003.ogg",
+      "filename": "File:vo_horo_talk2_003.ogg",
       "text": "I'm strong now and will no longer be a burden to anyone. But the person I cared about the most isn't there anymore."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_horo_obeyfull_001.ogg",
+      "filename": "File:vo_horo_obeyfull_001.ogg",
       "text": "You were lying when you said Boss Zoya sent you to save me, right? Humph. Fine, I forgive you. I won't repeat the stupid mistake of... bickering with important people over little things."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_horo_idle_001.ogg",
+      "filename": "File:vo_horo_idle_001.ogg",
       "text": "Hey, do you know where the Supply Office is? That purple-haired chick said she is getting rid of the soon out-of-date mil... merchandise. 50% off for everything. Let me go check it out."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_horo_clicking_001.ogg",
+      "filename": "File:vo_horo_clicking_001.ogg",
       "text": "Ah! Don't run! I'll chop your head off!"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_horo_specialattention_001.ogg",
+      "filename": "File:vo_horo_specialattention_001.ogg",
       "text": "What did you come to see me for? Just to look at me? What's there to look at? Or are you here to train with me?"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_horo_dispatch_001.ogg",
+      "filename": "File:vo_horo_dispatch_001.ogg",
       "text": "Don't worry. I'll take care of it."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_horo_dispatch2_001.ogg",
+      "filename": "File:vo_horo_dispatch2_001.ogg",
       "text": "You've asked me to help now. Isn't this just a piece of cake or what?"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_horo_levelup_002.ogg",
+      "filename": "File:vo_horo_levelup_002.ogg",
       "text": "Yes! Give me some more."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_horo_jointeam_001.ogg",
+      "filename": "File:bt_horo_jointeam_001.ogg",
       "text": "Legion, let's go!"
     }
   ],
   "limit_breaker": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_horo_jixianyundongjihua_cacha_001.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_cacha_001.ogg",
       "text": "...Why are you here? Just to check on me? What's there to check? Well, since you're here, why not work out with me for a bit? Do you see how skinny you are? I'm worried a gust of wind from DisSea might blow you away one day."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_horo_jixianyundongjihua_greeting_001.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_greeting_001.ogg",
       "text": "Do you know what time it is already? Still hanging around here, huh? A top-notch warrior never skimps on training! Come on, let's run 2 miles to warm up."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_horo_jixianyundongjihua_talk_001.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_talk_001.ogg",
       "text": "Hmm... Five sets of lat pulldowns, five sets of reverse grip lat pulldowns, five sets of dumbbell curls, and five sets of barbell curls. This is just the workout plan for the first phase. After we finish these, we can... Hey, where are you going? Fine, we'll start with three sets. Three sets, okay?"
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_horo_jixianyundongjihua_talk_002.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_talk_002.ogg",
       "text": "What's that saying again? Something about... quantity leading to... some kind of change... Ugh, I can't remember! Anyway, the point is, consistent training is definitely the right way to go! One day, I'll surpass him and even Boss Zoya to become the strongest in the Legion!"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_horo_jixianyundongjihua_idle_001.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_idle_001.ogg",
       "text": "Ugh, this strawberry flavor is way too strong, it's sickeningly sweet... O-of course, I know egg albumen powder should be mixed with water, but don't you want to know what the powder tastes like?!"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_horo_jixianyundongjihua_specialattention_001.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_specialattention_001.ogg",
       "text": "How are you supposed to work out with me dressed like that? Come on, let's head back to the Legion. I'll let them get you something comfortable."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_horo_jixianyundongjihua_levelup_002.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_levelup_001.ogg",
       "text": "(Gulp) Ah! Nothing beats a glass of milk after a good workout!"
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_horo_jixianyundongjihua_clicking_001.ogg",
+      "filename": "File:vo_horo_jixianyundongjihua_clicking_001.ogg",
       "text": "Hey, watch it! This jacket cost me a pretty penny. It's not just any jacket, it's the soul of the Legion! You want to try it on? Alright, considering your respect for the Legion, I'll... Uh... Wait! Let me wash it first..."
     }
   ]

@@ -2,117 +2,117 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_flora_cacha_001.ogg",
+      "filename": "File:vo_flora_cacha_001.ogg",
       "text": "Eastside Firefighting Ambassador Flora reporting for duty! Wherever I am, not a single spark will appear! Really!"
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_flora_promotion_001.ogg",
+      "filename": "File:vo_flora_promotion_001.ogg",
       "text": "This makes putting out fires a lot easier. You can look forward to my performance, Chief."
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_flora_promotion2_001.ogg",
+      "filename": "File:vo_flora_promotion2_001.ogg",
       "text": "If only I had this power before the big fire... but now, I can do more!"
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_flora_battlebegin_001.ogg",
+      "filename": "File:vo_flora_battlebegin_001.ogg",
       "text": "Keep up! Don't fall behind!"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_flora_battlewin_001.ogg",
+      "filename": "File:vo_flora_battlewin_001.ogg",
       "text": "Preparing to return. Currently at the handover scene."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_flora_battlelose_001.ogg",
+      "filename": "File:vo_flora_battlelose_001.ogg",
       "text": "The fire is out of control."
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_flora_uniqueskill_001.ogg",
+      "filename": "File:bt_flora_uniqueskill_001.ogg",
       "text": "Spray with the hose!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_flora_dead_001.ogg",
+      "filename": "File:bt_flora_dead_001.ogg",
       "text": "There are still people who are... who are..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_flora_greeting_001.ogg",
+      "filename": "File:vo_flora_greeting_001.ogg",
       "text": "Good morning, Chief. Remember to check the fire equipment regularly. Safety first!"
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_flora_talk1_001.ogg",
+      "filename": "File:vo_flora_talk1_001.ogg",
       "text": "I don't like to use the firefighter's ax... I always hurt my teammates by accident."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_flora_talk1_002.ogg",
+      "filename": "File:vo_flora_talk1_002.ogg",
       "text": "My ex-coworkers always act weird around me. Am I being ostracized?"
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_flora_talk1_003.ogg",
+      "filename": "File:vo_flora_talk1_003.ogg",
       "text": "Give me anything with a hose and I can put out a fire! Hehe... it's just a matter of precision."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_flora_talk2_001.ogg",
+      "filename": "File:vo_flora_talk2_001.ogg",
       "text": "Sorry, I don't hate people who use flames as weapons, but... forget it. I will definitely keep an eye on them. After all, the best cure is prevention!"
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_flora_talk2_002.ogg",
+      "filename": "File:vo_flora_talk2_002.ogg",
       "text": "I once thought I could also help others as a firefighting ambassador, until I saw the burning buildings and heard those wailing for help. It was then that I realized where I truly belonged: in the middle of a firestorm."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_flora_talk2_003.ogg",
+      "filename": "File:vo_flora_talk2_003.ogg",
       "text": "I prefer long hair over short hair, but it's really inconvenient to have long hair while fighting fires."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_flora_obeyfull_001.ogg",
+      "filename": "File:vo_flora_obeyfull_001.ogg",
       "text": "Even though there are no fire hazards here, I get to help more people. Thank you, Chief... this was what I wanted."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_flora_idle_001.ogg",
+      "filename": "File:vo_flora_idle_001.ogg",
       "text": "Uhhh... how high should I aim the hose? One sec! Let me check the manual."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_flora_clicking_001.ogg",
+      "filename": "File:vo_flora_clicking_001.ogg",
       "text": "Don't distract me! I need to train!"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_flora_specialattention_001.ogg",
+      "filename": "File:vo_flora_specialattention_001.ogg",
       "text": "It's my job to teach you about fire safety! Please turn to the first page of the fire safety manual!"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_flora_dispatch_001.ogg",
+      "filename": "File:vo_flora_dispatch_001.ogg",
       "text": "Flora is all prepared and waiting to go."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_flora_dispatch2_001.ogg",
+      "filename": "File:vo_flora_dispatch2_001.ogg",
       "text": "Mission accomplished. Flora has returned to the brigade!"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_flora_levelup_002.ogg",
+      "filename": "File:vo_flora_levelup_002.ogg",
       "text": "I've grown stronger again."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_flora_jointeam_001.ogg",
+      "filename": "File:bt_flora_jointeam_001.ogg",
       "text": "Gear up and prepare to go!"
     }
   ]

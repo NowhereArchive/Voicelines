@@ -2,117 +2,117 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_peggy_cacha_001.ogg",
+      "filename": "File:vo_peggy_cacha_001.ogg",
       "text": "This is da Syndicate gangsta rapper. Who are you, lookin' dumb as loser? This way of life, betta play it cooler, or I'll take away all your moola..."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_peggy_promotion_001.ogg",
+      "filename": "File:vo_peggy_promotion_001.ogg",
       "text": "An inspiration for a new song!"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_peggy_promotion2_001.ogg",
+      "filename": "File:vo_peggy_promotion2_001.ogg",
       "text": "Now this is fit for a star!"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_peggy_levelup_002.ogg",
+      "filename": "File:vo_peggy_levelup_002.ogg",
       "text": "The rhyme is smoother now."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_peggy_battlebegin_001.ogg",
+      "filename": "File:vo_peggy_battlebegin_001.ogg",
       "text": "Keep up with my rhythm!"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_peggy_battlewin_001.ogg",
+      "filename": "File:vo_peggy_battlewin_001.ogg",
       "text": "You want to defeat me? Dream on!"
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_peggy_battlelose_001.ogg",
+      "filename": "File:vo_peggy_battlelose_001.ogg",
       "text": "Rippp—there are bound to be some mistakes in improvisation."
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_peggy_uniqueskill_001.ogg",
+      "filename": "File:bt_peggy_uniqueskill_001.ogg",
       "text": "Drop the beat!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_peggy_dead_001.ogg",
+      "filename": "File:bt_peggy_dead_001.ogg",
       "text": "This isn't hip hop at all..."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_peggy_talk1_001.ogg",
+      "filename": "File:vo_peggy_talk1_001.ogg",
       "text": "I still prefer to have a gold chain. It's easier to sell during an emergency, and you can even throw it in someone's face during a fight... I really don't know why my colleagues prefer diamonds."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_peggy_talk1_002.ogg",
+      "filename": "File:vo_peggy_talk1_002.ogg",
       "text": "When will you give me a complete audio mixer? Right now I only have this broken tape recorder. So humiliating for a rap superstar like me!"
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_peggy_talk1_003.ogg",
+      "filename": "File:vo_peggy_talk1_003.ogg",
       "text": "I hate people who wear sunglasses indoors. Which serious rapper would do that to look cool?"
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_peggy_talk2_001.ogg",
+      "filename": "File:vo_peggy_talk2_001.ogg",
       "text": "Those Eastside f*ckers disgust me. All those contract lawyers, those regulations - they just don't want to pay. I beat the boss's face to a pulp afterwards. It was awesome, hahaha."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_peggy_talk2_002.ogg",
+      "filename": "File:vo_peggy_talk2_002.ogg",
       "text": "Write a song just to diss an idiot? That would be too boring. Only your name, Chief, deserves to appear in my work."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_peggy_talk2_003.ogg",
+      "filename": "File:vo_peggy_talk2_003.ogg",
       "text": "Let's create a new label and call it \"MBCC\"! I'll be the founder and you can be my first signed artist! Don't tell me you can't! It's easy, I'll show you."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_peggy_obeyfull_001.ogg",
+      "filename": "File:vo_peggy_obeyfull_001.ogg",
       "text": "I always thought that everyone outside of the Syndicate was a good-for-nothing, but you... you're the first person who wasn't born in the Syndicate that I can talk to. Come chill with me more often. I'll cover for you."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_peggy_greeting_001.ogg",
+      "filename": "File:vo_peggy_greeting_001.ogg",
       "text": "Oh, you're here? Get me a glass of water. I've been writing songs all day and now I'm dying of thirst."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_peggy_idle_001.ogg",
+      "filename": "File:vo_peggy_idle_001.ogg",
       "text": "Rap isn't about flaunting wealth, so don't try too hard. Red-hot lyrics and loops are all there is to it. Inspiration is like a waterfall, the battle is not lost, and the sewers are your only way out."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_peggy_clicking_001.ogg",
+      "filename": "File:vo_peggy_clicking_001.ogg",
       "text": "Where the **** are you putting your hand? Got a death wish?"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_peggy_dispatch_001.ogg",
+      "filename": "File:vo_peggy_dispatch_001.ogg",
       "text": "You want a superstar like me to run errands? Are you drunk out of your wits?"
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_peggy_dispatch2_001.ogg",
+      "filename": "File:vo_peggy_dispatch2_001.ogg",
       "text": "Done! Aren't I amazing?"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_peggy_specialattention_001.ogg",
+      "filename": "File:vo_peggy_specialattention_001.ogg",
       "text": "Want to hear me rap? Why else would you come... unless you're daydreaming that I'd work for you?"
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_peggy_jointeam_001.ogg",
+      "filename": "File:bt_peggy_jointeam_001.ogg",
       "text": "The word fail doesn't exist in my dictionary."
     }
   ]

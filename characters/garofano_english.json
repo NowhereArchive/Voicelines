@@ -2,169 +2,169 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_garofano_cacha_001.ogg",
+      "filename": "File:vo_garofano_cacha_001.ogg",
       "text": "Nice to meet you, Chief. I appreciate your consideration, but... no need to address me as Mrs. Braun... After all, that name is from the past. Please, call me Garofano."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_garofano_promotion_001.ogg",
+      "filename": "File:vo_garofano_promotion_001.ogg",
       "text": "I will do my best to protect you."
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_garofano_promotion2_001.ogg",
+      "filename": "File:vo_garofano_promotion2_001.ogg",
       "text": "Now, you will never leave me again..."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_garofano_battlebegin_001.ogg",
+      "filename": "File:vo_garofano_battlebegin_001.ogg",
       "text": "Which delusional fool dares to touch my possession?"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_garofano_battlewin_001.ogg",
+      "filename": "File:vo_garofano_battlewin_001.ogg",
       "text": "Everything's fine now. You're still by my side."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_garofano_battlelose_001.ogg",
+      "filename": "File:vo_garofano_battlelose_001.ogg",
       "text": "...No! I won't lose a thing! No more!"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_garofano_uniqueskill_001.ogg",
+      "filename": "File:bt_garofano_uniqueskill_001.ogg",
       "text": "Don't you dare!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_garofano_dead_001.ogg",
+      "filename": "File:bt_garofano_dead_001.ogg",
       "text": "It's fine. I can finally... be with you guys again"
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_garofano_greeting_001.ogg",
+      "filename": "File:vo_garofano_greeting_001.ogg",
       "text": "Is something bothering you? Whether it's trouble at work or clothes that don't fit... you can tell me, and we can sort it out together."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_garofano_talk1_001.ogg",
+      "filename": "File:vo_garofano_talk1_001.ogg",
       "text": "Mmm, maybe I'm just used to taking care of people. I really enjoy being relied on ... because in this way, no one would ever want to leave me."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_garofano_talk1_002.ogg",
+      "filename": "File:vo_garofano_talk1_002.ogg",
       "text": "Ah, your cufflink fell off. Let me patch it up for you. Shh, don't move... Relax. I'm a professional tailor. I won't hurt you."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_garofano_talk1_003.ogg",
+      "filename": "File:vo_garofano_talk1_003.ogg",
       "text": "Hmm? Why is your face so red? Am I choking you with the sewing tape? Please bear with me. This is the only way I can get your exact measurements... Didn't you say you wanted a better-fitting shirt?"
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_garofano_talk2_001.ogg",
+      "filename": "File:vo_garofano_talk2_001.ogg",
       "text": "You always give me a warm sense of familiarity. We've only known each other for a short while, yet it feels like a reunion with a long-parted family when I am around you... I haven't felt this happy for so long."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_garofano_talk2_002.ogg",
+      "filename": "File:vo_garofano_talk2_002.ogg",
       "text": "I've been through a lot of things, happy and sad. I cherish all those memories. But one can't live forever in the past, right? That's why... I'd rather cherish more what's right in front of me."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_garofano_talk2_003.ogg",
+      "filename": "File:vo_garofano_talk2_003.ogg",
       "text": "Buttons are very special accessories. They can sense human warmth and solidify emotions. That's why I've kept my brother's button close to my heart all these years... Would you like to see it?"
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_garofano_obeyfull_001.ogg",
+      "filename": "File:vo_garofano_obeyfull_001.ogg",
       "text": "I just want to button you into my body and make you mine forever... Ah, sorry, I mean, will you be mine? I will cherish you, protect you, and never let you be taken away!"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_garofano_idle_001.ogg",
+      "filename": "File:vo_garofano_idle_001.ogg",
       "text": "You're so adorable when you're asleep... I just want to hold you in my arms forever. Chief."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_garofano_clicking_001.ogg",
+      "filename": "File:vo_garofano_clicking_001.ogg",
       "text": "If you want to get closer to me, you can just tell me upfront. Don't sneak up on me like that ... I don't want my needles to pierce you by accident."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_garofano_specialattention_001.ogg",
+      "filename": "File:vo_garofano_specialattention_001.ogg",
       "text": "You want to have me too, right?"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_garofano_dispatch_001.ogg",
+      "filename": "File:vo_garofano_dispatch_001.ogg",
       "text": "Is there a door-to-door tailoring service request?"
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_garofano_dispatch2_001.ogg",
+      "filename": "File:vo_garofano_dispatch2_001.ogg",
       "text": "Don't worry. The order was completed smoothly."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_garofano_levelup_002.ogg",
+      "filename": "File:vo_garofano_levelup_002.ogg",
       "text": "I will gladly accept everything you give me."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_garofano_jointeam_001.ogg",
+      "filename": "File:bt_garofano_jointeam_001.ogg",
       "text": "All right. I'll stay with you."
     }
   ],
   "in_the_veiled_grove": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_garofano_In the Veiled Grove_cacha_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_cacha_001.ogg",
       "text": "Ah, we're trapped here together, Chief... It's as if we've been stitched together by these rain threads."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_garofano_In the Veiled Grove_levelup_002.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_levelup_001.ogg",
       "text": "The aroma of flowers, dampened by the rain, seemed stronger."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_garofano_In the Veiled Grove_greeting_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_greeting_001.ogg",
       "text": "Please stay closer to me, Chief. I'll shield you from the wind and rain."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_garofano_In the Veiled Grove_talk_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_talk_001.ogg",
       "text": "Be careful! Don't move... Your clothes have snagged in the twigs. If you struggle, they will get tangled up even more. (Chuckles) Don't worry. I'll take care of it."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_garofano_In the Veiled Grove_talk_002.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_talk_002.ogg",
       "text": "If you feel tired, you can lean against me and rest for a while. Don't worry. I'll stay by your side."
     },
     {
       "title": "Ordinary Contact 3",
-      "filename": "File:Vo_garofano_In the Veiled Grove_hand_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_hand_001.ogg",
       "text": "Oh, your hands are ice cold... No need to be nervous. I'm just trying to warm them up for you."
     },
     {
       "title": "Ordinary Contact 4",
-      "filename": "File:Vo_garofano_In the Veiled Grove_leg_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_leg_001.ogg",
       "text": "You are getting closer to me... as if you can't wait to become one of my possessions. Heh, I know that you simply want to keep us warm on this cold rainy night, right?"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_garofano_In the Veiled Grove_idle_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_idle_001.ogg",
       "text": "The task you assigned me has been accomplished. Now, let's just stay here, and make here a temporaty, little shelter that's only for us... until the rain stops."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_garofano_In the Veiled Grove_specialattention_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_specialattention_001.ogg",
       "text": "To me, your gaze is like a warm light on this rainy night, impossible to ignore..."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_garofano_In the Veiled Grove_Head_001.ogg",
+      "filename": "File:vo_garofano_in_the_veiled_grove_head_001.ogg",
       "text": "This carnation you attached to my hair will remain my most treasured possession even after the sun shines again after rain."
     }
   ]

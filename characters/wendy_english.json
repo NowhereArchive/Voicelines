@@ -2,211 +2,211 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_wendy_cacha_001.ogg",
+      "filename": "File:vo_wendy_cacha_001.ogg",
       "text": "I like... the soft touch, the rotting smell, and the crunching sound of things breaking apart, hehehe... Chief... can you satisfy me?"
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_wendy_promotion_001.ogg",
+      "filename": "File:vo_wendy_promotion_001.ogg",
       "text": "This chainsaw is razor-sharp... better be careful... hahahaha!"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_wendy_promotion2_001.ogg",
+      "filename": "File:vo_wendy_promotion2_001.ogg",
       "text": "Hehehe... I can smell the Rust."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_wendy_battlebegin_001.ogg",
+      "filename": "File:vo_wendy_battlebegin_001.ogg",
       "text": "Where? Corruptors, monsters...! Don't try to escape!"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_wendy_battlewin_001.ogg",
+      "filename": "File:vo_wendy_battlewin_001.ogg",
       "text": "Ha... mission accomplished!"
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_wendy_battlelose_001.ogg",
+      "filename": "File:vo_wendy_battlelose_001.ogg",
       "text": "I won't let you get away!"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_wendy_uniqueskill_001.ogg",
+      "filename": "File:bt_wendy_uniqueskill_001.ogg",
       "text": "Hahahaha! Does it hurt?! Does it hurt?!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_wendy_dead_001.ogg",
+      "filename": "File:bt_wendy_dead_001.ogg",
       "text": "I will... personally bury myself...!"
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_wendy_greeting_001.ogg",
+      "filename": "File:vo_wendy_greeting_001.ogg",
       "text": "Hahaha... seems like you want to cozy up to me... aren't you afraid I'll dismember you?"
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_wendy_talk1_001.ogg",
+      "filename": "File:vo_wendy_talk1_001.ogg",
       "text": "Is your body feeling stiff? How about I help you reassemble it?"
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_wendy_talk1_002.ogg",
+      "filename": "File:vo_wendy_talk1_002.ogg",
       "text": "How do y'all refer to me? The reaper, the chainsaw maniac? Hehe... well my favorite nickname is... the undertaker."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_wendy_talk1_003.ogg",
+      "filename": "File:vo_wendy_talk1_003.ogg",
       "text": "Better be careful if you're their lapdog. Someday, you'll be mercilessly abandoned too... hahaha!"
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_wendy_talk2_001.ogg",
+      "filename": "File:vo_wendy_talk2_001.ogg",
       "text": "Traitors... traitors must be killed mercilessly and thrown into the Rust. Hehe... I won't betray you, so... don't betray me either."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_wendy_talk2_002.ogg",
+      "filename": "File:vo_wendy_talk2_002.ogg",
       "text": "The sun rises and sets, and the chainsaw starts to churn... all the filth before my eyes dissolve into smithereens... let us purify, let us bury... graves are piling up by the Rust, overlooking DisCity..."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_wendy_talk2_003.ogg",
+      "filename": "File:vo_wendy_talk2_003.ogg",
       "text": "I buried all my companions in the Rust. I can still vaguely remember... their silhouettes."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_wendy_obeyfull_001.ogg",
+      "filename": "File:vo_wendy_obeyfull_001.ogg",
       "text": "I've made my decision. I will build my tomb near here, and you shall be the one to see me off. Chief... when the time comes, can you write my epitaph?"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_wendy_idle_001.ogg",
+      "filename": "File:vo_wendy_idle_001.ogg",
       "text": "Shush... I can hear the Corruptors... in the distance! No... behind you!"
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_wendy_clicking_001.ogg",
+      "filename": "File:vo_wendy_clicking_001.ogg",
       "text": "You seem interested in my body... which body part do you like? I will give it to you!"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_wendy_specialattention_001.ogg",
+      "filename": "File:vo_wendy_specialattention_001.ogg",
       "text": "You've got a sharp eye... almost as if you're going to slice me open... hehehe... it seems like we'll get along just fine."
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_wendy_dispatch_001.ogg",
+      "filename": "File:vo_wendy_dispatch_001.ogg",
       "text": "Hehe, alright! I miss the little monsters from the Rust..."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_wendy_dispatch2_001.ogg",
+      "filename": "File:vo_wendy_dispatch2_001.ogg",
       "text": "Feels so much better now that the dirty things have been dealt with, hehe."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_wendy_levelup_002.ogg",
+      "filename": "File:vo_wendy_levelup_002.ogg",
       "text": "Ah... the sound of a churning chainsaw is music to my ears!"
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_wendy_jointeam_001.ogg",
+      "filename": "File:bt_wendy_jointeam_001.ogg",
       "text": "Hmm? How come the dead can talk?"
     }
   ],
   "chainsaw_nightmare": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_wendy_lianjujinghunye_cacha_001.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_cacha_001.ogg",
       "text": "Scream and cower in fear, traitors! Enjoy your last moments—\"Chainsaw Wendy\" is here! You can't get away from me!"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_wendy_lianjujinghunye_levelup_002.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_levelup_001.ogg",
       "text": "I can hang some more pieces on my hook!"
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_wendy_lianjujinghunye_greeting_001.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_greeting_001.ogg",
       "text": "The game is about to start. The rules are quite simple. All you have to do is run fast enough and hide well enough to avoid getting dismembered by me!"
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_wendy_lianjujinghunye_talk_001.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_talk_001.ogg",
       "text": "What's so scary about the killers in horror flicks? People are much more dangerous in real life."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_wendy_lianjujinghunye_talk_002.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_talk_002.ogg",
       "text": "A lot of people don't realize that life should never be taken for granted... I'll teach them that lesson."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_wendy_lianjujinghunye_idle_001.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_idle_001.ogg",
       "text": "Hide well, little bunny... Wendy is coming to get you! Don't scream when you see her... or else she'll cut off your tongue..."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_wendy_lianjujinghunye_clicking_001.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_clicking_001.ogg",
       "text": "Hahahaha... you still want to go on living after doing such things?"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_wendy_lianjujinghunye_specialattention_001.ogg",
+      "filename": "File:vo_wendy_lianjujinghunye_specialattention_001.ogg",
       "text": "Hahaha, you found me! Let's play a little game. Don't be nervous. As long as you try hard enough and give up some things, you have a chance of surviving."
     }
   ],
   "elegy_of_the_rust": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_wendy_xiuhewange_cacha_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_cacha_001.ogg",
       "text": "Come, say hi to my old friends."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_wendy_xiuhewange_levelup_002.ogg",
+      "filename": "File:vo_wendy_xiuhewange_levelup_001.ogg",
       "text": "Ah, the sound of the chainsaw brings back memories..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_wendy_xiuhewange_greeting_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_greeting_001.ogg",
       "text": "Shh... It's quiet here at the Rust. Everyone's asleep... Don't you wake them."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_wendy_xiuhewange_Head_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_head_001.ogg",
       "text": "The touch and warmth feel familiar... I think I once had that too... You're probably the only one who'll give me head pats now."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_wendy_xiuhewange_talk_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_talk_001.ogg",
       "text": "Not a single person will come and chill by the Rust. There are only Corruptors and monsters around here... Hehe, and a weirdo who keeps the Undertaker company."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_wendy_xiuhewange_talk_002.ogg",
+      "filename": "File:vo_wendy_xiuhewange_talk_002.ogg",
       "text": "The dark cape can hide the filth and can be simply discarded. Who'll give a disposable lapdog an expensive leash?"
     },
     {
       "title": "Ordinary Contact 3",
-      "filename": "File:Vo_wendy_xiuhewange_hand_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_hand_001.ogg",
       "text": "I must keep these names safe. This way, at least somebody will remember us... Is there really a place where the Undertakers belong?"
     },
     {
       "title": "Ordinary Contact 4",
-      "filename": "File:Vo_wendy_xiuhewange_leg_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_leg_001.ogg",
       "text": "My friends are all asleep. One day, I'll lie beside them and rest in this filthy home of ours... When the day comes, will you bring me flowers too?"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_wendy_xiuhewange_idle_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_idle_001.ogg",
       "text": "Listen... The wind's whistling by the Rust, saying goodnight..."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_wendy_xiuhewange_specialattention_001.ogg",
+      "filename": "File:vo_wendy_xiuhewange_specialattention_001.ogg",
       "text": "You smell like the Rust. Is it because you always watch me like this? Hehe... You're indeed... my friend..."
     }
   ]

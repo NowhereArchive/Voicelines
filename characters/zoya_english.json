@@ -2,226 +2,226 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_zoya_cacha_001.ogg",
+      "filename": "File:vo_zoya_cacha_001.ogg",
       "text": "Sending out so many cops just to catch a Syndican gangster. Your subordinates are honestly... beyond useless."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_zoya_promotion_001.ogg",
+      "filename": "File:vo_zoya_promotion_001.ogg",
       "text": "It's not enough to simply possess power. You must also put it to good use."
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_zoya_promotion2_001.ogg",
+      "filename": "File:vo_zoya_promotion2_001.ogg",
       "text": "What do they say, that these are humanity's limits? What a joke. Humans will never stop pushing beyond their limits."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_zoya_battlebegin_001.ogg",
+      "filename": "File:vo_zoya_battlebegin_001.ogg",
       "text": "I've been waiting for so long."
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_zoya_battlewin_001.ogg",
+      "filename": "File:vo_zoya_battlewin_001.ogg",
       "text": "You messed with the wrong person."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_zoya_battlelose_001.ogg",
+      "filename": "File:vo_zoya_battlelose_001.ogg",
       "text": "This is not the end. Don't give in!"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_zoya_uniqueskill_001.ogg",
+      "filename": "File:bt_zoya_uniqueskill_001.ogg",
       "text": "I, am the Legion!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_zoya_dead_001.ogg",
+      "filename": "File:bt_zoya_dead_001.ogg",
       "text": "I can't... go down like this..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_zoya_greeting_001.ogg",
+      "filename": "File:vo_zoya_greeting_001.ogg",
       "text": "Hey, looks like you're free. How about taking a trip to the Syndicate with me? Quite a few people are eager to meet you."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_zoya_talk1_001.ogg",
+      "filename": "File:vo_zoya_talk1_001.ogg",
       "text": "Your boss keeps switching my guards. Are they really so scared? Scared of an imprisoned Sinner, or a mediocre Syndican gangster?"
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_zoya_talk1_002.ogg",
+      "filename": "File:vo_zoya_talk1_002.ogg",
       "text": "My subordinates are not just obsessed with muscles, they adore the brainy type too. Hmm... You seem qualified. Quit working for the government and join the Legion!"
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_zoya_talk1_003.ogg",
+      "filename": "File:vo_zoya_talk1_003.ogg",
       "text": "Guns? We don't rely on them in fights. A warrior trusts only their fists and their will. What's more, Syndicate's guns have long been tainted."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_zoya_talk2_001.ogg",
+      "filename": "File:vo_zoya_talk2_001.ogg",
       "text": "Only violence can end violence. That's the only answer Syndicate has given us. Those who once had dreams have all died for nothing."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_zoya_talk2_002.ogg",
+      "filename": "File:vo_zoya_talk2_002.ogg",
       "text": "Those abandoned factories are remnants of the city's golden era. That's the glory Syndicans must reclaim."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_zoya_talk2_003.ogg",
+      "filename": "File:vo_zoya_talk2_003.ogg",
       "text": "\"No matter who they've lost, the Legion's commander must remain calm.\" But if something happened to you, I can't imagine what I would do..."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_zoya_obeyfull_001.ogg",
+      "filename": "File:vo_zoya_obeyfull_001.ogg",
       "text": "When we first met, you were just a rookie I could easily lift with a single arm. It surprises me... how you haven't changed a bit. But you're also the strongest person I've ever met. I'll keep counting on you in the future, Chief."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_zoya_idle_001.ogg",
+      "filename": "File:vo_zoya_idle_001.ogg",
       "text": "It does look like there are a few people here... I can have a bout with."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_zoya_clicking_001.ogg",
+      "filename": "File:vo_zoya_clicking_001.ogg",
       "text": "Are you... provoking me?"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_zoya_specialattention_001.ogg",
+      "filename": "File:vo_zoya_specialattention_001.ogg",
       "text": "Are you going to just watch? Why don't we have a bout instead? I'll stand there without moving, and I won't even use my hands."
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_zoya_dispatch_001.ogg",
+      "filename": "File:vo_zoya_dispatch_001.ogg",
       "text": "A piece of cake. My guys in the Legion will get it done in no time."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_zoya_dispatch2_001.ogg",
+      "filename": "File:vo_zoya_dispatch2_001.ogg",
       "text": "See? Told you it was easy."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_zoya_levelup_002.ogg",
+      "filename": "File:vo_zoya_levelup_002.ogg",
       "text": "Hmm... That's not enough."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_zoya_jointeam_001.ogg",
+      "filename": "File:bt_zoya_jointeam_001.ogg",
       "text": "Time for a little exercise."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_zoya_Head_001.ogg",
+      "filename": "File:vo_zoya_head_001.ogg",
       "text": "Wow, you're pretty brave..."
     }
   ],
   "wolves_strike_soon": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_zoya_langxijiangzhi_cacha_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_cacha_001.ogg",
       "text": "Tell those gangs that the Legion is here—to declare war on all of you!"
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_zoya_langxijiangzhi_greeting_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_greeting_001.ogg",
       "text": "Ha, you're late. Keep up. Didn't you say you want to witness the reformation of Syndicate? Stay with me at all times then."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_zoya_langxijiangzhi_talk_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_talk_001.ogg",
       "text": "Who will be our first opponent? Ted? Yagyu? Why don't they all come at once? It will be the same."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_zoya_langxijiangzhi_talk_002.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_talk_002.ogg",
       "text": "I'll leave the planning to Earl. I just need to open the way ahead–which is what he needs most."
     },
     {
       "title": "Ordinary Contact 3",
-      "filename": "File:Vo_zoya_langxijiangzhi_hand_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_hand_001.ogg",
       "text": "Rust, smoke, and endless violence. Syndicate never changes. I'm sick of it... Go. Destroy everything. It's time for a change."
     },
     {
       "title": "Ordinary Contact 4",
-      "filename": "File:Vo_zoya_langxijiangzhi_leg_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_leg_001.ogg",
       "text": "The Legion doesn't need a stronghold. The whole of Syndicate is the territory of the wolves."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_zoya_langxijiangzhi_idle_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_idle_001.ogg",
       "text": "We have more enemies than this, but as long as those guys in the gutter dare to show up..."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_zoya_langxijiangzhi_specialattention_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_specialattention_001.ogg",
       "text": "Oh? Have you finally decided to join the Legion?"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_zoya_langxijiangzhi_levelup_002.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_levelup_001.ogg",
       "text": "Humph. I look forward to the battle."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_zoya_langxijiangzhi_Head_001.ogg",
+      "filename": "File:vo_zoya_langxijiangzhi_head_001.ogg",
       "text": "I feel like you've... got a lot more guts lately."
     }
   ],
   "supreme_negotiation": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_cacha_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.ogg",
       "text": "As you can see, the negotiation was a huge success."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_greeting_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_greeting_001.ogg",
       "text": "You came. Unfortunately, the negotiation has ended prematurely. This place looks quite impressive, doesn't it? As good a place for conversation as any."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_talk_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_talk_001.ogg",
       "text": "Hehe, to tame a beast, you must become more ferocious and savage than them."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_talk_002.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_talk_002.ogg",
       "text": "The future of Syndicate? Sigh, I don't have the answer to that yet, but I will find it, in my own way."
     },
     {
       "title": "Ordinary Contact 3",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_hand_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_hand_001.ogg",
       "text": "Do you envy them? I can tell that you do by the look in your eyes."
     },
     {
       "title": "Ordinary Contact 4",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_leg_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_leg_001.ogg",
       "text": "The fire of violence has died, but the embers remain in our heart, smoldering in every dark corner and waiting to be reignited."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_idle_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_idle_001.ogg",
       "text": "You did a great job guarding this place. Good doggy."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_specialattention_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_specialattention_001.ogg",
       "text": "This outfit is not bad for a negotiation meeting, but I'm not going to move as freely in this if things get physical... Sigh...Well, it's a nice gift from you guys, after all."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_levelup_002.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_levelup_001.ogg",
       "text": "Your words carry weight only when you have the power."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_zoya_zhigaojiaoshe_Head_001.ogg",
+      "filename": "File:vo_zoya_zhigaojiaoshe_head_001.ogg",
       "text": "Your bravery never ceases to amaze."
     }
   ]

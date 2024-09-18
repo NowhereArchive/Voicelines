@@ -2,122 +2,122 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_eve_cacha_001.ogg",
+      "filename": "File:vo_eve_cacha_001.ogg",
       "text": "Is this the Minos Bureau of Crisis Control? This time, will the burden named \"Eve\" be introduced to a different story?"
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_eve_promotion_001.ogg",
+      "filename": "File:vo_eve_promotion_001.ogg",
       "text": "No miracles will happen to me anymore, right?"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_eve_promotion2_001.ogg",
+      "filename": "File:vo_eve_promotion2_001.ogg",
       "text": "If even a broken body can push beyond its limits, what about a shredded photo? Why can't it be mended then..."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_eve_battlebegin_001.ogg",
+      "filename": "File:vo_eve_battlebegin_001.ogg",
       "text": "Why bring me along? I'll only be a burden to everyone."
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_eve_battlewin_001.ogg",
+      "filename": "File:vo_eve_battlewin_001.ogg",
       "text": "Their misfortune has finally ended."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_eve_battlelose_001.ogg",
+      "filename": "File:vo_eve_battlelose_001.ogg",
       "text": "Hello again... Cruel \"reality\"."
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_eve_uniqueskill_001.ogg",
+      "filename": "File:bt_eve_uniqueskill_001.ogg",
       "text": "Go..."
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_eve_dead_001.ogg",
+      "filename": "File:bt_eve_dead_001.ogg",
       "text": "Finally... We're reunited..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_eve_greeting_001.ogg",
+      "filename": "File:vo_eve_greeting_001.ogg",
       "text": "You're here too... Don't mind me, I'm just looking for a peaceful place to stay."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_eve_talk1_001.ogg",
+      "filename": "File:vo_eve_talk1_001.ogg",
       "text": "My wheelchair always makes me \"set foot\" in faraway places when I'm unaware... It's probably searching for a place called \"home\"."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_eve_talk1_002.ogg",
+      "filename": "File:vo_eve_talk1_002.ogg",
       "text": "Do you like the chimes of the clock after midnight? I love them. Once it rings, one can pretend dream and reality are the same thing."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_eve_talk1_003.ogg",
+      "filename": "File:vo_eve_talk1_003.ogg",
       "text": "I used to think toys would always be by the owner's side. But plastic weathers, porcelain breaks, metal rusts, and people grow up... Turns out \"change\" is the only constant."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_eve_talk2_001.ogg",
+      "filename": "File:vo_eve_talk2_001.ogg",
       "text": "I once held the sweetest candy in the world, but it's been too long, now it tastes bitterer than medicine. Thank you for reminding me of that sweetness, even just a little."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_eve_talk2_002.ogg",
+      "filename": "File:vo_eve_talk2_002.ogg",
       "text": "Can I get a share of your smile and hope? I might have started yearning for the world in your eyes... So bright, so warm..."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_eve_talk2_003.ogg",
+      "filename": "File:vo_eve_talk2_003.ogg",
       "text": "If there really exists a night that never dawns, will you be there with me? In the endless night, we can count the stars together... and dream a never-ending dream."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_eve_obeyfull_001.ogg",
+      "filename": "File:vo_eve_obeyfull_001.ogg",
       "text": "The fairy tale says \"your beloved one is always by your side, you just can't see him/her\"... I reckon the fairy tale is lying again, because this time I see you."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_eve_idle_001.ogg",
+      "filename": "File:vo_eve_idle_001.ogg",
       "text": "There, there, little bear, Eve's here, and always will be... But, Eve won't hear the same words said to her anymore..."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_eve_clicking_001.ogg",
+      "filename": "File:vo_eve_clicking_001.ogg",
       "text": "If such contact can satisfy your curiosity, do as you please. Don't pity me, of all the things I've lost, my legs are the least important."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_eve_specialattention_001.ogg",
+      "filename": "File:vo_eve_specialattention_001.ogg",
       "text": "Thanks for hanging out with me. If you don't mind, could you push me out for a walk? The outside air helps take my mind off a few things for a while."
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_eve_dispatch_001.ogg",
+      "filename": "File:vo_eve_dispatch_001.ogg",
       "text": "There are only limited places a wheelchair can reach. I suggest you do not expect too much from me."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_eve_dispatch2_001.ogg",
+      "filename": "File:vo_eve_dispatch2_001.ogg",
       "text": "I'm back. If I'm not needed for anything else, please let me rest alone for a while."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_eve_levelup_002.ogg",
+      "filename": "File:vo_eve_levelup_002.ogg",
       "text": "Why won't you give up on this useless body..."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_eve_Head_001.ogg",
+      "filename": "File:vo_eve_head_001.ogg",
       "text": "Your hand, can it stay a bit longer? I fear this warmth will be fleeting, just like before..."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_eve_jointeam_001.ogg",
+      "filename": "File:bt_eve_jointeam_001.ogg",
       "text": "It's time for the toys to meet new friends."
     }
   ]

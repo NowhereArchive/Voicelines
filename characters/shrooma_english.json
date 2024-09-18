@@ -2,117 +2,117 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_shrooma_cacha_001.ogg",
+      "filename": "File:vo_shrooma_cacha_001.ogg",
       "text": "Watch, homework, schoolbag... I've got everything. Okay, I'm ready to go. As a law-abiding citizen, I'll cooperate with you, as the teacher has told me to, but I hope you can be quick about your investigation and figure out you've got the wrong person; I hope to go home before school starts."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_shrooma_promotion_001.ogg",
+      "filename": "File:vo_shrooma_promotion_001.ogg",
       "text": "Look at the stats for my mushrooms... I can't believe my eyes!"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_shrooma_promotion2_001.ogg",
+      "filename": "File:vo_shrooma_promotion2_001.ogg",
       "text": "My spores are accumulating... One day, I'll bend the world to my will, and there will be absolute freedom for me."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_shrooma_battlebegin_001.ogg",
+      "filename": "File:vo_shrooma_battlebegin_001.ogg",
       "text": "Make sure my hat is always in your sights. Stay close to me!"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_shrooma_battlewin_001.ogg",
+      "filename": "File:vo_shrooma_battlewin_001.ogg",
       "text": "How about that? Now you see why it's a huge mistake to underestimate mushrooms in little nooks."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_shrooma_battlelose_001.ogg",
+      "filename": "File:vo_shrooma_battlelose_001.ogg",
       "text": "Told you not to stick your neck out, but you wouldn't listen. Now you got trampled down, happy?"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_shrooma_uniqueskill_001.ogg",
+      "filename": "File:bt_shrooma_uniqueskill_001.ogg",
       "text": "Go rot!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_shrooma_dead_001.ogg",
+      "filename": "File:bt_shrooma_dead_001.ogg",
       "text": "Sunlight... I was so close..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_shrooma_greeting_001.ogg",
+      "filename": "File:vo_shrooma_greeting_001.ogg",
       "text": "You're a grown-up, and you need help with your math from a kid? Wow, your student days must have been ages ago. Okay, these are linear equations in two variables. Yeah, I know how to solve them."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_shrooma_talk1_001.ogg",
+      "filename": "File:vo_shrooma_talk1_001.ogg",
       "text": "Crying would only tire me out and irritate the others. My parents will be here soon to pick me up. I did nothing wrong, after all. You will see that very soon."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_shrooma_talk1_002.ogg",
+      "filename": "File:vo_shrooma_talk1_002.ogg",
       "text": "<i>Long-term Effects of Online Negativity and Anonymous Venting on the Human Psyche</i>... So many big words. Chief, could you explain them to me? I don't think I've learned them yet."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_shrooma_talk1_003.ogg",
+      "filename": "File:vo_shrooma_talk1_003.ogg",
       "text": "To be frank, life here isn't much different for me from school or at home. There are always a bunch of rules to follow, and a bunch of expectations to meet. I've been long used to this. Hmm, could they be right, that this is what compulsory education is all about?"
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_shrooma_talk2_001.ogg",
+      "filename": "File:vo_shrooma_talk2_001.ogg",
       "text": "Many of my classmates look down their noses at mushrooms. They think that since edible mushrooms grow in the mud, they are dirty to the core, no matter how clean they look. After receiving multiple complaints, the school took them off the menu. That just makes me speechless. I'm like, come on, mushrooms are the way they are, because they want to survive, not because they're trying to be likeable."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_shrooma_talk2_002.ogg",
+      "filename": "File:vo_shrooma_talk2_002.ogg",
       "text": "We used to get comments from people who stumbled on our forum, saying things like, \"Trash should go where trash belongs.\" We'd counter, \"Oh, welcome home.\" Then we'd repost it several dozens of times until they left the forum embarrassed... Come to think of it, what gave me the most comfort wasn't the act of venting, but the fact that I wasn't the only one harboring malice..."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_shrooma_talk2_003.ogg",
+      "filename": "File:vo_shrooma_talk2_003.ogg",
       "text": "Chief, you're the most knowledgeable person I've ever met. If even you haven't seen one person who doesn't feel wronged, jealous, or annoyed, doesn't that mean such persons don't actually exist? And if that's the case, I shouldn't feel bad for having dark thoughts, for other people have them too, right?"
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_shrooma_obeyfull_001.ogg",
+      "filename": "File:vo_shrooma_obeyfull_001.ogg",
       "text": "I used to think all adults were like the discipline committee at my school. They only cared about what was going on in those noticeable areas. As for the mushrooms in the dark corners, they either turned a blind eye or covered them up. But now I know I was wrong. Not all adults are like that. Some adults do notice the mushrooms, and they dig the mud out of the way, never minding the smell or worrying about dirtying their hands, just so the mushrooms can have a chance at getting some sunlight, even if they're poisonous mushrooms."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_shrooma_idle_001.ogg",
+      "filename": "File:vo_shrooma_idle_001.ogg",
       "text": "Huh? Nobody is here. Great, here's my chance! That trusting little Chief's network password is simpler than the default one. It's surfing time!"
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_shrooma_clicking_001.ogg",
+      "filename": "File:vo_shrooma_clicking_001.ogg",
       "text": "Do you think you won't get a dressing-down from the teacher for doing this just because you're an adult?"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_shrooma_specialattention_001.ogg",
+      "filename": "File:vo_shrooma_specialattention_001.ogg",
       "text": "This is strange. You're not upset with me, nor are you here to catch me doing something bad or see if I meet your expectations... So why are you looking at me like that?"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_shrooma_dispatch_001.ogg",
+      "filename": "File:vo_shrooma_dispatch_001.ogg",
       "text": "Do not underestimate me. I started shopping all by myself when I was five. I have a rule, though. I keep the change, if there is any, that is."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_shrooma_dispatch2_001.ogg",
+      "filename": "File:vo_shrooma_dispatch2_001.ogg",
       "text": "I got everything on the shopping list. You gave me just the right amount of money, no more, no less. You didn't do that on purpose, did you?"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_shrooma_levelup_002.ogg",
+      "filename": "File:vo_shrooma_levelup_002.ogg",
       "text": "Grow, flourish, and spread, slowly but surely..."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_shrooma_jointeam_001.ogg",
+      "filename": "File:bt_shrooma_jointeam_001.ogg",
       "text": "Are the adults here this useless? Even I have to step in?"
     }
   ]

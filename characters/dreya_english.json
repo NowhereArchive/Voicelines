@@ -2,164 +2,164 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_dreya_cacha_001.ogg",
+      "filename": "File:vo_dreya_cacha_001.ogg",
       "text": "The crimson full moon rises... You used the unknown to catch me... You... are the black hole of secrets I long for."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_dreya_promotion_001.ogg",
+      "filename": "File:vo_dreya_promotion_001.ogg",
       "text": "Have you... solved the inscrutable riddle about me?"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_dreya_promotion2_001.ogg",
+      "filename": "File:vo_dreya_promotion2_001.ogg",
       "text": "Break all the shackles and peer into my deepest secrets."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_dreya_battlebegin_001.ogg",
+      "filename": "File:vo_dreya_battlebegin_001.ogg",
       "text": "There's nothing I wish to seek here."
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_dreya_battlewin_001.ogg",
+      "filename": "File:vo_dreya_battlewin_001.ogg",
       "text": "This mission... might be worth something, but barely..."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_dreya_battlelose_001.ogg",
+      "filename": "File:vo_dreya_battlelose_001.ogg",
       "text": "This mission has become meaningless. Don't waste any more time..."
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_dreya_uniqueskill_001.ogg",
+      "filename": "File:bt_dreya_uniqueskill_001.ogg",
       "text": "The red heat shall devour everything!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_dreya_dead_001.ogg",
+      "filename": "File:bt_dreya_dead_001.ogg",
       "text": "The stars... shall ultimately die in darkness."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_dreya_greeting_001.ogg",
+      "filename": "File:vo_dreya_greeting_001.ogg",
       "text": "No, no... Argh! I-is that you? Oh good... you came."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_dreya_talk1_001.ogg",
+      "filename": "File:vo_dreya_talk1_001.ogg",
       "text": "I want... I want to unearth all the unknowns of the world, and watch as 100 billion suns collapse into black holes of doom..."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_dreya_talk1_002.ogg",
+      "filename": "File:vo_dreya_talk1_002.ogg",
       "text": "Quick... hurry. Let me go seek and explore and research and devour all the secrets... until they completely vanish from my consciousness."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_dreya_talk1_003.ogg",
+      "filename": "File:vo_dreya_talk1_003.ogg",
       "text": "It's howling and tormenting me... and pushing me to get all your secrets..."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_dreya_talk2_001.ogg",
+      "filename": "File:vo_dreya_talk2_001.ogg",
       "text": "Me...? I survived by devouring secrets of the unknown... Yeah, that's all..."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_dreya_talk2_002.ogg",
+      "filename": "File:vo_dreya_talk2_002.ogg",
       "text": "I shall always remember... how that red star fell into the sea... It brought forth endless knowledge, secrets, affairs and mysteries... Ah, how intriguing it is."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_dreya_talk2_003.ogg",
+      "filename": "File:vo_dreya_talk2_003.ogg",
       "text": "I went to that place in search of the unknown... It really satisfies me, but I think, you can make me feel the same way."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_dreya_obeyfull_001.ogg",
+      "filename": "File:vo_dreya_obeyfull_001.ogg",
       "text": "Quantum fields attract and distort space-time, while you and your secrets... attract me... I can't help but be drawn to you, and fall... I cannot escape, yet... I have no regrets."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_dreya_idle_001.ogg",
+      "filename": "File:vo_dreya_idle_001.ogg",
       "text": "Instead of lingering by my side, why not come a bit closer..."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_dreya_clicking_001.ogg",
+      "filename": "File:vo_dreya_clicking_001.ogg",
       "text": "No need to tell me what this move means... I don't want to know."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_dreya_specialattention_001.ogg",
+      "filename": "File:vo_dreya_specialattention_001.ogg",
       "text": "It's extremely dangerous to gaze at the Black Hole... It won't respond to you. It'll just rip you apart and devour you..."
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_dreya_dispatch_001.ogg",
+      "filename": "File:vo_dreya_dispatch_001.ogg",
       "text": "I don't want to be too far away from you."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_dreya_dispatch2_001.ogg",
+      "filename": "File:vo_dreya_dispatch2_001.ogg",
       "text": "The things that are already known to human are worthless."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_dreya_levelup_002.ogg",
+      "filename": "File:vo_dreya_levelup_002.ogg",
       "text": "Push the limits."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_dreya_Head_001.ogg",
+      "filename": "File:vo_dreya_head_001.ogg",
       "text": "Do you also want to break through mankind's greatest defenses and peek into their secrets?"
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_dreya_jointeam_001.ogg",
+      "filename": "File:bt_dreya_jointeam_001.ogg",
       "text": "If you want to use me, be careful."
     }
   ],
   "cosmic_escapist": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_dreya_huanyumimeng_cacha_001.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_cacha_001.ogg",
       "text": "This is a gathering of the stars... In this vast emptiness, the only ones attending the feast are me... and you..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_dreya_huanyumimeng_greeting_001.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_greeting_001.ogg",
       "text": "Climb up the stairs and join me... If you stop just for these bouquets, you'll miss out on the spectacular view of the starry sky..."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_dreya_huanyumimeng_talk_001.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_talk_001.ogg",
       "text": "That celestial body encircling us is the mere shadow of the same star... A black hole hides it well by warping and refracting the light... But now, I'll guide you to fully perceive its existence."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_dreya_huanyumimeng_talk_002.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_talk_002.ogg",
       "text": "The stars converge in the cosmos, and I yearn to uncover all their secrets... Even if it means becoming one of them, torn apart for closing the distance... I simply can't resist..."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_dreya_huanyumimeng_idle_001.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_idle_001.ogg",
       "text": "It's getting closer... The red full moon..."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_dreya_huanyumimeng_clicking_001.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_clicking_001.ogg",
       "text": "If you wish to get closer to me, instead of tangling with my hem, why don't you... tell me your secrets."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_dreya_huanyumimeng_specialattention_001.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_specialattention_001.ogg",
       "text": "Are you looking upon this sea of stars... or are you looking... at me?"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_dreya_huanyumimeng_levelup_002.ogg",
+      "filename": "File:vo_dreya_huanyumimeng_levelup_001.ogg",
       "text": "The more the stars burn, the brighter they shine..."
     }
   ]

@@ -2,117 +2,117 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_lisa_cacha_001.ogg",
+      "filename": "File:vo_lisa_cacha_001.ogg",
       "text": "Arresting someone without evidence? What a good dog you are. I must say, this tasteless dump really suits you."
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_lisa_promotion_001.ogg",
+      "filename": "File:vo_lisa_promotion_001.ogg",
       "text": "Ugh, don't annoy me with matters unrelated to art."
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_lisa_promotion2_001.ogg",
+      "filename": "File:vo_lisa_promotion2_001.ogg",
       "text": "Who cares about powerful illusions? They can never replace real paintbrushes."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_lisa_battlebegin_001.ogg",
+      "filename": "File:vo_lisa_battlebegin_001.ogg",
       "text": "You need to keep up. I'm not going to wait for you if you fall behind."
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_lisa_battlewin_001.ogg",
+      "filename": "File:vo_lisa_battlewin_001.ogg",
       "text": "It is your honor to enjoy my feast for the senses."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_lisa_battlelose_001.ogg",
+      "filename": "File:vo_lisa_battlelose_001.ogg",
       "text": "What a failure."
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_lisa_uniqueskill_001.ogg",
+      "filename": "File:bt_lisa_uniqueskill_001.ogg",
       "text": "How tacky! It must be destroyed!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_lisa_dead_001.ogg",
+      "filename": "File:bt_lisa_dead_001.ogg",
       "text": "Is beauty always fleeting?"
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_lisa_greeting_001.ogg",
+      "filename": "File:vo_lisa_greeting_001.ogg",
       "text": "How are you planning to waste your worthless life today? Actually, there's no need to answer. I'm not interested. It was just a polite greeting on my part."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_lisa_talk1_001.ogg",
+      "filename": "File:vo_lisa_talk1_001.ogg",
       "text": "When I got into that car accident, half the Eastside art world secretly cheered. Those crass imbeciles didn't realize that as a painter, I simply stole some of their business, but as a critic, I could destroy them completely."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_lisa_talk1_002.ogg",
+      "filename": "File:vo_lisa_talk1_002.ogg",
       "text": "What's the difference between those mindless paintings and that useless head on your shoulders?"
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_lisa_talk1_003.ogg",
+      "filename": "File:vo_lisa_talk1_003.ogg",
       "text": "There is no authoritative standard for artistic expression. It's delusional to think that a few million DisCoins can define the value of a work. These Eastside upstarts are even shallower than you."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_lisa_talk2_001.ogg",
+      "filename": "File:vo_lisa_talk2_001.ogg",
       "text": "Can I use your art forum account? I just wrote a review, but when I tried to post it, I discovered that my account had been banned."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_lisa_talk2_002.ogg",
+      "filename": "File:vo_lisa_talk2_002.ogg",
       "text": "Don't give up just because I always say you're worthless! You have merits too! For example, you're... um... you're kind!"
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_lisa_talk2_003.ogg",
+      "filename": "File:vo_lisa_talk2_003.ogg",
       "text": "I'm the critic who has made the biggest contribution to improving the art world. How dare they call me a shrew? Fine. I'll be the shrew as long as my words can awaken those incompetent fools."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_lisa_obeyfull_001.ogg",
+      "filename": "File:vo_lisa_obeyfull_001.ogg",
       "text": "Upon closer inspection, your face is actually quite attractive.... what a pity, we met too late. No time to paint a portrait of you now."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_lisa_idle_001.ogg",
+      "filename": "File:vo_lisa_idle_001.ogg",
       "text": "Sigh! Turned out crooked again... My hand can't even draw a straight line anymore..."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_lisa_clicking_001.ogg",
+      "filename": "File:vo_lisa_clicking_001.ogg",
       "text": "You are hopelessly tacky!"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_lisa_specialattention_001.ogg",
+      "filename": "File:vo_lisa_specialattention_001.ogg",
       "text": "Unless you've suddenly become enlightened enough to discuss the role of color in the emotional expression of the painting <i>Rebecca</i>, don't bother me. I have several critiques to write, and I have no time to waste with you."
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_lisa_dispatch_001.ogg",
+      "filename": "File:vo_lisa_dispatch_001.ogg",
       "text": "Just don't take me anywhere tacky."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_lisa_dispatch2_001.ogg",
+      "filename": "File:vo_lisa_dispatch2_001.ogg",
       "text": "Have you been waiting here all this time? Seems like the position of Chief is an idle job."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_lisa_levelup_002.ogg",
+      "filename": "File:vo_lisa_levelup_002.ogg",
       "text": "Thank you... why, is it weird for me to say thank you?"
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_lisa_jointeam_001.ogg",
+      "filename": "File:bt_lisa_jointeam_001.ogg",
       "text": "These hideous things really disgust me. Let's get this over with."
     }
   ],
@@ -124,42 +124,42 @@
     },
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_lisa_Trail of Butterfly_cacha_001.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_cacha_001.ogg",
       "text": "Surprised to see me? It's nice and quiet here. I won't be disturbed. It's the perfect place for writing my critiques."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_lisa_Trail of Butterfly_levelup_002.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_levelup_001.ogg",
       "text": "Comment sent. Now, onto the next one..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_lisa_Trail of Butterfly_greeting_001.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_greeting_001.ogg",
       "text": "If you're not put off by my comments of you from head to toe, there's an empty chair over there for you."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_lisa_Trail of Butterfly_talk_001.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_talk_001.ogg",
       "text": "The cocoon has turned into a butterfly after a winter on the branch. The once-dead hyacinth is now budding again... So many miracles can happen in the greenhouse... What about in life?"
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_lisa_Trail of Butterfly_talk_002.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_talk_002.ogg",
       "text": "Ha, they call me jealous? Why should I be jealous of those speculators who know nothing other than marketing? All that publicity can't hide the fact that their works are trash."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_lisa_Trail of Butterfly_idle_001.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_idle_001.ogg",
       "text": "I can see a hint of creativity here... but the use of colors is too boring... It can be bolder..."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_lisa_Trail of Butterfly_clicking_001.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_clicking_001.ogg",
       "text": "The plants here are in need of some fertilizer... I see you're quite the material for it, huh?"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_lisa_Trail of Butterfly_specialattention_001.ogg",
+      "filename": "File:vo_lisa_trail_of_butterfly_specialattention_001.ogg",
       "text": "As the Chief, have you got nothing else to do besides staring at me? Go water the plants if you're so bored. The watering can is right there."
     }
   ]

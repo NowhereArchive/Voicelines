@@ -2,117 +2,117 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_chameleon_cacha_001.ogg",
+      "filename": "File:vo_chameleon_cacha_001.ogg",
       "text": "How brave of you to face me up close and personal... What if I hypnotize you again, Chief?"
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_chameleon_promotion_001.ogg",
+      "filename": "File:vo_chameleon_promotion_001.ogg",
       "text": "Can't wait to fall into a deeper dream, can you?"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_chameleon_promotion2_001.ogg",
+      "filename": "File:vo_chameleon_promotion2_001.ogg",
       "text": "I never knew such wonders existed beyond the bounds of knowledge..."
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_chameleon_battlebegin_001.ogg",
+      "filename": "File:vo_chameleon_battlebegin_001.ogg",
       "text": "Now, whose pain will I uncover here?"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_chameleon_battlewin_001.ogg",
+      "filename": "File:vo_chameleon_battlewin_001.ogg",
       "text": "The process was enjoyable."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_chameleon_battlelose_001.ogg",
+      "filename": "File:vo_chameleon_battlelose_001.ogg",
       "text": "Occasional failures are essential for a balanced mind."
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_chameleon_uniqueskill_001.ogg",
+      "filename": "File:bt_chameleon_uniqueskill_001.ogg",
       "text": "Release... your power!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_chameleon_dead_001.ogg",
+      "filename": "File:bt_chameleon_dead_001.ogg",
       "text": "This is the ending... I deserve..."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_chameleon_greeting_001.ogg",
+      "filename": "File:vo_chameleon_greeting_001.ogg",
       "text": "Hello, Dear Chief. If you have something on your mind, feel free to chat with me. How much do I charge? Oh, money is not what I want from you."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_chameleon_talk1_001.ogg",
+      "filename": "File:vo_chameleon_talk1_001.ogg",
       "text": "Consciousness is a prison, and every one serves a life sentence in it. In the face of it, your Bureau is but a toy jail."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_chameleon_talk1_002.ogg",
+      "filename": "File:vo_chameleon_talk1_002.ogg",
       "text": "Why psychology? Well, because it's an elegant, graceful science. I don't need any scalpels to kill you... I'm just kidding, don't be so tense."
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_chameleon_talk1_003.ogg",
+      "filename": "File:vo_chameleon_talk1_003.ogg",
       "text": "Tick, tock, tick, tock... Life is like the pendulum of a clock, constantly swinging between pain and weariness."
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_chameleon_talk2_001.ogg",
+      "filename": "File:vo_chameleon_talk2_001.ogg",
       "text": "Every night, quite a few Sinners are plagued by nightmares. I'd like to talk to them, <i>individually and privately</i>. I hope you won't mind?"
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_chameleon_talk2_002.ogg",
+      "filename": "File:vo_chameleon_talk2_002.ogg",
       "text": "The beast deep in our consciousness will be roused one day. When the time comes, will you be able to subdue it, or will you get devoured by it, till there's nothing left of you? I look forward to finding out."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_chameleon_talk2_003.ogg",
+      "filename": "File:vo_chameleon_talk2_003.ogg",
       "text": "The so-called mercy from others is like a flock of vultures. When an atrocity happens, they circle above your head, screeching and squeaking. Only when the victim stops struggling will they land, and scavenge for the last bits of bloody flesh."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_chameleon_obeyfull_001.ogg",
+      "filename": "File:vo_chameleon_obeyfull_001.ogg",
       "text": "The most stubborn patient and the most ruthless psychologist—don't we make the perfect pair?"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_chameleon_idle_001.ogg",
+      "filename": "File:vo_chameleon_idle_001.ogg",
       "text": "Look at the pocket watch. Relax, relax. You'll begin to feel sleepy... and sleepier... Tell me, what did you see in your dreams?"
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_chameleon_clicking_001.ogg",
+      "filename": "File:vo_chameleon_clicking_001.ogg",
       "text": "I know what you're thinking about... No subconscious impulses go unnoticed before my eyes."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_chameleon_specialattention_001.ogg",
+      "filename": "File:vo_chameleon_specialattention_001.ogg",
       "text": "Oh, here comes the patient I've been expecting. Shall we begin?"
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_chameleon_dispatch_001.ogg",
+      "filename": "File:vo_chameleon_dispatch_001.ogg",
       "text": "This is not the job of a psychologist... Sigh."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_chameleon_dispatch2_001.ogg",
+      "filename": "File:vo_chameleon_dispatch2_001.ogg",
       "text": "I've seen some interesting things on the way. Wanna hear my stories?"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_chameleon_levelup_002.ogg",
+      "filename": "File:vo_chameleon_levelup_002.ogg",
       "text": "Look, the abyss is even closer now..."
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_chameleon_jointeam_001.ogg",
+      "filename": "File:bt_chameleon_jointeam_001.ogg",
       "text": "That's right... You are the strongest of sinners... All of you."
     }
   ],
@@ -124,94 +124,94 @@
     },
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_chameleon_mengmeisiyu_cacha_001.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.ogg",
       "text": "\"Knowledge,\" \"greed,\" \"love\"... Seduced by them, you have finally come to see me."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_chameleon_mengmeisiyu_levelup_002.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_levelup_001.ogg",
       "text": "Man is driven by desire, and desire is inherently boundless."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_chameleon_mengmeisiyu_greeting_001.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_greeting_001.ogg",
       "text": "I can answer all your questions, but one <i>answer</i> begets another... tell me, who are <i>you</i>?"
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_chameleon_mengmeisiyu_talk_001.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_talk_001.ogg",
       "text": "You won't be able to see the answer clearly at such a distance. Come closer..."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_chameleon_mengmeisiyu_talk_002.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_talk_002.ogg",
       "text": "To use the sun and moon gods as totem decorations... is this piety or arrogance? Human nature is interesting precisely because of its contradictions, is it not?"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_chameleon_mengmeisiyu_idle_001.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_idle_001.ogg",
       "text": "Don't rush to wake up. We are the only ones in the Temple of Dreams."
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_chameleon_mengmeisiyu_clicking_001.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_clicking_001.ogg",
       "text": "What, do I have the answer you want hidden on me? If it can really help you, please feel free to explore..."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_chameleon_mengmeisiyu_specialattention_001.ogg",
+      "filename": "File:vo_chameleon_mengmeisiyu_specialattention_001.ogg",
       "text": "\"Know thyself\"—a seemingly simple riddle, yet it has stumped generations of brave warriors, and now... it's finally your turn."
     }
   ],
   "dream_s_ephemera": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_cacha_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.ogg",
       "text": "You followed the guidance of dreams to my realm. Are you here to break the shackles in your heart?"
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_levelup_002.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_levelup_001.ogg",
       "text": "Ah, what a wonderful dream."
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_greeting_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_greeting_001.ogg",
       "text": "The cruelty of the real world always catches people off guard, so why not stay here and wallow in this beautiful moment with me?"
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_Head_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_head_001.ogg",
       "text": "Some say life is a dream, because everything emerges and perishes on a term that mortals have no control over. One day, you might wake up and realize that the life you've lived through was just a doze on a sunny afternoon."
     },
     {
       "title": "Ordinary Contact 1",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_talk_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_talk_001.ogg",
       "text": "What you see with your eyes may not necessarily be the truth."
     },
     {
       "title": "Ordinary Contact 2",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_talk_002.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_talk_002.ogg",
       "text": "Tell me, is it more unfortunate to never wake up from a dream or to never dream?"
     },
     {
       "title": "Ordinary Contact 3",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_hand_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_hand_001.ogg",
       "text": "Here, I can take you back to the past and make up for those unforgettable regrets... Will you abandon yourself to the dream eternally?"
     },
     {
       "title": "Ordinary Contact 4",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_leg_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_leg_001.ogg",
       "text": "Want your dream to come true instantly? It's simple, just stop the time at the moment you make your wish to me, and make it flow again when your dream is achieved. Brilliant, isn't it?"
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_idle_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_idle_001.ogg",
       "text": "People are obsessed with interpreting dreams. They always try to recreate their dreams in reality, even the unpleasant ones..."
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_chameleon_xiaomengfusheng_specialattention_001.ogg",
+      "filename": "File:vo_chameleon_xiaomengfusheng_specialattention_001.ogg",
       "text": "Dreams express the deepest desires in a person's heart. Let's see, what do you desire?"
     }
   ]

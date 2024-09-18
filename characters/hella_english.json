@@ -1,1 +1,166 @@
-{}
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_hella_cacha_001.ogg",
+      "text": "Help! Let me go! A beauty is being kidnapped!"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_hella_promotion_001.ogg",
+      "text": "I think I've gotten better at fighting."
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_hella_promotion2_001.ogg",
+      "text": "I think I'm invincible."
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_hella_battlebegin_001.ogg",
+      "text": "Gogogo!"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_hella_battlewin_001.ogg",
+      "text": "Whew! Victory at last."
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_hella_battlelose_001.ogg",
+      "text": "Sigh, I can still..."
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_hella_uniqueskill_001.ogg",
+      "text": "It's not over yet!"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_hella_dead_001.ogg",
+      "text": "It hurts..."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_hella_greeting_001.ogg",
+      "text": "Chief... can you give the infinitely adorable Hella some pocket money? Oh my gosh, Chief is the best!"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_hella_talk1_001.ogg",
+      "text": "What is it, Chief? Uh... your wallet? Hehe, here, take it back, I was just practicing..."
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_hella_talk1_002.ogg",
+      "text": "Me? Pretending to be cute? Who said that?! Am I not cute?"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_hella_talk1_003.ogg",
+      "text": "Don't bring up all that crap from the past with me. I'm not some little girl who cries all day and needs to be comforted. I survived this long thanks to my friggin' self."
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_hella_talk2_001.ogg",
+      "text": "The weight, size, and feel of this pipe is as if it's custom-made for me, so don't ever ask me to switch weapons. I will never abandon it!"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_hella_talk2_002.ogg",
+      "text": "I'll take you to hang out with Ninety-Nine when we get the chance. Even though she looks scary, she's actually quite nice."
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_hella_talk2_003.ogg",
+      "text": "I actually don't like to fight. Even though the chance of dying is small, it's still painful and troublesome... Don't worry, I'm still happy to do things for you. No need to feel guilty."
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_hella_obeyfull_001.ogg",
+      "text": "I've decided, since you stick to me all day long and are impossible to get rid of, I will graciously accept you as my underling. Just don't ever betray me, okay?"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_hella_idle_001.ogg",
+      "text": "I'm so sleepy... come here, let me lean on you for a nap..."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_hella_clicking_001.ogg",
+      "text": "Are you giving me a massage?"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_hella_specialattention_001.ogg",
+      "text": "Ha, I knew you'd come find me! Miss me so soon?"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_hella_dispatch_001.ogg",
+      "text": "Finally, it's my turn to go! Chief, can you give me some more money?"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_hella_dispatch2_001.ogg",
+      "text": "Mission accomplished. Any rewards for me, Chief?"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_hella_levelup_002.ogg",
+      "text": "Great!"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:bt_hella_jointeam_001.ogg",
+      "text": "Hmm? You really like being with me, don't you?"
+    }
+  ],
+  "queen_of_hearts": [
+    {
+      "title": "No",
+      "filename": "File:unknown.ogg",
+      "text": "2"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_hella_queen_of_hearts_cacha_001.ogg",
+      "text": "Who the hell is interrupting my nap time again? Kneel at once! Eh... If it's not Chief? (Giggles) Awesome! Now my croquet match can go as scheduled!"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_hella_queen_of_hearts_greeting_001.ogg",
+      "text": "Don't bring me white flowers. I prefer red roses. If it happens again, I'll... hit your head a hundred times!"
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_hella_queen_of_hearts_talk_001.ogg",
+      "text": "The weight, size, and texture of this scepter, and its shiny luster... It's as if it was tailored for me! And... most importantly, it's got a big head! So big and beautifully awesome!"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_hella_queen_of_hearts_talk_002.ogg",
+      "text": "I want to eat that thing that's a dough topped with lots of fruit and cream! What's it called... some kind of tart...? Right, right! A fruit tart! I want it! Make one for me now!"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_hella_queen_of_hearts_idle_001.ogg",
+      "text": "It's almost tea party time! Go and decorate the venue now, Chief... Why? Because you're the only idle servant here with nothing else to do."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_hella_queen_of_hearts_clicking_001.ogg",
+      "text": "Try that a few more times, and you should worry about your head... Chief!"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_hella_queen_of_hearts_levelup_001.ogg",
+      "text": "Ah! What's with these little animals? They've been giving me trouble the whole day! You're lucky you guys are cute, or I would have..."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_hella_queen_of_hearts_specialattention_001.ogg",
+      "text": "Ahem, to keep our relationship fair and equal, as the Queen, I order you to... Hey! You're trying some funny business with the shackles again!?"
+    }
+  ]
+}

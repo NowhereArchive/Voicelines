@@ -2,122 +2,122 @@
   "default": [
     {
       "title": "Obtain the Sinner",
-      "filename": "File:Vo_donald_cacha_001.ogg",
+      "filename": "File:vo_donald_cacha_001.ogg",
       "text": "Indeed, you're not mistaken. It's me, West District's hero, Drifter Camp's savior! Sigh, let's save the rest for later. I'm starving, got any grub?"
     },
     {
       "title": "Raise to Phase 1",
-      "filename": "File:Vo_donald_promotion_001.ogg",
+      "filename": "File:vo_donald_promotion_001.ogg",
       "text": "Is the situation that bleak? You must put even me under special training?"
     },
     {
       "title": "Raise to Phase 3",
-      "filename": "File:Vo_donald_promotion2_001.ogg",
+      "filename": "File:vo_donald_promotion2_001.ogg",
       "text": "Who'd have thought my old spear would be given a second life... My, I'm getting emotional."
     },
     {
       "title": "Level Up",
-      "filename": "File:Vo_donald_levelup_002.ogg",
+      "filename": "File:vo_donald_levelup_002.ogg",
       "text": "Alright, not bad, not bad."
     },
     {
       "title": "Pat Head",
-      "filename": "File:Vo_donald_Head_001.ogg",
+      "filename": "File:vo_donald_head_001.ogg",
       "text": "Hey hey hey, stop messing with my hair. You've made it look like a bird's nest. I've spent a lot of time perfecting this handsome look, you gonna fix it now?"
     },
     {
       "title": "Level Start",
-      "filename": "File:Vo_donald_battlebegin_001.ogg",
+      "filename": "File:vo_donald_battlebegin_001.ogg",
       "text": "I'll count to three. Surrender quickly, or I'll get down and beg!"
     },
     {
       "title": "Win Battles",
-      "filename": "File:Vo_donald_battlewin_001.ogg",
+      "filename": "File:vo_donald_battlewin_001.ogg",
       "text": "Surprised? You know what they say, don't judge a book by its cover, heh heh."
     },
     {
       "title": "Lose Battles",
-      "filename": "File:Vo_donald_battlelose_001.ogg",
+      "filename": "File:vo_donald_battlelose_001.ogg",
       "text": "Something's not right... Time to run!"
     },
     {
       "title": "Ultimate Skill",
-      "filename": "File:Bt_donald_uniqueskill_001.ogg",
+      "filename": "File:bt_donald_uniqueskill_001.ogg",
       "text": "Enraged thunder!"
     },
     {
       "title": "Die in Battles",
-      "filename": "File:Bt_donald_dead_001.ogg",
+      "filename": "File:bt_donald_dead_001.ogg",
       "text": "Am I dying... Haha, it's not like it's the first time..."
     },
     {
       "title": "Conversation 1",
-      "filename": "File:Vo_donald_talk1_001.ogg",
+      "filename": "File:vo_donald_talk1_001.ogg",
       "text": "We should definitely make a trip back on a less busy day. Imagine the faces of the folks at the Drifter Camp when they see me as your lapdog... Haha, it may not be shocking enough though, they're used to it by now."
     },
     {
       "title": "Conversation 2",
-      "filename": "File:Vo_donald_talk1_002.ogg",
+      "filename": "File:vo_donald_talk1_002.ogg",
       "text": "Remember, West District is a mixed bag. You never know who or what you'll bump into, so don't go picking fights all the time. You know that saying \"make friends, not enemies\", right? You might just need someone's help one day, you hear me?"
     },
     {
       "title": "Conversation 3",
-      "filename": "File:Vo_donald_talk1_003.ogg",
+      "filename": "File:vo_donald_talk1_003.ogg",
       "text": "Speaking of which, you should be able to smooth things over for me with the Executive Committee, right? You know, what I've done could be considered as muting, and I don't want them to pick on me. If you help me out this time, I'll be forever in your debt... Pretty please!"
     },
     {
       "title": "Special Conversation 1",
-      "filename": "File:Vo_donald_talk2_001.ogg",
+      "filename": "File:vo_donald_talk2_001.ogg",
       "text": "This spear has been with me for a long time. The first time I picked it up, I was just a brash youngster who wanted to look cool. Over a decade has slipped by... How does that saying go? \"Things stay the same while people change.\" I never thought I would pick it up again... Cheer up, old buddy, don't let us down."
     },
     {
       "title": "Special Conversation 2",
-      "filename": "File:Vo_donald_talk2_002.ogg",
+      "filename": "File:vo_donald_talk2_002.ogg",
       "text": "West District can't forget everything it's been through... But rather than hatred and revenge, what we need and deserve is a future full of hope. The flame rekindles over the rust not to destroy, but to light up the way forward... Wow... How inspiring is that? Come on, praise me."
     },
     {
       "title": "Special Conversation 3",
-      "filename": "File:Vo_donald_talk2_003.ogg",
+      "filename": "File:vo_donald_talk2_003.ogg",
       "text": "West District is gorgeous from this angle, isn't it? It's the way it should be. I still remember what it used to look like. On the sun-lit streets, when the wind blew through, there was no rusty smell. It was as warm as the sunlight, full of hope... Oh right, there's a night market over there, it's the closest thing to the old West District. When the sun sets and the stalls are up, I'll take you there for a sniff."
     },
     {
       "title": "Compliance",
-      "filename": "File:Vo_donald_obeyfull_001.ogg",
+      "filename": "File:vo_donald_obeyfull_001.ogg",
       "text": "Are they calling me \"Hero\"? Hehe, that's nothing, I've had many titles. \"West District's Brightest Star\", \"Thunder King\", \"Inner Bay's Heartthrob\", \"Leader of Rustfire\", \"Deserter\", \"Traitor\", \"Liar\", \"Loser\", most of my titles are still being used, only one has been permanently forgotten... The person who used to call me \"Best Pal\" is no longer here... Hmm? What are you staring at me for? Huh? What do you want to say? No, no, nonono, I'm not ready for that, don't call me that! Oh my god... Aren't you embarrassed???"
     },
     {
       "title": "Greeting",
-      "filename": "File:Vo_donald_greeting_001.ogg",
+      "filename": "File:vo_donald_greeting_001.ogg",
       "text": "Oh, 'sup. Fire away if you're having any problems... Whether I can solve them is another matter."
     },
     {
       "title": "Idle",
-      "filename": "File:Vo_donald_idle_001.ogg",
+      "filename": "File:vo_donald_idle_001.ogg",
       "text": "Rise and shine, sleeping beauty. Skipping work today?"
     },
     {
       "title": "Annoyed",
-      "filename": "File:Vo_donald_clicking_001.ogg",
+      "filename": "File:vo_donald_clicking_001.ogg",
       "text": "What, you're interested in my muscles? Bah, things have changed now. You need Sinner power to survive out there. Being beefy ain't gonna scare anybody no more."
     },
     {
       "title": "Dispatch",
-      "filename": "File:Vo_donald_dispatch_001.ogg",
+      "filename": "File:vo_donald_dispatch_001.ogg",
       "text": "Guarantee you the mission may not be accomplished."
     },
     {
       "title": "Dispatch Completion",
-      "filename": "File:Vo_donald_dispatch2_001.ogg",
+      "filename": "File:vo_donald_dispatch2_001.ogg",
       "text": "Job's done. When's the commendation ceremony?"
     },
     {
       "title": "Special Attention",
-      "filename": "File:Vo_donald_specialattention_001.ogg",
+      "filename": "File:vo_donald_specialattention_001.ogg",
       "text": "Oh, what brings the Chief of the MBCC here? What can a non-contributing member of society like me do for you?"
     },
     {
       "title": "Deploy",
-      "filename": "File:Bt_donald_jointeam_001.ogg",
+      "filename": "File:bt_donald_jointeam_001.ogg",
       "text": "So, you need me to show off my skills again? Okay... Okay... I'll be serious this time."
     }
   ]
