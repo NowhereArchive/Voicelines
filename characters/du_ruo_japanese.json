@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_du_ruo_cacha_001.ogg",
+      "text": "またお会いしましたね、局長さん。ここであなたと会ったのは神の御意志、運命、偶然……それとも人為的なものでしょうか？"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_du_ruo_promotion_001.ogg",
+      "text": "このように助けてくださって、どのような恩返しを求めているのですか？"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_du_ruo_promotion2_001.ogg",
+      "text": "天地に鳴り響く鐘の音。奏でるは民の儀式であり、歌うは人々の声である……いわゆる「奇跡」は、実は既にあなたと私の間に起きているんですよ。"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_du_ruo_levelup_002.ogg",
+      "text": "これが「大都市ディス」の技術ですか？"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_du_ruo_head_001.ogg",
+      "text": "私の故郷では、勝手に人の頭を触ると……まあいいでしょう。知らない方が幸せですよ。"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_du_ruo_battlebegin_001.ogg",
+      "text": "いいタイミングで来ましたね。"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_du_ruo_battlewin_001.ogg",
+      "text": "勝ちを譲ってもらいました～"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_du_ruo_battlelose_001.ogg",
+      "text": "私のような無名な学者は、やはりまだ神の下す災いに逆らえないようですね～"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_du_ruo_uniqueskill_001.ogg",
+      "text": "煙霞は立ち込めました。後はあなたたち次第です——"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_du_ruo_dead_001.ogg",
+      "text": "流れに身を任せる……ふふ、悔しいですね……"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_du_ruo_talk1_001.ogg",
+      "text": "神は仕事を分担してあなたのストレスを軽減することはできませんが、私ならできるかもしれません。どうです？私にお願いしてみませんか？"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_du_ruo_talk1_002.ogg",
+      "text": "奇妙な物語に憧れる人もいれば、制御できない奇跡を恐れる人もいます……局長さんはどちらでしょうか？"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_du_ruo_talk1_003.ogg",
+      "text": "緑の煙、優れたアイデア、真実を尊ぶ探求心——神話学者にとって、これらがあれば十分です。"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_du_ruo_talk2_001.ogg",
+      "text": "もし本当に幽霊や神がこの世にいるのなら、なぜ誰も敬虔な願いに応えてくれないのでしょう？もしそういった存在がいないのであれば……人々の祈りはどこへ行ってしまったのでしょうね……"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_du_ruo_talk2_002.ogg",
+      "text": "見えましたか？太陽は東から昇り、西に沈みます……あの人たちが求めても手に入れられなかったありふれた日常が、ここにあったんですね……"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_du_ruo_talk2_003.ogg",
+      "text": "私はあなたにたくさんの伝説をお話ししたので、次はあなたが語ってください。ただ、私は器が小さいのであなたが誰にも話していない内容を聞きたいです。天と地、そしてあなたと私だけが知っていることを。"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_du_ruo_obeyfull_001.ogg",
+      "text": "あなたは私に真実、信頼、力、そして家と呼べる場所を与え、私はあなたを利用しました。これからは、ゆっくり恩返しをさせてください。"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_du_ruo_greeting_001.ogg",
+      "text": "いいお知らせがあります。聞きたいですか、局長さん？占ってみたのですが、今日あなたは幸運をもたらしてくれる人と出会うようですよ……何を探しているんですか？私は目の前にいるじゃないですか。"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_du_ruo_idle_001.ogg",
+      "text": "ご存知ですか？実は金烏は泳げるんです……しーっ、これは極秘中の極秘ですよ。誰かに聞かれないようにしてください。"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_du_ruo_clicking_001.ogg",
+      "text": "ダメですよ～私の香炉が精霊となって、あなたを一口で食べてしまいますからね！"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_du_ruo_dispatch_001.ogg",
+      "text": "賑やかで華やかな異国の地で、この色とりどりの世界に惹かれ、帰りたくなくなったらどうしましょう。"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_du_ruo_dispatch2_001.ogg",
+      "text": "手ぶらで帰るわけには——いきませんね～"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_du_ruo_specialattention_001.ogg",
+      "text": "日が沈む方向に三跪九叩すると、願いが叶うという言い伝えがあるんですが……あら、騙せませんでしたね。"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:bt_du_ruo_jointeam_001.ogg",
+      "text": "Hmm... I must take this seriously now."
+    }
+  ]
+}
