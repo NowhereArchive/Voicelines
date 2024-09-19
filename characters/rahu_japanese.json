@@ -1,0 +1,166 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_rahu_cacha_001.ogg",
+      "text": "同じ反狂瞳作戦組織なので、私に対する一連の行為は「人事異動」と捉え、あなたの指示に従います。ですが、もしあなたの命令があの方とぶつかった時は、ご理解ください。"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_rahu_promotion_001.ogg",
+      "text": "いつか、細い急流が集まり激しく湧き起こる潮流になる。"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_rahu_promotion2_001.ogg",
+      "text": "影が全て散り、太陽が空を照らす……今がその時だ。"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_rahu_battlebegin_001.ogg",
+      "text": "怖がらないでください。誰にもあなたを傷つけさせません。"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_rahu_battlewin_001.ogg",
+      "text": "止まるな……ここはまだ安全ではない。"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_rahu_battlelose_001.ogg",
+      "text": "……私に構わず、あの人を連れて逃げろ！早く！"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_rahu_uniqueskill_001.ogg",
+      "text": "排除する……全ての……脅威を！！"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_rahu_dead_001.ogg",
+      "text": "私にはまだ使命がある……守るべき人がいる……死んでは……！！"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_rahu_greeting_001.ogg",
+      "text": "なぜ、そんな目で見る？あなたは……私の返事を期待しているのか？うむ……分かった。こんにちは。"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_rahu_talk1_001.ogg",
+      "text": "私にとって、忠誠とは背いてはならない原則だ。何があっても、揺らぐことはない。"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_rahu_talk1_002.ogg",
+      "text": "命を捨てるだけで目的を達成できるなら、なんの不満がある？"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_rahu_talk1_003.ogg",
+      "text": "休憩？それは私に相応しくない贅沢なものだ……分かった。あなたに本当に話し相手が必要なら、やってみよう。"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_rahu_talk2_001.ogg",
+      "text": "これは私が追い求めた力だ。あの時の選択に後悔はないが、もっと早く行動しなかったことだけが悔やまれる。そうでなければ、今のような落ちぶれた負け犬になることもなかっただろう。"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_rahu_talk2_002.ogg",
+      "text": "私に「忠誠」を教えてくれた人が、初めて忠誠を尽くした対象でもある……おかしいな、その人は誰なんだ？……思い出せない……"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_rahu_talk2_003.ogg",
+      "text": "狂瞳病に感染し、狂気に陥る……それは、私が目的を達成するための手段であり、対価でもある。きっといつか、私は暴走するだろう。その時になったら、迷わず安全のためにやるべきことをやってくれ。"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_rahu_obeyfull_001.ogg",
+      "text": "かつての私には暗闇しかなかった。だが、あなたの行動全てが……この果てしない暗闇に一筋の光をもたらしたんだ。たとえそれが幻のような希望だとしても……私はあなたを守る……全てをかけて。"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_rahu_idle_001.ogg",
+      "text": "……放っておいてくれ……すぐに収まる……"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_rahu_clicking_001.ogg",
+      "text": "MBCCの長官がこんなことをして……恥ずかしくないのか？"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_rahu_specialattention_001.ogg",
+      "text": "あなたが自ら私を監視する必要はないだろう。枷は簡単に抜け出せる束縛ではない。ただ私と二人きりになりたかった？そうか、分かった。"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_rahu_dispatch_001.ogg",
+      "text": "分かりました。行きますよ。"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_rahu_dispatch2_001.ogg",
+      "text": "任務完了。次の指示をお願いします。"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_rahu_levelup_002.ogg",
+      "text": "悪くない。もっとくれ。これが必要だ。"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_rahu_head_001.ogg",
+      "text": "私の髪の毛が……好きだと？ありがとう。"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:bt_rahu_jointeam_001.ogg",
+      "text": "-"
+    }
+  ],
+  "radiant_stealth": [
+    {
+      "title": "Level Up",
+      "filename": "File:vo_rahu_qingkongmixing_levelup_001.ogg",
+      "text": "大したステップアップではない。引き続き高みを目指す。"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_rahu_qingkongmixing_cacha_001.ogg",
+      "text": "待機場所に到着。次の指示をお願いします。はい、日差しが強く気温も上がっているので、ターゲットが着替え、捜索を逃れるのに有利な状況です。特に注意が必要でしょう。"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_rahu_qingkongmixing_greeting_001.ogg",
+      "text": "変装の効果を確実にし、できるだけ環境に溶け込むため、確かに今は世間話をする必要があります。向こうのサラリーマンたちを参考にすれば、寛大ではない上司について話せるかもしれません。"
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_rahu_qingkongmixing_talk_001.ogg",
+      "text": "衣装や役によって責任が変わるとは思わない。どんな服を着ていても、私はあなたの護衛であり、あなたの安全のためにあらゆる障害を取り除く。不慣れなことなど何もない。"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_rahu_qingkongmixing_talk_002.ogg",
+      "text": "遠くに不審者が多数集まっています。こちらの動きを注視しているようです……この距離では武器を携行しているかどうか判断できません。あなたの安全を考慮し、位置を変更します。は？あの人たちは私の連絡先が欲しいだけ？何か問題が起きたら、私ではなく治安局へ連絡するよう伝えてください。"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_rahu_qingkongmixing_idle_001.ogg",
+      "text": "止まれ。座れ。立て。トレーニングのレベルは十分だが、外制止で条件反応が少し弱まっているようだ……肝心な時は心を落ち着かせ、他に気を取られないように。"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_rahu_qingkongmixing_clicking_001.ogg",
+      "text": "こういう触り方は訓練された犬によっては攻撃的な行動と判断される可能性がある。このまま続けることは勧めない。"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_rahu_qingkongmixing_specialattention_001.ogg",
+      "text": "他の人が位置につくまで、そうして私を見つめるつもりですか？キャラ設定を守る？分かりました……私からの返答が必要な場合は、言ってください。"
+    }
+  ]
+}

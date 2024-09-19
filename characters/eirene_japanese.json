@@ -1,0 +1,213 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_eirene_cacha_001.ogg",
+      "text": "機が熟したから、会いに来たわ。親愛なる……私の共犯者。"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_eirene_promotion_001.ogg",
+      "text": "力は目的を達成するための近道だけど……唯一の手段ではないの。"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_eirene_promotion2_001.ogg",
+      "text": "頂点に達したわ。ここの景色は……あなたの期待に応えられるものだった？"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_eirene_levelup_002.ogg",
+      "text": "使える力は、いつだって多い方がいいわ。"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_eirene_head_001.ogg",
+      "text": "懐かしいわね。こんなふうに私を撫でてくれる人もいたのに……みんなこの世からいなくなってしまった。"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_eirene_battlebegin_001.ogg",
+      "text": "ここにはどんなサプライズがあるの？"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_eirene_battlewin_001.ogg",
+      "text": "すべて計画通りね。"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_eirene_battlelose_001.ogg",
+      "text": "すぐに忘れてしまいそう。敗北ってこんな味だったの……。"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_eirene_uniqueskill_001.ogg",
+      "text": "消滅するのね！"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_eirene_dead_001.ogg",
+      "text": "ここで……倒れるなんて……"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_eirene_talk1_001.ogg",
+      "text": "私のことは囚人と見なしてもいいし、協力者と見なしても大丈夫よ……クイーン集団が提供できるのはお金だけじゃない。あなたが想像できないようなものだって、可能なのよ。"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_eirene_talk1_002.ogg",
+      "text": "私はチェスが好きなの。盤上ではお互いのことしか考えず、知恵を絞って相手を追い詰める——ふふ、これ以上純粋に楽しいものもないわ。"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_eirene_talk1_003.ogg",
+      "text": "あなたが素直な人だってことはわかっている。でも、何もかも顔に出るようじゃだめよ。もっと……予測不能な動きをしないとね。"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_eirene_talk2_001.ogg",
+      "text": "ディスシティは本当に素晴らしい場所ね。世界の中心で、人類の未来でもある……私を受け入れてくれるかしら？"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_eirene_talk2_002.ogg",
+      "text": "お金と地位、信頼と友情、あるいは恐怖と脅威……これらはすべて忠誠に替えられるわ。私なら、その忠誠を永遠にさせることができるの。"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_eirene_talk2_003.ogg",
+      "text": "あなたと殺し合いたくはないけど……もしその日が来たら、私と最高の対决をしてほしいわ。"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_eirene_obeyfull_001.ogg",
+      "text": "あなたは……私のもの。私の駒で、私のコレクションで、私のすべての秘密の共有者。私を裏切らないでね……誰も私を裏切ることはできないのだけれど。"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_eirene_greeting_001.ogg",
+      "text": "激変の時が迫っている今、あなたはどんな行動を取るの？楽しみにしているわ。"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_eirene_idle_001.ogg",
+      "text": "私とチェスをしましょう……直ぐに断らないでよ。今回は少し手加減してあげるから。"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_eirene_clicking_001.ogg",
+      "text": "ふふ、欲しいものがあったら言ってね。私たちの間に駆け引きは必要ないわ。"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_eirene_dispatch_001.ogg",
+      "text": "ふふ、見せてみてちょうだい。何を企んでいるのかをね。"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_eirene_dispatch2_001.ogg",
+      "text": "仕事が終わったら、報酬はどうやって支払うつもり？もしかして、あなた自身なのかしら？"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_eirene_specialattention_001.ogg",
+      "text": "挑戦者？交渉相手？それとも……親しい友人？……あなたは私にとってどんな立場で会いに来たのかしら？ふふ、いずれにしても、嬉しいわ。"
+    }
+  ],
+  "seaside_sunrise": [
+    {
+      "title": "Level Up",
+      "filename": "File:vo_eirene_seaside_sunrise_levelup_001.ogg",
+      "text": "バカンスは勝者だけの特権よ。時世を読めない人に気を緩める余裕なんてないもの。"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_eirene_seaside_sunrise_head_001.ogg",
+      "text": "あら、挑発しているのかしら？罰は、そうねーここで私と一緒に海を眺めなさい。"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_eirene_seaside_sunrise_cacha_001.ogg",
+      "text": "どこまでも続く海岸線——こんな絶景が見られる場所なんて、そうないわ。局長、早くこっちに来たら？"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_eirene_seaside_sunrise_greeting_001.ogg",
+      "text": "ちょうどいいところに来たわね。この時この絶景、宿敵との一局に最適だわ。"
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_eirene_seaside_sunrise_talk_001.ogg",
+      "text": "一見静かな海でも、いつ大きな波に襲われるかわからないわ……まぁ、私にとって「危険」はビジネスのおまけに過ぎないけどね。"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_eirene_seaside_sunrise_talk_002.ogg",
+      "text": "陽の光は常に変化し続けるというのに、傲慢な人々は自分がいつも同じ太陽を見ているとしか思わない……彼らの愚かさのおかげで、今日のクイーンがあるのよ。"
+    },
+    {
+      "title": "Ordinary Contact 3",
+      "filename": "File:vo_eirene_seaside_sunrise_hand_001.ogg",
+      "text": "共に築き上げた夜明けに、祝杯を。"
+    },
+    {
+      "title": "Ordinary Contact 4",
+      "filename": "File:vo_eirene_seaside_sunrise_leg_001.ogg",
+      "text": "この水着のデザインが気に入ったの？あまり見惚れない方がいいわよ。柔らかな生地の下には、甘い優しさと、冷たい凶器が隠されているかもしれないもの。"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_eirene_seaside_sunrise_idle_001.ogg",
+      "text": "こんなに安らげる日はそうないわ。少し酔いが回ってきたみたいなの。チェス以外のことも、してみない？"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_eirene_seaside_sunrise_specialattention_001.ogg",
+      "text": "海辺の日の出を楽しんでいるの？それとも、別の「絶景」に気を取られているのかしら？目を逸らさなくていいわ。気にしていないから。"
+    }
+  ],
+  "daughter_of_fraser_city": [
+    {
+      "title": "Level Up",
+      "filename": "File:vo_eirene_feishazhinu_levelup_001.ogg",
+      "text": "手札が多いことを嫌がる人はいない。私も例外じゃないわ。"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_eirene_feishazhinu_cacha_001.ogg",
+      "text": "あなたは誰！？……その目つきからして、お兄様やお姉様が差し向けた人間じゃないみたいだけど。それで……私に協力を求めに来たの？じゃあ、1分あげるから誠意を見せなさい。"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_eirene_feishazhinu_greeting_001.ogg",
+      "text": "ここにいない間、あなたが自分の能力を鍛えていると願うわ。隣に立つ協力者が、私の思考に追いつけないと困るから。"
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_eirene_feishazhinu_talk_001.ogg",
+      "text": "私の敵は、全員キャンベル一族の嫡出子。彼らと比べると、私には何もないと言っていい。それでも、私の仲間になるつもり？ふふ、面白い。あなたの目的を疑い始めたわ。"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_eirene_feishazhinu_talk_002.ogg",
+      "text": "父は私たちの争いに介入しない。自分の優秀さを証明するのは、キャンベルの後継者の義務だから。勝者は全てを手に入れ、敗者は全てを失う。それがゲームのルールよ。"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_eirene_feishazhinu_idle_001.ogg",
+      "text": "ここの人たちは、いつもこんなにのんびりしているの？ふふ、キャンベル一族の人間は、この歳でも休む資格がないのよ。"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_eirene_feishazhinu_clicking_001.ogg",
+      "text": "これが私に協力する目的？こういう手段は、祖母の代からもう使われていないわ。"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_eirene_feishazhinu_specialattention_001.ogg",
+      "text": "いいわよ。まず傍に来て。計画の詳細をゆっくり教えてあげるから。"
+    }
+  ]
+}
