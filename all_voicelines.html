@@ -9,13 +9,13 @@
         /* Simple spinner style */
         .spinner {
             border: 8px solid #f3f3f3; /* Light grey */
-            border-top: 8px solid #999; /* Blue */
-            border-radius: 80%;
+            border-top: 8px solid #999; /* Dark grey */
+            border-radius: 50%;
             width: 25px;
             height: 25px;
             animation: spin 1s linear infinite;
             margin: 20px auto;
-            display: none;
+            display: none; /* Initially hidden */
         }
 
         @keyframes spin {
@@ -27,25 +27,22 @@
 <body>
     <nav class="navbar">
         <div class="container">
-      
-          <div class="navbar-header">
-            <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
-              <span></span>
-              <span></span>
-              <span></span>
-            </button>
-            <a href="/">
-              <h4>Path To Nowhere Archive</h4>
-            </a>
-          </div>
-      
-          <div class="navbar-menu" id="open-navbar1">
-            <ul class="navbar-nav">
-              <li><a href="">Sinners</a></li>
-           
-              <li class="active"><a href="all_voicelines.html">All Voicelines</a></li>
-            </ul>
-          </div>
+            <div class="navbar-header">
+                <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <a href="/">
+                    <h4>Path To Nowhere Archive</h4>
+                </a>
+            </div>
+            <div class="navbar-menu" id="open-navbar1">
+                <ul class="navbar-nav">
+                    <li><a href="">Sinners</a></li>
+                    <li class="active"><a href="all_voicelines.html">All Voicelines</a></li>
+                </ul>
+            </div>
         </div>
     </nav> 
     <h1>All Voicelines</h1>
@@ -57,30 +54,34 @@
 
     <script>
         let voicelines = [];
-        let filteredVoicelines = []; // Store filtered results for memoization
+        let filteredVoicelines = [];
         let currentAudio = null;
 
         async function fetchAllVoicelines() {
             const loadingSpinner = document.getElementById('loadingSpinner');
             loadingSpinner.style.display = 'block'; // Show the spinner
 
-            const charactersResponse = await fetch('characters.json');
-            const charactersData = await charactersResponse.json();
-            const fetchPromises = [];
+            try {
+                const charactersResponse = await fetch('characters.json');
+                const charactersData = await charactersResponse.json();
+                const fetchPromises = [];
 
-            for (const character of charactersData.characters) {
-                const sanitizedCharacterName = character.name.toLowerCase().replace(/\s+/g, '_');
-                for (const language of ['English', 'Chinese', 'Japanese', 'Korean']) {
-                    const voicelinesFile = `characters/${sanitizedCharacterName}_${language}.json`;
-                    fetchPromises.push(fetchVoicelines(voicelinesFile, character.name, language));
+                for (const character of charactersData.characters) {
+                    const sanitizedCharacterName = character.name.toLowerCase().replace(/\s+/g, '_');
+                    for (const language of ['English', 'Chinese', 'Japanese', 'Korean']) {
+                        const voicelinesFile = `characters/${sanitizedCharacterName}_${language}.json`;
+                        fetchPromises.push(fetchVoicelines(voicelinesFile, character.name, language));
+                    }
                 }
+
+                await Promise.all(fetchPromises);
+                filteredVoicelines = voicelines;
+                renderVoicelines();
+            } catch (error) {
+                console.error('Error fetching voicelines:', error);
+            } finally {
+                loadingSpinner.style.display = 'none'; // Hide the spinner after loading
             }
-
-            await Promise.all(fetchPromises);
-            filteredVoicelines = voicelines; // Initialize filteredVoicelines with all voicelines
-            renderVoicelines(); // Render all voicelines on initial load
-
-            loadingSpinner.style.display = 'none'; // Hide the spinner after loading
         }
 
         async function fetchVoicelines(file, characterName, language) {
@@ -93,7 +94,7 @@
                             character: characterName,
                             title: voiceline.title,
                             text: voiceline.text,
-                            filename: trimFilePrefix(voiceline.filename), // Trim "File:" prefix here
+                            filename: trimFilePrefix(voiceline.filename),
                             attire: attire,
                             language: language
                         });
@@ -104,14 +105,13 @@
             }
         }
 
-        // Function to trim "File:" prefix from filenames
         function trimFilePrefix(filename) {
             return filename.startsWith("File:") ? filename.slice(5) : filename;
         }
 
         function renderVoicelines() {
             const voicelinesContainer = document.getElementById('voicelinesContainer');
-            voicelinesContainer.innerHTML = ''; // Clear previous content
+            voicelinesContainer.innerHTML = '';
 
             const fragment = document.createDocumentFragment();
             filteredVoicelines.forEach(voiceline => {
