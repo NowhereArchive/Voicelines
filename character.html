@@ -23,11 +23,28 @@
         #characterName {
             text-transform: capitalize;
         }
-        .language-container {
-            margin: 20px;
+        .search-container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 10px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        .attire-container {
-            margin-top: 20px;
+        .search-input {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .search-select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
         }
         .voiceline {
             padding: 15px;
@@ -61,6 +78,15 @@
 </head>
 <body>
     <h1 id="characterName">Character</h1>
+    
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-input" placeholder="Search for character or voiceline...">
+        <select id="searchCategory" class="search-select">
+            <option value="character">Character Name</option>
+            <option value="voiceline">Voiceline Text</option>
+        </select>
+    </div>
+    
     <div id="voicelinesContainer"></div>
 
     <script>
@@ -107,10 +133,36 @@
             });
         }
 
+        // Function to filter the voicelines based on the search input
+        function filterVoicelines() {
+            const searchValue = document.getElementById('searchInput').value.toLowerCase();
+            const searchCategory = document.getElementById('searchCategory').value;
+
+            const allVoicelines = document.querySelectorAll('.voiceline');
+            allVoicelines.forEach(voiceline => {
+                const characterName = voiceline.querySelector('p:first-of-type').innerText.toLowerCase();
+                const voicelineText = voiceline.querySelector('p:last-of-type').innerText.toLowerCase();
+
+                if (searchCategory === 'character') {
+                    if (characterName.includes(searchValue)) {
+                        voiceline.style.display = 'block';
+                    } else {
+                        voiceline.style.display = 'none';
+                    }
+                } else if (searchCategory === 'voiceline') {
+                    if (voicelineText.includes(searchValue)) {
+                        voiceline.style.display = 'block';
+                    } else {
+                        voiceline.style.display = 'none';
+                    }
+                }
+            });
+        }
+
         // Get the character name, language, and attire from the URL
         const characterName = sanitizeName(getQueryParam('name'));
-        const language = sanitizeName(getQueryParam('language') || 'English'); // Default to English if no language is specified
-        const attire = sanitizeName(getQueryParam('attire') || 'Default'); // Default to Default if no attire is specified
+        const language = sanitizeName(getQueryParam('language') || 'English');
+        const attire = sanitizeName(getQueryParam('attire') || 'Default');
 
         const characterNameDisplay = characterName.replace('_', ' '); // For displaying purposes
         document.getElementById('characterName').innerText = `${characterNameDisplay} - ${language} - ${attire}`;
@@ -147,6 +199,11 @@
                 currentAudio.currentTime = 0;
             }
         }
+
+        // Event listener for the search bar
+        document.getElementById('searchInput').addEventListener('input', filterVoicelines);
+        document.getElementById('searchCategory').addEventListener('change', filterVoicelines);
+
     </script>
 </body>
 </html>
