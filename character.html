@@ -1,209 +1,212 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Character Voice Lines</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        h1 {
-            color: white;
-            padding: 20px;
-            margin: 0;
-            text-align: center;
-            font-size: 24px;
-        }
-        #characterName {
-            text-transform: capitalize;
-        }
-        .search-container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 10px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .search-input {
-            width: 100%;
-            padding: 10px;
-            font-size: 16px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-        .search-select {
-            width: 100%;
-            padding: 10px;
-            margin-top: 10px;
-            font-size: 16px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-        .voiceline {
-            padding: 15px;
-            margin-bottom: 15px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            background-color: #f9f9f9;
-        }
-        .voiceline p {
-            margin: 0;
-            font-weight: bold;
-        }
-        .voiceline button {
-            background-color: #007bff;
-            border: none;
-            color: white;
-            padding: 10px 15px;
-            margin-right: 10px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        .voiceline button:hover {
-            background-color: #0056b3;
-        }
-        .voiceline button:disabled {
-            background-color: #cccccc;
-            cursor: not-allowed;
-        }
-    </style>
-</head>
-<body>
+    <link href="Styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav class="navbar">
+        <div class="container">
+      
+          <div class="navbar-header">
+            <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
+            <a href="">
+              <h4>Path To Nowhere Archive</h4>
+            </a>
+          </div>
+      
+          <div class="navbar-menu" id="open-navbar1">
+            <ul class="navbar-nav">
+              <li><a href="Index.html">Sinners</a></li>
+           
+              <li><a href="all_voicelines.html">All Voicelines</a></li>
+            </ul>
+          </div>
+        </div>
+    </nav> 
     <h1 id="characterName">Character</h1>
-    
+
     <div class="search-container">
-        <input type="text" id="searchInput" class="search-input" placeholder="Search for character or voiceline...">
-        <select id="searchCategory" class="search-select">
-            <option value="character">Character Name</option>
-            <option value="voiceline">Voiceline Text</option>
-        </select>
+      <input
+        type="text"
+        id="searchInput"
+        class="search-input"
+        placeholder="Search for voice line..."
+      />
     </div>
-    
+
+    <div class="language-buttons" id="languageButtonsContainer"></div>
+    <div class="attire-buttons" id="attireButtonsContainer"></div>
+
     <div id="voicelinesContainer"></div>
 
     <script>
-        // Function to get the query parameter from the URL
-        function getQueryParam(param) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(param);
+      // Function to get the query parameter from the URL
+      function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+      }
+
+      // Function to sanitize and format the name for folder/filenames
+      function sanitizeName(name) {
+        return name.toLowerCase().replace(/\s+/g, "_");
+      }
+
+      // Function to trim "File:" prefix from filenames
+      function trimFilePrefix(filename) {
+        return filename.startsWith("File:") ? filename.slice(5) : filename;
+      }
+
+      // Function to render voicelines for a given attire and language
+      function renderVoicelines(data, sanitizedAttire, sanitizedLanguage) {
+        const voicelinesContainer = document.getElementById(
+          "voicelinesContainer"
+        );
+        const voicelines = data[sanitizedAttire];
+
+        // Ensure the voicelines exist for the attire
+        if (!voicelines) {
+          voicelinesContainer.innerHTML = `<p>No voice lines found for ${sanitizedAttire} in ${sanitizedLanguage}.</p>`;
+          return;
         }
 
-        // Function to sanitize and format the name for folder/filenames
-        function sanitizeName(name) {
-            return name.toLowerCase().replace(/\s+/g, '_');
-        }
-
-        // Function to trim "File:" prefix from filenames
-        function trimFilePrefix(filename) {
-            return filename.startsWith('File:') ? filename.slice(5) : filename;
-        }
-
-        // Function to render voicelines for a given language and attire
-        function renderVoicelines(data, sanitizedAttire) {
-            const voicelinesContainer = document.getElementById('voicelinesContainer');
-            const voicelines = data[sanitizedAttire];
-            
-            // Ensure the voicelines exist for the attire
-            if (!voicelines) {
-                voicelinesContainer.innerHTML = `<p>No voice lines found for ${sanitizedAttire}.</p>`;
-                return;
-            }
-            
-            voicelinesContainer.innerHTML = ''; // Clear previous content
-            voicelines.forEach(voiceline => {
-                const trimmedFilename = trimFilePrefix(voiceline.filename);
-                const sanitizedAudioFile = `audio/${characterName}/${sanitizeName(language)}/${sanitizedAttire}/${sanitizeName(trimmedFilename)}`;
-                const lineDiv = document.createElement('div');
-                lineDiv.classList.add('voiceline');
-                lineDiv.innerHTML = `
+        voicelinesContainer.innerHTML = ""; // Clear previous content
+        voicelines.forEach((voiceline) => {
+          const trimmedFilename = trimFilePrefix(voiceline.filename);
+          const sanitizedAudioFile = `audio/${characterName}/${sanitizedLanguage}/${sanitizedAttire}/${sanitizeName(
+            trimmedFilename
+          )}`;
+          const lineDiv = document.createElement("div");
+          lineDiv.classList.add("voiceline");
+          lineDiv.innerHTML = `
                     <p>${voiceline.title}:</p>
                     <button onclick="playVoice('${sanitizedAudioFile}')">Play</button>
                     <button onclick="stopVoice()">Stop</button>
-                    <p>${voiceline.text}</p>
+                    <p class="voiceline-text">${voiceline.text}</p>
                 `;
-                voicelinesContainer.appendChild(lineDiv);
-            });
-        }
+          voicelinesContainer.appendChild(lineDiv);
+        });
+      }
 
-        // Function to filter the voicelines based on the search input
-        function filterVoicelines() {
-            const searchValue = document.getElementById('searchInput').value.toLowerCase();
-            const searchCategory = document.getElementById('searchCategory').value;
+      // Function to create attire buttons dynamically
+      function createAttireButtons(data) {
+        const attireButtonsContainer = document.getElementById(
+          "attireButtonsContainer"
+        );
+        attireButtonsContainer.innerHTML = ""; // Clear existing buttons
 
-            const allVoicelines = document.querySelectorAll('.voiceline');
-            allVoicelines.forEach(voiceline => {
-                const characterName = voiceline.querySelector('p:first-of-type').innerText.toLowerCase();
-                const voicelineText = voiceline.querySelector('p:last-of-type').innerText.toLowerCase();
+        Object.keys(data).forEach((attire) => {
+          const button = document.createElement("button");
+          button.classList.add("attire-button");
+          button.innerText = attire
+            .replace(/_/g, " ")
+            .replace(/\b\w/g, (char) => char.toUpperCase()); // Format text
+          button.onclick = () => renderVoicelines(data, attire, language);
+          attireButtonsContainer.appendChild(button);
+        });
+      }
 
-                if (searchCategory === 'character') {
-                    if (characterName.includes(searchValue)) {
-                        voiceline.style.display = 'block';
-                    } else {
-                        voiceline.style.display = 'none';
-                    }
-                } else if (searchCategory === 'voiceline') {
-                    if (voicelineText.includes(searchValue)) {
-                        voiceline.style.display = 'block';
-                    } else {
-                        voiceline.style.display = 'none';
-                    }
-                }
-            });
-        }
+      // Function to create language buttons dynamically based on available JSON files
+      function createLanguageButtons() {
+        const languageButtonsContainer = document.getElementById(
+          "languageButtonsContainer"
+        );
+        const languages = ["English", "Japanese", "Chinese", "Korean"];
+        const availableLanguages = [];
 
-        // Get the character name, language, and attire from the URL
-        const characterName = sanitizeName(getQueryParam('name'));
-        const language = sanitizeName(getQueryParam('language') || 'English');
-        const attire = sanitizeName(getQueryParam('attire') || 'Default');
+        languages.forEach((lang) => {
+          const languageFile = `characters/${characterName}_${sanitizeName(
+            lang
+          )}.json`;
+          fetch(languageFile)
+            .then((response) => {
+              if (response.ok) {
+                availableLanguages.push(lang);
+                const button = document.createElement("button");
+                button.classList.add("language-button");
+                button.innerText = lang;
+                button.onclick = () => {
+                  language = sanitizeName(lang);
+                  loadVoicelines();
+                };
+                languageButtonsContainer.appendChild(button);
+              }
+            })
+            .catch((error) =>
+              console.error(`Error loading ${lang} file:`, error)
+            );
+        });
+      }
 
-        const characterNameDisplay = characterName.replace('_', ' '); // For displaying purposes
-        document.getElementById('characterName').innerText = `${characterNameDisplay} - ${language} - ${attire}`;
+      // Function to capitalize the first letter of each word
+      function capitalizeWords(name) {
+        return name
+          .split(" ")
+          .map(
+            (word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+          )
+          .join(" ");
+      }
 
-        // Construct the JSON file path dynamically
+      // Load voicelines for the current character and language
+      function loadVoicelines() {
         const voicelinesFile = `characters/${characterName}_${language}.json`;
 
-        if (voicelinesFile) {
-            fetch(voicelinesFile)
-                .then(response => response.json())
-                .then(data => {
-                    renderVoicelines(data, attire);
-                })
-                .catch(error => console.error('Error loading voice lines:', error));
+        fetch(voicelinesFile)
+          .then((response) => response.json())
+          .then((data) => {
+            // Capitalize character name
+            const characterDisplayName = capitalizeWords(
+              characterName.replace("_", " ")
+            );
+            document.getElementById("characterName").innerText =
+              characterDisplayName;
+
+            createAttireButtons(data); // Create attire buttons
+            renderVoicelines(data, Object.keys(data)[0], language); // Render first attire by default
+          })
+          .catch((error) => console.error("Error loading voice lines:", error));
+      }
+
+      // Get the character name and language from the URL
+      let characterName = sanitizeName(getQueryParam("name"));
+      let language = sanitizeName(getQueryParam("language") || "English");
+
+      // Initial load of voice lines
+      createLanguageButtons();
+      loadVoicelines();
+
+      // Variables to keep track of currently playing audio
+      let currentAudio = null;
+
+      // Function to play the audio
+      function playVoice(file) {
+        if (currentAudio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
         }
+        currentAudio = new Audio(file);
+        currentAudio.play();
+      }
 
-        // Variables to keep track of currently playing audio
-        let currentAudio = null;
-
-        // Function to play the audio
-        function playVoice(file) {
-            if (currentAudio) {
-                currentAudio.pause();
-                currentAudio.currentTime = 0;
-            }
-            currentAudio = new Audio(file);
-            currentAudio.play();
+      // Function to stop the audio
+      function stopVoice() {
+        if (currentAudio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
         }
+      }
 
-        // Function to stop the audio
-        function stopVoice() {
-            if (currentAudio) {
-                currentAudio.pause();
-                currentAudio.currentTime = 0;
-            }
-        }
-
-        // Event listener for the search bar
-        document.getElementById('searchInput').addEventListener('input', filterVoicelines);
-        document.getElementById('searchCategory').addEventListener('change', filterVoicelines);
-
+      // Event listener for the search bar
+      document
+        .getElementById("searchInput")
+        .addEventListener("input", filterVoicelines);
     </script>
-</body>
+  </body>
 </html>

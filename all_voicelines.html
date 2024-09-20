@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Voicelines</title>
+    <link href="Styles.css" rel="stylesheet">
+    <style>
+        /* Simple spinner style */
+        .spinner {
+            border: 8px solid #f3f3f3; /* Light grey */
+            border-top: 8px solid #999; /* Blue */
+            border-radius: 80%;
+            width: 25px;
+            height: 25px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+            display: none;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+      
+          <div class="navbar-header">
+            <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
+            <a href="">
+              <h4>Path To Nowhere Archive</h4>
+            </a>
+          </div>
+      
+          <div class="navbar-menu" id="open-navbar1">
+            <ul class="navbar-nav">
+              <li><a href="Index.html">Sinners</a></li>
+           
+              <li class="active"><a href="all_voicelines.html">All Voicelines</a></li>
+            </ul>
+          </div>
+        </div>
+    </nav> 
+    <h1>All Voicelines</h1>
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-input" placeholder="Voicelines Search" autocomplete="off">
+    </div>
+    <div class="spinner" id="loadingSpinner"></div>
+    <div id="voicelinesContainer"></div>
+
+    <script>
+        let voicelines = [];
+        let filteredVoicelines = []; // Store filtered results for memoization
+        let currentAudio = null;
+
+        async function fetchAllVoicelines() {
+            const loadingSpinner = document.getElementById('loadingSpinner');
+            loadingSpinner.style.display = 'block'; // Show the spinner
+
+            const charactersResponse = await fetch('characters.json');
+            const charactersData = await charactersResponse.json();
+            const fetchPromises = [];
+
+            for (const character of charactersData.characters) {
+                const sanitizedCharacterName = character.name.toLowerCase().replace(/\s+/g, '_');
+                for (const language of ['English', 'Chinese', 'Japanese', 'Korean']) {
+                    const voicelinesFile = `characters/${sanitizedCharacterName}_${language}.json`;
+                    fetchPromises.push(fetchVoicelines(voicelinesFile, character.name, language));
+                }
+            }
+
+            await Promise.all(fetchPromises);
+            filteredVoicelines = voicelines; // Initialize filteredVoicelines with all voicelines
+            renderVoicelines(); // Render all voicelines on initial load
+
+            loadingSpinner.style.display = 'none'; // Hide the spinner after loading
+        }
+
+        async function fetchVoicelines(file, characterName, language) {
+            try {
+                const response = await fetch(file);
+                const data = await response.json();
+                for (const attire in data) {
+                    data[attire].forEach(voiceline => {
+                        voicelines.push({
+                            character: characterName,
+                            title: voiceline.title,
+                            text: voiceline.text,
+                            filename: trimFilePrefix(voiceline.filename), // Trim "File:" prefix here
+                            attire: attire,
+                            language: language
+                        });
+                    });
+                }
+            } catch (error) {
+                console.error(`Error loading voicelines for ${characterName} (${language}):`, error);
+            }
+        }
+
+        // Function to trim "File:" prefix from filenames
+        function trimFilePrefix(filename) {
+            return filename.startsWith("File:") ? filename.slice(5) : filename;
+        }
+
+        function renderVoicelines() {
+            const voicelinesContainer = document.getElementById('voicelinesContainer');
+            voicelinesContainer.innerHTML = ''; // Clear previous content
+
+            const fragment = document.createDocumentFragment();
+            filteredVoicelines.forEach(voiceline => {
+                const lineDiv = document.createElement('div');
+                lineDiv.classList.add('voiceline');
+                lineDiv.innerHTML = `
+                    <p>${voiceline.character} - ${voiceline.language} - ${voiceline.attire}: ${voiceline.title}</p>
+                    <button onclick="playVoice('audio/${sanitizeName(voiceline.character)}/${sanitizeName(voiceline.language)}/${sanitizeName(voiceline.attire)}/${sanitizeName(voiceline.filename)}')">Play</button>
+                    <button onclick="pauseVoice()">Stop</button>
+                    <p class="voiceline-text">${voiceline.text}</p>
+                `;
+                fragment.appendChild(lineDiv);
+            });
+            voicelinesContainer.appendChild(fragment);
+        }
+
+        function debounce(func, delay) {
+            let timeoutId;
+            return function(...args) {
+                clearTimeout(timeoutId);
+                timeoutId = setTimeout(() => {
+                    func.apply(null, args);
+                }, delay);
+            };
+        }
+
+        function filterVoicelines() {
+            const searchValue = document.getElementById("searchInput").value.toLowerCase();
+            filteredVoicelines = voicelines.filter(voiceline => {
+                const voicelineText = voiceline.text.toLowerCase();
+                const characterDetails = `${voiceline.character.toLowerCase()} - ${voiceline.language.toLowerCase()} - ${voiceline.attire.toLowerCase()}`;
+                return voicelineText.includes(searchValue) || characterDetails.includes(searchValue);
+            });
+
+            renderVoicelines();
+        }
+
+        fetchAllVoicelines();
+        document.getElementById("searchInput").addEventListener("input", debounce(filterVoicelines, 300));
+
+        function playVoice(file) {
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+            currentAudio = new Audio(file);
+            currentAudio.play();
+        }
+
+        function pauseVoice() {
+            if (currentAudio) {
+                currentAudio.pause();
+            }
+        }
+
+        function sanitizeName(name) {
+            return name.toLowerCase().replace(/\s+/g, '_');
+        }
+    </script>
+</body>
+</html>

@@ -1,70 +1,344 @@
-/* General Styles */
+/* Styles.css - Dark Mode */
+
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 body {
-  font-family: 'Arial', sans-serif;
+  background-color: #121212;
+  color: #E0E0E0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
-  color: #333;
 }
 
-header {
-  background-color: #333333;
-  color: #fff;
-  padding: 10px 20px;
+h1 {
+  color: #FFFFFF;
   text-align: center;
+  margin-top: 20px;
+  font-size: 2em;
 }
 
-main {
-  padding: 20px;
+/* Search Container Styling */
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
 }
 
-/* Character Name */
-#characterName {
-  margin: 0;
-}
-
-/* Voice Line Styles */
-.voiceline {
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  margin: 10px 0;
-  padding: 15px;
-  position: relative;
-}
-
-.voiceline p {
-  margin: 0;
-}
-
-.audio-controls {
-  margin-top: 10px;
-}
-
-button {
-  background-color: #007bff;
-  border: none;
-  border-radius: 4px;
-  color: #fff;
-  cursor: pointer;
-  padding: 10px 15px;
-  margin-right: 5px;
-  font-size: 14px;
-  transition: background-color 0.3s;
-}
-
-button:hover {
-  background-color: #0056b3;
-}
-
-button:focus {
+.search-input {
+  padding: 10px;
+  width: 80%;
+  max-width: 600px;
+  border-radius: 5px;
+  border: 1px solid #424242;
+  background-color: #1E1E1E;
+  color: #FFFFFF;
   outline: none;
 }
 
-button.stop {
-  background-color: #dc3545;
+/* Character Grid */
+.character-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
 }
 
-button.stop:hover {
-  background-color: #c82333;
+.character {
+  text-align: center;
+  width: 150px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #1E1E1E;
+  cursor: pointer;
+  transition: transform 0.2s ease;
 }
+
+.character:hover {
+  transform: translateY(-5px);
+}
+
+.character img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.character p {
+  margin: 10px 0 0;
+  font-size: 1em;
+  color: #FFFFFF;
+}
+
+/* Buttons */
+.button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #3A3A3A;
+  color: #FFFFFF;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #5A5A5A;
+}
+
+/* Adjusting Button Container */
+.language-buttons, .attire-buttons {
+  display: flex; /* Use flexbox for alignment */
+  justify-content: center; /* Center the buttons */
+  flex-wrap: wrap; /* Allow buttons to wrap to the next line */
+  margin: 20px 0; /* Add vertical spacing */
+}
+
+/* Styling Individual Buttons */
+.language-button, .attire-button {
+  background-color: #3C3C3C; /* Button background color */
+  color: #FFFFFF; /* Button text color */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px 15px; /* Padding for better touch area */
+  margin: 5px; /* Space between buttons */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+/* Button hover effect */
+.language-button:hover, .attire-button:hover {
+  background-color: #575757; /* Darker background on hover */
+}
+
+/* Ensuring Button Containers Don't Stretch Full Width */
+.language-buttons, .attire-buttons {
+  max-width: 800px; /* Set a max width for the button container */
+  margin: 0 auto; /* Center the button container */
+}
+
+
+/* Adjusting Voiceline Container */
+.voiceline {
+  background-color: #1E1E1E;
+  border: 1px solid #424242;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px auto; /* Center the container */
+  max-width: 800px; /* Set a maximum width */
+  width: 90%; /* Width is 90% of the max width */
+}
+
+
+.voiceline p {
+  margin: 5px 0;
+}
+
+.voiceline button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #3A3A3A;
+  color: #FFFFFF;
+}
+
+.voiceline button:hover {
+  background-color: #5A5A5A;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: #BB86FC;
+}
+
+a:hover {
+  color: #D6A2E8;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar,
+.navbar > .container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+@media (max-width: 768px) {
+  .navbar,
+.navbar > .container {
+    display: block;
+  }
+}
+
+.navbar {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  padding: 1rem 1.15rem;
+  border-bottom: 1px solid #333;
+}
+@media (min-width: 576px) {
+  .navbar .container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .navbar .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .navbar .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .navbar .container {
+    max-width: 1140px;
+  }
+}
+.navbar .navbar-header {
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .navbar .navbar-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+  }
+}
+.navbar .navbar-header .navbar-toggler {
+  cursor: pointer;
+  border: none;
+  display: none;
+  outline: none;
+}
+@media (max-width: 768px) {
+  .navbar .navbar-header .navbar-toggler {
+    display: block;
+  }
+}
+.navbar .navbar-header .navbar-toggler span {
+  height: 2px;
+  width: 22px;
+  background-color: #929aad;
+  display: block;
+}
+.navbar .navbar-header .navbar-toggler span:not(:last-child) {
+  margin-bottom: 0.2rem;
+}
+.navbar .navbar-header > a {
+  font-weight: 500;
+}
+.navbar .navbar-menu {
+  display: flex;
+  align-items: center;
+  flex-basis: auto;
+  flex-grow: 1;
+}
+@media (max-width: 768px) {
+  .navbar .navbar-menu {
+    display: none;
+    text-align: center;
+  }
+}
+.navbar .navbar-menu.active {
+  display: flex !important;
+}
+.navbar .navbar-menu .navbar-nav {
+  margin-left: auto;
+  flex-direction: row;
+  display: flex;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+@media (max-width: 768px) {
+  .navbar .navbar-menu .navbar-nav {
+    width: 100%;
+    display: block;
+    border-top: 1px solid #EEE;
+    margin-top: 1rem;
+  }
+}
+.navbar .navbar-menu .navbar-nav > li > a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  color: white;
+}
+.navbar .navbar-menu .navbar-nav > li > a:hover {
+  color: #999;
+}
+@media (max-width: 768px) {
+  .navbar .navbar-menu .navbar-nav > li > a {
+    border-bottom: 1px solid #eceef3;
+  }
+}
+.navbar .navbar-menu .navbar-nav > li.active a {
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .navbar .navbar-menu .navbar-nav .navbar-dropdown .dropdown {
+    position: relative;
+    box-shadow: none;
+  }
+}
+.navbar .navbar-menu .navbar-nav .navbar-dropdown .dropdown li a {
+  padding: 0.25rem 1rem;
+  display: block;
+}
+.navbar .navbar-menu .navbar-nav .navbar-dropdown .dropdown.show {
+  display: block !important;
+}
+.navbar .navbar-menu .navbar-nav .dropdown > .separator {
+  height: 1px;
+  width: 100%;
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+.navbar .navbar-dropdown {
+  position: relative;
+}
+
+.navbar .navbar-header > a span {
+  color: white;
+}
+
+.navbar .navbar-header h4 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: white;
+}
+@media (max-width: 768px) {
+  .navbar .navbar-header h4 {
+    font-size: 1.05rem;
+  }
+}                                         
+            
