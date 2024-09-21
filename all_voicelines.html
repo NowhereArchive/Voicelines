@@ -68,7 +68,7 @@
 
                 for (const character of charactersData.characters) {
                     const sanitizedCharacterName = character.name.toLowerCase().replace(/\s+/g, '_');
-                    for (const language of ['English', 'Chinese', 'Japanese', 'Korean']) {
+                    for (const language of ['english', 'chinese', 'japanese', 'korean']) {
                         const voicelinesFile = `characters/${sanitizedCharacterName}_${language}.json`;
                         fetchPromises.push(fetchVoicelines(voicelinesFile, character.name, language));
                     }
