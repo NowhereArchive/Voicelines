@@ -179,6 +179,16 @@
         function sanitizeName(name) {
             return name.toLowerCase().replace(/\s+/g, '_');
         }
+        document.addEventListener('keydown', function(event) {
+            // Check if the 'L' key was pressed
+            if (event.key === 'l' || event.key === 'L') {
+                event.preventDefault(); // Prevent default action
+                const searchInput = document.getElementById('searchInput');
+                if (searchInput) {
+                    searchInput.focus(); // Focus on the search input
+                }
+            }
+        });
     </script>
 </body>
 </html>
