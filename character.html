@@ -2,14 +2,19 @@
 <html lang="en">
   <head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-  gtag('config', 'G-3M02N0366N');
-</script>
+      gtag("config", "G-3M02N0366N");
+    </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Character Voice Lines</title>
@@ -17,28 +22,31 @@
   </head>
   <body>
     <nav class="navbar">
-        <div class="container">
-      
-          <div class="navbar-header">
-            <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
-              <span></span>
-              <span></span>
-              <span></span>
-            </button>
-            <a href="/Voicelines">
-              <h4>Path To Nowhere Archive</h4>
-            </a>
-          </div>
-      
-          <div class="navbar-menu" id="open-navbar1">
-            <ul class="navbar-nav">
-              <li><a href="/Voicelines">Sinners</a></li>
-           
-              <li><a href="all_voicelines.html">All Voicelines</a></li>
-            </ul>
-          </div>
+      <div class="container">
+        <div class="navbar-header">
+          <button
+            title="logo"
+            class="navbar-toggler"
+            data-toggle="open-navbar1"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+          <a href="/Voicelines">
+            <h4>Path To Nowhere Archive</h4>
+          </a>
         </div>
-    </nav> 
+
+        <div class="navbar-menu" id="open-navbar1">
+          <ul class="navbar-nav">
+            <li><a href="/Voicelines">Sinners</a></li>
+
+            <li><a href="all_voicelines.html">All Voicelines</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
     <h1 id="characterName">Character</h1>
 
     <div class="search-container">
@@ -46,7 +54,8 @@
         type="text"
         id="searchInput"
         class="search-input"
-        placeholder="Search for voice line..."
+        placeholder="Search Through Voicelines"
+        autocomplete="off"
       />
     </div>
 
@@ -116,7 +125,18 @@
           button.innerText = attire
             .replace(/_/g, " ")
             .replace(/\b\w/g, (char) => char.toUpperCase()); // Format text
-          button.onclick = () => renderVoicelines(data, attire, language);
+          button.onclick = () => {
+            // Remove active class from all attire buttons
+            const buttons =
+              attireButtonsContainer.getElementsByClassName("attire-button");
+            Array.from(buttons).forEach((btn) =>
+              btn.classList.remove("active-button")
+            );
+
+            // Add active class to the selected button
+            button.classList.add("active-button");
+            renderVoicelines(data, attire, language);
+          };
           attireButtonsContainer.appendChild(button);
         });
       }
@@ -141,6 +161,17 @@
                 button.classList.add("language-button");
                 button.innerText = lang;
                 button.onclick = () => {
+                  // Remove active class from all language buttons
+                  const buttons =
+                    languageButtonsContainer.getElementsByClassName(
+                      "language-button"
+                    );
+                  Array.from(buttons).forEach((btn) =>
+                    btn.classList.remove("active-button")
+                  );
+
+                  // Add active class to the selected button
+                  button.classList.add("active-button");
                   language = sanitizeName(lang);
                   loadVoicelines();
                 };
@@ -212,23 +243,37 @@
         }
       }
 
-      document.addEventListener('keydown', function(event) {
-            // Check if the 'L' key was pressed
-            if (event.key === 'l' || event.key === 'L') {
-                event.preventDefault(); // Prevent default action
-                const searchInput = document.getElementById('searchInput');
-                if (searchInput) {
-                    searchInput.focus(); // Focus on the search input
-                }
-            }
-        });
+      document.addEventListener("keydown", function (event) {
+        // Check if the 'L' key was pressed
+        if (event.key === "l" || event.key === "L") {
+          event.preventDefault(); // Prevent default action
+          const searchInput = document.getElementById("searchInput");
+          if (searchInput) {
+            searchInput.focus(); // Focus on the search input
+          }
+        }
+      });
 
       // Event listener for the search bar
       document
         .getElementById("searchInput")
         .addEventListener("input", filterVoicelines);
 
-        
+      function filterVoicelines() {
+        const searchValue = document
+          .getElementById("searchInput")
+          .value.toLowerCase();
+        const voicelines = document.querySelectorAll(".voiceline"); // Adjust selector if needed
+
+        voicelines.forEach((line) => {
+          const lineText = line
+            .querySelector(".voiceline-text")
+            .innerText.toLowerCase();
+          line.style.display = lineText.includes(searchValue)
+            ? "block"
+            : "none";
+        });
+      }
     </script>
   </body>
 </html>
