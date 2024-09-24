@@ -25,5 +25,12 @@
             "filename": "327061880.ogg",
             "text": "Welcome back, Chief."
         }
+    ],
+    "shalom": [
+        {
+            "title": "vo_shalom_trial",
+            "filename": "839232383.ogg",
+            "text": "I didn't expect you to show up in person, ma'am. There's an urgent document requiring Chiefs authorization. Could you spare a few minutes?"
+        }
     ]
 }
