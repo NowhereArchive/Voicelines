@@ -1,0 +1,29 @@
+{
+    "welcome": [
+        {
+            "title": "vo_cgplot_01",
+            "filename": "242979285.ogg",
+            "text": "Welcome to the Minos Bureau of Crisis Control Chief."
+        },
+        {
+            "title": "vo_cgplot_08",
+            "filename": "24572117.ogg",
+            "text": "Great. You'll be welcomed."
+        },
+        {
+            "title": "vo_cgplot_1318",
+            "filename": "863062629.ogg",
+            "text": "Welcome back, Chief. You've been sorely missed."
+        },
+        {
+            "title": "vo_event_00001",
+            "filename": "136382578.ogg",
+            "text": "I oversaw the entirety of the separation of the sinners. Welcome back. Chief."
+        },
+        {
+            "title": "vo_event_20303",
+            "filename": "327061880.ogg",
+            "text": "Welcome back, Chief."
+        }
+    ]
+}
