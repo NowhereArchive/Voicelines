@@ -157,15 +157,17 @@
 
         // Add keydown event for search shortcut
         document.addEventListener('keydown', function(event) {
-            // Check if the 'L' key was pressed
-            if (event.key === 'l' || event.key === 'L') {
-                event.preventDefault(); // Prevent default action
-                const searchInput = document.getElementById('searchInput');
-                if (searchInput) {
-                    searchInput.focus(); // Focus on the search input
-                }
-            }
-        });
+    const searchInput = document.getElementById('searchInput');
+    
+    // Check if 'L' or 'l' was pressed and that the search input is not focused
+    if ((event.key === 'l' || event.key === 'L') && document.activeElement !== searchInput) {
+        event.preventDefault(); // Prevent default action
+        if (searchInput) {
+            searchInput.focus(); // Focus on the search input
+        }
+    }
+});
+
     </script>
 </body>
 </html>
