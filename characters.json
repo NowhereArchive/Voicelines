@@ -1,99 +1,479 @@
 {
   "characters": [
-    { "name": "Adela", "displayName": "Adela" },
-    { "name": "Angell", "displayName": "Angell" },
-    { "name": "Anne", "displayName": "Anne" },
-    { "name": "Ariel", "displayName": "Ariel" },
-    { "name": "Bai_Yi", "displayName": "Bai Yi" },
-    { "name": "Bianca", "displayName": "Bianca" },
-    { "name": "Cabernet", "displayName": "Cabernet" },
-    { "name": "Cassia", "displayName": "Cassia" },
-    { "name": "Chameleon", "displayName": "Chameleon" },
-    { "name": "Che", "displayName": "Che" },
-    { "name": "Chelsea", "displayName": "Chelsea" },
-    { "name": "Christina", "displayName": "Christina" },
-    { "name": "Cinnabar", "displayName": "Cinnabar" },
-    { "name": "Coquelic", "displayName": "Coquelic" },
-    { "name": "Corso", "displayName": "Corso" },
-    { "name": "Crache", "displayName": "Crache" },
-    { "name": "Demolia", "displayName": "Demolia" },
-    { "name": "Demon", "displayName": "Demon" },
-    { "name": "Deren", "displayName": "Deren" },
-    { "name": "Dolly", "displayName": "Dolly" },
-    { "name": "Donald", "displayName": "Donald" },
-    { "name": "Dreya", "displayName": "Dreya" },
-    { "name": "Du_Ruo", "displayName": "Du Ruo" },
-    { "name": "Dudu", "displayName": "Dudu" },
-    { "name": "Echo", "displayName": "Echo" },
-    { "name": "Eirene", "displayName": "Eirene" },
-    { "name": "Eleven", "displayName": "Eleven" },
-    { "name": "EMP", "displayName": "EMP" },
-    { "name": "Enfer", "displayName": "Enfer" },
-    { "name": "Etti", "displayName": "Etti" },
-    { "name": "Eureka", "displayName": "Eureka" },
-    { "name": "Eve", "displayName": "Eve" },
-    { "name": "Flora", "displayName": "Flora" },
-    { "name": "Garofano", "displayName": "Garofano" },
-    { "name": "Gekkabijin", "displayName": "Gekkabijin" },
-    { "name": "Golan", "displayName": "Golan" },
-    { "name": "Hamel", "displayName": "Hamel" },
-    { "name": "Hecate", "displayName": "Hecate" },
-    { "name": "Hella", "displayName": "Hella" },
-    { "name": "Hestia", "displayName": "Hestia" },
-    { "name": "Horo", "displayName": "Horo" },
-    { "name": "Ignis", "displayName": "Ignis" },
-    { "name": "Iron", "displayName": "Iron" },
-    { "name": "Jane", "displayName": "Jane" },
-    { "name": "Joan", "displayName": "Joan" },
-    { "name": "KK", "displayName": "K.K." },
-    { "name": "Kawa-kawa", "displayName": "Kawa-kawa" },
-    { "name": "Kelvin", "displayName": "Kelvin" },
-    { "name": "LL", "displayName": "L.L." },
-    { "name": "Labyrinth", "displayName": "Labyrinth" },
-    { "name": "Lady_Pearl", "displayName": "Lady Pearl" },
-    { "name": "Lamia", "displayName": "Lamia" },
-    { "name": "Langley", "displayName": "Langley" },
-    { "name": "Letta", "displayName": "Letta" },
-    { "name": "Levy", "displayName": "Levy" },
-    { "name": "Lisa", "displayName": "Lisa" },
-    { "name": "Luvia_Ray", "displayName": "Luvia Ray" },
-    { "name": "Lynn", "displayName": "Lynn" },
-    { "name": "Macchiato", "displayName": "Macchiato" },
-    { "name": "Mantis", "displayName": "Mantis" },
-    { "name": "Matilda", "displayName": "Matilda" },
-    { "name": "McQueen", "displayName": "McQueen" },
-    { "name": "Mess", "displayName": "Mess" },
-    { "name": "MrFox", "displayName": "Mr. Fox" },
-    { "name": "Nightingale", "displayName": "Nightingale" },
-    { "name": "Ninety-Nine", "displayName": "Ninety-Nine" },
-    { "name": "Nino", "displayName": "Nino" },
-    { "name": "NOX", "displayName": "NOX" },
-    { "name": "Oak_Casket", "displayName": "Oak Casket" },
-    { "name": "Oliver", "displayName": "Oliver" },
-    { "name": "OwO", "displayName": "OwO" },
-    { "name": "Pacassi", "displayName": "Pacassi" },
-    { "name": "Peggy", "displayName": "Peggy" },
-    { "name": "Pepper", "displayName": "Pepper" },
-    { "name": "Pricilla", "displayName": "Pricilla" },
-    { "name": "Rahu", "displayName": "Rahu" },
-    { "name": "Raven", "displayName": "Raven" },
-    { "name": "Roulecca", "displayName": "Roulecca" },
-    { "name": "Serpent", "displayName": "Serpent" },
-    { "name": "Shalom", "displayName": "Shalom" },
-    { "name": "Shawn", "displayName": "Shawn" },
-    { "name": "Shrooma", "displayName": "Shrooma" },
-    { "name": "Stargazer", "displayName": "Stargazer" },
-    { "name": "Sumire", "displayName": "Sumire" },
-    { "name": "Summer", "displayName": "Summer" },
-    { "name": "Tetra", "displayName": "Tetra" },
-    { "name": "Thistle", "displayName": "Thistle" },
-    { "name": "Uni", "displayName": "Uni" },
-    { "name": "Vanilla", "displayName": "Vanilla" },
-    { "name": "Victoria", "displayName": "Victoria" },
-    { "name": "Wendy", "displayName": "Wendy" },
-    { "name": "Wolverine", "displayName": "Wolverine" },
-    { "name": "Yanyan", "displayName": "Yanyan" },
-    { "name": "Yao", "displayName": "Yao" },
-    { "name": "Zoya", "displayName": "Zoya" }
+    {
+      "name": "Adela",
+      "displayName": "Adela",
+      "category": "Sinners"
+    },
+    {
+      "name": "Angell",
+      "displayName": "Angell",
+      "category": "Sinners"
+    },
+    {
+      "name": "Anne",
+      "displayName": "Anne",
+      "category": "Sinners"
+    },
+    {
+      "name": "Ariel",
+      "displayName": "Ariel",
+      "category": "Sinners"
+    },
+    {
+      "name": "Bai_Yi",
+      "displayName": "Bai Yi",
+      "category": "Sinners"
+    },
+    {
+      "name": "Bianca",
+      "displayName": "Bianca",
+      "category": "Sinners"
+    },
+    {
+      "name": "Cabernet",
+      "displayName": "Cabernet",
+      "category": "Sinners"
+    },
+    {
+      "name": "Cassia",
+      "displayName": "Cassia",
+      "category": "Sinners"
+    },
+    {
+      "name": "Chameleon",
+      "displayName": "Chameleon",
+      "category": "Sinners"
+    },
+    {
+      "name": "Che",
+      "displayName": "Che",
+      "category": "Sinners"
+    },
+    {
+      "name": "Chelsea",
+      "displayName": "Chelsea",
+      "category": "Sinners"
+    },
+    {
+      "name": "Christina",
+      "displayName": "Christina",
+      "category": "Sinners"
+    },
+    {
+      "name": "Cinnabar",
+      "displayName": "Cinnabar",
+      "category": "Sinners"
+    },
+    {
+      "name": "Coquelic",
+      "displayName": "Coquelic",
+      "category": "Sinners"
+    },
+    {
+      "name": "Corso",
+      "displayName": "Corso",
+      "category": "Sinners"
+    },
+    {
+      "name": "Crache",
+      "displayName": "Crache",
+      "category": "Sinners"
+    },
+    {
+      "name": "Demolia",
+      "displayName": "Demolia",
+      "category": "Sinners"
+    },
+    {
+      "name": "Demon",
+      "displayName": "Demon",
+      "category": "Sinners"
+    },
+    {
+      "name": "Deren",
+      "displayName": "Deren",
+      "category": "Sinners"
+    },
+    {
+      "name": "Dolly",
+      "displayName": "Dolly",
+      "category": "Sinners"
+    },
+    {
+      "name": "Donald",
+      "displayName": "Donald",
+      "category": "Sinners"
+    },
+    {
+      "name": "Dreya",
+      "displayName": "Dreya",
+      "category": "Sinners"
+    },
+    {
+      "name": "Du_Ruo",
+      "displayName": "Du Ruo",
+      "category": "Sinners"
+    },
+    {
+      "name": "Dudu",
+      "displayName": "Dudu",
+      "category": "Sinners"
+    },
+    {
+      "name": "Echo",
+      "displayName": "Echo",
+      "category": "Sinners"
+    },
+    {
+      "name": "Eirene",
+      "displayName": "Eirene",
+      "category": "Sinners"
+    },
+    {
+      "name": "Eleven",
+      "displayName": "Eleven",
+      "category": "Sinners"
+    },
+    {
+      "name": "EMP",
+      "displayName": "EMP",
+      "category": "Sinners"
+    },
+    {
+      "name": "Enfer",
+      "displayName": "Enfer",
+      "category": "Sinners"
+    },
+    {
+      "name": "Etti",
+      "displayName": "Etti",
+      "category": "Sinners"
+    },
+    {
+      "name": "Eureka",
+      "displayName": "Eureka",
+      "category": "Sinners"
+    },
+    {
+      "name": "Eve",
+      "displayName": "Eve",
+      "category": "Sinners"
+    },
+    {
+      "name": "Flora",
+      "displayName": "Flora",
+      "category": "Sinners"
+    },
+    {
+      "name": "Garofano",
+      "displayName": "Garofano",
+      "category": "Sinners"
+    },
+    {
+      "name": "Gekkabijin",
+      "displayName": "Gekkabijin",
+      "category": "Sinners"
+    },
+    {
+      "name": "Golan",
+      "displayName": "Golan",
+      "category": "Sinners"
+    },
+    {
+      "name": "Hamel",
+      "displayName": "Hamel",
+      "category": "Sinners"
+    },
+    {
+      "name": "Hecate",
+      "displayName": "Hecate",
+      "category": "Sinners"
+    },
+    {
+      "name": "Hella",
+      "displayName": "Hella",
+      "category": "Sinners"
+    },
+    {
+      "name": "Hestia",
+      "displayName": "Hestia",
+      "category": "Sinners"
+    },
+    {
+      "name": "Horo",
+      "displayName": "Horo",
+      "category": "Sinners"
+    },
+    {
+      "name": "Ignis",
+      "displayName": "Ignis",
+      "category": "Sinners"
+    },
+    {
+      "name": "Iron",
+      "displayName": "Iron",
+      "category": "Sinners"
+    },
+    {
+      "name": "Jane",
+      "displayName": "Jane",
+      "category": "Sinners"
+    },
+    {
+      "name": "Joan",
+      "displayName": "Joan",
+      "category": "Sinners"
+    },
+    {
+      "name": "KK",
+      "displayName": "K.K.",
+      "category": "Sinners"
+    },
+    {
+      "name": "Kawa-kawa",
+      "displayName": "Kawa-kawa",
+      "category": "Sinners"
+    },
+    {
+      "name": "Kelvin",
+      "displayName": "Kelvin",
+      "category": "Sinners"
+    },
+    {
+      "name": "LL",
+      "displayName": "L.L.",
+      "category": "Sinners"
+    },
+    {
+      "name": "Labyrinth",
+      "displayName": "Labyrinth",
+      "category": "Sinners"
+    },
+    {
+      "name": "Lady_Pearl",
+      "displayName": "Lady Pearl",
+      "category": "Sinners"
+    },
+    {
+      "name": "Lamia",
+      "displayName": "Lamia",
+      "category": "Sinners"
+    },
+    {
+      "name": "Langley",
+      "displayName": "Langley",
+      "category": "Sinners"
+    },
+    {
+      "name": "Letta",
+      "displayName": "Letta",
+      "category": "Sinners"
+    },
+    {
+      "name": "Levy",
+      "displayName": "Levy",
+      "category": "Sinners"
+    },
+    {
+      "name": "Lisa",
+      "displayName": "Lisa",
+      "category": "Sinners"
+    },
+    {
+      "name": "Luvia_Ray",
+      "displayName": "Luvia Ray",
+      "category": "Sinners"
+    },
+    {
+      "name": "Lynn",
+      "displayName": "Lynn",
+      "category": "Sinners"
+    },
+    {
+      "name": "Macchiato",
+      "displayName": "Macchiato",
+      "category": "Sinners"
+    },
+    {
+      "name": "Mantis",
+      "displayName": "Mantis",
+      "category": "Sinners"
+    },
+    {
+      "name": "Matilda",
+      "displayName": "Matilda",
+      "category": "Sinners"
+    },
+    {
+      "name": "McQueen",
+      "displayName": "McQueen",
+      "category": "Sinners"
+    },
+    {
+      "name": "Mess",
+      "displayName": "Mess",
+      "category": "Sinners"
+    },
+    {
+      "name": "MrFox",
+      "displayName": "Mr. Fox",
+      "category": "Sinners"
+    },
+    {
+      "name": "Nightingale",
+      "displayName": "Nightingale",
+      "category": "NPCs"
+    },
+    {
+      "name": "Ninety-Nine",
+      "displayName": "Ninety-Nine",
+      "category": "Sinners"
+    },
+    {
+      "name": "Nino",
+      "displayName": "Nino",
+      "category": "Sinners"
+    },
+    {
+      "name": "NOX",
+      "displayName": "NOX",
+      "category": "Sinners"
+    },
+    {
+      "name": "Oak_Casket",
+      "displayName": "Oak Casket",
+      "category": "Sinners"
+    },
+    {
+      "name": "Oliver",
+      "displayName": "Oliver",
+      "category": "Sinners"
+    },
+    {
+      "name": "OwO",
+      "displayName": "OwO",
+      "category": "Sinners"
+    },
+    {
+      "name": "Pacassi",
+      "displayName": "Pacassi",
+      "category": "Sinners"
+    },
+    {
+      "name": "Peggy",
+      "displayName": "Peggy",
+      "category": "Sinners"
+    },
+    {
+      "name": "Pepper",
+      "displayName": "Pepper",
+      "category": "Sinners"
+    },
+    {
+      "name": "Pricilla",
+      "displayName": "Pricilla",
+      "category": "Sinners"
+    },
+    {
+      "name": "Rahu",
+      "displayName": "Rahu",
+      "category": "Sinners"
+    },
+    {
+      "name": "Raven",
+      "displayName": "Raven",
+      "category": "Sinners"
+    },
+    {
+      "name": "Roulecca",
+      "displayName": "Roulecca",
+      "category": "Sinners"
+    },
+    {
+      "name": "Serpent",
+      "displayName": "Serpent",
+      "category": "Sinners"
+    },
+    {
+      "name": "Shalom",
+      "displayName": "Shalom",
+      "category": "Sinners"
+    },
+    {
+      "name": "Shawn",
+      "displayName": "Shawn",
+      "category": "Sinners"
+    },
+    {
+      "name": "Shrooma",
+      "displayName": "Shrooma",
+      "category": "Sinners"
+    },
+    {
+      "name": "Stargazer",
+      "displayName": "Stargazer",
+      "category": "Sinners"
+    },
+    {
+      "name": "Sumire",
+      "displayName": "Sumire",
+      "category": "Sinners"
+    },
+    {
+      "name": "Summer",
+      "displayName": "Summer",
+      "category": "Sinners"
+    },
+    {
+      "name": "Tetra",
+      "displayName": "Tetra",
+      "category": "Sinners"
+    },
+    {
+      "name": "Thistle",
+      "displayName": "Thistle",
+      "category": "Sinners"
+    },
+    {
+      "name": "Uni",
+      "displayName": "Uni",
+      "category": "Sinners"
+    },
+    {
+      "name": "Vanilla",
+      "displayName": "Vanilla",
+      "category": "Sinners"
+    },
+    {
+      "name": "Victoria",
+      "displayName": "Victoria",
+      "category": "Sinners"
+    },
+    {
+      "name": "Wendy",
+      "displayName": "Wendy",
+      "category": "Sinners"
+    },
+    {
+      "name": "Wolverine",
+      "displayName": "Wolverine",
+      "category": "Sinners"
+    },
+    {
+      "name": "Yanyan",
+      "displayName": "Yanyan",
+      "category": "Sinners"
+    },
+    {
+      "name": "Yao",
+      "displayName": "Yao",
+      "category": "Sinners"
+    },
+    {
+      "name": "Zoya",
+      "displayName": "Zoya",
+      "category": "Sinners"
+    }
   ]
 }

@@ -16,6 +16,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
     <link href="Styles.css" rel="stylesheet">
+    <link href="NavBar.css" rel="stylesheet">
     <style>
         /* Add styles for centering */
         .center-container {
@@ -49,18 +50,22 @@
           </div>
         </div>
     </nav>            
-    <h1>Sinners</h1>
-    <div class="search-container">
-        <input type="text" id="searchInput" class="search-input" placeholder="Character Search" autocomplete="off">
-    </div>
+    <h1>Characters</h1>
 
-    <div class="center-container">
-        <a href="all_voicelines.html">
-            <button class="button">View All Voicelines</button>
-        </a>
-    </div>
-    
-    <div class="character-grid" id="characterGrid"></div>
+<!-- New Dynamic Tabs Navigation -->
+<div class="dynamic-tabs" id="navbarTabs"></div>
+
+<div class="search-container">
+    <input type="text" id="searchInput" class="search-input" placeholder="Character Search" autocomplete="off">
+</div>
+
+<div class="center-container">
+    <a href="all_voicelines.html">
+        <button class="button">View All Voicelines</button>
+    </a>
+</div>
+
+<div class="character-grid" id="characterGrid"></div>
 
     <script>
         let dropdowns = document.querySelectorAll('.navbar .dropdown-toggler');
@@ -123,38 +128,81 @@
         }
 
         fetch('characters.json')
-            .then(response => response.json())
-            .then(data => {
-                data.characters.sort((a, b) => a.name.localeCompare(b.name));
+    .then(response => response.json())
+    .then(data => {
+        // Create a unique set of categories
+        const categories = [...new Set(data.characters.map(character => character.category))];
+        const navbarTabs = document.getElementById('navbarTabs');
 
-                const characterGrid = document.getElementById('characterGrid');
-                data.characters.forEach(character => {
-                    const sanitizedName = sanitizeName(character.name);
-                    const imagePath = `images/${sanitizedName}/${sanitizedName}.png`;
+        // Create "All Characters" tab
+        const allCharactersTab = document.createElement('button');
+        allCharactersTab.innerText = "All Characters";
+        allCharactersTab.onclick = () => filterCharacters("All Characters");
+        navbarTabs.appendChild(allCharactersTab);
 
-                    const characterDiv = document.createElement('div');
-                    characterDiv.classList.add('character');
-                    characterDiv.innerHTML = `
-                        <img src="${imagePath}" alt="${character.name}">
-                        <p>${character.displayName || character.name}</p>
-                    `;
-                    characterDiv.onclick = () => {
-                        window.location.href = `character.html?name=${sanitizedName}`;
-                    };
-                    characterGrid.appendChild(characterDiv);
-                });
+        // Create tabs for each category
+        categories.forEach(category => {
+            const tab = document.createElement('button');
+            tab.innerText = category;
+            tab.onclick = () => filterCharacters(category);
+            navbarTabs.appendChild(tab);
+        });
 
-                document.getElementById('searchInput').addEventListener('input', function() {
-                    const searchValue = this.value.toLowerCase();
-                    const allCharacters = characterGrid.querySelectorAll('.character');
-                    allCharacters.forEach(characterDiv => {
-                        const characterName = characterDiv.querySelector('p').innerText.toLowerCase();
-                        characterDiv.style.display = characterName.includes(searchValue) ? 'block' : 'none';
-                    });
-                });
-            })
-            .catch(error => console.error('Error loading characters:', error));
+        // Function to filter characters based on category
+        function filterCharacters(selectedCategory) {
+            const characterGrid = document.getElementById('characterGrid');
+            characterGrid.innerHTML = ''; // Clear current characters
 
+            let filteredCharacters;
+
+            if (selectedCategory === "All Characters") {
+                // Show all characters
+                filteredCharacters = data.characters;
+            } else {
+                // Filter characters by the selected category
+                filteredCharacters = data.characters.filter(character => character.category === selectedCategory);
+            }
+
+            filteredCharacters.sort((a, b) => a.name.localeCompare(b.name));
+
+            // Change the <h1> text to the selected category
+            const heading = document.querySelector('h1');
+            heading.innerText = selectedCategory;
+
+            // Populate character grid with filtered characters
+            filteredCharacters.forEach(character => {
+                const sanitizedName = sanitizeName(character.name);
+                const imagePath = `images/${sanitizedName}/${sanitizedName}.png`;
+
+                const characterDiv = document.createElement('div');
+                characterDiv.classList.add('character');
+                characterDiv.innerHTML = `
+                    <img src="${imagePath}" alt="${character.name}">
+                    <p>${character.displayName || character.name}</p>
+                `;
+                characterDiv.onclick = () => {
+                    window.location.href = `character.html?name=${sanitizedName}`;
+                };
+                characterGrid.appendChild(characterDiv);
+            });
+        }
+
+        // Initially show characters from the first category
+        if (categories.length > 0) {
+            filterCharacters(categories[0]);
+        }
+
+        // Implement search functionality as before
+        document.getElementById('searchInput').addEventListener('input', function() {
+            const searchValue = this.value.toLowerCase();
+            const allCharacters = characterGrid.querySelectorAll('.character');
+            allCharacters.forEach(characterDiv => {
+                const characterName = characterDiv.querySelector('p').innerText.toLowerCase();
+                characterDiv.style.display = characterName.includes(searchValue) ? 'block' : 'none';
+            });
+        });
+    })
+    .catch(error => console.error('Error loading characters:', error));
         // Add keydown event for search shortcut
         document.addEventListener('keydown', function(event) {
     const searchInput = document.getElementById('searchInput');
