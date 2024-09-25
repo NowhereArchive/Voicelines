@@ -1,0 +1,120 @@
+{
+
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_christina_cacha_001.ogg",
+      "text": "ふむ……MBCCの局長は、ブラックリングを破壊し、死瞳を撃退し、正義の心を持っている……エッヘン！決めた。君には、このクリスティナの相棒になってもらおう！あたしたちが力を合わせれば、ディスシティの重大犯罪をいっぱい解決できるはず！"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_christina_promotion_001.ogg",
+      "text": "「真実を明らかにしよう！私は、ニューシティの刑事代理——クリスティナだ！」どう？名刑事っぽい？"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_christina_promotion2_001.ogg",
+      "text": "「真実と向き合う勇気があってこそ、正義への扉が開かれる」。ついに、この言葉を実践できるんだ。"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_christina_levelup_002.ogg",
+      "text": "また正義に一歩近づいた！"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_christina_battlebegin_001.ogg",
+      "text": "えーっと……ああ！最初のステップは何をするんだっけ……捜査ノートになんて書いてあったかな……"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_christina_battlewin_001.ogg",
+      "text": "不可能を全て排除して残ったものが、どれだけ受け入れられなくても、それが真実なのだよ！"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_christina_battlelose_001.ogg",
+      "text": "相棒よ、落ち込むことはない！正義への道はまだ長い。私はずっとそばにいるぞ！"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_christina_uniqueskill_001.ogg",
+      "text": "真実こそ、力だ！"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_christina_dead_001.ogg",
+      "text": "ごめん……できなかった……"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_christina_talk1_001.ogg",
+      "text": "ああ……今月も修理費がこんなに。あ、あたしわざとじゃなかったんだよ……全部、何者かが証拠集めを妨害してたせいなの！"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_christina_talk1_002.ogg",
+      "text": "管理局のコンビクト訓練室のドアが壊れて開かない？しかもエアコンまで効かないの？中にいる人が暑さで死んじゃうよ……ゴホン！これはクローズドサークル系密室殺人事件に違いない！このクリスティナが必ず真実を見つけ出そう！"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_christina_talk1_003.ogg",
+      "text": "いつも電子機器で記録してたら目が悪くなるよ！何も見えなくなっても知らないから！ほら、あたしの捜査ノートとペン。これからは、これで記録しなよ！"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_christina_talk2_001.ogg",
+      "text": "前に治安局でカッコいい刑事を見たんだよね。みんなから「デュークのオッサン」って呼ばれてたんだ！……なんで笑ってるの？彼は……昔はそんな感じじゃなかった？そ、それなら本当に調査する価値がありそうだね……"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_christina_talk2_002.ogg",
+      "text": "相棒、もし君が妹に一回も「お姉ちゃん」って呼ばれたことがなかったらどうする？……プライドを捨てて頼むべきか、それとも……手紙を書いて謝る……とか？"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_christina_talk2_003.ogg",
+      "text": "昔、君みたいにあたしの悩みを聞いて、全部受け入れて……人生の方向まで示してくれた人がいたんだ。あたしの一番大切な人……だった。"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_christina_obeyfull_001.ogg",
+      "text": "ここまで一緒に歩んできてくれてありがとう、相棒。正義への道は困難と障害に満ちてるけど、その先にある光のために自分の全てを捧げなきゃいけない。それでも、一緒にいてくれる？あはは、さすがだね。だったら手を繋いで、前に進もう！"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_christina_greeting_001.ogg",
+      "text": "相棒よ、ちょうどいいタイミングで来たな！えっと……管理局に絆創膏って余ってる？もしあるなら、ついでに貼ってくれない？"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_christina_idle_001.ogg",
+      "text": "う～ん、あたしの直感は正しかった——親愛なる相棒よ、エアコンの効いた執務室に籠るより、この刑事と共に事件を解決しに行こうではないか！"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_christina_clicking_001.ogg",
+      "text": "捜査ノートを重く作ったのは……君みたいな奴のためだ！"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_christina_dispatch_001.ogg",
+      "text": "えっ？新しい事件！？手伝う、手伝う！"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_christina_dispatch2_001.ogg",
+      "text": "刑事代理・クリスティナ、破壊し……じゃなく……事件を解決しました！"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_christina_specialattention_001.ogg",
+      "text": "親愛なる相棒よ、私のフル装備の捜査道具がうらやましいか？このミニボイスチェンジャーやエアピストルを試してみたいかね？ふふん、 これを扱うにはコツがいるから、教えてあげよう～！"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:bt_christina_jointeam_001.ogg",
+      "text": "-"
+    }
+  ]
+}
