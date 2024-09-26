@@ -1,0 +1,119 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_thistle_cacha_001.ogg",
+      "text": "苦労してようやく花庭園を守ったのに、またあなたにめっちゃくちゃにされたわ！どうやって償うつもり！？"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_thistle_promotion_001.ogg",
+      "text": "これなら……みんなの足を引っ張ることもなくなりそう。"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_thistle_promotion2_001.ogg",
+      "text": "花庭園は、私が守る！"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_thistle_levelup_002.ogg",
+      "text": "剣を100回振れば、その意味が分かる。"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_thistle_battlebegin_001.ogg",
+      "text": "はいはい、今回は絶対回り道はしないわ。"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_thistle_battlewin_001.ogg",
+      "text": "これで、師匠も誇りに思ってくれるはず。"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_thistle_battlelose_001.ogg",
+      "text": "また花庭園に恥をかかせた……"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_thistle_uniqueskill_001.ogg",
+      "text": "ここで燃え尽きるわ！"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_thistle_dead_001.ogg",
+      "text": "花庭園に……連れて帰って……"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_thistle_talk1_001.ogg",
+      "text": "師匠の信頼をかすめ取ったからといって、私たち全員を服従させられると思わないことね！ずっと見張ってるから、気をつけなさい！"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_thistle_talk1_002.ogg",
+      "text": "ふーん、MBCCの局長は1日働いた後、レタスすら入ってないサンドイッチを食べるのね。不規則な食生活に偏った栄養。道理で痩せてるわけだわ……何を感動してるの？私があなたを心配してるとでも思った？"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_thistle_talk1_003.ogg",
+      "text": "師匠は言っていたわ。どんな花も、折られて、踏みにじられるために生まれてきたわけじゃないって。でも、自分のみっともない欲望のために、他人の人生を踏みにじって破壊しようとする人間は常にいる……そういう奴らが、炎に燃やされる感覚を味わうのは当然のことよ。"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_thistle_talk2_001.ogg",
+      "text": "今度また商店街での任務があったら、早めに出発してね。 クレーンゲーム？いや、クレーンゲームが新しくなるのはもっとずっと先よ。そうじゃなくて、あなた任務で出かけるといつもチンピラにバカにされてるでしょ？次からスタッズ付きの上着を買って着るといいわよ。経験者の私が言うんだから、信じて。"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_thistle_talk2_002.ogg",
+      "text": "このページのフレームが可愛い？お母さんがデザインしてくれたものよ。手帳にはいいことしか書かないで、悪いことは風に任せて消してもらえばいいって言ってたわ……師匠がいなくなってから、見えるものが全部灰色になって、手帳に書くこともなくなったと思ってた。でも、また師匠が私に色を取り戻してくれたの……ああ、あなたもね。あなたも色を取り戻してくれた功労者よ。これで満足？"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_thistle_talk2_003.ogg",
+      "text": "1日中端末やファイルと向き合って疲れないの？少し息抜きしてもいいんじゃない？えっ、何をすればいいか分からない？街の散策はオススメよ。私もよくやってるわ。見て、揺れる花や木々、行き交う人の流れ、賑やかなお店を……うん、これが日常ってものよ。"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_thistle_obeyfull_001.ogg",
+      "text": "花庭園が安らげる場所をずっと探していたけど、まさかここに辿り着くなんてね……ゴホン！私が言いたいのは、花庭園が丸ごとここに引っ越してきたわけだし、私が花庭園と師匠を守る時、ついでにあなたも守ってあげられるってことよ。き、きっとあなたをしっかり守れば、師匠も喜んでくれるから……"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_thistle_greeting_001.ogg",
+      "text": "師匠を探しに来たの？……えっ、私を？わ、私はあなたの助けになることなんてできないわよ。もちろん、私がしくじるのが怖くないなら、手伝ってあげてもいいけど。"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_thistle_idle_001.ogg",
+      "text": "やっと寝た……まったく、この人師匠にそっくりね。アドバイスなんて全然聞かないし、休まないし。せめて立ち止まって私たちを見て……あなたのことを心配してる人はたくさんいるのよ……"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_thistle_clicking_001.ogg",
+      "text": "はぁ～？まさかトゲのある花を摘みたいの？それなら手を残す準備をしなさい！"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_thistle_dispatch_001.ogg",
+      "text": "私をパシる気？まあいいわ、問題ない。花庭園で練習したから！"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_thistle_dispatch2_001.ogg",
+      "text": "あなたが欲しがってたものよ……あ、合ってるでしょ？"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_thistle_specialattention_001.ogg",
+      "text": "何見てるのよ？私がいじめられっ子に見える？これ以上見るなら、その目玉がどうなるか分からないわよ！"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:bt_thistle_jointeam_001.ogg",
+      "text": "付いてこなくていいわよ、一人で出来る。"
+    }
+  ]
+}
