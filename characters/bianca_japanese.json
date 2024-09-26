@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_bianca_cacha_001.ogg",
+      "text": "視聴者の皆さん、今ご覧いただいているのは私がMBCCに捕らえられる完全映像です！ほら、局長。カメラ見て～──3、2、1、チーズ！"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_bianca_promotion_001.ogg",
+      "text": "毎日カメラを持ってると、本当に鍛えられるんだよ！アタシのミニ上腕二頭筋を見て見て！可愛いでしょ？"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_bianca_promotion2_001.ogg",
+      "text": "暗がりに潜む悪人どもよ、真の姿を画面の前にさらけ出せ。局長の名において命じる──カメラを見よ！"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_bianca_battlebegin_001.ogg",
+      "text": "カメラの準備完了！さぁ、笑って～"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:bt_bianca_jointeam_001.ogg",
+      "text": "準備できた？一緒にテレビに出よう！"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_bianca_battlewin_001.ogg",
+      "text": "何を撮ったと思う？ジャジャ～ン──敵が爆発でドロドロに吹き飛んだ瞬間！カッコいいよね～額に入れてベッドの上に飾ろうっと！"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_bianca_battlelose_001.ogg",
+      "text": "は、ず、か、し、い……さっきの消して。おねが～い。"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_bianca_uniqueskill_001.ogg",
+      "text": "ニュースの時間だよ！"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_bianca_dead_001.ogg",
+      "text": "カメラ、任せたね……"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_bianca_greeting_001.ogg",
+      "text": "はじめましての皆さんも、そうじゃない皆さんもこんにちは！あなたの最高の記者ビアンカです！そして私の隣にいるのは、あの有名なミノス危機管理局の局長で～す！ほら局長、恥ずかしがってないで皆さんにご挨拶して～"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_bianca_talk1_001.ogg",
+      "text": "ねぇ、聞いて。さっき、デスクにプレスリリースを催促される悪夢を見たの！怖かった……今は無職でよかったよ。"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_bianca_talk1_002.ogg",
+      "text": "隠し撮りされ、正義の記者に暴露され、首を切られて脳みそバーン！市民の害を排除した～ラララ～"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_bianca_talk1_003.ogg",
+      "text": "過去の代償を払わなきゃいけないって分かってた。管理局に来た最初に日には覚悟決めてたよ。アタシを罰して。何でも受け入れる！……でもその前に、録画ボタン押してほしいな～ありがとう～"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_bianca_talk2_001.ogg",
+      "text": "リンゴジュースは罪を清め、心を洗い流し、すべての憂鬱を払うことができる。これは本来禁じられたものであり、真理の脱構築であり、次のインタビューのインスピレーションに繋がるものなのだ。っていうのは全部アタシのでっち上げだけど、とにかく……一緒に一杯どう？"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_bianca_talk2_002.ogg",
+      "text": "ニュースのない日々なんてすっごい退屈──局長、一緒にペット飼わない？手癖が悪い奴らを閉じ込めて、滑車に乗せて、走って走って走りまくるのを眺めて、怠けてたら電気バットで脅すの！黒い泥を吐くだけの悪い奴らなんだから、うっかり殺しちゃっても世のためになるよね～"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_bianca_talk2_003.ogg",
+      "text": "セレブのスキャンダルなんか撮っても全然すごくないよ。アタシが一番好きなのは、光も見えない汚くて気持ち悪い場所に行って、法律をすり抜けられたと思い込んで道徳を弄び、側溝に隠れて黒い泥を得意げに吐き出してるカメムシを尾行すること。そいつを下水道で捕まえて、明るい太陽の下に引きずり出して、干からびるまで晒すんだ！カリカリの標本になるのを想像するだけですっごい達成感だよ！"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_bianca_obeyfull_001.ogg",
+      "text": "局長に直撃インタビュー！今後の恋愛について展望はありますか？理想のタイプは？お好みは優しい人？それとも活発な人？高い位置でポニーテールにして、毎日カメラ片手に走り回ってるような人はどう？つまり、アタシのこと……どう思う？"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_bianca_idle_001.ogg",
+      "text": "リンゴジュース万歳！乾杯！……うーん、局長？キミもいたんだ……でもどうしてそんなに分身してるの？局長が一人、二人、三人……へへ、み～んなアタシのもの。"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_bianca_clicking_001.ogg",
+      "text": "ななな何！？まさかアタシに何かする気じゃ……ダメダメ～！こんなの放送できないよ～"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_bianca_specialattention_001.ogg",
+      "text": "遂に、この感動的な瞬間がやってきました。今年のベストニュース賞の受賞者に盛大な拍手を。発表します──ダララララララ～ダン！MBCCの記者、ビアンカです！"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_bianca_dispatch_001.ogg",
+      "text": "来た来た、リップ塗るから待ってて……えっ、中継車もう行っちゃったの！？"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_bianca_dispatch2_001.ogg",
+      "text": "これはキミにプレゼント。あとこれも……あれ、なんか仕事が無駄になった気がするんだけど？"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_bianca_levelup_002.ogg",
+      "text": "もっともっと爆発的なニュースを探し続けられるように、アタシを励ましてくれてるんだよね？やーん、超感動……うう……"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_bianca_head_001.ogg",
+      "text": "この動き、アタシが犯行現場で撮影した時のことを思い出したよ。容疑者は相手の首に手をかけて──ボキッ！高画質動画も保存してあるから一緒に見る？"
+    }
+  ]
+}
