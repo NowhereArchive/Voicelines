@@ -1,0 +1,171 @@
+{
+  "default": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_garofano_cacha_001.ogg",
+      "text": "初めまして、局長。まぁ、つれないですね。ブラウン夫人なんて呼ばないでください……もう過去のことですから。ガロファノとお呼びくださいな。"
+    },
+    {
+      "title": "Raise to Phase 1",
+      "filename": "File:vo_garofano_promotion_001.ogg",
+      "text": "私は全力であなたを守ります。"
+    },
+    {
+      "title": "Raise to Phase 3",
+      "filename": "File:vo_garofano_promotion2_001.ogg",
+      "text": "これで、あなたは二度と私から離れない……"
+    },
+    {
+      "title": "Level Start",
+      "filename": "File:vo_garofano_battlebegin_001.ogg",
+      "text": "身の程知らずはどこの誰？……私の持ち物に手を出すつもり？"
+    },
+    {
+      "title": "Deploy",
+      "filename": "File:bt_garofano_jointeam_001.ogg",
+      "text": "ええ、あなたの傍にいますよ。"
+    },
+    {
+      "title": "Win Battles",
+      "filename": "File:vo_garofano_battlewin_001.ogg",
+      "text": "もう大丈夫ですよ。あなたはまだ、私の傍にいます。"
+    },
+    {
+      "title": "Lose Battles",
+      "filename": "File:vo_garofano_battlelose_001.ogg",
+      "text": "……嫌！もう……何も失いたくない！"
+    },
+    {
+      "title": "Ultimate Skill",
+      "filename": "File:bt_garofano_uniqueskill_001.ogg",
+      "text": "奪わないでーー！"
+    },
+    {
+      "title": "Die in Battles",
+      "filename": "File:bt_garofano_dead_001.ogg",
+      "text": "ああ、私はやっと……あなたたちと一緒にいられる……"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_garofano_greeting_001.ogg",
+      "text": "何か悩み事ですか？仕事が上手くいかないとか、服のサイズが合わないとか……私に何でも話してくださいな。一緒に解決しましょう。"
+    },
+    {
+      "title": "Conversation 1",
+      "filename": "File:vo_garofano_talk1_001.ogg",
+      "text": "まぁ、誰かの面倒を見るのに慣れているだけかもしれませんが、私は人に頼られる感覚を楽しんでいるのです……だって、みんな私から離れられなくなるでしょう？"
+    },
+    {
+      "title": "Conversation 2",
+      "filename": "File:vo_garofano_talk1_002.ogg",
+      "text": "あら、袖のボタンが取れていますね。縫ってあげましょうか？しーっ、動かないで……私はプロの仕立て屋です。心配しなくても、傷つけたりしませんよ。"
+    },
+    {
+      "title": "Conversation 3",
+      "filename": "File:vo_garofano_talk1_003.ogg",
+      "text": "ん？そんなに顔を赤くして、メジャーがきつくて息ができないのですか？少しだけ我慢してくださいな。最も正確なサイズを測るには、この方法しかないのです……もっと身体に合ったシャツが欲しいと言ったのはあなたでしょう？"
+    },
+    {
+      "title": "Special Conversation 1",
+      "filename": "File:vo_garofano_talk2_001.ogg",
+      "text": "あなたといるといつも温かな親しみを覚えます。知り合って間もないのに、まるで懐かしい人に再会したような……あなたの傍で、久しぶりに喜びを感じました。"
+    },
+    {
+      "title": "Special Conversation 2",
+      "filename": "File:vo_garofano_talk2_002.ogg",
+      "text": "嬉しかったことも、悲しかったことも、私にとっては全て大切なこと。けれど、人は思い出だけでは生きていけないでしょう？だから私は……目の前にあるものを、もっと大切にしたいです。"
+    },
+    {
+      "title": "Special Conversation 3",
+      "filename": "File:vo_garofano_talk2_003.ogg",
+      "text": "ボタンは特殊な装飾品です。体温を感知し、感情を一つにすることができる。だから血縁者のボタンはいつも大切に、最も心臓に近い場所に隠してきました……ご覧になりますか？"
+    },
+    {
+      "title": "Compliance",
+      "filename": "File:vo_garofano_obeyfull_001.ogg",
+      "text": "ボタンのようにあなたを自分の服に縫い付けて、永遠に私のものにしたい……あ、ごめんなさい。つまり聞きたいのは、私のものになってくれる？ってこと。私はあなたを愛し、守り、絶対に誰にも奪わせないから！"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_garofano_idle_001.ogg",
+      "text": "寝ている時のあなたはなんて可愛いんでしょう……ずっと抱き締めていたいくらいにね、局長……"
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_garofano_clicking_001.ogg",
+      "text": "私と距離を縮めたいなら、直接そう言ってくださいな。慌てないで……私の身体にある針があなたに刺さらないか心配です。"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_garofano_specialattention_001.ogg",
+      "text": "あなたも私が欲しい、そうですよね？"
+    },
+    {
+      "title": "Dispatch",
+      "filename": "File:vo_garofano_dispatch_001.ogg",
+      "text": "自宅に出向いて仕立てる必要があるオーダーが入ったのですか？"
+    },
+    {
+      "title": "Dispatch Completion",
+      "filename": "File:vo_garofano_dispatch2_001.ogg",
+      "text": "ご安心を。オーダーはスムーズに完了しました。"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_garofano_levelup_002.ogg",
+      "text": "あなたが与えてくれる全てを、しっかり受け止めます。"
+    }
+  ],
+  "in_the_veiled_grove": [
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_garofano_in_the_veiled_grove_cacha_001.ogg",
+      "text": "見てください。今、私たちはくっついていますね……まるで、この雨の線でしっかりと縫い合わされたように。"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_garofano_in_the_veiled_grove_greeting_001.ogg",
+      "text": "もう少し近くに来てくださいな、局長。風雨から守ってあげますから。"
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_garofano_in_the_veiled_grove_talk_001.ogg",
+      "text": "気を付けて！動かないでください……服の袖が枝に引っかかっていますよ。もがくと、どんどんきつくなりますからね。心配はいりません。私に任せてください。"
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_garofano_in_the_veiled_grove_talk_002.ogg",
+      "text": "疲れたら、私を枕にして少し休んでくださいな。安心してください。私はいつでもあなたの傍にいますよ。"
+    },
+    {
+      "title": "Ordinary Contact 3",
+      "filename": "File:vo_garofano_in_the_veiled_grove_hand_001.ogg",
+      "text": "あら、指先が少し冷たいですね……緊張しないでください。あなたの手を温めてあげたいだけですから。"
+    },
+    {
+      "title": "Ordinary Contact 4",
+      "filename": "File:vo_garofano_in_the_veiled_grove_leg_001.ogg",
+      "text": "あなたが近づいてくるその姿……まるで今すぐにでも私の持ち物になりたいと言っているようですね……ふふ、分かっています。あなたはただ、この雨の夜でも体温を失わないようにしているだけですよね？"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_garofano_in_the_veiled_grove_idle_001.ogg",
+      "text": "あなたから与えられた任務は完了しました。今は雨が止むまで、一時的な小さなシェルターへ避難するように……一緒にここにいましょう。"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_garofano_in_the_veiled_grove_specialattention_001.ogg",
+      "text": "あなたの眼差しは、雨の夜の温かい灯りのように、無視することができません……"
+    },
+    {
+      "title": "Level Up",
+      "filename": "File:vo_garofano_in_the_veiled_grove_levelup_001.ogg",
+      "text": "雨に濡れると、香りがより濃く感じますね。"
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_garofano_in_the_veiled_grove_head_001.ogg",
+      "text": "あなたの手でさしてくれたこのカーネーションは、雨が上がっても私の大切な宝物です。"
+    }
+  ]
+}
