@@ -1,0 +1,228 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_bai_yi_cacha_001.ogg",
+            "text": "あはは、いいわよ。付き合ってあげる。だって……必死になってあたしを追いかけるなんて、可愛くてしょうがないもの。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_bai_yi_promotion_001.ogg",
+            "text": "白記事務所の社長になりたいなら、それなりの能力がいるわ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_bai_yi_promotion2_001.ogg",
+            "text": "たまには真面目にやらないと。ね、局長？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_bai_yi_battlebegin_001.ogg",
+            "text": "終わったら飲みに付き合ってくれるわよね。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_bai_yi_battlewin_001.ogg",
+            "text": "お仕事完了！報酬の計算に、入るわよー？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_bai_yi_battlelose_001.ogg",
+            "text": "木々の茂る山がある限り——ここで死闘することなくない？"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_bai_yi_uniqueskill_001.ogg",
+            "text": "もう——逃げられないわよ。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_bai_yi_dead_001.ogg",
+            "text": "あいつらの面倒を見てやって……お願い……。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_bai_yi_greeting_001.ogg",
+            "text": "MBCC白記支店は誠心誠意、サービスさせていただきます——きみなら、2割引きでいいわ。しっ……K.K.には内緒よ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_bai_yi_talk1_001.ogg",
+            "text": "もう寝る時間だわ。いいでしょ？局長のために、あたしはあーんなに努力したんだから。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_bai_yi_talk1_002.ogg",
+            "text": "本気になったら稲妻より速く走れるわよ。きみなんかには止められないわ。信じられない？じゃあ出してあげようか？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_bai_yi_talk1_003.ogg",
+            "text": "この白記という会社が、シンジケートで今まで存在してこられたのは、ボスであるあたしが奔走したからなの。あのガキ二人は本当に頼りにならないんだから。もう……何でそんな目であたしを見てるの？あたし何か変なこと言った？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_bai_yi_talk2_001.ogg",
+            "text": "あたしには崇高な信念なんてないわ。周りの人を守ることができればそれで十分なの。……もう誰も失いたくないから。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_bai_yi_talk2_002.ogg",
+            "text": "「初回依頼限定のお得価格！」ってチラシの半分は、あたしが貼ったものなの。ディスシティなら知らないところはないわ。きみが調査したい場所もあたしは全部知ってるわよ。聞きたい？……お金を出すなら教えてあげる！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_bai_yi_talk2_003.ogg",
+            "text": "地底の城？はは、きみってどうしていつもそんなものについてばかり聞くの？誰か見た人がいる？誰も見たことがないなら偽物ね。でないなら……入った人が、みんな生きて帰ってこられなかったということだわ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_bai_yi_obeyfull_001.ogg",
+            "text": "努力するのは嫌いなの。でも、努力している人は好きよ。例えばK.K.、澈……そして、きみ。あたしを信じて。きみたちの努力は無駄にはならないわ——あたしが無駄にはさせない。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_bai_yi_idle_001.ogg",
+            "text": "ここは食事も美味しいし、借金も返さなくていいし、大家さんも入ってこないし……うん、もうここから出ないわ！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_bai_yi_clicking_001.ogg",
+            "text": "へぇ？そんなに積極的なんだったら、ちゃんと遊んであげるわ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_bai_yi_specialattention_001.ogg",
+            "text": "そんなにあたしとお近づきになりたい？ふ～ん、素直でいい子じゃないの。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_bai_yi_dispatch_001.ogg",
+            "text": "あたしへの依頼ってこと？いつも通り、料金がかかるわよ〜。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_bai_yi_dispatch2_001.ogg",
+            "text": "Phew... Should have asked K.K. to settle this for me..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_bai_yi_levelup_002.ogg",
+            "text": "はいはいはい。必要ならいいわ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_bai_yi_jointeam_001.ogg",
+            "text": "Oh? Try to keep up with me, you guys."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bai_yi_head_001.ogg",
+            "text": "本当に落ち着きがないわね。どうしたの？あたしとドライブにでも行きたいの？"
+        }
+    ],
+    "blade_of_night": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_bai_yi_yeyoushen_cacha_001.ogg",
+            "text": "とうとう見つかっちゃったのね。驚かないで。シンジケートって、闇に潜む陰湿なネズミがいっぱいいるのよ。誰かが片づけないといけないから、成り行きであたしがやってるだけ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_bai_yi_yeyoushen_levelup_001.ogg",
+            "text": "刀が鋭くなるほど、厄介事が減るの。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_bai_yi_yeyoushen_greeting_001.ogg",
+            "text": "ようやく戻ってきたわね。きみがいない間、あたしはずっとここで大人しく待ってたのよ……えっ、マントに何かついてる？澈がうっかり水をこぼしたのね。うん、きっとそう。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bai_yi_yeyoushen_head_001.ogg",
+            "text": "これらの髪飾りには、色んな使い道があるのよ。手を切らないように気をつけてね。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_bai_yi_yeyoushen_talk_001.ogg",
+            "text": "依頼かって？こんな時間にわざわざ依頼してくる人なんていないわよ……深夜の散歩があたしの趣味なの。うん、そういうことにしておいて。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_bai_yi_yeyoushen_talk_002.ogg",
+            "text": "近くにいい店があるの。あそこの牛肉煮込み、美味しくてお酒が進むのよ。1杯どう？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_bai_yi_yeyoushen_hand_001.ogg",
+            "text": "清風明月人の管する無し、并せて作すは南楼一夜の涼……こんないい夜、悪党を片づけるのに相応しいわ。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_bai_yi_yeyoushen_leg_001.ogg",
+            "text": "素早く刀を振るうと、残像が残るの。綺麗でしょ？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_bai_yi_yeyoushen_idle_001.ogg",
+            "text": "うーん、いつもの臭いは……あっち？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_bai_yi_yeyoushen_specialattention_001.ogg",
+            "text": "これは……あたしを監視するつもり？じゃあ、きみのまばたきとあたしの動き、どっちが早いか勝負しよう？"
+        }
+    ],
+    "wave_rider": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_bai_yi_langlibaitiao_cacha_001.ogg",
+            "text": "本当に海に行ったことあるんだから。信じてよ。あの時は豪華なクルーザーを貸し切って、お宝をザクザク引き上げたわ……K.K.と澈が証人よ！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_bai_yi_langlibaitiao_levelup_001.ogg",
+            "text": "それから、あたしはもっとお宝を見つけたの。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_bai_yi_langlibaitiao_greeting_001.ogg",
+            "text": "ちゃんと休めた？よく休んでから出発しましょ。海の底には、まだまだ沢山の宝物が引き上げられるのを待ってるのよ。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bai_yi_langlibaitiao_head_001.ogg",
+            "text": "うんうん、あたしみたいな美女と船で二人きりになったら、ちょっと邪な気持ちになっても仕方ないわね。いいわ、許してあげる。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_bai_yi_langlibaitiao_talk_001.ogg",
+            "text": "当時のあたしの船は……ふふん、パワフルで豪華で、色んな施設が揃ってたわ……ちょっと、その反応どういう意味？昔は金持ちだったのよ。いけない？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_bai_yi_langlibaitiao_talk_002.ogg",
+            "text": "海には時々、危険なことがあるわ。嵐とか海賊とか、あとサメも。でも、怖がらなくていいわよ。このハクイツの前では、金持ちへの道の小話みたいなものよ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_bai_yi_langlibaitiao_hand_001.ogg",
+            "text": "あたしの泳ぐ姿といえば、羞月閉花、花鳥諷泳、泳姿颯爽よ！……後で海に入れば分かるわ。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_bai_yi_langlibaitiao_leg_001.ogg",
+            "text": "はぁ、太陽が眩しいわね～。暑い暑い。汗だくよ……あら？どうして顔が赤いのかしら～？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_bai_yi_langlibaitiao_idle_001.ogg",
+            "text": "疲れたら、甲板で寝ていいわよ。ちょうど日差しが暖かいし、海風に吹かれるのも気持ちいいしね……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_bai_yi_langlibaitiao_specialattention_001.ogg",
+            "text": "よし、船員は持ち場につけ。深海へ出発するぞ～！"
+        }
+    ]
+}

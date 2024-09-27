@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_angell_cacha_001.ogg",
+            "text": "私に頼み事があるなら、ダークウェブで依頼し金を前払いして待て。強引な割り込み依頼は受け付けない。だが、もし私に喧嘩を売りたいだけなら……よく考えろ。その代償は支払えないだろう。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_angell_promotion_001.ogg",
+            "text": "特殊なテクニックは必要ない。手を下す時は何も考えなければいいだけだ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_angell_promotion2_001.ogg",
+            "text": "鋭い刃が鞘から抜ければ、必ず血が流れる。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_angell_battlebegin_001.ogg",
+            "text": "場所の確認が必要か？了解。行ってくる。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_angell_battlewin_001.ogg",
+            "text": "依頼完了。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_angell_battlelose_001.ogg",
+            "text": "……まだ終わっていない。私が受けた依頼はこのままでは終わらない。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_angell_uniqueskill_001.ogg",
+            "text": "その命貰った！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_angell_dead_001.ogg",
+            "text": "はは……雇い主は失望するだろうな……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_angell_greeting_001.ogg",
+            "text": "お前が来るとは思っていなかった。新しい依頼か？それとも、お前もここに隠れて休みたいのか？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_angell_talk1_001.ogg",
+            "text": "……カーテンを動かすな。外の人間に見られたら危険だ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_angell_talk1_002.ogg",
+            "text": "私は生活費を稼ぐためにダークウェブで依頼を受けている。猫も人間も探すし、殺しもそれ以外もする。依頼が金額に見合っていればな。個人的な好みは……重要ではない。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_angell_talk1_003.ogg",
+            "text": "……私は孤独なのか？そうかもしれない。だが、一人でいることは安全を意味する。こちら側の世界では安全は貴重だ。だから、私は孤独であっても構わない。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_angell_talk2_001.ogg",
+            "text": "自分の部屋が散らかっているとは思わない。必要な物が見つかれば十分だ。刀、おにぎり、パソコン、ドア、ベッド。どこに何があるかは明らかだろう？この部屋は仕事場よりずっと快適だし、満足している。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_angell_talk2_002.ogg",
+            "text": "恐れられ、嫌われるような闇は、まさに私が慣れ親しんだ生活だ。私はそれを受け入れている。哀れだとは思わない。人にはそれぞれの運命があるからな。向こう側の人生は期待しない……お前が作るあずき汁以外は。あれは本当に気に入った。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_angell_talk2_003.ogg",
+            "text": "希望や愛という温かく明るいものも見てきたが、最後には全て例外なく消えていった。こちら側の世界では、幻影より脆いものは留まることができないんだ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_angell_obeyfull_001.ogg",
+            "text": "お前を無理に引き留める気はない。私は暗闇に包まれる運命にあり、お前は光の中を歩むべき人間だ。こちら側でお前を守っていよう。深淵に落ちるのは私一人で十分だ。誰もお前を引きずり込むことはできない。これは……私が生涯をかけて自分に課した依頼だ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_angell_idle_001.ogg",
+            "text": "……この刀と私、先に折れるのはどちらだろうな？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_angell_clicking_001.ogg",
+            "text": "不安そうだな。何かしてほしいことはあるか？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_angell_specialattention_001.ogg",
+            "text": "そんな風に見つめても意味はない。私の動きについてこられないだろう。私が立ち去ろうとすれば、お前は引き留めることができないはずだ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_angell_dispatch_001.ogg",
+            "text": "依頼を受注した。手付金はいつもの口座に。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_angell_dispatch2_001.ogg",
+            "text": "Here you go, remember to settle the balance."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_angell_levelup_002.ogg",
+            "text": "報酬を受け取った。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_angell_head_001.ogg",
+            "text": "どうした、私に話があるのか？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_angell_jointeam_001.ogg",
+            "text": "Gonna work."
+        }
+    ]
+}

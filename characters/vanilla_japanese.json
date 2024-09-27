@@ -1,124 +1,124 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_vanilla_cacha_001.ogg",
-      "text": "機械の動作のズレは……アンタが原因か……アンタは未来に……どんな変化をもたらすんだ？"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_vanilla_promotion_001.ogg",
-      "text": "デバッグが完了した……これで更に前へ進める……"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_vanilla_promotion2_001.ogg",
-      "text": "変化の終わりは……永遠だ……"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_vanilla_levelup_002.ogg",
-      "text": "より安定した……"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_vanilla_head_001.ogg",
-      "text": "ここにはスイッチがない。私の電源を……落とすことはできない……"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_vanilla_battlebegin_001.ogg",
-      "text": "これは経験しなければならないプロセスだ……"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_vanilla_battlewin_001.ogg",
-      "text": "機械はアンタたちを助けるために作られているんだ。行け、私はずっとここにいる。"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_vanilla_battlelose_001.ogg",
-      "text": "たった一回失敗しただけだ。全員連れ戻せ。私が全て修復する。"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_vanilla_uniqueskill_001.ogg",
-      "text": "ここまでだ！"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_vanilla_dead_001.ogg",
-      "text": "やがて機械が止まる日がやってくる……"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_vanilla_talk1_001.ogg",
-      "text": "行動には……基準が必要だ……壊れた機械は……人を永遠に道から外れさせる……私が代わりに……直そう……"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_vanilla_talk1_002.ogg",
-      "text": "変わらず……否定せず……精確で……安定を……保つ……私は壊れない……私という存在は最後のフロンティアまで到達する……"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_vanilla_talk1_003.ogg",
-      "text": "ぜんまいや歯車から……軸受けや内燃機関へ……そして電気回路や半導体へ……今の人類や100年後のテクノロジーは……どうなっているんだろうな……"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_vanilla_talk2_001.ogg",
-      "text": "内海では、全ての法則が改ざんされている……時間も、空間も、記憶も……もう信用できない……私が執着しているのは、きっとこの大きな流れの中で頼りになるものだ。"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_vanilla_talk2_002.ogg",
-      "text": "時間が人の心を歪めることはない……そうさせるのは絶望だ……アンタの目的を、最初の約束を覚えておけ。そうすれば……たとえ絶望に追いつかれても……飲み込まれたりはしない……"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_vanilla_talk2_003.ogg",
-      "text": "内海の外の世界は……こうなってしまったのか……私は……この光景が、終わることのない災害が、私の監視塔が……永遠が来るまで……ずっと変わらないと思っていた……"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_vanilla_obeyfull_001.ogg",
-      "text": "前は、アンタとの出会いが何を意味するのか分かっていなかった……でも今は理解できる……不朽の歯車が滑らかになり、方向を間違えた電流が原点に戻るように……アンタの到来は、私に……永遠の最初の1秒が過ぎたことを教えてくれたんだ。"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_vanilla_greeting_001.ogg",
-      "text": "アンタ、少し変わったか？……時間は偏差をもたらす。私たちが最後に会ってから……どれくらい経った？"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_vanilla_idle_001.ogg",
-      "text": "時間……正しい流れ……本当に……慣れないな……"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_vanilla_clicking_001.ogg",
-      "text": "なぜこのような動きを繰り返す？アンタの手足は故障しているのかもしれないな……すぐ修理しよう……"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_vanilla_dispatch_001.ogg",
-      "text": "これが、私の方向だ……"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_vanilla_dispatch2_001.ogg",
-      "text": "帰り道は外れていない……戻ったぞ。"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_vanilla_specialattention_001.ogg",
-      "text": "仲間は、迷った時によく私の所に来ていた……多分、人間というのは混乱の中でも変わらない錨を求めるんだろう……アンタもそうなのか？アンタは……不安を感じるのか？"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_vanilla_jointeam_001.ogg",
-      "text": "-"
-    }
-  ]
+    "default": [
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_vanilla_battlelose_001.ogg",
+            "text": "たった一回失敗しただけだ。全員連れ戻せ。私が全て修復する。"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_vanilla_cacha_001.ogg",
+            "text": "機械の動作のズレは……アンタが原因か……アンタは未来に……どんな変化をもたらすんだ？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_vanilla_promotion_001.ogg",
+            "text": "デバッグが完了した……これで更に前へ進める……"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_vanilla_promotion2_001.ogg",
+            "text": "変化の終わりは……永遠だ……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_vanilla_battlebegin_001.ogg",
+            "text": "これは経験しなければならないプロセスだ……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_vanilla_battlewin_001.ogg",
+            "text": "機械はアンタたちを助けるために作られているんだ。行け、私はずっとここにいる。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_vanilla_uniqueskill_001.ogg",
+            "text": "ここまでだ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_vanilla_dead_001.ogg",
+            "text": "やがて機械が止まる日がやってくる……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_vanilla_greeting_001.ogg",
+            "text": "アンタ、少し変わったか？……時間は偏差をもたらす。私たちが最後に会ってから……どれくらい経った？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_vanilla_talk1_001.ogg",
+            "text": "行動には……基準が必要だ……壊れた機械は……人を永遠に道から外れさせる……私が代わりに……直そう……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_vanilla_talk1_002.ogg",
+            "text": "変わらず……否定せず……精確で……安定を……保つ……私は壊れない……私という存在は最後のフロンティアまで到達する……"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_vanilla_talk1_003.ogg",
+            "text": "ぜんまいや歯車から……軸受けや内燃機関へ……そして電気回路や半導体へ……今の人類や100年後のテクノロジーは……どうなっているんだろうな……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_vanilla_talk2_001.ogg",
+            "text": "内海では、全ての法則が改ざんされている……時間も、空間も、記憶も……もう信用できない……私が執着しているのは、きっとこの大きな流れの中で頼りになるものだ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_vanilla_talk2_003.ogg",
+            "text": "内海の外の世界は……こうなってしまったのか……私は……この光景が、終わることのない災害が、私の監視塔が……永遠が来るまで……ずっと変わらないと思っていた……"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_vanilla_obeyfull_001.ogg",
+            "text": "前は、アンタとの出会いが何を意味するのか分かっていなかった……でも今は理解できる……不朽の歯車が滑らかになり、方向を間違えた電流が原点に戻るように……アンタの到来は、私に……永遠の最初の1秒が過ぎたことを教えてくれたんだ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_vanilla_talk2_002.ogg",
+            "text": "時間が人の心を歪めることはない……そうさせるのは絶望だ……アンタの目的を、最初の約束を覚えておけ。そうすれば……たとえ絶望に追いつかれても……飲み込まれたりはしない……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_vanilla_idle_001.ogg",
+            "text": "時間……正しい流れ……本当に……慣れないな……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_vanilla_clicking_001.ogg",
+            "text": "なぜこのような動きを繰り返す？アンタの手足は故障しているのかもしれないな……すぐ修理しよう……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_vanilla_specialattention_001.ogg",
+            "text": "仲間は、迷った時によく私の所に来ていた……多分、人間というのは混乱の中でも変わらない錨を求めるんだろう……アンタもそうなのか？アンタは……不安を感じるのか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_vanilla_dispatch_001.ogg",
+            "text": "これが、私の方向だ……"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_vanilla_dispatch2_001.ogg",
+            "text": "No deviation in the return path... I'm home."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_vanilla_levelup_002.ogg",
+            "text": "より安定した……"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_vanilla_jointeam_001.ogg",
+            "text": "立ち去れ……近寄るな……"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_vanilla_head_001.ogg",
+            "text": "ここにはスイッチがない。私の電源を……落とすことはできない……"
+        }
+    ]
 }
