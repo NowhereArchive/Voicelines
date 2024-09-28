@@ -1,7 +1,7 @@
 /* Styles.css - Dark Mode */
 
 @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
 body {
   background-color: #121212;
   color: #E0E0E0;
@@ -35,6 +35,11 @@ h1 {
   background-color: #1E1E1E;
   color: #FFFFFF;
   outline: none;
+  transition: box-shadow 0.3s ease;
+}
+
+.search-input:focus {
+  box-shadow: 0 0 10px #9c1111;
 }
 
 /* Character Grid */
@@ -53,11 +58,13 @@ h1 {
   border-radius: 8px;
   background-color: #1E1E1E;
   cursor: pointer;
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .character:hover {
   transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
 .character img {
@@ -81,56 +88,56 @@ h1 {
   cursor: pointer;
   background-color: #3A3A3A;
   color: #FFFFFF;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s, box-shadow 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .button:hover {
   background-color: #5A5A5A;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 /* Adjusting Button Container */
 .language-buttons, .attire-buttons {
-  display: flex; /* Use flexbox for alignment */
-  justify-content: center; /* Center the buttons */
-  flex-wrap: wrap; /* Allow buttons to wrap to the next line */
-  margin: 20px 0; /* Add vertical spacing */
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px 0;
 }
 
 /* Styling Individual Buttons */
 .language-button, .attire-button {
-  background-color: #3C3C3C; /* Button background color */
-  color: #FFFFFF; /* Button text color */
-  border: none; /* No border */
-  border-radius: 5px; /* Rounded corners */
-  padding: 10px 15px; /* Padding for better touch area */
-  margin: 5px; /* Space between buttons */
-  cursor: pointer; /* Pointer cursor on hover */
-  transition: background-color 0.3s; /* Smooth background color transition */
+  background-color: #3C3C3C;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Button hover effect */
 .language-button:hover, .attire-button:hover {
-  background-color: #575757; /* Darker background on hover */
+  background-color: #575757;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Ensuring Button Containers Don't Stretch Full Width */
-.language-buttons, .attire-buttons {
-  max-width: 800px; /* Set a max width for the button container */
-  margin: 0 auto; /* Center the button container */
-}
-
-
-/* Adjusting Voiceline Container */
+/* Voiceline Container */
 .voiceline {
   background-color: #1E1E1E;
   border: 1px solid #424242;
   border-radius: 8px;
   padding: 15px;
-  margin: 10px auto; /* Center the container */
-  max-width: 800px; /* Set a maximum width */
-  width: 90%; /* Width is 90% of the max width */
+  margin: 10px auto;
+  max-width: 800px;
+  width: 90%;
+  transition: box-shadow 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
+.voiceline:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
 
 .voiceline p {
   margin: 5px 0;
@@ -144,6 +151,7 @@ h1 {
   cursor: pointer;
   background-color: #3A3A3A;
   color: #FFFFFF;
+  transition: background-color 0.3s ease;
 }
 
 .voiceline button:hover {
@@ -154,24 +162,27 @@ h1 {
 a {
   text-decoration: none;
   color: #BB86FC;
+  transition: color 0.3s ease;
 }
 
 a:hover {
   color: #D6A2E8;
 }
 
-/* Add styles for centering */
+/* Centering Containers */
 .center-container {
   display: flex;
   justify-content: center;
   margin: 20px;
 }
+
 .dynamic-tabs {
   display: flex;
   justify-content: center;
-  align-items: center; /* Align items vertically */
+  align-items: center;
   margin: 20px 0;
 }
+
 .dynamic-tabs button {
   margin: 0 10px;
   padding: 10px 20px;
@@ -180,10 +191,19 @@ a:hover {
   background-color: #3A3A3A;
   color: white;
   border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
 }
+
 .dynamic-tabs button:hover {
   background-color: #5A5A5A;
+  transform: translateY(-3px);
 }
+
 .voicelines-button {
-  margin-left: 20px; /* Space between the tabs and the button */
+  margin-left: 20px;
+}
+
+.voiceline-text-NotEn {
+  font-size: 0.8em;
+  font-style: italic;
 }

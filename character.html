@@ -1,297 +1,349 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Google tag (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
 
-      gtag("config", "G-3M02N0366N");
-    </script>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Character Voice Lines</title>
-    <link href="Styles.css" rel="stylesheet" />
-    <link href="NavBar.css" rel="stylesheet" />
-  </head>
-  <body>
-    <nav class="navbar">
-      <div class="container">
-        <div class="navbar-header">
-          <button
-            title="logo"
-            class="navbar-toggler"
-            data-toggle="open-navbar1"
-          >
-            <span></span>
-            <span></span>
-            <span></span>
-          </button>
-          <a href="/Voicelines">
-            <h4>Path To Nowhere Archive</h4>
-          </a>
-        </div>
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-        <div class="navbar-menu" id="open-navbar1">
-          <ul class="navbar-nav">
-            <li><a href="/Voicelines">Characters</a></li>
+    gtag("config", "G-3M02N0366N");
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Character Voice Lines</title>
+  <link href="Styles.css" rel="stylesheet" />
+  <link href="NavBar.css" rel="stylesheet" />
+</head>
 
-            <li><a href="all_voicelines.html">All Voicelines</a></li>
-          </ul>
-        </div>
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-header">
+        <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <a href="/Voicelines">
+          <h4>Path To Nowhere Archive</h4>
+        </a>
       </div>
-    </nav>
-    <h1 id="characterName">Character</h1>
 
-    <div class="search-container">
-      <input
-        type="text"
-        id="searchInput"
-        class="search-input"
-        placeholder="Search Through Voicelines"
-        autocomplete="off"
-      />
+      <div class="navbar-menu" id="open-navbar1">
+        <ul class="navbar-nav">
+          <li><a href="/Voicelines">Characters</a></li>
+
+          <li><a href="all_voicelines.html">All Voicelines</a></li>
+        </ul>
+      </div>
     </div>
+  </nav>
+  <h1 id="characterName">Character</h1>
 
-    <div class="language-buttons" id="languageButtonsContainer"></div>
-    <div class="attire-buttons" id="attireButtonsContainer"></div>
+  <div class="search-container">
+    <input type="text" id="searchInput" class="search-input" placeholder="Search Through Voicelines"
+      autocomplete="off" />
+  </div>
 
-    <div id="voicelinesContainer"></div>
+  <div class="language-buttons" id="languageButtonsContainer"></div>
+  <div class="attire-buttons" id="attireButtonsContainer"></div>
 
-    <script>
-      // Function to get the query parameter from the URL
-      function getQueryParam(param) {
-        const urlParams = new URLSearchParams(window.location.search);
-        return urlParams.get(param);
+  <div id="voicelinesContainer"></div>
+
+  <script>
+    // Function to get the query parameter from the URL
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+
+    // Function to sanitize and format the name for folder/filenames
+    function sanitizeName(name) {
+      return name.toLowerCase().replace(/\s+/g, "_");
+    }
+
+    // Function to trim "File:" prefix from filenames
+    function trimFilePrefix(filename) {
+      return filename.startsWith("File:") ? filename.slice(5) : filename;
+    }
+
+    // Function to render voicelines for a given attire and language
+    function renderVoicelines(data, sanitizedAttire, sanitizedLanguage) {
+      const voicelinesContainer = document.getElementById(
+        "voicelinesContainer"
+      );
+      const voicelines = data[sanitizedAttire];
+
+      // Ensure the voicelines exist for the attire
+      if (!voicelines) {
+        voicelinesContainer.innerHTML = `<p>No voice lines found for ${sanitizedAttire} in ${sanitizedLanguage}.</p>`;
+        return;
       }
 
-      // Function to sanitize and format the name for folder/filenames
-      function sanitizeName(name) {
-        return name.toLowerCase().replace(/\s+/g, "_");
-      }
+      // Fetch English voicelines for the same character if not in English
+      const englishVoicelinesFile = `characters/${characterName}_english.json`;
+      const englishVoicelineMap = {};
 
-      // Function to trim "File:" prefix from filenames
-      function trimFilePrefix(filename) {
-        return filename.startsWith("File:") ? filename.slice(5) : filename;
-      }
-
-      // Function to render voicelines for a given attire and language
-      function renderVoicelines(data, sanitizedAttire, sanitizedLanguage) {
-        const voicelinesContainer = document.getElementById(
-          "voicelinesContainer"
-        );
-        const voicelines = data[sanitizedAttire];
-
-        // Ensure the voicelines exist for the attire
-        if (!voicelines) {
-          voicelinesContainer.innerHTML = `<p>No voice lines found for ${sanitizedAttire} in ${sanitizedLanguage}.</p>`;
-          return;
-        }
-
-        voicelinesContainer.innerHTML = ""; // Clear previous content
-        voicelines.forEach((voiceline) => {
-          const trimmedFilename = trimFilePrefix(voiceline.filename);
-          const sanitizedAudioFile = `audio/${characterName}/${sanitizedLanguage}/${sanitizedAttire}/${sanitizeName(
-            trimmedFilename
-          )}`;
-          const lineDiv = document.createElement("div");
-          lineDiv.classList.add("voiceline");
-          lineDiv.innerHTML = `
-                    <p>${voiceline.title}:</p>
-                    <button onclick="playVoice('${sanitizedAudioFile}')">Play</button>
-                    <button onclick="stopVoice()">Stop</button>
-                    <p class="voiceline-text">${voiceline.text}</p>
-                `;
-          voicelinesContainer.appendChild(lineDiv);
-        });
-      }
-
-      // Function to create attire buttons dynamically
-      function createAttireButtons(data) {
-        const attireButtonsContainer = document.getElementById(
-          "attireButtonsContainer"
-        );
-        attireButtonsContainer.innerHTML = ""; // Clear existing buttons
-
-        Object.keys(data).forEach((attire) => {
-          const button = document.createElement("button");
-          button.classList.add("attire-button");
-          button.innerText = attire
-            .replace(/_/g, " ")
-            .replace(/\b\w/g, (char) => char.toUpperCase()); // Format text
-          button.onclick = () => {
-            // Remove active class from all attire buttons
-            const buttons =
-              attireButtonsContainer.getElementsByClassName("attire-button");
-            Array.from(buttons).forEach((btn) =>
-              btn.classList.remove("active-button")
-            );
-
-            // Add active class to the selected button
-            button.classList.add("active-button");
-            renderVoicelines(data, attire, language);
-          };
-          attireButtonsContainer.appendChild(button);
-        });
-      }
-
-      // Function to create language buttons dynamically based on available JSON files
-      function createLanguageButtons() {
-        const languageButtonsContainer = document.getElementById(
-          "languageButtonsContainer"
-        );
-        const languages = ["English", "Japanese", "Chinese", "Korean"];
-        const availableLanguages = [];
-
-        languages.forEach((lang) => {
-          const languageFile = `characters/${characterName}_${sanitizeName(
-            lang
-          )}.json`;
-          fetch(languageFile)
-            .then((response) => {
-              if (response.ok) {
-                availableLanguages.push(lang);
-                const button = document.createElement("button");
-                button.classList.add("language-button");
-                button.innerText = lang;
-                button.onclick = () => {
-                  // Remove active class from all language buttons
-                  const buttons =
-                    languageButtonsContainer.getElementsByClassName(
-                      "language-button"
-                    );
-                  Array.from(buttons).forEach((btn) =>
-                    btn.classList.remove("active-button")
-                  );
-
-                  // Add active class to the selected button
-                  button.classList.add("active-button");
-                  language = sanitizeName(lang);
-                  loadVoicelines();
-                };
-                languageButtonsContainer.appendChild(button);
-              }
-            })
-            .catch((error) =>
-              console.error(`Error loading ${lang} file:`, error)
-            );
-        });
-      }
-
-      // Function to capitalize the first letter of each word
-      function capitalizeWords(name) {
-        return name
-          .split(" ")
-          .map(
-            (word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
-          )
-          .join(" ");
-      }
-
-      // Load voicelines for the current character and language
-      function loadVoicelines() {
-        const voicelinesFile = `characters/${characterName}_${language}.json`;
-
-        fetch(voicelinesFile)
-          .then((response) => response.json())
-          .then((data) => {
-            // Capitalize character name
-            const characterDisplayName = capitalizeWords(
-              characterName.replace("_", " ")
-            );
-            document.getElementById("characterName").innerText =
-              characterDisplayName;
-
-            createAttireButtons(data); // Create attire buttons
-            renderVoicelines(data, Object.keys(data)[0], language); // Render first attire by default
+      if (sanitizedLanguage !== "english") {
+        fetch(englishVoicelinesFile)
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Network response was not ok");
+            }
+            return response.json();
           })
-          .catch((error) => console.error("Error loading voice lines:", error));
+          .then((englishData) => {
+            // Create a map for easier access to English voicelines
+            const englishVoicelines = englishData[sanitizedAttire];
+
+            if (englishVoicelines) {
+              englishVoicelines.forEach((voiceline) => {
+                englishVoicelineMap[voiceline.title] = voiceline.text; // Mapping by title
+              });
+            }
+            displayVoicelines(
+              voicelinesContainer,
+              voicelines,
+              sanitizedAttire,
+              englishVoicelineMap
+            );
+          })
+          .catch((error) => {
+            console.error("Error loading English voicelines:", error);
+            voicelinesContainer.innerHTML = `<p>Error loading English voice lines.</p>`;
+          });
+      } else {
+        // If the selected language is English, display voicelines without translation
+        displayVoicelines(voicelinesContainer, voicelines, sanitizedAttire);
       }
+    }
 
-      // Get the character name and language from the URL
-      let characterName = sanitizeName(getQueryParam("name"));
-      let language = sanitizeName(getQueryParam("language") || "English");
+    // Function to display voicelines
+    function displayVoicelines(
+      container,
+      voicelines,
+      sanitizedAttire,
+      englishVoicelineMap = {}
+    ) {
+      container.innerHTML = ""; // Clear previous content
 
-      // Initial load of voice lines
-      createLanguageButtons();
-      loadVoicelines();
+      voicelines.forEach((voiceline) => {
+        const trimmedFilename = trimFilePrefix(voiceline.filename);
+        console.log(sanitizedAttire);
+        const sanitizedAudioFile = `audio/${characterName}/${language}/${sanitizedAttire}/${sanitizeName(
+          trimmedFilename
+        )}`;
 
-      // Variables to keep track of currently playing audio
-      let currentAudio = null;
+        const lineDiv = document.createElement("div");
+        lineDiv.classList.add("voiceline");
+        lineDiv.innerHTML = `
+        <p>${voiceline.title}:</p>
+        <button onclick="playVoice('${sanitizedAudioFile}')">Play</button>
+        <button onclick="stopVoice()">Stop</button>
+        <p class="voiceline-text">${voiceline.text}</p>
+      `;
 
-      // Function to play the audio
-      function playVoice(file) {
-        if (currentAudio) {
-          currentAudio.pause();
-          currentAudio.currentTime = 0;
+        // Add English translation if not in English
+        if (language !== "english") {
+          lineDiv.innerHTML += `<p class="voiceline-text-NotEn" style="color: gray;">${englishVoicelineMap[voiceline.title] || "N/A"
+            }</p>`;
         }
-        currentAudio = new Audio(file);
-        currentAudio.play();
-      }
 
-      // Function to stop the audio
-      function stopVoice() {
-        if (currentAudio) {
-          currentAudio.pause();
-          currentAudio.currentTime = 0;
+        container.appendChild(lineDiv);
+      });
+    }
+
+    // Function to create attire buttons dynamically
+    function createAttireButtons(data) {
+      const attireButtonsContainer = document.getElementById(
+        "attireButtonsContainer"
+      );
+      attireButtonsContainer.innerHTML = ""; // Clear existing buttons
+
+      Object.keys(data).forEach((attire) => {
+        const button = document.createElement("button");
+        button.classList.add("attire-button");
+        button.innerText = attire
+          .replace(/_/g, " ")
+          .replace(/\b\w/g, (char) => char.toUpperCase()); // Format text
+        button.onclick = () => {
+          // Remove active class from all attire buttons
+          const buttons =
+            attireButtonsContainer.getElementsByClassName("attire-button");
+          Array.from(buttons).forEach((btn) =>
+            btn.classList.remove("active-button")
+          );
+
+          // Add active class to the selected button
+          button.classList.add("active-button");
+          renderVoicelines(data, attire, language);
+        };
+        attireButtonsContainer.appendChild(button);
+      });
+    }
+
+    // Function to create language buttons dynamically based on available JSON files
+    function createLanguageButtons() {
+      const languageButtonsContainer = document.getElementById(
+        "languageButtonsContainer"
+      );
+      const languages = ["English", "Japanese", "Chinese", "Korean"];
+      const availableLanguages = [];
+
+      languages.forEach((lang) => {
+        const languageFile = `characters/${characterName}_${sanitizeName(
+          lang
+        )}.json`;
+        fetch(languageFile)
+          .then((response) => {
+            if (response.ok) {
+              availableLanguages.push(lang);
+              const button = document.createElement("button");
+              button.classList.add("language-button");
+              button.innerText = lang;
+              button.onclick = () => {
+                // Remove active class from all language buttons
+                const buttons =
+                  languageButtonsContainer.getElementsByClassName(
+                    "language-button"
+                  );
+                Array.from(buttons).forEach((btn) =>
+                  btn.classList.remove("active-button")
+                );
+
+                // Add active class to the selected button
+                button.classList.add("active-button");
+                language = sanitizeName(lang);
+                loadVoicelines();
+              };
+              languageButtonsContainer.appendChild(button);
+            }
+          })
+          .catch((error) =>
+            console.error(`Error loading ${lang} file:`, error)
+          );
+      });
+    }
+
+    // Function to capitalize the first letter of each word
+    function capitalizeWords(name) {
+      return name
+        .split(" ")
+        .map(
+          (word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+        )
+        .join(" ");
+    }
+
+    // Load voicelines for the current character and language
+    async function loadVoicelines() {
+      const voicelinesFile = `characters/${characterName}_${language}.json`;
+
+      try {
+        const response = await fetch(voicelinesFile);
+        if (!response.ok) {
+          throw new Error("Error loading voice lines");
         }
-      }
+        const data = await response.json();
 
-      document.addEventListener('keydown', function(event) {
-    const searchInput = document.getElementById('searchInput');
-    
-    // Check if 'L' or 'l' was pressed and that the search input is not focused
-    if ((event.key === 'l' || event.key === 'L') && document.activeElement !== searchInput) {
+        const characterDisplayName = capitalizeWords(
+          characterName.replace("_", " ")
+        );
+        document.getElementById("characterName").innerText =
+          characterDisplayName;
+
+        createAttireButtons(data);
+        renderVoicelines(data, Object.keys(data)[0], language);
+      } catch (error) {
+        console.error("Error loading voice lines:", error);
+      }
+    }
+
+    // Get the character name and language from the URL
+    let characterName = sanitizeName(getQueryParam("name"));
+    let language = sanitizeName(getQueryParam("language") || "English");
+
+    // Initial load of voice lines
+    createLanguageButtons();
+    loadVoicelines();
+
+    // Variables to keep track of currently playing audio
+    let currentAudio = null;
+
+    // Function to play the audio
+    function playVoice(file) {
+      if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+      }
+      currentAudio = new Audio(file);
+      currentAudio.play();
+    }
+
+    // Function to stop the audio
+    function stopVoice() {
+      if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+      }
+    }
+
+    document.addEventListener("keydown", function (event) {
+      const searchInput = document.getElementById("searchInput");
+
+      // Check if 'L' or 'l' was pressed and that the search input is not focused
+      if (
+        (event.key === "l" || event.key === "L") &&
+        document.activeElement !== searchInput
+      ) {
         event.preventDefault(); // Prevent default action
         if (searchInput) {
-            searchInput.focus(); // Focus on the search input
+          searchInput.focus(); // Focus on the search input
         }
-    }
-});
-
-
-      // Event listener for the search bar
-      document
-        .getElementById("searchInput")
-        .addEventListener("input", filterVoicelines);
-
-      function filterVoicelines() {
-        const searchValue = document
-          .getElementById("searchInput")
-          .value.toLowerCase();
-        const voicelines = document.querySelectorAll(".voiceline"); // Adjust selector if needed
-
-        voicelines.forEach((line) => {
-          const lineText = line
-            .querySelector(".voiceline-text")
-            .innerText.toLowerCase();
-          line.style.display = lineText.includes(searchValue)
-            ? "block"
-            : "none";
-        });
       }
+    });
 
-      function handleSmallScreens() {
-            document.querySelector('.navbar-toggler')
-                .addEventListener('click', () => {
-                    let navbarMenu = document.querySelector('.navbar-menu');
+    // Event listener for the search bar
+    document
+      .getElementById("searchInput")
+      .addEventListener("input", filterVoicelines);
 
-                    if (!navbarMenu.classList.contains('active')) {
-                        navbarMenu.classList.add('active');
-                    } else {
-                        navbarMenu.classList.remove('active');
-                    }
-                });
-        }
+    function filterVoicelines() {
+      const searchValue = document
+        .getElementById("searchInput")
+        .value.toLowerCase();
+      const voicelines = document.querySelectorAll(".voiceline"); // Adjust selector if needed
 
-        handleSmallScreens();
-    </script>
-  </body>
+      voicelines.forEach((line) => {
+        const lineText = line
+          .querySelector(".voiceline-text")
+          .innerText.toLowerCase();
+        line.style.display = lineText.includes(searchValue)
+          ? "block"
+          : "none";
+      });
+    }
+
+    function handleSmallScreens() {
+      document
+        .querySelector(".navbar-toggler")
+        .addEventListener("click", () => {
+          let navbarMenu = document.querySelector(".navbar-menu");
+
+          if (!navbarMenu.classList.contains("active")) {
+            navbarMenu.classList.add("active");
+          } else {
+            navbarMenu.classList.remove("active");
+          }
+        });
+    }
+
+    handleSmallScreens();
+  </script>
+</body>
 </html>
