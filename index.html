@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-      gtag('config', 'G-3M02N0366N');
+        gtag('config', 'G-3M02N0366N');
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
     <link href="Styles.css" rel="stylesheet">
     <link href="NavBar.css" rel="stylesheet">
     <style>
@@ -26,46 +29,47 @@
         }
     </style>
 </head>
+
 <body>
     <nav class="navbar">
         <div class="container">
-      
-          <div class="navbar-header">
-            <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
-              <span></span>
-              <span></span>
-              <span></span>
-            </button>
-            <a href="/Voicelines">
-              <h4>Path To Nowhere Archive</h4>
-            </a>
-          </div>
-      
-          <div class="navbar-menu" id="open-navbar1">
-            <ul class="navbar-nav">
-              <li class="active"><a href="">Sinners</a></li>
-           
-              <li><a href="all_voicelines.html">All Voicelines</a></li>
-            </ul>
-          </div>
+
+            <div class="navbar-header">
+                <button title="logo" class="navbar-toggler" data-toggle="open-navbar1">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <a href="/Voicelines">
+                    <h4>Path To Nowhere Archive</h4>
+                </a>
+            </div>
+
+            <div class="navbar-menu" id="open-navbar1">
+                <ul class="navbar-nav">
+                    <li class="active"><a href="">Characters</a></li>
+
+                    <li><a href="all_voicelines.html">All Voicelines</a></li>
+                </ul>
+            </div>
         </div>
-    </nav>            
+    </nav>
     <h1>Characters</h1>
 
-<!-- New Dynamic Tabs Navigation -->
-<div class="dynamic-tabs" id="navbarTabs"></div>
+    <!-- New Dynamic Tabs Navigation -->
+    <div class="dynamic-tabs" id="navbarTabs"></div>
 
-<div class="search-container">
-    <input type="text" id="searchInput" class="search-input" placeholder="Character Search" autocomplete="off">
-</div>
+    <div class="search-container">
+        <input type="text" id="searchInput" class="search-input" placeholder="Character Search" autocomplete="off">
+    </div>
 
-<div class="center-container">
-    <a href="all_voicelines.html">
-        <button class="button">View All Voicelines</button>
-    </a>
-</div>
+    <div class="center-container">
+        <a href="all_voicelines.html">
+            <button class="button">View All Voicelines</button>
+        </a>
+    </div>
 
-<div class="character-grid" id="characterGrid"></div>
+    <div class="character-grid" id="characterGrid"></div>
 
     <script>
         let dropdowns = document.querySelectorAll('.navbar .dropdown-toggler');
@@ -128,94 +132,108 @@
         }
 
         fetch('characters.json')
-    .then(response => response.json())
-    .then(data => {
-        // Create a unique set of categories
-        const categories = [...new Set(data.characters.map(character => character.category))];
-        const navbarTabs = document.getElementById('navbarTabs');
+            .then(response => response.json())
+            .then(data => {
+                // Create a unique set of categories
+                const categories = [...new Set(data.characters.map(character => character.category))];
+                const navbarTabs = document.getElementById('navbarTabs');
 
-        // Create "All Characters" tab
-        const allCharactersTab = document.createElement('button');
-        allCharactersTab.innerText = "All Characters";
-        allCharactersTab.onclick = () => filterCharacters("All Characters");
-        navbarTabs.appendChild(allCharactersTab);
+                // Create "All Characters" tab
+                const allCharactersTab = document.createElement('button');
+                allCharactersTab.innerText = "All Characters";
+                allCharactersTab.onclick = () => filterCharacters("All Characters");
+                navbarTabs.appendChild(allCharactersTab);
 
-        // Create tabs for each category
-        categories.forEach(category => {
-            const tab = document.createElement('button');
-            tab.innerText = category;
-            tab.onclick = () => filterCharacters(category);
-            navbarTabs.appendChild(tab);
-        });
+                // Create tabs for each category
+                categories.forEach(category => {
+                    const tab = document.createElement('button');
+                    tab.innerText = category;
+                    tab.onclick = () => filterCharacters(category);
+                    navbarTabs.appendChild(tab);
+                });
 
-        // Function to filter characters based on category
-        function filterCharacters(selectedCategory) {
-            const characterGrid = document.getElementById('characterGrid');
-            characterGrid.innerHTML = ''; // Clear current characters
+                // Function to filter characters based on category
+                function filterCharacters(selectedCategory) {
+                    const characterGrid = document.getElementById('characterGrid');
+                    characterGrid.innerHTML = ''; // Clear current characters
 
-            let filteredCharacters;
+                    let filteredCharacters;
 
-            if (selectedCategory === "All Characters") {
-                // Show all characters
-                filteredCharacters = data.characters;
-            } else {
-                // Filter characters by the selected category
-                filteredCharacters = data.characters.filter(character => character.category === selectedCategory);
-            }
+                    if (selectedCategory === "All Characters") {
+                        // Show all characters
+                        filteredCharacters = data.characters;
+                    } else {
+                        // Filter characters by the selected category
+                        filteredCharacters = data.characters.filter(character => character.category === selectedCategory);
+                    }
 
-            filteredCharacters.sort((a, b) => a.name.localeCompare(b.name));
+                    filteredCharacters.sort((a, b) => a.name.localeCompare(b.name));
 
-            // Change the <h1> text to the selected category
-            const heading = document.querySelector('h1');
-            heading.innerText = selectedCategory;
+                    // Change the <h1> text to the selected category
+                    const heading = document.querySelector('h1');
+                    heading.innerText = selectedCategory;
 
-            // Populate character grid with filtered characters
-            filteredCharacters.forEach(character => {
-                const sanitizedName = sanitizeName(character.name);
-                const imagePath = `images/${sanitizedName}/${sanitizedName}.png`;
+                    // Populate character grid with filtered characters
+                    filteredCharacters.forEach(character => {
+    const sanitizedName = sanitizeName(character.name);
+    const imagePath = `images/${sanitizedName}/${sanitizedName}.png`;
+    const rankPath = `${character.rank}.png`;
+    const libramPath = `${character.libram}.png`;
+    const tendencyPath = `${character.tendency}.png`;
 
-                const characterDiv = document.createElement('div');
-                characterDiv.classList.add('character');
-                characterDiv.innerHTML = `
-                    <img src="${imagePath}" alt="${character.name}">
-                    <p>${character.displayName || character.name}</p>
-                `;
-                characterDiv.onclick = () => {
-                    window.location.href = `character.html?name=${sanitizedName}`;
-                };
-                characterGrid.appendChild(characterDiv);
-            });
-        }
+    const characterDiv = document.createElement('div');
+characterDiv.classList.add('character');
+characterDiv.innerHTML = `
+    <div class="image-container">
+        <img class="mugshot" src="${imagePath}" alt="${character.name}">
+        <div class="small-photo-container">
+            <img class="small-photo rank" src="logos/${rankPath}">
+            <img class="small-photo libram" src="logos/${libramPath}">
+            <img class="small-photo tendency" src="logos/${tendencyPath}">
+        </div>
+        <p>${character.displayName || character.name}</p>
+    </div>
+`;
 
-        // Initially show characters from the first category
-        if (categories.length > 0) {
-            filterCharacters(categories[0]);
-        }
-
-        // Implement search functionality as before
-        document.getElementById('searchInput').addEventListener('input', function() {
-            const searchValue = this.value.toLowerCase();
-            const allCharacters = characterGrid.querySelectorAll('.character');
-            allCharacters.forEach(characterDiv => {
-                const characterName = characterDiv.querySelector('p').innerText.toLowerCase();
-                characterDiv.style.display = characterName.includes(searchValue) ? 'block' : 'none';
-            });
-        });
-    })
-    .catch(error => console.error('Error loading characters:', error));
-        // Add keydown event for search shortcut
-        document.addEventListener('keydown', function(event) {
-    const searchInput = document.getElementById('searchInput');
-    
-    // Check if 'L' or 'l' was pressed and that the search input is not focused
-    if ((event.key === 'l' || event.key === 'L') && document.activeElement !== searchInput) {
-        event.preventDefault(); // Prevent default action
-        if (searchInput) {
-            searchInput.focus(); // Focus on the search input
-        }
-    }
+    characterDiv.onclick = () => {
+        window.location.href = `character.html?name=${sanitizedName}`;
+    };
+    characterGrid.appendChild(characterDiv);
 });
+
+
+                }
+
+                // Initially show characters from the first category
+                if (categories.length > 0) {
+                    filterCharacters(categories[0]);
+                }
+
+                // Implement search functionality as before
+                document.getElementById('searchInput').addEventListener('input', function () {
+                    const searchValue = this.value.toLowerCase();
+                    const allCharacters = characterGrid.querySelectorAll('.character');
+                    allCharacters.forEach(characterDiv => {
+                        const characterName = characterDiv.querySelector('p').innerText.toLowerCase();
+                        characterDiv.style.display = characterName.includes(searchValue) ? 'block' : 'none';
+                    });
+                });
+            })
+            .catch(error => console.error('Error loading characters:', error));
+        // Add keydown event for search shortcut
+        document.addEventListener('keydown', function (event) {
+            const searchInput = document.getElementById('searchInput');
+
+            // Check if 'L' or 'l' was pressed and that the search input is not focused
+            if ((event.key === 'l' || event.key === 'L') && document.activeElement !== searchInput) {
+                event.preventDefault(); // Prevent default action
+                if (searchInput) {
+                    searchInput.focus(); // Focus on the search input
+                }
+            }
+        });
 
     </script>
 </body>
+
 </html>

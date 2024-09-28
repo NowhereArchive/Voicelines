@@ -1,479 +1,764 @@
 {
   "characters": [
     {
-      "name": "Adela",
+      "name": "adela",
       "displayName": "Adela",
+      "rank": "S",
+      "libram": "SLOTH",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Angell",
+      "name": "angell",
       "displayName": "Angell",
+      "rank": "S",
+      "libram": "PESTILENCE",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Anne",
+      "name": "anne",
       "displayName": "Anne",
+      "rank": "A",
+      "libram": "LOVE",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Ariel",
+      "name": "ariel",
       "displayName": "Ariel",
+      "rank": "A",
+      "libram": "LOVE",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Bai_Yi",
+      "name": "bai_yi",
       "displayName": "Bai Yi",
+      "rank": "S",
+      "libram": "TREACHERY",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Bianca",
+      "name": "bianca",
       "displayName": "Bianca",
+      "rank": "S",
+      "libram": "PESTILENCE",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Cabernet",
+      "name": "cabernet",
       "displayName": "Cabernet",
+      "rank": "S",
+      "libram": "SLOTH",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Cassia",
+      "name": "cassia",
       "displayName": "Cassia",
+      "rank": "A",
+      "libram": "LOVE",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Chameleon",
+      "name": "chameleon",
       "displayName": "Chameleon",
+      "rank": "A",
+      "libram": "HERESY",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Che",
+      "name": "che",
       "displayName": "Che",
+      "rank": "B",
+      "libram": "LIMBO",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Chelsea",
+      "name": "chelsea",
       "displayName": "Chelsea",
+      "rank": "A",
+      "libram": "GREED",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Christina",
+      "name": "christina",
       "displayName": "Christina",
+      "rank": "A",
+      "libram": "ANGER",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Cinnabar",
+      "name": "cinnabar",
       "displayName": "Cinnabar",
+      "rank": "A",
+      "libram": "TREACHERY",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Coquelic",
+      "name": "coquelic",
       "displayName": "Coquelic",
+      "rank": "S",
+      "libram": "LIMBO",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Corso",
+      "name": "corso",
       "displayName": "Corso",
+      "rank": "A",
+      "libram": "VIOLENCE",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Crache",
+      "name": "crache",
       "displayName": "Crache",
+      "rank": "S",
+      "libram": "LIMBO",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Demolia",
+      "name": "demolia",
       "displayName": "Demolia",
+      "rank": "B",
+      "libram": "LIMBO",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Demon",
+      "name": "demon",
       "displayName": "Demon",
+      "rank": "S",
+      "libram": "ANGER",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Deren",
+      "name": "deren",
       "displayName": "Deren",
+      "rank": "S",
+      "libram": "FRAUD",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Dolly",
+      "name": "dolly",
       "displayName": "Dolly",
+      "rank": "A",
+      "libram": "VIOLENCE",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Donald",
+      "name": "donald",
       "displayName": "Donald",
+      "rank": "S",
+      "libram": "TREACHERY",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Dreya",
+      "name": "dreya",
       "displayName": "Dreya",
+      "rank": "S",
+      "libram": "IMMORTAL",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Du_Ruo",
+      "name": "du_ruo",
       "displayName": "Du Ruo",
+      "rank": "S",
+      "libram": "FRAUD",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Dudu",
+      "name": "dudu",
       "displayName": "Dudu",
+      "rank": "A",
+      "libram": "SLOTH",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Echo",
-      "displayName": "Echo",
-      "category": "Sinners"
-    },
-    {
-      "name": "Eirene",
-      "displayName": "Eirene",
-      "category": "Sinners"
-    },
-    {
-      "name": "Eleven",
-      "displayName": "Eleven",
-      "category": "Sinners"
-    },
-    {
-      "name": "EMP",
+      "name": "emp",
       "displayName": "EMP",
+      "rank": "B",
+      "libram": "TREACHERY",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Enfer",
+      "name": "echo",
+      "displayName": "Echo",
+      "rank": "A",
+      "libram": "FRAUD",
+      "tendency": "Arcane",
+      "category": "Sinners"
+    },
+    {
+      "name": "eirene",
+      "displayName": "Eirene",
+      "rank": "S",
+      "libram": "GREED",
+      "tendency": "Arcane",
+      "category": "Sinners"
+    },
+    {
+      "name": "eleven",
+      "displayName": "Eleven",
+      "rank": "S",
+      "libram": "SLOTH",
+      "tendency": "Arcane",
+      "category": "Sinners"
+    },
+    {
+      "name": "enfer",
       "displayName": "Enfer",
+      "rank": "S",
+      "libram": "LIMBO",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Etti",
+      "name": "etti",
       "displayName": "Etti",
+      "rank": "S",
+      "libram": "FRAUD",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Eureka",
+      "name": "eureka",
       "displayName": "Eureka",
+      "rank": "A",
+      "libram": "LIMBO",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Eve",
+      "name": "eve",
       "displayName": "Eve",
+      "rank": "S",
+      "libram": "LOVE",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Flora",
+      "name": "flora",
       "displayName": "Flora",
+      "rank": "B",
+      "libram": "TREACHERY",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Garofano",
+      "name": "garofano",
       "displayName": "Garofano",
+      "rank": "A",
+      "libram": "SLOTH",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Gekkabijin",
+      "name": "gekkabijin",
       "displayName": "Gekkabijin",
+      "rank": "B",
+      "libram": "LOVE",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Golan",
+      "name": "golan",
       "displayName": "Golan",
+      "rank": "A",
+      "libram": "PESTILENCE",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Hamel",
+      "name": "hamel",
       "displayName": "Hamel",
+      "rank": "S",
+      "libram": "LOVE",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Hecate",
+      "name": "hecate",
       "displayName": "Hecate",
+      "rank": "A",
+      "libram": "LIMBO",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Hella",
+      "name": "hella",
       "displayName": "Hella",
+      "rank": "B",
+      "libram": "VIOLENCE",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Hestia",
+      "name": "hestia",
       "displayName": "Hestia",
+      "rank": "S",
+      "libram": "IMMORTAL",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Horo",
+      "name": "horo",
       "displayName": "Horo",
+      "rank": "A",
+      "libram": "ANGER",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Ignis",
+      "name": "ignis",
       "displayName": "Ignis",
+      "rank": "A",
+      "libram": "HERESY",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Iron",
+      "name": "iron",
       "displayName": "Iron",
+      "rank": "A",
+      "libram": "ANGER",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Jane",
+      "name": "jane",
       "displayName": "Jane",
+      "rank": "A",
+      "libram": "VIOLENCE",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Joan",
+      "name": "joan",
       "displayName": "Joan",
+      "rank": "B",
+      "libram": "ANGER",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "KK",
+      "name": "kk",
       "displayName": "K.K.",
+      "rank": "B",
+      "libram": "VIOLENCE",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Kawa-kawa",
+      "name": "kawa-kawa",
       "displayName": "Kawa-kawa",
+      "rank": "A",
+      "libram": "HERESY",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Kelvin",
+      "name": "kelvin",
       "displayName": "Kelvin",
+      "rank": "B",
+      "libram": "TREACHERY",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "LL",
+      "name": "ll",
       "displayName": "L.L.",
+      "rank": "S",
+      "libram": "PESTILENCE",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Labyrinth",
+      "name": "labyrinth",
       "displayName": "Labyrinth",
+      "rank": "B",
+      "libram": "ANGER",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Lady_Pearl",
+      "name": "lady_pearl",
       "displayName": "Lady Pearl",
+      "rank": "S",
+      "libram": "SLOTH",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Lamia",
+      "name": "lamia",
       "displayName": "Lamia",
+      "rank": "A",
+      "libram": "HERESY",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Langley",
+      "name": "langley",
       "displayName": "Langley",
+      "rank": "S",
+      "libram": "TREACHERY",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Letta",
+      "name": "letta",
       "displayName": "Letta",
+      "rank": "A",
+      "libram": "FRAUD",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Levy",
+      "name": "levy",
       "displayName": "Levy",
+      "rank": "A",
+      "libram": "GREED",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Lisa",
+      "name": "lisa",
       "displayName": "Lisa",
+      "rank": "B",
+      "libram": "LIMBO",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Luvia_Ray",
+      "name": "luvia_ray",
       "displayName": "Luvia Ray",
+      "rank": "A",
+      "libram": "LIMBO",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Lynn",
+      "name": "lynn",
       "displayName": "Lynn",
+      "rank": "A",
+      "libram": "SLOTH",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Macchiato",
+      "name": "macchiato",
       "displayName": "Macchiato",
+      "rank": "B",
+      "libram": "HERESY",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Mantis",
+      "name": "mantis",
       "displayName": "Mantis",
+      "rank": "S",
+      "libram": "IMMORTAL",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Matilda",
+      "name": "matilda",
       "displayName": "Matilda",
+      "rank": "A",
+      "libram": "SLOTH",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "McQueen",
+      "name": "mcqueen",
       "displayName": "McQueen",
+      "rank": "A",
+      "libram": "TREACHERY",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Mess",
+      "name": "mess",
       "displayName": "Mess",
+      "rank": "A",
+      "libram": "HERESY",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "MrFox",
+      "name": "mrfox",
       "displayName": "Mr. Fox",
+      "rank": "A",
+      "libram": "GREED",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Nightingale",
-      "displayName": "Nightingale",
-      "category": "NPCs"
-    },
-    {
-      "name": "Ninety-Nine",
-      "displayName": "Ninety-Nine",
-      "category": "Sinners"
-    },
-    {
-      "name": "Nino",
-      "displayName": "Nino",
-      "category": "Sinners"
-    },
-    {
-      "name": "NOX",
+      "name": "nox",
       "displayName": "NOX",
+      "rank": "S",
+      "libram": "LIMBO",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Oak_Casket",
+      "name": "ninety-nine",
+      "displayName": "Ninety-Nine",
+      "rank": "A",
+      "libram": "VIOLENCE",
+      "tendency": "Fury",
+      "category": "Sinners"
+    },
+    {
+      "name": "nino",
+      "displayName": "Nino",
+      "rank": "A",
+      "libram": "LIMBO",
+      "tendency": "Endura",
+      "category": "Sinners"
+    },
+    {
+      "name": "oak_casket",
       "displayName": "Oak Casket",
+      "rank": "S",
+      "libram": "SLOTH",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Oliver",
+      "name": "oliver",
       "displayName": "Oliver",
+      "rank": "A",
+      "libram": "TREACHERY",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "OwO",
+      "name": "owo",
       "displayName": "OwO",
+      "rank": "S",
+      "libram": "SLOTH",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Pacassi",
+      "name": "pacassi",
       "displayName": "Pacassi",
+      "rank": "A",
+      "libram": "LOVE",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Peggy",
+      "name": "peggy",
       "displayName": "Peggy",
+      "rank": "B",
+      "libram": "GREED",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Pepper",
+      "name": "pepper",
       "displayName": "Pepper",
+      "rank": "B",
+      "libram": "GREED",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Pricilla",
+      "name": "pricilla",
       "displayName": "Pricilla",
+      "rank": "A",
+      "libram": "GREED",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Rahu",
+      "name": "rahu",
       "displayName": "Rahu",
+      "rank": "S",
+      "libram": "ANGER",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Raven",
+      "name": "raven",
       "displayName": "Raven",
+      "rank": "S",
+      "libram": "FRAUD",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Roulecca",
+      "name": "roulecca",
       "displayName": "Roulecca",
+      "rank": "A",
+      "libram": "ANGER",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Serpent",
+      "name": "serpent",
       "displayName": "Serpent",
+      "rank": "S",
+      "libram": "LOVE",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Shalom",
+      "name": "shalom",
       "displayName": "Shalom",
+      "rank": "S",
+      "libram": "SLOTH",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Shawn",
+      "name": "shawn",
       "displayName": "Shawn",
+      "rank": "A",
+      "libram": "FRAUD",
+      "tendency": "Catalyst",
       "category": "Sinners"
     },
     {
-      "name": "Shrooma",
+      "name": "shrooma",
       "displayName": "Shrooma",
+      "rank": "A",
+      "libram": "PESTILENCE",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Stargazer",
+      "name": "stargazer",
       "displayName": "Stargazer",
+      "rank": "S",
+      "libram": "HERESY",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Sumire",
+      "name": "sumire",
       "displayName": "Sumire",
+      "rank": "A",
+      "libram": "LOVE",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Summer",
+      "name": "summer",
       "displayName": "Summer",
+      "rank": "S",
+      "libram": "HERESY",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Tetra",
+      "name": "tetra",
       "displayName": "Tetra",
+      "rank": "A",
+      "libram": "GREED",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Thistle",
+      "name": "thistle",
       "displayName": "Thistle",
+      "rank": "A",
+      "libram": "LOVE",
+      "tendency": "Umbra",
       "category": "Sinners"
     },
     {
-      "name": "Uni",
+      "name": "uni",
       "displayName": "Uni",
+      "rank": "A",
+      "libram": "LOVE",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Vanilla",
+      "name": "vanilla",
       "displayName": "Vanilla",
+      "rank": "S",
+      "libram": "IMMORTAL",
+      "tendency": "Endura",
       "category": "Sinners"
     },
     {
-      "name": "Victoria",
+      "name": "victoria",
       "displayName": "Victoria",
+      "rank": "A",
+      "libram": "LIMBO",
+      "tendency": "Arcane",
       "category": "Sinners"
     },
     {
-      "name": "Wendy",
+      "name": "wendy",
       "displayName": "Wendy",
+      "rank": "A",
+      "libram": "VIOLENCE",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Wolverine",
+      "name": "wolverine",
       "displayName": "Wolverine",
+      "rank": "A",
+      "libram": "VIOLENCE",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Yanyan",
+      "name": "yanyan",
       "displayName": "Yanyan",
+      "rank": "A",
+      "libram": "HERESY",
+      "tendency": "Reticle",
       "category": "Sinners"
     },
     {
-      "name": "Yao",
+      "name": "yao",
       "displayName": "Yao",
+      "rank": "S",
+      "libram": "LIMBO",
+      "tendency": "Fury",
       "category": "Sinners"
     },
     {
-      "name": "Zoya",
+      "name": "zoya",
       "displayName": "Zoya",
+      "rank": "S",
+      "libram": "VIOLENCE",
+      "tendency": "Fury",
       "category": "Sinners"
+    },
+    {
+      "name": "nightingale",
+      "displayName": "Nightingale",
+      "rank": "MBCC",
+      "libram": "none",
+      "tendency": "none",
+      "category": "NPCs"
     }
   ]
 }
