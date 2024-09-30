@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -21,7 +20,6 @@
     <link href="Styles.css" rel="stylesheet">
     <link href="NavBar.css" rel="stylesheet">
     <style>
-        /* Add styles for centering */
         .center-container {
             display: flex;
             justify-content: center;
@@ -56,7 +54,6 @@
     </nav>
     <h1>Characters</h1>
 
-    <!-- New Dynamic Tabs Navigation -->
     <div class="dynamic-tabs" id="navbarTabs"></div>
 
     <div class="search-container">
@@ -75,7 +72,6 @@
         let dropdowns = document.querySelectorAll('.navbar .dropdown-toggler');
         let dropdownIsOpen = false;
 
-        // Handle dropdown menus
         if (dropdowns.length) {
             dropdowns.forEach((dropdown) => {
                 dropdown.addEventListener('click', (event) => {
@@ -94,7 +90,6 @@
             });
         }
 
-        // Handle closing dropdowns if a user clicked the body
         window.addEventListener('mouseup', (event) => {
             if (dropdownIsOpen) {
                 dropdowns.forEach((dropdownButton) => {
@@ -134,17 +129,14 @@
         fetch('characters.json')
             .then(response => response.json())
             .then(data => {
-                // Create a unique set of categories
                 const categories = [...new Set(data.characters.map(character => character.category))];
                 const navbarTabs = document.getElementById('navbarTabs');
 
-                // Create "All Characters" tab
                 const allCharactersTab = document.createElement('button');
                 allCharactersTab.innerText = "All Characters";
                 allCharactersTab.onclick = () => filterCharacters("All Characters");
                 navbarTabs.appendChild(allCharactersTab);
 
-                // Create tabs for each category
                 categories.forEach(category => {
                     const tab = document.createElement('button');
                     tab.innerText = category;
@@ -152,28 +144,23 @@
                     navbarTabs.appendChild(tab);
                 });
 
-                // Function to filter characters based on category
                 function filterCharacters(selectedCategory) {
                     const characterGrid = document.getElementById('characterGrid');
-                    characterGrid.innerHTML = ''; // Clear current characters
+                    characterGrid.innerHTML = '';
 
                     let filteredCharacters;
 
                     if (selectedCategory === "All Characters") {
-                        // Show all characters
                         filteredCharacters = data.characters;
                     } else {
-                        // Filter characters by the selected category
                         filteredCharacters = data.characters.filter(character => character.category === selectedCategory);
                     }
 
                     filteredCharacters.sort((a, b) => a.name.localeCompare(b.name));
 
-                    // Change the <h1> text to the selected category
                     const heading = document.querySelector('h1');
                     heading.innerText = selectedCategory;
 
-                    // Populate character grid with filtered characters
                     filteredCharacters.forEach(character => {
     const sanitizedName = sanitizeName(character.name);
     const imagePath = `images/${sanitizedName}/${sanitizedName}.png`;
@@ -204,12 +191,10 @@ characterDiv.innerHTML = `
 
                 }
 
-                // Initially show characters from the first category
                 if (categories.length > 0) {
                     filterCharacters(categories[0]);
                 }
 
-                // Implement search functionality as before
                 document.getElementById('searchInput').addEventListener('input', function () {
                     const searchValue = this.value.toLowerCase();
                     const allCharacters = characterGrid.querySelectorAll('.character');
@@ -220,15 +205,13 @@ characterDiv.innerHTML = `
                 });
             })
             .catch(error => console.error('Error loading characters:', error));
-        // Add keydown event for search shortcut
         document.addEventListener('keydown', function (event) {
             const searchInput = document.getElementById('searchInput');
 
-            // Check if 'L' or 'l' was pressed and that the search input is not focused
             if ((event.key === 'l' || event.key === 'L') && document.activeElement !== searchInput) {
-                event.preventDefault(); // Prevent default action
+                event.preventDefault();
                 if (searchInput) {
-                    searchInput.focus(); // Focus on the search input
+                    searchInput.focus();
                 }
             }
         });

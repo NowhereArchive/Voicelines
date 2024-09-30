@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -56,36 +55,30 @@
   <div id="voicelinesContainer"></div>
 
   <script>
-    // Function to get the query parameter from the URL
     function getQueryParam(param) {
       const urlParams = new URLSearchParams(window.location.search);
       return urlParams.get(param);
     }
 
-    // Function to sanitize and format the name for folder/filenames
     function sanitizeName(name) {
       return name.toLowerCase().replace(/\s+/g, "_");
     }
 
-    // Function to trim "File:" prefix from filenames
     function trimFilePrefix(filename) {
       return filename.startsWith("File:") ? filename.slice(5) : filename;
     }
 
-    // Function to render voicelines for a given attire and language
     function renderVoicelines(data, sanitizedAttire, sanitizedLanguage) {
       const voicelinesContainer = document.getElementById(
         "voicelinesContainer"
       );
       const voicelines = data[sanitizedAttire];
 
-      // Ensure the voicelines exist for the attire
       if (!voicelines) {
         voicelinesContainer.innerHTML = `<p>No voice lines found for ${sanitizedAttire} in ${sanitizedLanguage}.</p>`;
         return;
       }
 
-      // Fetch English voicelines for the same character if not in English
       const englishVoicelinesFile = `characters/${characterName}_english.json`;
       const englishVoicelineMap = {};
 
@@ -98,12 +91,11 @@
             return response.json();
           })
           .then((englishData) => {
-            // Create a map for easier access to English voicelines
             const englishVoicelines = englishData[sanitizedAttire];
 
             if (englishVoicelines) {
               englishVoicelines.forEach((voiceline) => {
-                englishVoicelineMap[voiceline.title] = voiceline.text; // Mapping by title
+                englishVoicelineMap[voiceline.title] = voiceline.text;
               });
             }
             displayVoicelines(
@@ -118,19 +110,17 @@
             voicelinesContainer.innerHTML = `<p>Error loading English voice lines.</p>`;
           });
       } else {
-        // If the selected language is English, display voicelines without translation
         displayVoicelines(voicelinesContainer, voicelines, sanitizedAttire);
       }
     }
 
-    // Function to display voicelines
     function displayVoicelines(
       container,
       voicelines,
       sanitizedAttire,
       englishVoicelineMap = {}
     ) {
-      container.innerHTML = ""; // Clear previous content
+      container.innerHTML = "";
 
       voicelines.forEach((voiceline) => {
         const trimmedFilename = trimFilePrefix(voiceline.filename);
@@ -148,7 +138,6 @@
         <p class="voiceline-text">${voiceline.text}</p>
       `;
 
-        // Add English translation if not in English
         if (language !== "english") {
           lineDiv.innerHTML += `<p class="voiceline-text-NotEn" style="color: gray;">${englishVoicelineMap[voiceline.title] || "N/A"
             }</p>`;
@@ -158,28 +147,25 @@
       });
     }
 
-    // Function to create attire buttons dynamically
     function createAttireButtons(data) {
       const attireButtonsContainer = document.getElementById(
         "attireButtonsContainer"
       );
-      attireButtonsContainer.innerHTML = ""; // Clear existing buttons
+      attireButtonsContainer.innerHTML = "";
 
       Object.keys(data).forEach((attire) => {
         const button = document.createElement("button");
         button.classList.add("attire-button");
         button.innerText = attire
           .replace(/_/g, " ")
-          .replace(/\b\w/g, (char) => char.toUpperCase()); // Format text
+          .replace(/\b\w/g, (char) => char.toUpperCase());
         button.onclick = () => {
-          // Remove active class from all attire buttons
           const buttons =
             attireButtonsContainer.getElementsByClassName("attire-button");
           Array.from(buttons).forEach((btn) =>
             btn.classList.remove("active-button")
           );
 
-          // Add active class to the selected button
           button.classList.add("active-button");
           renderVoicelines(data, attire, language);
         };
@@ -187,7 +173,6 @@
       });
     }
 
-    // Function to create language buttons dynamically based on available JSON files
     function createLanguageButtons() {
       const languageButtonsContainer = document.getElementById(
         "languageButtonsContainer"
@@ -207,7 +192,6 @@
               button.classList.add("language-button");
               button.innerText = lang;
               button.onclick = () => {
-                // Remove active class from all language buttons
                 const buttons =
                   languageButtonsContainer.getElementsByClassName(
                     "language-button"
@@ -216,7 +200,6 @@
                   btn.classList.remove("active-button")
                 );
 
-                // Add active class to the selected button
                 button.classList.add("active-button");
                 language = sanitizeName(lang);
                 loadVoicelines();
@@ -230,7 +213,6 @@
       });
     }
 
-    // Function to capitalize the first letter of each word
     function capitalizeWords(name) {
       return name
         .split(" ")
@@ -240,7 +222,6 @@
         .join(" ");
     }
 
-    // Load voicelines for the current character and language
     async function loadVoicelines() {
       const voicelinesFile = `characters/${characterName}_${language}.json`;
 
@@ -264,18 +245,14 @@
       }
     }
 
-    // Get the character name and language from the URL
     let characterName = sanitizeName(getQueryParam("name"));
     let language = sanitizeName(getQueryParam("language") || "English");
 
-    // Initial load of voice lines
     createLanguageButtons();
     loadVoicelines();
 
-    // Variables to keep track of currently playing audio
     let currentAudio = null;
 
-    // Function to play the audio
     function playVoice(file) {
       if (currentAudio) {
         currentAudio.pause();
@@ -285,7 +262,6 @@
       currentAudio.play();
     }
 
-    // Function to stop the audio
     function stopVoice() {
       if (currentAudio) {
         currentAudio.pause();
@@ -296,19 +272,17 @@
     document.addEventListener("keydown", function (event) {
       const searchInput = document.getElementById("searchInput");
 
-      // Check if 'L' or 'l' was pressed and that the search input is not focused
       if (
         (event.key === "l" || event.key === "L") &&
         document.activeElement !== searchInput
       ) {
-        event.preventDefault(); // Prevent default action
+        event.preventDefault();
         if (searchInput) {
-          searchInput.focus(); // Focus on the search input
+          searchInput.focus();
         }
       }
     });
 
-    // Event listener for the search bar
     document
       .getElementById("searchInput")
       .addEventListener("input", filterVoicelines);
@@ -317,7 +291,7 @@
       const searchValue = document
         .getElementById("searchInput")
         .value.toLowerCase();
-      const voicelines = document.querySelectorAll(".voiceline"); // Adjust selector if needed
+      const voicelines = document.querySelectorAll(".voiceline");
 
       voicelines.forEach((line) => {
         const lineText = line

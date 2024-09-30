@@ -1,11 +1,10 @@
-/* Styles.css - Dark Mode */
-
-@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
+
 body {
   background-color: #121212;
   color: #E0E0E0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'lato', sans-serif;
   font-weight: 700;
   margin: 0;
   padding: 0;
@@ -20,7 +19,7 @@ h1 {
   font-size: 2em;
 }
 
-/* Search Container Styling */
+
 .search-container {
   display: flex;
   justify-content: center;
@@ -43,7 +42,7 @@ h1 {
   box-shadow: 0 0 10px #9c1111;
 }
 
-/* Character Grid */
+
 .character-grid {
   display: flex;
   flex-wrap: wrap;
@@ -52,34 +51,18 @@ h1 {
   padding: 20px;
 }
 
+
 .character {
-  position: relative; /* Allows absolute positioning of child elements */
+  position: relative;
   text-align: center;
-  width: 160px;
-  height: 320px;
+  width: 140px;
+  height: 280px;
   border-radius: 8px;
   background-color: #1E1E1E;
   cursor: pointer;
   transition: transform 0.4s ease, box-shadow 0.5s ease;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-.character:hover {
-  transform: scale(1.04);
-  box-shadow: 0 0 10px #9c1111;
-}
-
-.image-container {
-  position: relative; /* Positioning context for the text */
-}
-
-.small-photo-container {
-  position: absolute; /* Positioning context for small photos */
-  top: 5px; /* Positioning from the top */
-  left: 5px; /* Align to the left */
-  display: flex; /* Use flexbox */
-  flex-direction: column; /* Stack images vertically */
-  gap: 5px; /* Space between icons */
+  font-size: 1rem;
 }
 
 .character img {
@@ -89,15 +72,33 @@ h1 {
 }
 
 .character p {
-  position: absolute; /* Position text absolutely */
-  bottom: 10px; /* Position from the bottom */
-  left: 50%; /* Center horizontally */
-  transform: translateX(-50%); /* Center the text */
-  margin: 0; /* Remove default margins */
-  font-size: 1em;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
   color: #FFFFFF;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* Optional: add text shadow for better visibility */
+  text-shadow: 0 0 10px black;
 }
+
+.character:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 10px #9c1111;
+}
+
+.image-container {
+  position: relative;
+}
+
+.small-photo-container {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
 
 .mugshot {
   background-image: url("logos/mugshot.png");
@@ -106,21 +107,21 @@ h1 {
 }
 
 .small-photo {
-  width: 0 !important; /* Initially hidden */
+  width: 0 !important;
   height: auto;
-  overflow: hidden; /* Prevents overflow issues */
-  transition: width 0.5s ease; /* Smooth transition */
+  overflow: hidden;
+  transition: width 0.5s ease;
 }
 
-/* Show small photos on hover */
+
 .character:hover .small-photo {
-  width: 2em !important; /* Set a fixed width for the small photo when hovered */
-  height: auto; /* Maintain aspect ratio */
+  width: 2em !important;
+  height: auto;
 }
 
 
 
-/* Buttons */
+
 .button {
   padding: 10px 20px;
   margin: 10px;
@@ -138,7 +139,7 @@ h1 {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* Adjusting Button Container */
+
 .language-buttons, .attire-buttons {
   display: flex;
   justify-content: center;
@@ -146,7 +147,7 @@ h1 {
   margin: 20px 0;
 }
 
-/* Styling Individual Buttons */
+
 .language-button, .attire-button {
   background-color: #3C3C3C;
   color: #FFFFFF;
@@ -163,7 +164,7 @@ h1 {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Voiceline Container */
+
 .voiceline {
   background-color: #1E1E1E;
   border: 1px solid #424242;
@@ -199,7 +200,7 @@ h1 {
   background-color: #5A5A5A;
 }
 
-/* Links */
+
 a {
   text-decoration: none;
   color: #BB86FC;
@@ -210,7 +211,7 @@ a:hover {
   color: #D6A2E8;
 }
 
-/* Centering Containers */
+
 .center-container {
   display: flex;
   justify-content: center;

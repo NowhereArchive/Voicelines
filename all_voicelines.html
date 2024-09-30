@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3M02N0366N"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
@@ -16,16 +15,15 @@
     <link href="Styles.css" rel="stylesheet">
     <link href="NavBar.css" rel="stylesheet">
     <style>
-        /* Simple spinner style */
         .spinner {
-            border: 8px solid #f3f3f3; /* Light grey */
-            border-top: 8px solid #999; /* Dark grey */
+            border: 8px solid #f3f3f3;
+            border-top: 8px solid #999;
             border-radius: 50%;
             width: 25px;
             height: 25px;
             animation: spin 1s linear infinite;
             margin: 20px auto;
-            display: none; /* Initially hidden */
+            display: none;
         }
 
         @keyframes spin {
@@ -69,7 +67,7 @@
 
         async function fetchAllVoicelines() {
             const loadingSpinner = document.getElementById('loadingSpinner');
-            loadingSpinner.style.display = 'block'; // Show the spinner
+            loadingSpinner.style.display = 'block';
 
             try {
                 const charactersResponse = await fetch('characters.json');
@@ -90,7 +88,7 @@
             } catch (error) {
                 console.error('Error fetching voicelines:', error);
             } finally {
-                loadingSpinner.style.display = 'none'; // Hide the spinner after loading
+                loadingSpinner.style.display = 'none';
             }
         }
 
@@ -183,11 +181,10 @@
         document.addEventListener('keydown', function(event) {
     const searchInput = document.getElementById('searchInput');
     
-    // Check if 'L' or 'l' was pressed and that the search input is not focused
     if ((event.key === 'l' || event.key === 'L') && document.activeElement !== searchInput) {
-        event.preventDefault(); // Prevent default action
+        event.preventDefault();
         if (searchInput) {
-            searchInput.focus(); // Focus on the search input
+            searchInput.focus();
         }
     }
 });
