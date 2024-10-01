@@ -112,6 +112,8 @@ h1 {
 
 .image-container {
   position: relative;
+  width: 140px;
+  height: 280px;
 }
 
 .small-photo-container {
