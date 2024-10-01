@@ -162,17 +162,18 @@
                     heading.innerText = selectedCategory;
 
                     filteredCharacters.forEach(character => {
-    const sanitizedName = sanitizeName(character.name);
-    const imagePath = `images/${sanitizedName}/${sanitizedName}.png`;
-    const rankPath = `${character.rank}.png`;
-    const libramPath = `${character.libram}.png`;
-    const tendencyPath = `${character.tendency}.png`;
+                        const sanitizedName = sanitizeName(character.name);
+                        const imagePath = `images/${sanitizedName}/${sanitizedName}.png`;
+                        const rankPath = `${character.rank}.png`;
+                        const libramPath = `${character.libram}.png`;
+                        const tendencyPath = `${character.tendency}.png`;
 
-    const characterDiv = document.createElement('div');
-characterDiv.classList.add('character');
-characterDiv.innerHTML = `
+                        const characterDiv = document.createElement('div');
+                        characterDiv.classList.add('character');
+                        characterDiv.innerHTML = `
     <div class="image-container">
-        <img class="mugshot" src="${imagePath}" alt="${character.name}">
+        <div class="skeleton"></div>
+        <img class="mugshot" src="${imagePath}" alt="${character.name}" onload="hideSkeleton(this)">
         <div class="small-photo-container">
             <img class="small-photo rank" src="logos/${rankPath}">
             <img class="small-photo libram" src="logos/${libramPath}">
@@ -182,11 +183,11 @@ characterDiv.innerHTML = `
     </div>
 `;
 
-    characterDiv.onclick = () => {
-        window.location.href = `character.html?name=${sanitizedName}`;
-    };
-    characterGrid.appendChild(characterDiv);
-});
+                        characterDiv.onclick = () => {
+                            window.location.href = `character.html?name=${sanitizedName}`;
+                        };
+                        characterGrid.appendChild(characterDiv);
+                    });
 
 
                 }
@@ -215,6 +216,10 @@ characterDiv.innerHTML = `
                 }
             }
         });
+        function hideSkeleton(imgElement) {
+            imgElement.style.opacity = 1; // Show the image
+            imgElement.previousElementSibling.style.display = 'none'; // Hide the skeleton
+        }
 
     </script>
 </body>
