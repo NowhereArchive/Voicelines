@@ -79,8 +79,6 @@ h1 {
 .character {
   position: relative;
   text-align: center;
-  width: 140px;
-  height: 280px;
   border-radius: 8px;
   background-color: #1E1E1E;
   cursor: pointer;
@@ -135,6 +133,18 @@ h1 {
   opacity: 0; /* Initially hidden */
   transition: opacity 0.3s ease-in; /* Fade-in effect when loaded */
 }
+
+.characterBackround {
+  background-image: url("logos/none.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: auto;
+  opacity: 0; /* Initially hidden */
+  transition: opacity 0.3s ease-in; /* Fade-in effect when loaded */
+}
+
+
 
 .small-photo {
   width: 0 !important;
