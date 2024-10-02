@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hella_cacha_001.ogg",
+            "text": "助けて！ここから出して！美少女のあたしを拉致してどうするつもり！？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hella_promotion_001.ogg",
+            "text": "あ！また強くなっちゃったみたーい！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hella_promotion2_001.ogg",
+            "text": "あたしって……もう無敵なんじゃないかな～！？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hella_battlebegin_001.ogg",
+            "text": "ゴーゴーゴー！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hella_battlewin_001.ogg",
+            "text": "ふう、やっと勝ったねー。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hella_battlelose_001.ogg",
+            "text": "えっ、あたし、まだ……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hella_uniqueskill_001.ogg",
+            "text": "あたしの番よ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hella_dead_001.ogg",
+            "text": "痛いよぅ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hella_greeting_001.ogg",
+            "text": "神様局長様～世界一かわいいヘラはお小遣いがほしいの。わぁ～ありがとう～局長大好きだよ～"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hella_talk1_001.ogg",
+            "text": "なに、局長？えっ……財布？えへへ。分かった分かった。返すから。もう手癖になっちゃっててさ～"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hella_talk1_002.ogg",
+            "text": "あたしがぶりっ子？誰がそう言ったの！？あたし、普通にかわいいでしょ？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hella_talk1_003.ogg",
+            "text": "昔のことはもういいって。泣いて慰めてほしがってる小娘じゃないんだから。あたしが今日まで生きてこれたのは、自分のおかげよこのクソッたれ！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hella_talk2_001.ogg",
+            "text": "このホースの重さと大きさ、それに手応え……まさにあたしのために作られたみたい。だから武器変更の話はもうしないで。絶対にこの子を諦めないから！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hella_talk2_002.ogg",
+            "text": "いつかナインティナインを紹介してあげる！凶悪に見えるけど、けっこう優しいんだよ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hella_talk2_003.ogg",
+            "text": "ケンカはあんまり好きじゃないの。死んだりはしないけど、痛いものは痛いもん。それにめんどくさいし……大丈夫大丈夫。局長のためなら喜んでやるから。気にしないで。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_hella_obeyfull_001.ogg",
+            "text": "決めた。毎日くっついてくるから、あんたを子分にしてあげる。感謝しなさい。絶対に裏切らないのよ？分かった？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hella_idle_001.ogg",
+            "text": "ねっむ……ふぁあ……肩貸してー。ちょっとだけ寝たいから……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hella_clicking_001.ogg",
+            "text": "なにこれ？マッサージのつもり？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hella_specialattention_001.ogg",
+            "text": "ふーん、やっぱり会いに来たんだ。なぁに？あたしと離れたくなくなっちゃった？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hella_dispatch_001.ogg",
+            "text": "やーっとあたしの番！ ねえねえ局長、もう少し出張費用がほしいなぁ～"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_hella_dispatch2_001.ogg",
+            "text": "Mission accomplished. Any rewards for me, Chief?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hella_levelup_002.ogg",
+            "text": "やったあ！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_hella_jointeam_001.ogg",
+            "text": "Hmm? You really like being with me, don't you?"
+        }
+    ],
+    "queen_of_hearts": [
+        {
+            "title": "No",
+            "filename": "File:unknown.ogg",
+            "text": "2"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hella_queen_of_hearts_cacha_001.ogg",
+            "text": "この女王様の昼寝を邪魔するのは誰？さっさと土下座しやがれ！あっ……局長じゃん！よかった！じゃあクロッケー大会は予定通り開催できるね！（笑）"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hella_queen_of_hearts_greeting_001.ogg",
+            "text": "白い花を持ってこないで。あたし、赤いバラが好きなの。次やったら首を刎ねるよ！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hella_queen_of_hearts_talk_001.ogg",
+            "text": "この杖の重さと大きさ、手応え、それにこのプリンプリンのツヤ……まさにあたしのために作られたみたい！一番大事なとこは……頭がデカい！いい大きさ！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hella_queen_of_hearts_talk_002.ogg",
+            "text": "生地の上にフルーツとクリームがいっぱいのってるアレ食べたい！えっと……フルーツ……何だっけ……？そうそうそう！フルーツタルト！食べた～い！作ってよ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hella_queen_of_hearts_idle_001.ogg",
+            "text": "もうすぐお茶会の時間だよ～。局長、早く会場の準備して……なんでって？あたしに壊されてない下僕は局長しかいないもん。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hella_queen_of_hearts_clicking_001.ogg",
+            "text": "これ以上やったら、あんたの頭はあたしの足マットになるから。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hella_queen_of_hearts_levelup_001.ogg",
+            "text": "もう——！何なの、この小動物ども！毎日毎日ウザいなぁ！ま、いっか。あんたらが可愛くなかったら、あたし、とっくに……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hella_queen_of_hearts_specialattention_001.ogg",
+            "text": "コホン！あたしたちの平等な関係を保つため、女王の名において命じる……って、おいコラ！また枷使って変なことしようとしてんな！"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_golan_cacha_001.ogg",
+            "text": "クソ！……ゴホン、人違いじゃない？シンジケートのマフィアとかコンビクトとか、そういうのあたしよく分かんないわ～こんなに優雅な女の子が、古鉄組のボスと関係ある訳ないわよ～あははは。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_golan_promotion_001.ogg",
+            "text": "確かにもっと練習しないとな。あのガキどもに無能って笑われないように。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_golan_promotion2_001.ogg",
+            "text": "今のあたしには、次期当主として仲間の前に正々堂々と立てるだけの力がある。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_golan_battlebegin_001.ogg",
+            "text": "下がってろ。頭出すんじゃねぇぞ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_golan_levelup_002.ogg",
+            "text": "すげぇ！！あ、いや……すごいわね！"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_golan_dispatch2_001.ogg",
+            "text": "That was nothing scary! Got some loot for ya!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_golan_battlewin_001.ogg",
+            "text": "お前から挑発してきたんだろうが？まだ喚く気か！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_golan_battlelose_001.ogg",
+            "text": "度胸があるなら裏口に来い！タイマンだ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_golan_uniqueskill_001.ogg",
+            "text": "あたしが守ってる奴らいじめるとか、死にてぇのか！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_golan_dead_001.ogg",
+            "text": "少なくとも……今回は……尻尾巻いて逃げなかったぞ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_golan_greeting_001.ogg",
+            "text": "帰ってきたんだな。約束してたファーの飾りは買ったか？さっき殴りあ……大騒ぎして、傘の飾りが全部壊れちゃったのよ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_golan_talk1_001.ogg",
+            "text": "色んなとこ行ったことあるんだろ？教えろよ。ニューシティの女の子の間では何が流行ってるんだ？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_golan_talk1_002.ogg",
+            "text": "よし……傷口には可愛い絆創膏貼っただろ、喧嘩で破れた襟にも綺麗なブローチつけたし、これで問題ないな……うわああぁ！びっく……いや、違う違う。局長、いつ来たんだ？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_golan_talk1_003.ogg",
+            "text": "考えてみれば、前のあたしの生活も普通の人とあんま変わらなかったんだよな。毎日飯食って、だべって、隣のマフィアと喧嘩して、運動して、寝る……これだけだ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_golan_talk2_001.ogg",
+            "text": "あたしが古鉄組の後継者ってことは知ってるだろ。でも安心しな、勝手なことはしない。大人しくここにいる。むやみに戻ったら、あいつらにもっと迷惑かけるかもしれないからな……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_golan_talk2_002.ogg",
+            "text": "シンジケートでの任務の時、あのガキどもが悪さしてるのを見かけたら、あたしの名前出して叱っといてくれ！でも、本気は出すなよ。一応、仲間だから……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_golan_talk2_003.ogg",
+            "text": "シンジケートでコンビクトだってバレるのは本当に厄介なんだぜ。毎日喧嘩が十数回増えるからな。あたしは挑発されてもいいけど、仲間たちは巻き込みたくないんだ……だから自分に言い聞かせた。「逃げよう、誰もあたしを知らない場所へ」ってな。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_golan_obeyfull_001.ogg",
+            "text": "昔は、傘の下に隠れてみんなに守られるだけの臆病者だった……でも、お前が全てに立ち向かう勇気をくれて助かったぜ。それに、自分の力で家族を守る方法も見つけさせてくれたしな。次はこの傘をあたしが持って、大切な人たちを永遠に守り続ける番だ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_golan_idle_001.ogg",
+            "text": "髪型OK～アクセサリーOK～傘OK～気分OK～俺様は今日もシンジケートで一番××可愛い一般人の女の子だぜ～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_golan_clicking_001.ogg",
+            "text": "ジャラジャラしたアクセサリーって可愛いけど、揺れるとマジで××迷惑だよな。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_golan_specialattention_001.ogg",
+            "text": "な……何であたしを見てるんだ？もしかして……どこかおかしいか！？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_golan_dispatch_001.ogg",
+            "text": "局長、相談がある。シンジケートに行かなくてもいいか？あそこは……えーっと、ああいう場所が怖いの！誰かに会いたくないとかじゃないからね……"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_golan_jointeam_001.ogg",
+            "text": "Huh?! Are they even match for me?!"
+        }
+    ]
+}

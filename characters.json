@@ -759,6 +759,30 @@
       "libram": "none",
       "tendency": "none",
       "category": "NPCs"
+    },
+    {
+      "name": "chief",
+      "displayName": "Chief",
+      "rank": "MBCC",
+      "libram": "none",
+      "tendency": "none",
+      "category": "Chiefs"
+    },
+    {
+      "name": "mchief",
+      "displayName": "Chief",
+      "rank": "MBCC",
+      "libram": "none",
+      "tendency": "none",
+      "category": "Chiefs"
+    },
+    {
+      "name": "rebecca",
+      "displayName": "Rebecca",
+      "rank": "none",
+      "libram": "none",
+      "tendency": "none",
+      "category": "NPCs"
     }
   ]
 }

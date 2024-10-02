@@ -134,7 +134,7 @@ h1 {
   transition: opacity 0.3s ease-in; /* Fade-in effect when loaded */
 }
 
-.characterBackround {
+.characterBackground {
   background-image: url("logos/none.png");
   background-repeat: no-repeat;
   background-size: contain;
@@ -263,10 +263,11 @@ a:hover {
   justify-content: center;
   align-items: center;
   margin: 1.25em 0;
+  flex-wrap: wrap; /* Ensures buttons wrap if there's not enough space */
 }
 
 .dynamic-tabs button {
-  margin: 0 10px;
+  margin: 10px 5px; /* Adjust margins for smaller screens */
   padding: 0.625em 20px;
   cursor: pointer;
   border: none;
@@ -274,7 +275,28 @@ a:hover {
   color: white;
   border-radius: 5px;
   transition: background-color 0.3s ease, transform 0.2s ease;
+  flex: 1 1 auto; /* Allows buttons to grow/shrink based on available space */
+  min-width: 150px; /* Ensures buttons don't shrink too much */
+  max-width: 250px; /* Prevents buttons from getting too large on wider screens */
 }
+
+.dynamic-tabs button:hover {
+  background-color: #5A5A5A;
+  transform: translateY(-3px);
+}
+
+@media (max-width: 768px) {
+  .dynamic-tabs {
+    flex-direction: row; /* Keeps the buttons in a row, even on smaller screens */
+    justify-content: space-around; /* Distributes the buttons more evenly */
+  }
+
+  .dynamic-tabs button {
+    width: auto; /* Allows buttons to remain responsive but not full-width */
+    margin: 5px; /* Adds slight margin between buttons */
+  }
+}
+
 
 .dynamic-tabs button:hover {
   background-color: #5A5A5A;
@@ -302,3 +324,31 @@ html::-webkit-scrollbar-thumb {
   background-color: #3A3A3A;
 }
 
+.site-note {
+  margin: 20px;
+  padding: 15px;
+  border: 1px solid #555;
+  border-radius: 8px;
+  background-color: #1e1e1e;
+  color: #f1f1f1;
+  font-size: 1.1em;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.site-note p {
+  margin-bottom: 10px;
+}
+
+.site-note a {
+  color: #f1c40f;
+  text-decoration: none;
+}
+.site-note a:hover {
+  text-decoration: underline;
+}
+
+.donate {
+  font-size: 13px;
+  text-decoration: line-through;
+}
