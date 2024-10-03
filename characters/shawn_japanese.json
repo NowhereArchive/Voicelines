@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_shawn_cacha_001.ogg",
+            "text": "私を管理局に連れて行く前に、1分だけ待ってくれ。最後に3通だけ返信がしたい。もし返事がなかったら、私を愛してくれている人たちが悲しむだろう。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_shawn_promotion_001.ogg",
+            "text": "私に期待しているのか？じゃあ、なるべくまともに生きるよ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_shawn_promotion2_001.ogg",
+            "text": "これは私のSNSアカウントだ。ネットで会いに来てくれ。この私なら、あなたをもっと幸せにできる。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_shawn_battlebegin_001.ogg",
+            "text": "望む所へ行けばいい。私と私の愛は後から追いつこう。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_shawn_battlewin_001.ogg",
+            "text": "「マッチング成功、連絡先が追加されました」"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_shawn_battlelose_001.ogg",
+            "text": "愛が薄れるのはよくあることだ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_shawn_uniqueskill_001.ogg",
+            "text": "溢れる、愛の力！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_shawn_greeting_001.ogg",
+            "text": "こんにちは？ゴホン、こんにちは。やっぱりあなたの前でだけ、自分の声を見つけられるみたいだ。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_shawn_dead_001.ogg",
+            "text": "返していない……メッセージが……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_shawn_talk1_001.ogg",
+            "text": "私はネット恋愛しか認めない。 外見を知ることも、肉体的な制約も、過去の経験を知る必要もない。2つの魂が裸で出会い、ぶつかり合うことで、最も安全な愛が生まれるんだ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_shawn_talk1_002.ogg",
+            "text": "事務所から回ってくる仕事はほとんど刑事ドラマなんだが、研修資料で恋愛ものの台本をいくつか目にしたことがある。でも、ストーリーはどれも似通っていたよ。主人公たちは相手の外見に一目惚れして、その後あちこちで出会い、やがて永遠に一緒に暮らすことになる……ふん、恐ろしい展開だと思わないか？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_shawn_talk1_003.ogg",
+            "text": "管理局は使わなくなった携帯電話を回収してくれるのか？以前、二人の相手のチャット画面を間違えたことがあったんだ。二度とプロらしからぬ状況にならないよう、携帯をたくさん買って一人ずつ専用の端末で連絡するようにしているんだ。今でも、未開封のスペア機が引き出しに山ほどあるよ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_shawn_talk2_001.ogg",
+            "text": "「あなたのプロフィールはユニークだね」。今までの関係は全て、この言葉から始まっている。でもあなたには、何を言っていいか分からないんだ。この関係が現実のものだからだろうか？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_shawn_talk2_002.ogg",
+            "text": "食べる、寝る、歩く、働く。こうした日常の全てが私に苦痛を与える。でも愛される瞬間だけ、幸せを感じるんだ。その一瞬のために、今日まで耐えてきた。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_shawn_talk2_003.ogg",
+            "text": "実は、昔は今と違う声だったんだ。その頃は、一流の声優になって、色んなキャラクターを演じて、ファンが口々に私の名前を挙げて自慢してくれたら、なんて妄想もしていたよ……ふっ、ある意味夢は叶ったかな？まぁ、フォロワーに愛されているこの声は、あまり好きではないんだけど。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_shawn_idle_001.ogg",
+            "text": "もう寝た？まだなら、私の声を聞けば……眠れる……よ……"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_shawn_obeyfull_001.ogg",
+            "text": "「好きだ」という3文字を、今まで何度も送ってきた。ただあなたとのチャットになると、打っては消して、結局送れなかった……きっと、面と向かって言いたかったんだろう。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_shawn_clicking_001.ogg",
+            "text": "私のプロフィールに何度も「気になる」を押す人たちは、私の注意を引いて返信を貰おうとしているんだ。あなたは？現実で私に触れ続けることで、私に何を求めているんだ？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_shawn_specialattention_001.ogg",
+            "text": "これが、ネットでの恋愛が現実になる感覚か？あなたの近くにいると、緊張して声を上手くコントロールできないんだ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_shawn_dispatch_001.ogg",
+            "text": "ネット以外は得意じゃないんだが、あなたが望むならやってみるよ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_shawn_dispatch2_001.ogg",
+            "text": "手渡しでプレゼントを贈るのは初めてだ。経験不足だから、許してもらえないか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_shawn_levelup_002.ogg",
+            "text": "リアルの私を見て、よく離れなかったな？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_shawn_jointeam_001.ogg",
+            "text": "どの声を使えばいい？あぁ、あなたが決めてくれ。"
+        }
+    ]
+}

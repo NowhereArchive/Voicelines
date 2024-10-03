@@ -1,0 +1,176 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_adela_cacha_001.ogg",
+            "text": "またお会いしましたね、局長。今回は髪のカットですか？それとも、悩みのカットでしょうか？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_adela_promotion_001.ogg",
+            "text": "あなたに認められることが、私にとっての最大のご褒美です。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_adela_promotion2_001.ogg",
+            "text": "霧が立ち込め、濃霧に潜む者は既に獲物を狙っています。しーっ、振り向かないでください。それがあなたを見つめていますよ……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_adela_battlebegin_001.ogg",
+            "text": "ああ……霧が出そうだわ。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_adela_battlewin_001.ogg",
+            "text": "サービスは終了しました。またのご来店をお待ちしています。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_adela_battlelose_001.ogg",
+            "text": "わたしのサービスにご満足いただけませんでしたか？"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_adela_uniqueskill_001.ogg",
+            "text": "しーっ……見つけた。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_adela_dead_001.ogg",
+            "text": "まだここで終わるわけには……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_adela_greeting_001.ogg",
+            "text": "いらっしゃいませ。ここはお店ではありませんが、お客様のご要望を伺います。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_adela_talk1_001.ogg",
+            "text": "ここにいらっしゃるお客様は、皆さん言葉では言い尽くせないほどの悩みをお持ちです。そしてわたしは、その悩みを断つ過程を楽しんでいます。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_adela_talk1_002.ogg",
+            "text": "誰かが言っていました。悩みの象徴である髪を切り落とすと、憂いから解き放たれた境地に達すると……気分転換に、いつでもいらしてくださいね。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_adela_talk1_003.ogg",
+            "text": "わたしのハサミを研いでくださるのに、人の悩みは切らせてくださらない……局長、あなたのお考えをどう受け止めればいいのでしょうか？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_adela_talk2_001.ogg",
+            "text": "怖がらないでください。大抵の人は悩んでいた記憶を思い出すことなく、ただの夢だと思うでしょう……霧が晴れれば、夢も終わります。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_adela_talk2_002.ogg",
+            "text": "皆さん理容師のアデラを愛してくださるのに、霧の奥の怪談は恐れています。もしサービス自体が悩みになってしまったら、お客様に全てを忘れていただくしかありませんね。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_adela_talk2_003.ogg",
+            "text": "あなたも煙霧街伝説の正体が気になりますか？人の煩悩を断ち切ってくれる善人か、破壊と切断を楽しむ変人か。もしくは……その両方なのかもしれません。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_adela_obeyfull_001.ogg",
+            "text": "人は常に悩みや過去の記憶に縛られ、負荷に耐えられず息ができなくなる。ですが、考えてもみませんでした。その束縛を断ち切れば、もう心臓が高鳴ることもないのだと——あなたに出会って、やっと鼓動を取り戻すことができました。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_adela_idle_001.ogg",
+            "text": "長い間使っていないハサミは、錆びてしまいます。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_adela_clicking_001.ogg",
+            "text": "あら？何か特別な悩みを持っていそうですね。動かないでください。カットしてさしあげます……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_adela_specialattention_001.ogg",
+            "text": "「ずっと傍にいてほしい」ということでよろしいですか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_adela_dispatch_001.ogg",
+            "text": "お役に立てて、光栄です。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_adela_dispatch2_001.ogg",
+            "text": "あなたのために力を尽くしました。今回の収穫に満足していただけましたか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_adela_levelup_002.ogg",
+            "text": "ありがとうございます。どうやって恩返しをすればいいでしょう？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_adela_head_001.ogg",
+            "text": "わたしの髪型がお気に召しました？ニューシティで最も流行っている髪型なんです。同じスタイルにするには……髪を伸ばすところから始めないといけませんね。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_adela_jointeam_001.ogg",
+            "text": "心をこめてサービス致します。m"
+        }
+    ],
+    "candlelit_turret": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_adela_talouzhuguang_cacha_001.ogg",
+            "text": "わたしに会うために塔を登ってきてくださって光栄です。ようこそ、殿下。今回は、もう少し長く留まっていただけると嬉しいです……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_adela_talouzhuguang_levelup_001.ogg",
+            "text": "塔の頂上の蝋燭が、もっと明るくなったようです。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_adela_talouzhuguang_greeting_001.ogg",
+            "text": "髪が風でボサボサですよ……さぁ、ここに座ってください。髪を整え、疲れや緊張をほぐしてあげましょう。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_adela_talouzhuguang_head_001.ogg",
+            "text": "塔の蔵書で読んだことがあります。人の心を奪いたければ、自分と相手の髪を結べばいいと……殿下がこうしてわたしの髪を撫でるのは、わたしの心を奪おうとしているからですか？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_adela_talouzhuguang_talk_001.ogg",
+            "text": "外界の騒ぎは、あなたの髪をやつれさせ、乱し、悩みを増やすだけです。できることなら、あなたの悩みを全て断ち切り、その髪が伸びてわたしの髪と絡み合うまで大切にお世話したいと思っています……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_adela_talouzhuguang_talk_002.ogg",
+            "text": "塔まで訪ねてくる人たちは、わたしの助けを必要としています。いつもここで、悩みを抱える人たちのために蝋燭を灯しながら皆さんを待っているんです。でも、あなただけは違う……わたしに何か別のものを求めているようですね？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_adela_talouzhuguang_hand_001.ogg",
+            "text": "時々、殿下のように外から訪ねてくる人たちを羨ましく思います……わたしの髪はこの塔に出入りする唯一の道なので、このように伸ばし続けなければならなかったのです。重なった網のように、自分自身を閉じ込めて。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_adela_talouzhuguang_leg_001.ogg",
+            "text": "揺らめく蝋燭の炎、心を落ち着かせるお香、塔の頂上での時間はいつもとても平和で穏やかで、喧騒から切り離された夢のようです。この全てにすっかり慣れていたので、何かを変えようと思ったことはありませんでした……あなたが現れるまでは。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_adela_talouzhuguang_idle_001.ogg",
+            "text": "殿下、また窓の外を見てぼんやりしていますね。外の世界はそんなに面白いのですか？この話を始めると、止まらなくなるようですね……もしあなたが望んでくださるなら、わたしも一緒に……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_adela_talouzhuguang_specialattention_001.ogg",
+            "text": "あなたの眼差しは誠実さに満ちています。もし、一緒にここを去ることがあなたの望みなら、わたしは必ずそれに応えます……ただ、その時が来るまでは、ここにしばらく留まって、歩みを緩め、緊張を解きほぐしてください。"
+        }
+    ]
+}

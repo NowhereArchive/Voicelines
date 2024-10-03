@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_k.k._cacha_001.ogg",
+            "text": "ここ2年は何もやらかしてない。今私を捕まえるというのなら、きちんとした理由がほしい。じゃないと……まだ残金を貰ってない依頼が六つもある。あなたが代わりに払ってくれるのか？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_k.k._promotion_001.ogg",
+            "text": "私のためにそこまで手間をかけて……何か危険な仕事でもさせたいのか？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_k.k._promotion2_001.ogg",
+            "text": "今の私なら、ハクイツの手を借りなくても、あいつらを簡単にやっつけられる。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_k.k._battlebegin_001.ogg",
+            "text": "こら、おとなしくしてろ。何かあっても知らないからな。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_k.k._battlewin_001.ogg",
+            "text": "ふん。シンジケートのザコよりも弱いな。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_k.k._battlelose_001.ogg",
+            "text": "ぼーっとするな、逃げるぞ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_k.k._uniqueskill_001.ogg",
+            "text": "こんなものか？"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_k.k._dead_001.ogg",
+            "text": "はっ。こんな死に方だなんて……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_k.k._greeting_001.ogg",
+            "text": "いつ来たんだ？どうして突っ立ってる？疲れないか？別に座るとこがないわけじゃないのに……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_k.k._talk1_001.ogg",
+            "text": "このトンファーは何年も前に知人から貰ったものだ。彼が道端で死んだあと、私が遺体を処理した。それでこれは私のものになった。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_k.k._talk1_002.ogg",
+            "text": "私がケチ？放っておくと、あいつらが事務所の金をすべて酒に使うから……"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_k.k._talk1_003.ogg",
+            "text": "昔、白記でネコ探しの依頼を受けたことがある。シンジケートは広い。私一人で八日くらいかけてやっと見つけ出したんだ。送り届けに行ったら、おばあさんにみかじめ料を取りに来たと勘違いされて、追い出された。正直……ちょっと傷ついた。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_k.k._talk2_001.ogg",
+            "text": "白記では毎日4時半に起きなきゃならなかったから、こっちに来てからはかなり時間が余ってる。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_k.k._talk2_002.ogg",
+            "text": "昔の私は、いつも何かに怯えてた。お腹が空くのが、後ろからナイフに刺されるのが、死んでしまうのが怖かった……でも、あいつらと知り合ってから、いつの間にかそんな心配はなくなってた……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_k.k._talk2_003.ogg",
+            "text": "あいつらが私に隠し事をしてるのはわかってる。それでもいい。私にとっては、あいつらと安らかに暮らせれば、それで十分だから。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_k.k._obeyfull_001.ogg",
+            "text": "白記事務所からここに引っ越そうかと考えてる。だってあなたは私たちを自由にさせてくれるし、頼りがいもある……少なくともあの二人よりはよっぽどまし。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_k.k._idle_001.ogg",
+            "text": "……暇だ。ハクイツと澈は何をしてるんだろう。まぁ……ロクなことじゃないんだろうけど。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_k.k._clicking_001.ogg",
+            "text": "あ………あんまり触るな！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_k.k._specialattention_001.ogg",
+            "text": "何か用か？仕事があるのか？……チッ。座ってるだけなら、好きにすればいい。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_k.k._dispatch_001.ogg",
+            "text": "ああ、分かった。ほかに要求は？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_k.k._dispatch2_001.ogg",
+            "text": "用が済んだから、少し寝てくる。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_k.k._levelup_002.ogg",
+            "text": "む、これも悪くない。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_k.k._head_001.ogg",
+            "text": ""
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_k.k._jointeam_001.ogg",
+            "text": "Time for some exercise."
+        }
+    ],
+    "undercover_fill_in": [
+        {
+            "title": "No",
+            "filename": "File:unknown.ogg",
+            "text": "2"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_k.k._undercover_fill-in_cacha_001.ogg",
+            "text": "えっと……ハクイツはその……用事ができたんだ。だから私が代わりに来た。そんなにジロジロ見るな。変なのは分かってるから……え？似合ってる？そうか、ありがとう。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_k.k._undercover_fill-in_greeting_001.ogg",
+            "text": "見るな。連絡役がまだ来てない。はぁ、この仕事のためだけにここまで身を削るなんて、割に合わないな……"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_k.k._undercover_fill-in_talk_001.ogg",
+            "text": "これは高いお茶なのか？残念だ。私は味の良し悪しが分からないから。澈がいれば、なんとか話せたかもしれないんだけど。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_k.k._undercover_fill-in_talk_002.ogg",
+            "text": "ハクイツのことは心配しなくていい。一昨日の火鍋の残りにご飯を入れて食べて、腹を壊しただけなんだ。よくあることだ、気にするな。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_k.k._undercover_fill-in_idle_001.ogg",
+            "text": "フルーツの盛り合わせ？ありがとう。でも大丈夫だ。お茶だけでいい。無料？じゃ、じゃあ置いといてくれ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_k.k._undercover_fill-in_clicking_001.ogg",
+            "text": "何をふざけてる？またやったら、この仕事を降りるぞ！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_k.k._undercover_fill-in_levelup_001.ogg",
+            "text": "このお菓子、美味いぞ。あなたもどうだ？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_k.k._undercover_fill-in_specialattention_001.ogg",
+            "text": "ここに座って人が来るのを待てばいいんだろ？よし、分かった。人が来たら連絡する。"
+        }
+    ]
+}

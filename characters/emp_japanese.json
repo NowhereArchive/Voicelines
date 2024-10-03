@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_emp_cacha_001.ogg",
+            "text": "こ、このEMPを誰だと思ってる！？シ……シンジケートの無冠の王、マフィア抗争では弓の死神と讃えられてるんだぞ！コホン、暴力はやめよう。話し合おう。なんでも言うことを聞くから。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_emp_promotion_001.ogg",
+            "text": "前にも言ったけど、EMPは最強なんだ。こら！話を聞け！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_emp_promotion2_001.ogg",
+            "text": "EMP進化——究極EMP！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_emp_battlebegin_001.ogg",
+            "text": "局長……どうぞお先に。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_emp_battlewin_001.ogg",
+            "text": "ふん。無敵なEMPのおかげだな。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_emp_battlelose_001.ogg",
+            "text": "こんなのEMPの実力じゃない。ちょっとしくじっただけだ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_emp_uniqueskill_001.ogg",
+            "text": "悪く……思うなよ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_emp_dead_001.ogg",
+            "text": "局長……早くなんとかして……。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_greeting_001.ogg",
+            "text": "あれ？局長じゃないか。今日は何して遊ぶ？トランプ？ダイス？マージャン？え、やらないのか？けち臭いこと言うなよ。つまんないだろ？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_emp_talk1_001.ogg",
+            "text": "局長！一緒にシンジケートに行ってみないか？ 安心しろ。このEMPがついてるんだ。誰も手出しなんてしてこないぜ！あ、そうだ！管理局の車を出してくれ！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_emp_talk1_002.ogg",
+            "text": "局長、借金取りみたいなやつがEMPを探していたら……いないって言ってくれ！あいつらに見つかるくらいなら、死んだほうがましだ！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_emp_talk1_003.ogg",
+            "text": "あー、ボス。その棚にあるマンガ取ってくんない？違うよ、それじゃない……ま、まあまあ！どうぞ座って。自分でやるから。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_emp_talk2_001.ogg",
+            "text": "停電？そういえばそんなこともあったような……一人でシンジケートを一週間も停電させたんだ。どうだ？すごいだろう？すごいよな？なんか返事してくれよ……。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_emp_talk2_002.ogg",
+            "text": "EMPは弱いし、お喋りだし、うるさいし、実力もないから嫌われやすいんだ。こんなやつ、お前も頭が痛いだろ。ははは……ありがとう……。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_emp_talk2_003.ogg",
+            "text": "しー！静かに！弓の練習してるところなんだ！あっ……いつか絶対能力を使わなくても目標に命中させてやる！"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_emp_obeyfull_001.ogg",
+            "text": "実は……その、EMPの前の名前なんだけど、Emy.Panって言うんだよな……ああ、なんでもない。その……お会いできて良かったです、局長。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_idle_001.ogg",
+            "text": "局長——局長——局長かまってよお！話し相手がいないと……死んじゃう！マジで！マジだから！ねえ局長——"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_clicking_001.ogg",
+            "text": "ああ——！嘘だろ局長！私みたいなやつでもいけるんだ？勘弁してええ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_specialattention_001.ogg",
+            "text": "おお、EMPのことをちゃんと覚えてたな、局長。それなら話をしよう。一人で退屈で死にそうなんだ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_emp_dispatch_001.ogg",
+            "text": "このEMPは自意識過剰なやつを否定してやることを楽しみの一つとしている……いやいや、冗談だよ冗談。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_emp_dispatch2_001.ogg",
+            "text": "EMP、堂々帰還！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_levelup_002.ogg",
+            "text": "これでもう戦闘力は5じゃないよな。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_emp_jointeam_001.ogg",
+            "text": "本当に……行くのか？"
+        }
+    ],
+    "backstreet_overlord": [
+        {
+            "title": "No",
+            "filename": "File:unknown.ogg",
+            "text": "2"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_emp_backstreet_overlord_cacha_001.ogg",
+            "text": "暗黒街の無冠の王に会った最初の反応が、「逃げる」ではなく「近づいてくる」人間はなかなかいない。このEMP、お前を気に入った。名を名乗れ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_backstreet_overlord_greeting_001.ogg",
+            "text": "なあ、この辺をブラブラしてみないか。ほらー安心しろ。このシンジケートでEMPに喧嘩を売るやつなんていないぜ。それで、だな…お前が前を歩いてくれ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_emp_backstreet_overlord_talk_001.ogg",
+            "text": "えっと…お前の言う「ミノス危機管理局」ってのは、普段どんな仕事をしてるんだ？え、何でもない何でもない……緊張すんなよ。EMPはただボスとして、子分の職務遂行能力を知りたいだけさ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_emp_backstreet_overlord_talk_002.ogg",
+            "text": "この辺りの騒ぎは全部片づけたぜ！今の唯一の楽しみと言えば、騙しと……いや、お前みたいな有能な人材を育てることだ！このEMPを見て学べよ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_backstreet_overlord_idle_001.ogg",
+            "text": "あの子を見ただろ？今後は彼女のことを、「二番目の姉御」と呼べ。コホン、まだ生まれて数ヶ月ほどだが、我がマフィアグループの創始者の一人だ！無礼を働くなよ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_backstreet_overlord_clicking_001.ogg",
+            "text": "てめえ……来て早々、下剋上するつもりか！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_backstreet_overlord_levelup_001.ogg",
+            "text": "どこに行く？……西区！？ゴホッ……ゲフゲフ、ああ——むせただけだ、問題ない……だがお前……考え直さないか？あそこは軍団の勢力圏内だぞ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_backstreet_overlord_specialattention_001.ogg",
+            "text": "あの鉄パイプ持ったチビ、最近あんま見ないな。この前あいつに一発殴られたとこ、まだ治ってない……今度会ったら、たっぷり可愛がってやるぜ。"
+        }
+    ],
+    "hail_from_the_otaku_world": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_emp_qihangerciyuan_cacha_001.ogg",
+            "text": "汝、我の秘密を知ったからには、永遠に我と共にここに居よ……おい、何ぼーっとしてんだよ。ここは「魔王よ、夢を見るのはやめろ！たとえ心臓を捧げることになっても、お前の思い通りにはさせないぞ！」って言うところだろ～"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_qihangerciyuan_greeting_001.ogg",
+            "text": "ちょうどよかった、EMPの大本命作品を見てくれ。どうだ？コマ割りもストーリーも迫力あるだろ！ ん？前回勧められた大本命作品はこれじゃない？えっと……マンガオタクなら誰でもやるミスだ！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_emp_qihangerciyuan_talk_001.ogg",
+            "text": "どうだ、このマンガに溢れた部屋は。EMPが自分のために築いた王国だぞ！絶版本もいっぱいあるし、この宝物のおかげでEMPは同好会で好きに……ゴホン、つまり泰山北斗の地位を手に入れたんだ！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_emp_qihangerciyuan_talk_002.ogg",
+            "text": "どうしてもって言うなら、貸してあげないこともないぞ。でも3つ約束してくれ。1つ目、折り込みページは汚さないこと。2つ目、他の人には貸さないこと。3つ目、今度EMPが特典付き単行本を買うために並びに行く時、休みを承認すること。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_qihangerciyuan_idle_001.ogg",
+            "text": "……またこいつネタバレしてる。何度通報しても無駄だな、このゴミ掲示板！ううう……！待ってろ、このサーバーはもうすぐ消える！悪く思うなよ！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_qihangerciyuan_clicking_001.ogg",
+            "text": "安易に触らないことが冒険の第一のルールだ。このまま無謀な行動を続ければ、EMPの装備に封印されし結界が発動して……ふふん、大変なことになるぞ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_qihangerciyuan_specialattention_001.ogg",
+            "text": "ケチなわけじゃないけど、これはカラー版限定のランダム特典で、売れない商品を2個も一緒に買ってやっと手に入れたんだよ。絶対に部外者には渡さないって誓ったんだ！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_qihangerciyuan_levelup_001.ogg",
+            "text": "ふふん、この輝く魔法陣が見えるか? EMPはヘタレじゃない。そして強くなったんだ！"
+        }
+    ]
+}

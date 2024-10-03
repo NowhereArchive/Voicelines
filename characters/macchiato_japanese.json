@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_macchiato_cacha_001.ogg",
+            "text": "初めまして、ニューシティ銀行、カスタマーマネージャーのマキアートと申します。何か気になる商品は……え、ここの局長でいらっしゃるのですか？申し訳ありません。知らない方に会うと、いつもつい尋ねてしまうのです。でも、仕事は安心してお任せください。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_macchiato_promotion_001.ogg",
+            "text": "これがあなたの望みですか？分かりました。あなたを満足させましょう。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_macchiato_promotion2_001.ogg",
+            "text": "さてと、経験したことのない気持ちいい思いをさせてあげるわ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_macchiato_battlebegin_001.ogg",
+            "text": "みんなに踏ん張る力を与えましょう。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_macchiato_battlewin_001.ogg",
+            "text": "手が痺れちゃった……でも、なかなか楽しかったわ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_macchiato_battlelose_001.ogg",
+            "text": "どうしましょう。もう終わりです。死んでしまいます……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_macchiato_uniqueskill_001.ogg",
+            "text": "思いっきりこの快感を噛みしめなさい……！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_macchiato_dead_001.ogg",
+            "text": "ここで死ぬわけには……私には、まだ……家族が……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_macchiato_greeting_001.ogg",
+            "text": "お帰りなさい、局長様。昨日の仕事の報告書はデスクに置いてあります。何かお飲みになりますか？コーヒー、お茶、その他のものでも、ご用意いたします。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_macchiato_talk1_001.ogg",
+            "text": "肉体に与えられる痛みは一瞬だけだが、精神に与えられる快感はいつまでも続く——彼らはそう言っていますが……お試しになられますか？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_macchiato_talk1_002.ogg",
+            "text": "ニューシティ銀行が新しく出した投資信託商品についてですが、これは本当に素晴らしいものでした。年間収益率はなんと12%。ローリスクハイリターンなので、私も購入しました。局長様もいかがでしょうか？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_macchiato_talk1_003.ogg",
+            "text": "朝九時から夜五時まで働くのも悪くないですね......このおかけで「趣味」に使う時間はたっぶりありました。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_macchiato_talk2_001.ogg",
+            "text": "弟と妹たちが就職したら、私はようやく本当の意味で自由を手に入れられます。その時は砂の海でトラックの運転手になるか、シンジケートでロックバンドのドラマーになるつもりです……ニューシティから離れられるなら、なんでもよくって……。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_macchiato_talk2_002.ogg",
+            "text": "ニューシティでの生活はストレスばかりです。業績、借金、株、欲望……みんな数えきれないほどの悩みを持っています。だからこそ、私を必要とするのかもしれませんね。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_macchiato_talk2_003.ogg",
+            "text": "こんなことを言うのもなんですが、私は「女王様」という呼ばれ方は好きじゃないんです……でも局長が望むなら、あなただけの女王様になりますよ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_macchiato_obeyfull_001.ogg",
+            "text": "この能力と立場にずっと抵抗がありました。でもあなたと出会って、やっと本当の意味で満足できました……ふふ、あなたの虜になりそう、愛しい局長様……。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_macchiato_idle_001.ogg",
+            "text": "ニューシティ銀行へようこそ！あ、間違えました。ここはMBCCでしたね……申し訳ありません。ちょっと居眠りをしてしまっていたようです。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_macchiato_clicking_001.ogg",
+            "text": "本当にストレスがたまってるなら、手伝ってあげなくもないわよ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_macchiato_specialattention_001.ogg",
+            "text": "秘書は初めてなのですが、何をすればいいんでしょうか？あなたの言ったことをすればいいんでしょうか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_macchiato_dispatch_001.ogg",
+            "text": "必ずこの仕事を完遂させてみせます。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_macchiato_dispatch2_001.ogg",
+            "text": "仕事が完了しました。領収書は誰に清算してもらえばよろしいでしょうか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_macchiato_levelup_002.ogg",
+            "text": "お引き立ていただきありがとうございます。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_macchiato_jointeam_001.ogg",
+            "text": "ちょっと痛いけど、いいわよね？"
+        }
+    ],
+    "beguiled_heart": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_macchiato_yiluanqingmi_cacha_001.ogg",
+            "text": "そう、それがあなたの望みなら、あなたのためにもう一度鞭を振り上げ、あなたの……深い欲望を満たしてあげる。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_macchiato_yiluanqingmi_greeting_001.ogg",
+            "text": "あなたも私からのご褒美が欲しいの？大丈夫、恥ずかしがらないで……私はあなたのあらゆる面を喜んで受け入れてあげるから。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_macchiato_yiluanqingmi_talk_001.ogg",
+            "text": "もうダメになったの？あと少し我慢すれば、完璧なタイミングで快楽の絶頂に導いてあげるわよ——信じて。私は……あなたの限界をよ～く知ってるから。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_macchiato_yiluanqingmi_talk_002.ogg",
+            "text": "さぁ、口を開けなさい。従順で協力的なあなたへのご褒美よ……一緒に楽しみましょう〜"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_macchiato_yiluanqingmi_idle_001.ogg",
+            "text": "ふぅ……良かった、みんな満足してくれて……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_macchiato_yiluanqingmi_specialattention_001.ogg",
+            "text": "頷いてくれれば、あなたに……最高に甘いご褒美をあげるわ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_macchiato_yiluanqingmi_levelup_001.ogg",
+            "text": "どう？身体が軽くなった気がしない～？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_macchiato_yiluanqingmi_clicking_001.ogg",
+            "text": "そんなに待てないの？じゃあ、姿勢を正してじっとしてなさい……"
+        }
+    ]
+}
