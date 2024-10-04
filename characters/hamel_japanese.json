@@ -1,0 +1,228 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hamel_cacha_001.ogg",
+            "text": "わたしを夢から目覚めさせてくれたことに、お礼を言うべきなのでしょうけど……ステージを失ったダンサーは、どこへ行けばいいのですか？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hamel_promotion_001.ogg",
+            "text": "この力を使って、より多くの魂に安らぎを与えること——それがわたしの運命です。もう逃げません。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hamel_promotion2_001.ogg",
+            "text": "まだこれで終わりではありません。命が燃え尽きるまで、わたしのステップは止まりません。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hamel_battlebegin_001.ogg",
+            "text": "砕けた魂が歌でわたしたちを導いてくれています。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hamel_battlewin_001.ogg",
+            "text": "カーニバルは終わりました。眠りましょう。わたしが連れて帰りますから。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hamel_battlelose_001.ogg",
+            "text": "曲が終わり、踊りが止まり、人が去っていきます……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hamel_uniqueskill_001.ogg",
+            "text": "思いっきり踊りましょう——"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hamel_dead_001.ogg",
+            "text": "まだ……幕を下ろすわけには……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hamel_greeting_001.ogg",
+            "text": "幻に迷うたびにあなたは現れて、わたしを現実に連れ戻してくれます……局長、お帰りなさい。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hamel_talk1_001.ogg",
+            "text": "ステージの外には芸術に対する最も純粋な鑑賞者がいますし、世の中には表現するに値するものがあります。わたしは決して孤独ではありません。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hamel_talk1_002.ogg",
+            "text": "飽くなき欲望、死瞳の包囲、黒い鉄窓、果たしてどれが真の檻なのでしょうか。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hamel_talk1_003.ogg",
+            "text": "手足はわたしの代わりに語ってくれます。感謝、喜び、苦悩、痛み……けれど、残念ながら、誰もがそれを読み取れるわけではありません。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hamel_talk2_001.ogg",
+            "text": "醜い化け物？そんな言い方はやめてください。死瞳と呼ばれる子供たちは、わたしにとって、一番の観客なのです。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hamel_talk2_002.ogg",
+            "text": "ブラックリングの中心は深い海の底のようです。そこでは、心の奥底の音が聞こえるんです。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hamel_talk2_003.ogg",
+            "text": "凶暴な獣は人の愛し方を知りません。ですから……絶対にそうはならないでください。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_hamel_obeyfull_001.ogg",
+            "text": "ダンスを通してしか伝えられない感情もあります。さあ、手を貸してください。わたしのペースに合わせて……局長、あなたには……感じられますか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hamel_idle_001.ogg",
+            "text": "シーッ、聞いてください。これはあなたの心臓の音です。ドキドキ、ドキドキと……踊っていますね。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hamel_clicking_001.ogg",
+            "text": "あなたは……寂しいですか？大丈夫です。触られるのは好みませんが、あなたは例外ですから。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hamel_specialattention_001.ogg",
+            "text": "きれいな目……そんな目に見つめられながら踊ることができるだなんて、きっと幸せでしょうね。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hamel_dispatch_001.ogg",
+            "text": "風の音は……まるで自然が贈る舞曲のようですね。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_hamel_dispatch2_001.ogg",
+            "text": "ただいま戻りました。……いい経験ができました。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hamel_levelup_002.ogg",
+            "text": "なんだか……ふわふわしている？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hamel_head_001.ogg",
+            "text": "えっ？わたしと……踊りたいのですか？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_hamel_jointeam_001.ogg",
+            "text": "聞こえます。舞曲の前奏が────"
+        }
+    ],
+    "joyful_tune": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hamel_joyful_tune_cacha_001.ogg",
+            "text": "揺れる鈴の音、重く響く太鼓のリズム……さあ、共に踊りましょう。この雪夜の下で！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hamel_joyful_tune_greeting_001.ogg",
+            "text": "踊らぬ日々は、命への背徳です。ですから……局長、わたしと1曲踊りませんか？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hamel_joyful_tune_talk_001.ogg",
+            "text": "ステップ、情緒、体、精神……一つも欠かすことはできません。これはただのダンスではなく、魂の賛歌でもあるのです。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hamel_joyful_tune_talk_002.ogg",
+            "text": "このダンスの中にある熱い感情。この日の雰囲気にぴったりですね……皆さん、そう思いませんか？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hamel_joyful_tune_hand_001.ogg",
+            "text": "ステージの後で、こんなに純粋な笑顔を見たのは久しぶりです。本当に、不思議な感覚です……"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hamel_joyful_tune_leg_001.ogg",
+            "text": "今夜の時間が、この瞬間で永遠に止まればいいのに……わたしは欲張りですね。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hamel_joyful_tune_idle_001.ogg",
+            "text": "練習の時、わたしはこのダンスに込められた力と情熱に心を動かされました。このダンスを見た皆さんが、苦痛や不快な気分から解放されると良いのですが。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hamel_joyful_tune_specialattention_001.ogg",
+            "text": "わたしを見たからには、目をそらさないでくださいね。わたしの感情を、このダンスに乗せてあなたに伝えます。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hamel_joyful_tune_levelup_001.ogg",
+            "text": "リズムが……加速しました。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hamel_joyful_tune_head_001.ogg",
+            "text": "え……？この髪は、このダンスに合わせてアレンジしたのです。気に入りました……？"
+        }
+    ],
+    "odile": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hamel_aojiliya_cacha_001.ogg",
+            "text": "苦痛でありながら優雅。それぞれの羽には物語があります。これはあなたのためのダンス。あなただけのためのダンスです——"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hamel_aojiliya_greeting_001.ogg",
+            "text": "局長、今回のダンスはとても難しいので、関連するトレーニングをしていないなら、安易に挑戦しない方がいいですよ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hamel_aojiliya_talk_001.ogg",
+            "text": "黒と白、光と闇は元々同じコインの裏表です。わたしが演じたオデットとオディールも、王子の目には常に同じ人物として映っています。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hamel_aojiliya_talk_002.ogg",
+            "text": "散り散りになった黒い羽根が、劇をクライマックスへと導きます。美と破壊は紙一重。これが美しさのための美の宿命なのです。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hamel_aojiliya_hand_001.ogg",
+            "text": "局長は今のわたしがどちらに近いと思いますか？聖女のような白鳥のオデット王女か、それとも自由奔放な黒鳥のオディールでしょうか？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hamel_aojiliya_leg_001.ogg",
+            "text": "当時の観客たちは、わたしがオディールを演じるのを見たがりませんでした。わたしを通して、絶対的な幸福と美しさを見たかっただけなのです。わたしはダンサーというより……彼らの心の中の完璧な白鳥と言った方が正しいですね。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hamel_aojiliya_idle_001.ogg",
+            "text": "オディールの32回のフェッテは、この演目の神髄と難所であると誰もが認めています。ですがあなたが見守ってくださると、わたしは簡単にこなせるのです……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hamel_aojiliya_specialattention_001.ogg",
+            "text": "あなたとわたしが音楽とダンスに囲まれ、永遠に自由に、楽しくこの瞬間に浸っていられたらどんなにいいでしょうか。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hamel_aojiliya_head_001.ogg",
+            "text": "まだ試してみたいのですね……では、最後にわたしを一人でリフトする部分なら、あなたでもできるはずです。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hamel_aojiliya_levelup_001.ogg",
+            "text": "思うがままに羽を広げましょう。"
+        }
+    ]
+}

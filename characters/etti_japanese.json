@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_etti_cacha_001.ogg",
+            "text": "行動判定成功。おめでとう、勇者殿。あなたはアタシを連れ帰っていい。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_etti_promotion_001.ogg",
+            "text": "ふふん。これこそ「ゲームマスター」にふさわしい！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_etti_promotion2_001.ogg",
+            "text": "今日からゲームのルールはアタシが決めるわ！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_etti_battlebegin_001.ogg",
+            "text": "ゲームスタート。運命を回す方法を選びなさい！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_etti_battlewin_001.ogg",
+            "text": "クリアおめでとう～！勇者たち～、早くあなたたちの宝物を開けてみなさい～"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_etti_battlelose_001.ogg",
+            "text": "は……痛い痛い痛い。だから突撃隊を率いるのは難しいって言ったのに……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_etti_uniqueskill_001.ogg",
+            "text": "アタシのルールに従いなさい！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_etti_dead_001.ogg",
+            "text": "全てが……引き裂かれる……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_greeting_001.ogg",
+            "text": "暗黒の力が間もなく世界に降臨する……勇者よ、すぐに旅に出よう～！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_etti_talk1_001.ogg",
+            "text": "怖がらないで。次の一手、どんな行動に出たいか教えて。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_etti_talk1_002.ogg",
+            "text": "この世界の「面白さ」は、全て「想像」から来たもの。だから、アタシの前で自分を縛りつける必要はない。分かった～？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_etti_talk1_003.ogg",
+            "text": "アタシのゲームは誰でもクリアできるものじゃないの～。でもあなたは……才能ありそうに見えるけど、試してみる？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_etti_talk2_001.ogg",
+            "text": "「善良」「中立」「邪悪」。あなたから見て、アタシはどれに入る？……あるいは、どれに入ってほしいと思う？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_etti_talk2_002.ogg",
+            "text": "みんな、ドラゴンは自分勝手で欲張りだと言うけど、アタシは……彼に寄り添う者が誰もいないせいだと思うわ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_etti_talk2_003.ogg",
+            "text": "折れたドラゴン殺しの槍だとしても、握っていれば正義の代表者になる。じゃあ……この悪のドラゴンに……アタシに何をするつもり？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_etti_obeyfull_001.ogg",
+            "text": "アタシは暗くて刺激的な想像に夢中になっているけど、そこの冷たさと孤独に怯えてもいる……アタシを負かしてくれてありがとう。そばにいてくれて……ありがとう。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_idle_001.ogg",
+            "text": "「世界」もたまにはサボりたくなるのよ～。ひと休み～、ひと休み～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_clicking_001.ogg",
+            "text": "判定せずに勝手に行動するなんて……この世界から罰を受けてしまうわよ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_specialattention_001.ogg",
+            "text": "アタシの瞳には～……あなたが求める宝物がある？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_etti_dispatch_001.ogg",
+            "text": "遠足チーム出発～"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_etti_dispatch2_001.ogg",
+            "text": "アイテム、たくさんゲットしたわ～。開けて中を見たくない？アタシがいるから、何も起きないって～"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_levelup_002.ogg",
+            "text": "基本ステータスは、取捨選択があってこそ楽しめるのよ。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_etti_head_001.ogg",
+            "text": "あなたもこの角が好きなの？じゃあ、由来を教えてあげるわね！それは、とあるとても寒い冬の日だった……って、ちょっと！どこ行くの！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_etti_jointeam_001.ogg",
+            "text": "アタシがあなたたちを楽しませてあげる！"
+        }
+    ],
+    "noctivagation": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_etti_guiyeqilv_cacha_001.ogg",
+            "text": "夜のとばりが下り、ほのかに明かりが灯る。巨竜の城もその埃にまみれた門を再び開き、秘密と財宝を携え、恐れを知らぬ選ばれし勇者たちを迎える……どう？没入感はバッチリよね？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_guiyeqilv_levelup_001.ogg",
+            "text": "悪魔の視線が発動。幸運値+1～"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_guiyeqilv_greeting_001.ogg",
+            "text": "0時の鐘が鳴ったわ。グズグズしないで、忘却の地から来た夜の悪魔について来なさい。ゴホン。つまり、あなたのガイドであるこのアタシと新しい冒険に出るのよ！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_etti_guiyeqilv_talk_001.ogg",
+            "text": "……このカボチャが可愛すぎる？うーん、言われてみれば確かに……って、違う違う！今日やるのはホラーゲーム！どう見たって怖いじゃない！どこが可愛いのよ！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_etti_guiyeqilv_talk_002.ogg",
+            "text": "えっ？……キャンディー？た、たったキャンディー2個でアタシを買収できると思わないで！アタシの設定は悪魔なんだから。悪魔はイタズラするものでしょ？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_guiyeqilv_idle_001.ogg",
+            "text": "親愛なる旅人よ、油断してはならない。砂利道は誘惑と罠に満ちており、赤い翼の悪魔がやがて巨竜の爪と牙を現すのだ～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_guiyeqilv_clicking_001.ogg",
+            "text": "わっ！尻尾を引っ張らないで！ダイスの判定もなしに行動すると罰を受けるわよ！ガイドに対してもダメ！……どんな罰かって？ふふん。あ、て、て、み、て？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_guiyeqilv_specialattention_001.ogg",
+            "text": "なんでアタシを見てるの？早くついて来て……あれ？本当に怖くなっちゃった？落ち着いて。もし本当に危険な目に遭ったら、例外として特別にちょっと助けてあげる……でも、このことは誰にも言わないでね！"
+        }
+    ]
+}

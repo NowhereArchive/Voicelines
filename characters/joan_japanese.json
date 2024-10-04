@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_joan_cacha_001.ogg",
+            "text": "ふん。とうとう見つかったか。まあいい。ギターさえあれば、どこでも一緒だよ。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_joan_promotion_001.ogg",
+            "text": "これだよ！早く、ペンとノートを貸して！新しいメロディを思いついた。これはちゃんと書いておかないと。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_joan_promotion2_001.ogg",
+            "text": "三弦さえあれば、盛り上げられるよ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_joan_battlebegin_001.ogg",
+            "text": "クリス、ゴー。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_joan_battlewin_001.ogg",
+            "text": "一丁上がり"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_joan_battlelose_001.ogg",
+            "text": "最悪なライブだったよ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_joan_uniqueskill_001.ogg",
+            "text": "さぁ、あたしの時間だよっ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_joan_dead_001.ogg",
+            "text": "27歳クラブにも……入れ……ないのか……ははは……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_joan_greeting_001.ogg",
+            "text": "お、いいとこに来たね。このデモを聞いてほしいんだよ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_joan_talk1_001.ogg",
+            "text": "あたしが生きてる限り、レコード会社のくそ野郎どもにAnavrinの歌は奪わせないよ！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_joan_talk1_002.ogg",
+            "text": "一番好きな食べ物？そりゃあ、ミルクを入れたコーヒーとイチゴのケーキ……なんだよ？あたしがアルコールだけで生きてるとでも思ってたのかい？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_joan_talk1_003.ogg",
+            "text": "神があたしに音楽の才能をくれたのは、道を誤らないためだって親父はいつも言ってたよ……はっ。残念だけど、あたしは神なんか信じないし、今の道が正しいとも思ってないけどね。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_joan_talk2_001.ogg",
+            "text": "昔あたしのバンド仲間のヴォーカルが、この街を燃やしてやるって毎日騒いでたんだよ。まぁ、あのメンツの中で真っ先に灰になるのがあいつだったとは思わなかったけどね。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_joan_talk2_002.ogg",
+            "text": "随分昔のことだけどね。もうあいつのことはそんなに憎んでないよ。Anavrinに手出しさえしなければ、あいつの邪魔はしないさ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_joan_talk2_003.ogg",
+            "text": "全てが終わったら……はぁ、そんな日が来たら、またライブをするつもりだよ。もちろん、あんたには特等席を用意してやるから絶対に来なよ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_joan_obeyfull_001.ogg",
+            "text": "数年間、あたしはこのギターしか持ってなかった。今は……気色悪いことを言うつもりはないけど、ずっと傍にいてくれてありがとね。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_joan_idle_001.ogg",
+            "text": "「But I'm a creep, I'm a weirdo.What the hell am I doing here?I don't belong here.」"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_joan_clicking_001.ogg",
+            "text": "ふっ、死ね！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_joan_specialattention_001.ogg",
+            "text": "あたしの音楽を聞いてくれる奴を拒むつもりはないんだけどね、曲作りが終わる前に指摘したり何か言ったりするのはナシだよ。いいね？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_joan_dispatch_001.ogg",
+            "text": "ちょうど良かった。ついでに古い友人に会ってくる。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_joan_dispatch2_001.ogg",
+            "text": "「Come as you are，as you were，as I want you to be.」"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_joan_levelup_002.ogg",
+            "text": "新しいリフ、いいかもね。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_joan_jointeam_001.ogg",
+            "text": "ベーシストとドラマー、Stand by！ライブが始まるよ！"
+        }
+    ]
+}

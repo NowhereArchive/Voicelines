@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_flora_cacha_001.ogg",
+            "text": "ニューシティ特派員、消防士のフローラです！私がいる限り、火事はおこさせません！……本当ですよ！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_flora_promotion_001.ogg",
+            "text": "これでもっと楽に消火できます。期待しててくださいね、局長さん！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_flora_promotion2_001.ogg",
+            "text": "あの火事の前にこの力を身に着けていたら……でも、今の私にはもっとできることがあります！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_flora_battlebegin_001.ogg",
+            "text": "早く！遅れないでください！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_flora_battlewin_001.ogg",
+            "text": "撤退用意。現場引き継ぎ中であります！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_flora_battlelose_001.ogg",
+            "text": "火の勢いが……もう収まらない。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_flora_uniqueskill_001.ogg",
+            "text": "フロースプラッシュ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_flora_dead_001.ogg",
+            "text": "まだ人が……まだ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_flora_greeting_001.ogg",
+            "text": "局長さん、おはようございます。消防設備は定期的に検査しないといけません。安全第一ですから！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_flora_talk1_001.ogg",
+            "text": "消防斧はあまり好きじゃないんです。だって……いつもうっかりチームメイトを傷つけちゃうので……。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_flora_talk1_002.ogg",
+            "text": "今思うと、昔の同僚たちは……私に対しておかしな態度を取ってたように思います。私って、孤立してたんですかね？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_flora_talk1_003.ogg",
+            "text": "ホースに関係があるものなら、何でも消火に使えるんですよ！へへん……精確さは……いまいちですけど。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_flora_talk2_001.ogg",
+            "text": "ごめんなさい！ 火の能力を使う人が嫌いなわけじゃなくって……ただ……とにかくちゃんと見張っておきます！ 火のないところに煙は立たぬって言いますし！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_flora_talk2_002.ogg",
+            "text": "あの頃は特派員でもみんなの力になれるなら、いいと思ってたんです。でもあの燃える建物を、助けを求めている人たちを見たら……やっぱり火災現場が自分の居場所だと気づきました。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_flora_talk2_003.ogg",
+            "text": "髪は長いほうが好きです！でも……火災現場だと、邪魔になるだけなので……。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_flora_obeyfull_001.ogg",
+            "text": "ここは火災現場じゃないですけど、もっとたくさんの人を助けられます。ありがとう、局長さん……これが、これこそが私が本当に望んでいたことなんです。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_flora_idle_001.ogg",
+            "text": "うーん……消防用の筒先ってどのくらいの高さまで持ち上げるんだっけ？ちょっと待ってくださいね！手帳を確認してきます！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_flora_clicking_001.ogg",
+            "text": "もう、邪魔しないでください！まだ訓練が残ってるんです！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_flora_specialattention_001.ogg",
+            "text": "消防の知識を普及させるのも私の役目。まずは消防安全手帳の一ページ目を見てください！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_flora_dispatch_001.ogg",
+            "text": "フローラ、準備完了。出発します！"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_flora_dispatch2_001.ogg",
+            "text": "任務完了。フローラ、ただいま戻りました！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_flora_levelup_002.ogg",
+            "text": "わぁ！また強くなれました！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_flora_jointeam_001.ogg",
+            "text": "-"
+        }
+    ]
+}

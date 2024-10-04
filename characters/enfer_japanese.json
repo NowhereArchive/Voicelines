@@ -1,0 +1,218 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_enfer_cacha_001.ogg",
+            "text": "この先は地獄への扉じゃ。そなたはわらわを迎えに来たのか、それとも別れを告げに来たのか？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_enfer_promotion_001.ogg",
+            "text": "丹精込めて作らねば、良い作品はできぬ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_enfer_promotion2_001.ogg",
+            "text": "今のわらわならば、作品に命すら与えることができようぞ……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_enfer_battlebegin_001.ogg",
+            "text": "よいよい、怯えるのは正しい反応じゃ。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_enfer_battlewin_001.ogg",
+            "text": "歪む顔、鋭い悲鳴……これこそ甘露というものよ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_enfer_battlelose_001.ogg",
+            "text": "やり直しじゃ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_enfer_uniqueskill_001.ogg",
+            "text": "己の恐怖に向き合うのじゃ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_enfer_dead_001.ogg",
+            "text": "ああ……なんと温かい腕じゃろう……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_enfer_greeting_001.ogg",
+            "text": "局長よ、昨夜は楽しかったかのう？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_enfer_talk1_001.ogg",
+            "text": "わらわは自然に対して忠実であった。じゃが、わらわにとって、この世界は地獄と言えよう。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_enfer_talk1_002.ogg",
+            "text": "芸術家じゃと？そなたの目には、わらわがそう見えておるのか？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_enfer_talk1_003.ogg",
+            "text": "至極の恐怖を感じた時こそ、人は初めて本能に従うものよ——人間というのはそういうものじゃ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_enfer_talk2_001.ogg",
+            "text": "ただ表面を彫っただけでは彫刻とは呼べぬ。彫刻とは、骨から肉へ、生命を刻むものなのじゃ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_enfer_talk2_002.ogg",
+            "text": "この鑿（のみ）と鎚（つち）で、全ての偽りを砕き、全てを覆してみせようぞ！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_enfer_talk2_003.ogg",
+            "text": "できることならば……そなたの恐怖に歪んだ顔を額に納め、わらわだけのものにしたいのう……くくっ、怖がるでない。冗談じゃ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_enfer_obeyfull_001.ogg",
+            "text": "暗闇の魔女と呼ぶからには、わらわに心を覗かれる覚悟はできておろうな？そなたの心から、躍動する生命が見えておる。それが芽吹き、成長し、いずれ美麗な愛の花を咲かせるのであろうな……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_enfer_idle_001.ogg",
+            "text": "暇じゃ……この無粋な鉄格子に、花でも掘ってやるかのう。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_enfer_clicking_001.ogg",
+            "text": "よかろう。全て覚えたぞ。同じ順番で、そなたの体に穴を開けてやろう。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_enfer_specialattention_001.ogg",
+            "text": "良いではないか。そなたは十分に人の目を惹きつけておる……なんじゃ？この目を差し出さねば信じぬと言うか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_enfer_dispatch_001.ogg",
+            "text": "素材集めじゃと？夕方には戻れるのであろうな？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_enfer_dispatch2_001.ogg",
+            "text": "素材集め完了じゃ。さて、魔女の夜の始まりじゃの。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_levelup_002.ogg",
+            "text": "うむ、良いな。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_enfer_jointeam_001.ogg",
+            "text": "Do you want my mark?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_enfer_head_001.ogg",
+            "text": "なんじゃ、そなたも芸術の才を欲するか？"
+        }
+    ],
+    "sculptor_s_nest": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_enfer_zankezhezhichao_cacha_001.ogg",
+            "text": "わらわが最も秘する心の部屋——彫刻家の巣へようこそ。ここに隠されておるのは、恐怖と葛藤、歪みと苦痛……そして尽きることのない愛じゃ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_enfer_zankezhezhichao_greeting_001.ogg",
+            "text": "そなたに会いたいと彫像に祈った途端、そなたが目の前に現れた。これが、わらわ専用の「ピグマリオン効果」なのかのう？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_enfer_zankezhezhichao_talk_001.ogg",
+            "text": "自分の手で想像を形にするのは、この上ない喜びじゃ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_enfer_zankezhezhichao_talk_002.ogg",
+            "text": "これらの彫像をじっくり見てみよ。じゃが、恐怖と向き合えなければ押しつぶされるからの。気をつけるんじゃよ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_enfer_zankezhezhichao_hand_001.ogg",
+            "text": "彫刻しやすいよう、服に工具を入れるポケットを沢山付けたんじゃ。こうしたデザインは実用性が高い。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_enfer_zankezhezhichao_leg_001.ogg",
+            "text": "「この作品はなぜ未完なのか」じゃと？ふふっ……恐らく「彼女」を愛し、半分欠けた心を補う人がまだいないからであろう。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_enfer_zankezhezhichao_idle_001.ogg",
+            "text": "トン、トン、トン……聞こえたかの？心臓の鼓動を彫刻しておるのじゃ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_enfer_zankezhezhichao_specialattention_001.ogg",
+            "text": "そなたの視線のせいで仕事にならぬ……ん？それとも、そなたをモデルにして何か作ることを期待しておるのか？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_enfer_zankezhezhichao_head_001.ogg",
+            "text": "芸術家がこの帽子に価値を与えたのか、それともこの帽子が芸術家の証なのか、どちらかのう？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_zankezhezhichao_levelup_001.ogg",
+            "text": "稲妻が走り、鼓動が加速し、ビーナスがわらわの手から生まれた。"
+        }
+    ],
+    "virtuoso_of_jade": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.ogg",
+            "text": "玉は煙を生ずほど、麗しく透き通っておる。そなたの全ての感情や思考が玉彫にはっきり現れておるぞ。若き玉彫職人よ、わらわの元へ来て何を求めるのじゃ？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_enfer_puyuzhuozhuo_greeting_001.ogg",
+            "text": "見せてみよ。今日は何を彫るつもりじゃ？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_enfer_puyuzhuozhuo_talk_001.ogg",
+            "text": "月と共に生まれた璞玉は石の山に隠され、並の玉彫職人では真の価値を見出すことはできぬ。そなたは優れた職人になれるかのう？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_enfer_puyuzhuozhuo_talk_002.ogg",
+            "text": "世間では君子の品行を表す際、玉の質で例えることが多い。人々は美徳や外見の美しさを示すために透明な輝く玉を身に着けておるが……ふむ、その振る舞いからして、そなたも透き通った璞玉じゃな。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_enfer_puyuzhuozhuo_idle_001.ogg",
+            "text": "こうした廃棄された玉の素材は、退屈しのぎに愛らしい彫刻を彫るのに適しておる。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_enfer_puyuzhuozhuo_specialattention_001.ogg",
+            "text": "答えは出たかのう？この玉をどのような置物に彫ってほしいんじゃ？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_puyuzhuozhuo_levelup_001.ogg",
+            "text": "素材選びが上手くなったのう。良いことじゃ～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_enfer_puyuzhuozhuo_clicking_001.ogg",
+            "text": "玉器は手渡さぬ。このような常識、一度しか教えぬぞ。"
+        }
+    ]
+}

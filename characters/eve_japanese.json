@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eve_cacha_001.ogg",
+            "text": "ここがミノス危機管理局？「イヴ」という名の足手まといが、また違った物語に出会うのかな？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_eve_promotion_001.ogg",
+            "text": "私に、もう奇跡は起きませんよね？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_eve_promotion2_001.ogg",
+            "text": "損傷した身体は新たな限界を突破できますが、損傷した写真は？なんで修復できないんでしょうか……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_eve_battlebegin_001.ogg",
+            "text": "足手まといになるだけなのに、なんでわざわざ私を連れていくんでしょうか。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_eve_battlewin_001.ogg",
+            "text": "彼らの不幸が、遂に終わりました。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_eve_battlelose_001.ogg",
+            "text": "また出会っちゃった……残酷な「現実」に。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_eve_uniqueskill_001.ogg",
+            "text": "行って——"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_eve_dead_001.ogg",
+            "text": "やっと……再会できる……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eve_greeting_001.ogg",
+            "text": "あなたもここにいたんですね……私のことは気にしないでください。ただ安らげる場所にいたいだけですから。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_eve_talk1_001.ogg",
+            "text": "この車椅子は、注意していないとすぐに私を連れて遠くまで「歩いて行く」んです……きっと「家」と呼ばれる場所を探しているんだと思います。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_eve_talk1_002.ogg",
+            "text": "局長は12時の鐘の音は好きですか？私は大好きです。鳴っている間は、夢と現実の狭間で迷ったふりができますから。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_eve_talk1_003.ogg",
+            "text": "おもちゃなら、ずっと持ち主の傍にいてくれると思っていました。ですがプラスチックは風化し、陶器は割れ、金属は錆び、人は成長する……変わらないのは「変化」だけなんですよね。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_eve_talk2_001.ogg",
+            "text": "昔は、世界で一番甘いキャンディを持っていたんです。ですが時間が経ちすぎたせいか、薬よりも苦い味になってしまいました。ありがとうございます、甘さを少し思い出させてくれて。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_eve_talk2_002.ogg",
+            "text": "あなたの笑顔と希望を少し分けてもらえませんか？もしかしたら私は、局長の目に映る世界に憧れ始めているのかもしれません……とても輝いていて、温かいです……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_eve_talk2_003.ogg",
+            "text": "明けることのない夜が本当にあるなら、私と一緒に行ってくれますか？果てしない深い夜、一緒に星を数えながら、一緒に……覚めない夢を見るんです。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_eve_obeyfull_001.ogg",
+            "text": "ある童話で読んだことがあります。「一番好きな人はいつも傍にいる。ただ、あなたに見えていないだけ」と……童話はまた嘘をつきましたね。だって今回は、あなたが見えますから。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eve_idle_001.ogg",
+            "text": "小熊ちゃん、怖がらないで。イヴはずっとここにいるよ......残念だけど、イヴにはもう誰もこういうことを言ってくれないんだ……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eve_clicking_001.ogg",
+            "text": "こうした触れ合いであなたの好奇心が満たされるなら、どうぞご自由に。同情しないでください。私が失ったものの中で、足は最も重要じゃない部分ですから。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eve_specialattention_001.ogg",
+            "text": "付き添ってくれてありがとうございます。よかったら、私を散歩に連れて行ってもらえませんか？外の空気を吸うと、しばらくの間、色んなことを忘れられるんです。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_eve_dispatch_001.ogg",
+            "text": "車椅子では行ける場所が限られていますし、私に期待しない方がいいですよ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_eve_dispatch2_001.ogg",
+            "text": "ただいま戻りました。他に何もなければ、一人で休ませてください。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eve_levelup_002.ogg",
+            "text": "どうして、この役立たずの身体を諦めないんですか……"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eve_head_001.ogg",
+            "text": "もう少し手を置いていてもらえませんか？この温もりも、また昔のようにすぐ消えてしまうんじゃないかと心配なんです……"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_eve_jointeam_001.ogg",
+            "text": "おもちゃたちが、新しい友達に出会うときです。"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eureka_cacha_001.ogg",
+            "text": "……MBCC？MBCCって何？まさか、わたしを騙して悪いことさせるつもりじゃ……えっ、ここで発明を続けていいの？よかった！特別な設備とかレアな素材とかあるんだよね？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_eureka_promotion_001.ogg",
+            "text": "新しいノコギリの刃をありがとう。エンジンの周りに取り付けて、小型の風火輪扇風機を作ってみたよ……えっ、これわたしの新しい武器にしていいの……？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_eureka_promotion2_001.ogg",
+            "text": "見て見て、この小さな空飛ぶ車。わたしが一番満足してる作品なんだ。これに乗れば、青い空と白い雲を見に行けるから名前は——ダイヤモンドトマトチャンだよ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_eureka_battlebegin_001.ogg",
+            "text": "わたしの全自動突撃タイヤは？……あれ？もう……行っちゃった……？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_eureka_battlewin_001.ogg",
+            "text": "なんか怖い顔してるし、危ない気がする……あれ？わたし、もう全員倒しちゃったの？なるほどね……"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_eureka_battlelose_001.ogg",
+            "text": "今度はちょろちょろ電気ネズミも一緒に連れて来るよ。時間稼ぎに使えるはずだから……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_eureka_uniqueskill_001.ogg",
+            "text": "プチ地雷！発動！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_eureka_dead_001.ogg",
+            "text": "電力が……足りない……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eureka_greeting_001.ogg",
+            "text": "局長、君の執務室にある緊急脱出用の発射型オフィスチェアを試してみて……大丈夫だよ、外にマットを設置しておいたから。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_eureka_talk1_001.ogg",
+            "text": "私のバッグの中身？うーん……特別なものは何もないよ。ドリルにノコギリ、スパナやペンチみたいな工具だけだし……あとは、折りたたみ式の全自動洗濯乾燥機かな。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_eureka_talk1_002.ogg",
+            "text": "ソーラーこまは、すごく面白いおもちゃだよ。地面に置くだけでずっと回転し続けるから、手で回さなくていいんだ……ん？こま遊びの楽しさは、自分の力で回し続けること……？そうだったの……？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_eureka_talk1_003.ogg",
+            "text": "よし……食堂のテーブルはもうすぐ全部解体し終わるから、次は訓練室から運動器具を運んできて組み立てなきゃ。この運動テーブルがあれば、食事とエクササイズを同時にできて時間の節約になるし、生活効率も上がるはず……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_eureka_talk2_001.ogg",
+            "text": "クラゲちゃん、どうしてこんなところにいるの？補強が完了するまで、跳ねないように言ったのに……あ、局長？これは武器じゃないよ。飛び跳ねておしゃべりできる目覚まし時計。ふむ……君の声を音源として録音してもいい？相性いい気がするんだ……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_eureka_talk2_002.ogg",
+            "text": "君の壊れた腕時計は正常に機能するムーブメントに交換して、どんな機器でもスキャンできない小型通信機を内部に追加しておいたよ。それを身に着けて、耳元に手を当てながら電話をかける動作をすると、秘密の通話機能が発動するんだ。あー……えっと……君っていつも潜入任務をしてるから、つ、使えるかなって……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_eureka_talk2_003.ogg",
+            "text": "わたしの発明のインスピレーションは、だいたい旅行中の面白い経験からきてるんだ。例えば毒キノコ探知機、野生動物防御テント、変身偽装ワゴンとか……そういえば、わたしのワゴンの助手席が空いてるんだよね……枷の色にもマッチしてるし、疲れをほぐせるマッサージもできるし、仕事に便利なミニテーブルも完備してる上に、君の体型にぴったりな座席なんだ！"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_eureka_obeyfull_001.ogg",
+            "text": "稲妻エスケープシューズ、自動反撃シールド、ナイトメアキャッチヘルメット……全部、装備完了！これは、わたしが長い時間をかけて開発した護身具なんだけど、やっと使う時が来たよ！どれも君のことをしっかり守ってくれるからね。あ、あと……これを受け入れてくれてありがとう。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eureka_idle_001.ogg",
+            "text": "……故障しちゃったの？じゃあ解体してみよう……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eureka_clicking_001.ogg",
+            "text": "ん？なんで急にレンズに不思議な模様が！？未知の光学現象とか？調べて分析しないと……あれ、この形……君の指紋と100%一致してる……！？ああ、君の指紋だったんだ……なんでいつも、わたしのモノクルに触るのか理解できないけど、好きでやってるなら別にいいよ……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eureka_specialattention_001.ogg",
+            "text": "そんなはずない。普通なら電極を逆にすれば解決するのに、なんでまだ反応しないんだろう……君、いつからそこに？わたしの実験をずっと見てたの？……あ！思いついた！観察者の存在が実験現象に影響を与えるって理論を読んだことがあるんだ。そのまま見つめ続けて動かないで。もう一度やってみるね……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_eureka_dispatch_001.ogg",
+            "text": "うーん……ちょうどいいし、新しく作ったタップダンスアイスクリームトラックの試運転でもしようかな……"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_eureka_dispatch2_001.ogg",
+            "text": "タップダンスアイスクリームトラックの性能テストは完了っと。収集した実験データとテスターのフィードバックからすると、タップをバレエに変えた方がいいかも……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eureka_levelup_002.ogg",
+            "text": "どんな機能を追加したらいいかな？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_eureka_jointeam_001.ogg",
+            "text": "……ん？これって何しに行くの……？"
+        }
+    ]
+}
