@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_echo_cacha_001.ogg",
+            "text": "アタイは自由な歌手で、ストリートの大スターさ！一度見たら忘れられない天才サックス奏者——アイカだよ。よろしくどうぞ～！どう？今の自己紹介を聞いたら、アタイの曲を聞きたくなったでしょ？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_echo_promotion_001.ogg",
+            "text": "数ページの楽譜なんて、全然難しくないよ～"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_echo_promotion2_001.ogg",
+            "text": "天才サックス奏者が最高に素晴らしいパフォーマンスを披露するよ。ぜひお見逃しなく！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_echo_battlebegin_001.ogg",
+            "text": "熱烈な行進曲でアタイらの戦いの幕を開けよう！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_echo_battlewin_001.ogg",
+            "text": "アイカのパフォーマンスは完璧に閉幕さ。見てくれてあんがとね～"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_echo_battlelose_001.ogg",
+            "text": "ヤバ、演奏上手くいかなかった……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_echo_uniqueskill_001.ogg",
+            "text": "この偉大な奇跡のメロディーを聞いて！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_echo_dead_001.ogg",
+            "text": "寒い……暗いよ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_echo_greeting_001.ogg",
+            "text": "ねぇ、もしかしてまだ目、覚めてない？元気になる曲、演奏してあげよっか？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_echo_talk1_001.ogg",
+            "text": "衣装、完璧。ステージ、完璧。サックス、完璧！よし、幕を開けよう……ちょっと、ちょっと、動かさないでよ。これはアタイが一生懸命作ったセットなんだから！路上ライブ奏者にも形式っぽさは必要なんだってば！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_echo_talk1_002.ogg",
+            "text": "ふんふんふ～ん～ああ、新しい曲を考え中なんだ～「芸術は日々の生活から生まれる」って格言を聞いたことあるけど、まさにその通り！ちょうどご飯を食べ終わったら、すぐインスピレーションが湧いてきたんだ！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_echo_talk1_003.ogg",
+            "text": "さ、サボってないって。あの本はもう全部暗記したんだ！アタイの記憶力を疑ってんの？ふん、じゃあ好きに質問してみなよ。暗唱できなかったら、アタイの負けでいいさ！それでも足りなかったら、管理局の食堂の先週と先々週のメニューも全部言ってやる！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_echo_talk2_001.ogg",
+            "text": "まあ、評価されないのは一時的なものさ。天才だって落ちぶれることもあるよ～でも、ずっとずっと演奏を続けてれば、いつかみんながアタイの演奏を好きになる日が来るって信じてる！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_echo_talk2_002.ogg",
+            "text": "機嫌が悪いなら、アタイが一曲歌ってあげよう！孤児院のみんなは、アタイの歌を聞くのが大好きだったんだ～アタイが歌うといつも楽しそうに笑ってくれてさ。その時、アタイの歌で人を幸せにできるんじゃないかな～って思ったんだよね。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_echo_talk2_003.ogg",
+            "text": "アタイのパフォーマンスが、いっぱい、いっぱい、いっぱいの観客の心に響いてほしい！みんなに見てもらって、褒めてもらって、覚えてもらえたら……もう忘れられないし、二度と寂しさも感じない！あ～あ、そう考えるだけで幸せだよ～"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_echo_obeyfull_001.ogg",
+            "text": "ここだけの話、天才であるアタイでも、パフォーマンスをする時はたまに緊張するんだ……でも、客席からアタイを見るキミの視線を感じると、緊張なんかパッと消えて身体に力がみなぎってくるのさ！だって、いつもアタイを応援してくれる人が絶対いるって知ってるからね……アタイの一番熱心な観客さん、あんがとね！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_echo_idle_001.ogg",
+            "text": "ここはいいね。橋の下よりずっとあったかくてさ～ちょっと横になるよ～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_echo_clicking_001.ogg",
+            "text": "おわ！勝手にアタイの「アイアイ」に触るなよ！……サックスに名前つけて何が悪いのさ！アタイにとっては大切な相棒なんだ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_echo_specialattention_001.ogg",
+            "text": "分かる、分かるよ、キミが欲しいものは分かってるさ！ほら、あげるよ。大事にするように。天才サックス奏者のサインはすっごく貴重だからね！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_echo_dispatch_001.ogg",
+            "text": "ただの路上ライブじゃん、任せて！アタイの専門分野だからね～"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_echo_dispatch2_001.ogg",
+            "text": "おかしいなぁ。なんで同業者たちがアタイにお金を渡して、もう辞めてくれって頼んでくるんだろ……ああ、アタイの演奏が上手すぎるせいか！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_echo_levelup_002.ogg",
+            "text": "へへ、まだある？……もっと食べたいんだけどな～"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_echo_jointeam_001.ogg",
+            "text": "さぁ～天才サックス奏者がどう言う者か、見せてあげるよ！"
+        }
+    ]
+}

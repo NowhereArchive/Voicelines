@@ -1,0 +1,176 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eleven_cacha_001.ogg",
+            "text": "深夜3時のご挨拶を申し上げます。光のない夜にあてもなく探し回るあなたは、私に何か言いたいことがあるのですか？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_eleven_promotion_001.ogg",
+            "text": "真夜中の鐘が鳴ったね。さぁ、私の傍にいて……"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_eleven_promotion2_001.ogg",
+            "text": "あなたが私に与えてくれた全てを使って、あなたを縛る檻を作り上げる……！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_eleven_battlebegin_001.ogg",
+            "text": "電話が鳴ってるよ、ダーリン。今、あなたの後ろにいるの……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_eleven_battlewin_001.ogg",
+            "text": "さようなら、ダーリン。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_eleven_battlelose_001.ogg",
+            "text": "次から次に電話がかかってくる……もうやめて……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_eleven_uniqueskill_001.ogg",
+            "text": "お聞きいただき、ありがとうございました。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_eleven_dead_001.ogg",
+            "text": "やめて……やめて……もう言わないで……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eleven_greeting_001.ogg",
+            "text": "今日のあなたは……どんな話を聞かせてくれるのかな？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_eleven_talk1_001.ogg",
+            "text": "もし眠れないなら、私の番組を聞いてみて。『深夜3時のご挨拶』。暗い夜の中、あなたに優しさをあげられたらいいな。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_eleven_talk1_002.ogg",
+            "text": "人はいつも自分の欲しいものを私に求める。自分にも価値があるんだって慰められたいみたい。悲しいことだよね……あ、でもあなたが番組にゲストとして来てくれるのは楽しみにしてるよ～"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_eleven_talk1_003.ogg",
+            "text": "私は、人から向けられるあらゆる感情を受け止めて、脳と心で挽いて消化し、音や笑顔に変えて電波で伝えることができるんだよ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_eleven_talk2_001.ogg",
+            "text": "人って不思議な生き物で、目と目が合って電気が走るような感覚を味わうと、お互いにもう本来の相手の姿は見えないんだよ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_eleven_talk2_002.ogg",
+            "text": "そういう伝説や間違った認識がなければ、私は深夜に雨音を聞きながらエッセイを読んだり、物語を語ったり……雨の夜の後、最初の日差しを一緒に迎えたりすることができるのに……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_eleven_talk2_003.ogg",
+            "text": "「彼女の姿が背後からゆっくりと近づき、あなたを包み込み、そして最後に……あなたを抱きしめる……！」わぁ、びっくりした？怖がらないで……私だよ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_eleven_obeyfull_001.ogg",
+            "text": "私の認識は覆され、世界が変わってしまった。でも知ってるよ……これは悪いことじゃないって。私を束縛から解放するために、世界の裂け目になってくれてありがとう……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eleven_idle_001.ogg",
+            "text": "1237行目、それにまつわる短い詩。「一つの夢を見るだけで世界が変わるなら、私が思う幸せな世界が生まれるまで、この夢の中で眠りたい」"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eleven_clicking_001.ogg",
+            "text": "そんなに私と離れたくない……？大丈夫、今夜……電話するから。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eleven_specialattention_001.ogg",
+            "text": "そんなに緊張しないで。いつでも電話してきていいんだよ。あなたは自分のことをやり続ければいい。私はあなたの傍にいるからね。それでも心配なら……歌を歌ってあげるよ。どうかな？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_eleven_dispatch_001.ogg",
+            "text": "見せてみて。あなたの世界がどう違うのか。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_eleven_dispatch2_001.ogg",
+            "text": "あなたに届けられる価値は、これしかないの。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eleven_levelup_002.ogg",
+            "text": "さぁ、もっとこっちに来て。もう少し……近づいて。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eleven_head_001.ogg",
+            "text": "私があなたにどんなに会いたいか知りたい？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_eleven_jointeam_001.ogg",
+            "text": "電話が鳴ってるよ……ダーリン……"
+        }
+    ],
+    "rippling_heartthrobs": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eleven_xinchaomanxia_levelup_001.ogg",
+            "text": "冷たい飲み物をありがとう。一緒に飲んで暑さを和らげよう～"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eleven_xinchaomanxia_head_001.ogg",
+            "text": "私も熱中症にならないか心配してくれているの？ふふ……安心して、私は大丈夫だよ。"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eleven_xinchaomanxia_cacha_001.ogg",
+            "text": "やっと目が覚めたね！気分はどう？まだめまいや吐き気がする？ふぅ……大丈夫ならよかった。あなたが熱中症で倒れた時は、怖くて声も出なかったんだ……でも幸い、近くにいたからすぐに連れ帰って休ませることができたんだよ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eleven_xinchaomanxia_greeting_001.ogg",
+            "text": "もしまだ辛いなら、私と話をするのはどう？私の声を聞けば、少しは楽になるかもしれないよ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_eleven_xinchaomanxia_talk_001.ogg",
+            "text": "「精神冷却法」を試してみない？夏の暑い日に怪談を聞くのも、効果的な暑気払いだと言われているんだよ。うーん……例えばこのビーチ。昼間は賑やかだけど、実は不思議なことがたくさん起きているんだ。数日前の夜、パトロール中のスタッフが……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_eleven_xinchaomanxia_talk_002.ogg",
+            "text": "海で泳ぐ時は、安全な水域から出ないことはもちろん、海に入る前に準備体操を十分することも忘れないで。ほら、あそこにいる何人かも、さっきのあなたと同じようにそのまま海に飛び込んだんだよ。結局、足がつって、他のライフガードが彼らを助けてるんだ……"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_eleven_xinchaomanxia_hand_001.ogg",
+            "text": "まだ暑い？冷たい水で洗ったタオルがあるから、それでクールダウンしてみて。おでこと首を拭いてあげるね。少しは涼しくなった？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_eleven_xinchaomanxia_leg_001.ogg",
+            "text": "ダメだよ、まだ完全に回復してないから泳ぐのは禁止。浮き輪を使ってもダメだからね……退屈なら、この小さなタコのおもちゃをあげる。握るととても気持ちいいんだよ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eleven_xinchaomanxia_idle_001.ogg",
+            "text": "海には入れないけど、パラソルの下に寝そべって雲を見たり、風に吹かれたり、波の音を聞いたりするのもいいよね？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eleven_xinchaomanxia_specialattention_001.ogg",
+            "text": "ずっと私ばかり見ないで。海に来たんだから、海を楽しまないと……本当に私とお喋りしたいなら、私の仕事が終わった後、一緒に海で散歩するのはどうかな？ふふ、分かった。電話するから待っててね。"
+        }
+    ]
+}

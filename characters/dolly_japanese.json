@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_dolly_cacha_001.ogg",
+            "text": "またお前たちに捕まったのね。わかったわよ。前みたいに死瞳にヒットをくれてやるわ。あたしがこうなったのも、奴らのせいだもの。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_dolly_promotion_001.ogg",
+            "text": "さらに力が強くなった……制御できたらいいんだけど。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_dolly_promotion2_001.ogg",
+            "text": "もうこんなに強くなったの？ニューシティにいるときもこれくらい強かったらなぁ"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_dolly_battlebegin_001.ogg",
+            "text": "へぇ～ここはファウルエリアなの？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_dolly_battlewin_001.ogg",
+            "text": "バントより簡単だったね。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_dolly_battlelose_001.ogg",
+            "text": "くそー！ゲッツーくらっちゃった……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_dolly_uniqueskill_001.ogg",
+            "text": "ホーームラーン——！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_dolly_dead_001.ogg",
+            "text": "どんなに……強くなっても……こんなもんなのおおぉ！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dolly_greeting_001.ogg",
+            "text": "あたしの出番はいつなの？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_dolly_talk1_001.ogg",
+            "text": "はぁ……予備のバットをもっと用意しておいてくれない？調達部門が持ってくるあれじゃ、ひと勝負ももたないわよ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_dolly_talk1_002.ogg",
+            "text": "えっ、これはあたしの偽のニューシティID！コホン……試合に出るためだから、仕方なかったのよ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_dolly_talk1_003.ogg",
+            "text": "あたしは感情を制御するのが難しいんだ。異様に興奮してるか、落ち込んでるように見えたら……距離を取ってよね。ぶっ飛ばされても知らないから。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_dolly_talk2_001.ogg",
+            "text": "バットでボールを撃つときの音って素敵だと思わない？でしょ？あたしもこの音を聞いて、野球に興味を持ったんだ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_dolly_talk2_002.ogg",
+            "text": "ニューシティの任務だけど……あたしは参加しなくてもいい？別に、怖いわけじゃなくて、単にあそこが嫌いなだけ……もちろん、任務が終わった後、ついでに「ニューシティリーグ」の試合が見られるなら、さっきの話はなかったことにしてね。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_dolly_talk2_003.ogg",
+            "text": "明日はシンジケートチームの野球の試合があるんだ。一緒に生中継を見る？分からないことがあったら、解説してあげてもいいよ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_dolly_obeyfull_001.ogg",
+            "text": "できれば、強いチームとやりあってみたかったな……でも今はあんたがいるから、力を制御できるはず。ねえ、いつか野球場に行ってみない？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dolly_idle_001.ogg",
+            "text": "ああ～調達部門の人たち、リーグ戦のポスターを買ってきてくれないかな？せ……選手じゃなくなっても、やっぱりファンだからね！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dolly_clicking_001.ogg",
+            "text": "ちょっと！距離を取るって約束したよね！？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dolly_specialattention_001.ogg",
+            "text": "いい目をしてるね。トップレベルの野球選手が本気を出す時の目をしてる。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_dolly_dispatch_001.ogg",
+            "text": "盗塁を始めるよ！"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_dolly_dispatch2_001.ogg",
+            "text": "盗塁成功！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dolly_levelup_002.ogg",
+            "text": "……もう十分強くなったよ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_dolly_jointeam_001.ogg",
+            "text": "ふふん……バッティング準備～"
+        }
+    ]
+}

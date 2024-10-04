@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_ignis_cacha_001.ogg",
+            "text": "放火犯はあなたの目の前にいるわ。さあ、わたしを捕まえなさい——できるものなら、ね。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_ignis_promotion_001.ogg",
+            "text": "炎よ、もっと強く燃えて。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_ignis_promotion2_001.ogg",
+            "text": "もう炎なんかに負けない。これからは、わたしが炎を支配する……！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_ignis_battlebegin_001.ogg",
+            "text": "大事な人を守れるのなら……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_ignis_battlewin_001.ogg",
+            "text": "全部燃やしちゃった。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_ignis_battlelose_001.ogg",
+            "text": "だ……ダメ……制御できない……！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_ignis_uniqueskill_001.ogg",
+            "text": "この烈火を味わってみて！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_ignis_dead_001.ogg",
+            "text": "炎が……すべてを飲み込んでいくの……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ignis_greeting_001.ogg",
+            "text": "あなた……わざわざわたしに会いに来たの？そ、そう……キャラメルプリンはちゃんと持ってきたんでしょうね？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_ignis_talk1_001.ogg",
+            "text": "うわ！あなたね……わたしを襲ったやつらと同じ目に遭いたいの？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_ignis_talk1_002.ogg",
+            "text": "ちょっと離れて！あなたが火傷しても、医療費なんて出さないから。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_ignis_talk1_003.ogg",
+            "text": "わたしの髪、変でしょ？まるで燃えてるみたい……これを見て怖がる人もたくさんいるの……でも彼らは、本物の炎が燃え上がる姿を知らないのよ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_ignis_talk2_001.ogg",
+            "text": "べ、別にいつでも火が出るわけじゃないから！もうやめてよ！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_ignis_talk2_002.ogg",
+            "text": "大事な人たちが楽しく、元気に暮らしてほしい……なに見てるのよ？どうしてもって言うなら、あなたをその中に入れてあげてもいいけど。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_ignis_talk2_003.ogg",
+            "text": "ずっとあなたと一緒に戦ってきたから、この力でも人を幸せにできるって信じられるようになったのかも……"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_ignis_obeyfull_001.ogg",
+            "text": "いつか、全てが終わったら、自分の手でキャラメルプリンを作りたいの……そうしたら一番に食べてくれる？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ignis_idle_001.ogg",
+            "text": "前に見かけたケーキ屋さん、新作は出てるかな……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_ignis_clicking_001.ogg",
+            "text": "なに？わたしを木に見立てて、こすって火でも起こそうとしてるわけ？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ignis_specialattention_001.ogg",
+            "text": "別に見張っておく必要なんてないわ。この髪は目立つから、逃げられないわよ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_ignis_dispatch_001.ogg",
+            "text": "グルメ情報がほしいの？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_ignis_dispatch2_001.ogg",
+            "text": "食レポ付きよ。べ、別に……ついでに書いただけだから。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ignis_levelup_002.ogg",
+            "text": "気を付けて。また炎が暴走するわ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_ignis_jointeam_001.ogg",
+            "text": "ここなら、遠慮する必要はないわね。"
+        }
+    ],
+    "warm_flame": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_ignis_warm_flame_cacha_001.ogg",
+            "text": "新たな一年を迎えるから、みんなこんなに浮かれてるの？コホン……わ、わたしは別に浮かれてなんかないんだから！普段滅多に着ない服を着てみただけよ！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ignis_warm_flame_greeting_001.ogg",
+            "text": "新しい一年には新しい挑戦をするものでしょ。わ……わたしがあなたをここに呼んだのは……新作プリンを味見してほしくて。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_ignis_warm_flame_talk_001.ogg",
+            "text": "わたしだって……上達してるんだから！管理局のキッチンは完全無欠！火災警報器も……鳴らしてない……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_ignis_warm_flame_talk_002.ogg",
+            "text": "プリンを使って「肉団子」と「麻婆豆腐」を再現したよ！それから、プリンの餃子もある！必ず……全部食べてよね！"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_ignis_warm_flame_hand_001.ogg",
+            "text": "小さい頃、お母さんがよく三つ編みをしてくれたの。この日の雰囲気に合うと思うんだけど、どう？可愛いでしょ？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_ignis_warm_flame_leg_001.ogg",
+            "text": "図書室のお姉さんが昔話を教えてくれた。団扇をあおぐと山火事を起こすことができる女王のお話……これでもできるかなぁ……？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ignis_warm_flame_idle_001.ogg",
+            "text": "「春眠暁を覚えず」ってよく聞くけど……新年初日にこれはないんじゃない！？……まあいいけど。眠くなったら……こ、ここで適当に場所探して寝てちょうだい。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ignis_warm_flame_specialattention_001.ogg",
+            "text": "なに見てるのよ？この服が似合わないならはっきり言って！じゃないと……「好きだよ」って何！……まったくもう……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ignis_warm_flame_levelup_001.ogg",
+            "text": "あっ！……あ、あなたが花火見たいんじゃないかと思って。打ち上げてみたの。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_ignis_warm_flame_head_001.ogg",
+            "text": "わっ……あなた……まあいいわ！今日はいい日だし、見逃してあげる。"
+        }
+    ],
+    "caramel_starwish": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_ignis_jiaotangxingyuan_cacha_001.ogg",
+            "text": "もう、こんな感じでやるんだってば！かき混ぜながら大きな声で願い事をするの……安心して、あなたの願いは誰にも教えないから。ふ、二人だけの秘密にしてあげる。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ignis_jiaotangxingyuan_greeting_001.ogg",
+            "text": "このクリスマスプディングはわたしたちが一緒に作ったものでしょ。さ……最終的にどんな味になっても、ちゃんと食べてくれるわよね！？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_ignis_jiaotangxingyuan_talk_001.ogg",
+            "text": "前はこの時期になると、両親が張り切ってこんな風にキッチンを飾り付けてたんだ。わたしたち家族のクリスマスの雰囲気を再現してみたんだけど……どう？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_ignis_jiaotangxingyuan_talk_002.ogg",
+            "text": "な、なにぼーっとしてるの？レシピを教えてくれたお姉さんは、家族で生地を混ぜながら願い事をするのが一番大事だって言ってたのよ！そ、そういう大事なステップをあなたが飛ばしちゃうんじゃないかって心配で、念のために言っただけだから！本当に！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ignis_jiaotangxingyuan_idle_001.ogg",
+            "text": "んむ。見た目は完璧。甘さは控えめで、食感も最高。今回はフェイさんが質の悪いものでわたしを誤魔化したわけじゃないみたい……でもこのドライフルーツ、どっちも美味しいから迷うな……え！？なんでこれっぽっちしか残ってないの！？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ignis_jiaotangxingyuan_specialattention_001.ogg",
+            "text": "わたしの髪飾りをずっと見てるけど、もしかしてジンジャーブレッドを食べたくなったの？たまたまジンジャーブレッドをテーマにそれぞれのパン屋さんのレビューを書いたから、興味があれば見てみて……え、ただ可愛いと思っただけ？ふ、ふーん。悪くないセンスね。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ignis_jiaotangxingyuan_levelup_001.ogg",
+            "text": "火が強ければ強いほど、願いが叶いやすくなるんだから！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_ignis_jiaotangxingyuan_clicking_001.ogg",
+            "text": "このクリスマスセーター、手触りがいいでしょ？柔らかくて暖かいから、子供の頃によく着てたお母さんのセーターを思い出すの。柄はダサいし、重いけど、着てるとお母さんに抱かれてるみたいで、なんだか家にいるような感じがするんだ……"
+        }
+    ]
+}
