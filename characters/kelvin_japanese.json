@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_kelvin_cacha_001.ogg",
+            "text": "よ、よろしければ、キッチンにいてもいいでしょうか。冷蔵倉庫があるなら是非そちらに……あっ、すみません！ご迷惑をかけるつもりはなくて……！おかしなことは何もしません。約束します……！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_kelvin_promotion_001.ogg",
+            "text": "はあ……もしかして、今のが絶対零度なのでしょうか？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_kelvin_promotion2_001.ogg",
+            "text": "これからは、料理も戦闘も……自分を……疑ったりしません！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_kelvin_battlebegin_001.ogg",
+            "text": "私なんかよりふさわしい方も……います、よね？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_kelvin_battlewin_001.ogg",
+            "text": "生き延びられました……！これもみなさんのおかげですね。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_kelvin_battlelose_001.ogg",
+            "text": "私はいつも、何もかも無茶苦茶にしてしまう……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_kelvin_uniqueskill_001.ogg",
+            "text": "こ、来ないでください！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_kelvin_dead_001.ogg",
+            "text": "寒い……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_kelvin_greeting_001.ogg",
+            "text": "今日は少し暑いですね……局長、新しい味のかき氷を作ってみました。食べてみてもらえませんか？がっかりさせませんから。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_kelvin_talk1_001.ogg",
+            "text": "えっと……局長、どの野菜が一番目が悪いかわかりますか？……答えは、みんな同じです！だって植物に目なんてありませんから！……はは……は……すみません。おもしろくないですよね……。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_kelvin_talk1_002.ogg",
+            "text": "熱い料理の味がわからないのに、料理人を夢見てるなんて……すみません、やっぱり局長も私のことを変だと思いますよね。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_kelvin_talk1_003.ogg",
+            "text": "ディス青帯調理師専門学校は最も有名な調理師学校で、通った学生はみんな有名シェフになるんです——私を除いて……三年留年しても私は卒業できなくて……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_kelvin_talk2_001.ogg",
+            "text": "試験に合格するために、皆さんに認めてもらうために、私は唯一の味方だった料理を裏切りました。「普通」の料理の勉強をして、味のしないものを食べて……それで卒業はできましたが、同時にもっと大切なものを失ってしまいました。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_kelvin_talk2_002.ogg",
+            "text": "私の料理が皆さんが好む料理ではないことはわかっています……でも……低温の料理にある、あの独特な味わいを諦めたくないんです！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_kelvin_talk2_003.ogg",
+            "text": "「周りと違う」というのはとても恐ろしいことです……周りが甘いと思うものは甘く、酸っぱいと思うものは酸っぱい……違うことを言うと、私は「変わり者」扱いされてしまいますから……。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_kelvin_obeyfull_001.ogg",
+            "text": "局長には本当に感謝しています。だって局長は私に居場所を与えてくれて、作りたい料理を作らせてくれて、それに話しかけてもくれます。私、何を話してもつまらないから皆さんを困らせてしまって……これからは局長の言うことにはすべて従うと約束します！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_kelvin_idle_001.ogg",
+            "text": "もう私は必要ないですよね……えっと……キッチンに行ってもいいかな……？見るだけだから、うん。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_kelvin_clicking_001.ogg",
+            "text": "ひゃっ！きょきょ局長……あついですっ……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_kelvin_specialattention_001.ogg",
+            "text": "局長？局長も私を見張りに来たんですか？すみません。でもこっそり冷凍倉庫を使ったりしませんから……本当です！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_kelvin_dispatch_001.ogg",
+            "text": "あの……帰り道に少しだけ、食材を買ってきてもいいでしょうか？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_kelvin_dispatch2_001.ogg",
+            "text": "すみません、局長。熱中症に……なってしまったみたいで……。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_kelvin_levelup_002.ogg",
+            "text": "……あれ？今、少しだけ味が……。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_kelvin_jointeam_001.ogg",
+            "text": "本当に、私で良いんでしょうか……？"
+        }
+    ],
+    "chilling_hideaway": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_kelvin_bishushengdi_cacha_001.ogg",
+            "text": "ふぅ……涼しい——えっ！きょきょ局長！い……いつからそこにいたんですか！？ご、ごめんなさい！しばらく、ここにいてもいいですか？……冷蔵庫は後で必ず片付けますから！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_kelvin_bishushengdi_levelup_001.ogg",
+            "text": "こうすれば涼しくなるはず……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_kelvin_bishushengdi_greeting_001.ogg",
+            "text": "局長も試してみますか？ここは青帯専門学校の冷凍倉庫と違って、刺すような冷たさじゃないのでちょうどいいですよ！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_kelvin_bishushengdi_talk_001.ogg",
+            "text": "こんな姿を見られたら、もっと「変わり者」扱いされちゃいますよね。え……悪くないと思いますか？へへ……ならいいです……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_kelvin_bishushengdi_talk_002.ogg",
+            "text": "いいことを思いつきました！後でプールに行ったら、このフルーツでかき氷を作りましょう。冷たいので、きっと暑さを和らげてくれますよ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_kelvin_bishushengdi_idle_001.ogg",
+            "text": "ある日、イチゴ味のアイスとチョコレート味のアイスが水泳の試合をしました。局長、当ててみてください。どっちが先にゴールすると思いますか？答えは「どっちもゴールできない」です。海に溶けちゃったので！す、すみません……あまりにも暑いのでつい……無理に笑わなくていいですよ！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_kelvin_bishushengdi_clicking_001.ogg",
+            "text": "わぁ！局長……手が冷たいですね。いつもと違う気がします！なんだか……液体窒素より冷却効果がありそうな！え？こ……これが枷の力なんですか？すごすぎます！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_kelvin_bishushengdi_specialattention_001.ogg",
+            "text": "せっかく薄着を用意したのに、ここの気温を甘く見ていました。危うく……水蒸気に仲間入りするところでしたよ……"
+        }
+    ]
+}

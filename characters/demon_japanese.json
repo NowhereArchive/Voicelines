@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_demon_cacha_001.ogg",
+            "text": "ふっ、こういうところに入れられるのは初めてではない……さて、今回はどの拷問だ？ ウジ虫共は俺にどんな罪を着せるつもりだ？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_demon_promotion_001.ogg",
+            "text": "代償は支払った。この力は俺が手に入れてしかるべきものだ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_demon_promotion2_001.ogg",
+            "text": "時が来た。約束を果たさなければならない。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_demon_battlebegin_001.ogg",
+            "text": "作戦開始だ。全員、警戒を怠るな。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_demon_battlewin_001.ogg",
+            "text": "敵のターゲット一掃。行動継続。気を抜くな。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_demon_battlelose_001.ogg",
+            "text": "はは……やはり何も守れなかった……。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_demon_uniqueskill_001.ogg",
+            "text": "俺を超えられると思うな！！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_demon_dead_001.ogg",
+            "text": "期待を……裏切ってしまったな……。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_demon_greeting_001.ogg",
+            "text": "死瞳、暴徒、そして陰謀家がまだこの街には横行している……きみは動くべきだ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_demon_talk1_001.ogg",
+            "text": "ウジ虫が街に入り込み、すべての人間を翻弄した。俺は、やつらの死を望んでいる。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_demon_talk1_002.ogg",
+            "text": "この街の下に潜む闇を侮ってはならない。それがこれまでのすべてと引き換えに得た教訓だ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_demon_talk1_003.ogg",
+            "text": "他のシンジケートの人たちと同じように俺も道端で死ぬべきだった。だがアベルが俺をそこから連れ出した。今考えると、それこそが間違いだったのかもしれない……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_demon_talk2_001.ogg",
+            "text": "八年たっても、ディスシティはそのままだ。アベルと彼の夢は、すっかり忘れ去られてしまった。時々やつらは一体何を覚えているのだろうと思うことがある。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_demon_talk2_002.ogg",
+            "text": "自分の手で自分の……父親を、長年の部下を殺し、大切にしてきたものすべてを葬って……どんな気持ちかと聞いてるのか？ははは、さぞかし気に入らないだろうよ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_demon_talk2_003.ogg",
+            "text": "きみと一緒に戦うことは、俺の人生において間違っていない唯一の選択なのかもしれない。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_demon_obeyfull_001.ogg",
+            "text": "友と呼べる者は、もういない。きみは……長生きしろ。俺より先に死ぬな。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_demon_idle_001.ogg",
+            "text": "アベル、ヴィラ……失望はさせない……もう二度と……。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_demon_clicking_001.ogg",
+            "text": "炭化タングステン装甲は確かに使いやすい。気に入ったのなら、着てみたらどうだ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_demon_specialattention_001.ogg",
+            "text": "俺を監視するつもりか？それとも……誰かに守ってほしいのか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_demon_dispatch_001.ogg",
+            "text": "任務は了解した。今は作戦を立てているところだ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_demon_dispatch2_001.ogg",
+            "text": "任務完了。報告書は提出済みだ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_demon_levelup_001.ogg",
+            "text": "まだまだ耐えられる。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_demon_jointeam_001.ogg",
+            "text": "指一本触れさせん。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_demon_head_001.ogg",
+            "text": "それは……俺の好むものではない。"
+        }
+    ],
+    "under_the_neon_lights": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_demon_nihongzhixia_cacha_001.ogg",
+            "text": "ここでいつまで待てばいい？「まだ返答がない」だと？はぁ、分かった……緊急事態となれば、どんな命令でも出してくれて構わない。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_demon_nihongzhixia_greeting_001.ogg",
+            "text": "行動する時だ。こういった娯楽は人の心を惑わす。きみにはこんなところで溺れて欲しくない。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_demon_nihongzhixia_talk_001.ogg",
+            "text": "「最も汚れた場所には、最も貴重な情報が埋もれている」。それについては俺も同感だ。ただ……もう少し時間が欲しい。ここのネオンの眩しさに、まだ慣れていない。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_demon_nihongzhixia_talk_002.ogg",
+            "text": "肩を並べて戦う？ここは狭い。万一の時は、俺に任せればいい。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_demon_nihongzhixia_idle_001.ogg",
+            "text": "……気安く俺に近づくな。俺は……仲間を待っている。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_demon_nihongzhixia_clicking_001.ogg",
+            "text": "……任務遂行中に、こんな無駄なことはするな。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_demon_nihongzhixia_levelup_001.ogg",
+            "text": "目立つ必要はない。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_demon_nihongzhixia_specialattention_001.ogg",
+            "text": "任務を無事果たせるよう、俺がきみを守ろう。だからあまりぐずぐずするな。時間の無駄だ。"
+        }
+    ]
+}

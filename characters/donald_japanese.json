@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_donald_cacha_001.ogg",
+            "text": "そうだ。お前の見た通り、西区の偉大な英雄であり、流民要塞の救世主である俺様だぜ！ああ、後で全部説明するが、まず食い物をくれ。腹が減りすぎて死にそうなんだ。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_donald_promotion_001.ogg",
+            "text": "俺まで特訓を受けなきゃならねぇなんて、そんな深刻な状況なのか？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_donald_promotion2_001.ogg",
+            "text": "このボロい槍が、二度目の春を迎えられるとは……感慨深いな。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_donald_levelup_002.ogg",
+            "text": "悪くない、いい感じだ。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_donald_head_001.ogg",
+            "text": "おいおい、もう触るな。まるで鳥の巣じゃねぇか。せっかくイカした髪型にしたのに、めちゃくちゃにした責任とってくれるのか？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_donald_battlebegin_001.ogg",
+            "text": "3つ数えるから、早く降参しろ。じゃねぇと俺が先に跪くぞ！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_donald_battlewin_001.ogg",
+            "text": "何を驚いてるんだ？いつも実力を見せてないからって、本当に俺に能力がないと思ってたのか？ふふ～ん。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_donald_battlelose_001.ogg",
+            "text": "風向きが怪しいな……撤退の時間だ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_donald_uniqueskill_001.ogg",
+            "text": "風と雷よ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_donald_dead_001.ogg",
+            "text": "死ぬのか……はは、まぁ初めてじゃねぇしな……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_donald_talk1_001.ogg",
+            "text": "時間があったら一緒に戻ろうぜ。流民要塞の奴ら、俺が手下のようにお前についてく姿を見たら、どんな顔するんだろうな……はは、大したことねぇか。そんなもん見慣れてるだろうしな。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_donald_talk1_002.ogg",
+            "text": "西区には強い奴と雑魚が混在してるってことを覚えておけよ。厄介な存在になって、誰とでも敵対しない方がいい。「友を増やし敵を減らす」って知ってるか？いつか、そういう奴が必要になるかもしれないだろ？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_donald_talk1_003.ogg",
+            "text": "そういえば、再建委員会の方はお前が解決してくれるんだろ？俺がやったことはルール上反逆だし、表沙汰にはできねぇからよ。助けてくだされば、今後あなた様が我を捨てぬ限り、何をしてもご恩をお返しいたす……だから、お願いします！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_donald_talk2_001.ogg",
+            "text": "この槍とは長い付き合いだ。初めて手にした時、俺はまだ目立つことだけを考えてたガキだった。それからあっという間に十数年が過ぎて……何て言ったっけな。「物の是なるも人は非にして事事に休し」か。まさか、またこれを持つ日が来るとはな……頑張ってくれよ相棒。俺に恥をかかせないでくれ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_donald_talk2_002.ogg",
+            "text": "西区が経験してきたことは覆せない……だが恨みや復讐より、俺たちに必要なのは希望に満ちた未来だ。俺たちには、その価値がある。錆で再燃した炎は、破壊のためのものじゃねぇ。前途を照らすためのものだ……ヒュ～！いいこと言ったな。さぁ、褒めてくれてもいいんだぜ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_donald_talk2_003.ogg",
+            "text": "こうして見ると、西区もまあまあ綺麗じゃねぇか？西区は元々こうだった。昔の様子を今でも覚えてるぜ。日の当たる街道に風が通り抜けるとな、錆の匂いなんかしねぇんだ。太陽みたいにあったけぇ希望に満ちていた……そうだ、あそこに夜市があるだろ？昔の匂いに一番近い場所なんだ。日が沈んで出店が開いたら一緒に匂いを嗅ぎに行こうぜ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_donald_obeyfull_001.ogg",
+            "text": "俺が「大英雄」だって？ふん、そんなの大したことねぇな。俺の肩書きはいっぱいあるんだぜ。「西区のスター」、「雷電天王」、「ミスター湾内」、「錆火のリーダー」、「脱走兵」、「裏切り者」、「詐欺師」、「ルーザー」。今でもこんな風に呼ばれることはあるが、一つだけ永遠に呼ばれなくなったものがあってな……「親友」だ。そう呼んでくれる奴はもういない……何でそんな目で俺を見る？何が言いたいんだ？こっちは心の準備ができてねぇんだ。いやいやいや、やめろ！！！俺をそんな風に呼んで恥ずかしくねぇのか？？？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_donald_greeting_001.ogg",
+            "text": "よ、来たか？何か困ったことがあれば言えよ。俺に遠慮なんかするな……解決できるかどうかは別問題だがな。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_donald_idle_001.ogg",
+            "text": "眠れる森の美女よ、起きる時間だぜ。 仕事に行かないのか？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_donald_clicking_001.ogg",
+            "text": "どうした、俺の筋肉に興味があるのか？チッ、いつの時代の話だ。生きていくにはコンビクトの能力に頼らなきゃならないんだよ。筋肉があったところで誰も怖がらねぇさ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_donald_dispatch_001.ogg",
+            "text": "必ずしも任務を完了するとは限らないと保証する。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_donald_dispatch2_001.ogg",
+            "text": "無事完了したぜ。で、表彰式はいつだ？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_donald_specialattention_001.ogg",
+            "text": "おいおい、MBCCの局長様が何しに来たんだ？俺みたいなニート、見る価値ねぇだろ？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_donald_jointeam_001.ogg",
+            "text": "また俺に戦闘スキルを披露してほしいのか？安心しろ！今回はちゃんと戦うから！"
+        }
+    ]
+}

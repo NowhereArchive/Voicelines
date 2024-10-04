@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_che_cacha_001.ogg",
+            "text": "俺なんか捕まえてもどうにもならないだろ？頑張って、次はもっとすごいコンビクトを捕まえてくれよ。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_che_promotion_001.ogg",
+            "text": "いや、強くなっても俺はサボるからな。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_che_promotion2_001.ogg",
+            "text": "よっしゃ、強くなった～。次はなんだ？ ブラックリングに送り込んで俺を死なせるのか？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_che_battlebegin_001.ogg",
+            "text": "しっかり俺についてきてくれよ……お前だけでも、生きて連れ戻さないとな。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_che_battlewin_001.ogg",
+            "text": "行こう。死体を見ても仕方ないだろ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_che_battlelose_001.ogg",
+            "text": "ハハッ……予定より早く帰れそうだ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_che_uniqueskill_001.ogg",
+            "text": "逃げるな！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_che_dead_001.ogg",
+            "text": "こんなところでやられるとは……。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_che_greeting_001.ogg",
+            "text": "………俺からの挨拶を待ってるのか？お前ってほんっとうにつまらないやつだな……。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_che_talk1_001.ogg",
+            "text": "砥石はある？ジョニーとジェーソンが鈍くなった。どうして武器に名前を付けるって？別に、面白いだけだ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_che_talk1_002.ogg",
+            "text": "俺とおしゃべりがしたい？いやだ……おしゃべりする暇なんかない。他の奴を当たってくれ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_che_talk1_003.ogg",
+            "text": "お金さえくれれば、雑用ぐらいやってやるよ。でも喧嘩はやらない。ああいうのは苦手なんだ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_che_talk2_001.ogg",
+            "text": "おい、ちょっと取引しないか？今週、お前の命令はなんでも聞くし、絶対サボらない……その代わり、死恋ラジオの特典セットを買ってほしいんだよな。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_che_talk2_002.ogg",
+            "text": "K.K.ってなんか昔の俺に似てるんだよなぁ——つまらなくて、毎日仕事ばっかりで、プライベートの時間なんかちっともない。俺が見ててやらないと、あいつは絶対いつかギャンブルの借金を返済するためにハクイツに売られちゃうと思うんだよ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_che_talk2_003.ogg",
+            "text": "ハクイツってやつは、酒と賭博に溺れてるし、まともな仕事もしないで毎日厄介なことばかりして、酔っぱらったら俺のことをチビと呼びやがる……でも、あいつはこの世で一番面白いやつだ。俺が出会った時からそうだった。そんで、今でもそうなんだ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_che_obeyfull_001.ogg",
+            "text": "せっかくそんな顔してるのに、局長として上に媚を売るわけでもないし、毎日のように俺たちコンビクトと一緒にいるなんて。お前って、面白いな……あっ、勘違いしないでくれ。別にそういう意味じゃないから。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_che_idle_001.ogg",
+            "text": "疲れたか？ならぐっすり寝るといい。安心しろ。局長様がサボってることが他のやつらにバレないように、俺がちゃんと見張っててやるから。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_che_clicking_001.ogg",
+            "text": "えっと……なんだ？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_che_specialattention_001.ogg",
+            "text": "お前が仕事をする。俺がサボる。そして互いに干渉しない。これでいいだろ？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_che_dispatch_001.ogg",
+            "text": "他の人に頼んでくれよ。俺は今取り込み中。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_che_dispatch2_001.ogg",
+            "text": "それじゃ、先に帰るから。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_che_levelup_002.ogg",
+            "text": "ちっ、面倒だな。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_che_jointeam_001.ogg",
+            "text": "あー目が見えねー……それでもやれってか？(舌打ち)そうかよ。"
+        }
+    ],
+    "unexpected_guest": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_che_busuzhike_cacha_001.ogg",
+            "text": "ん？誰かと思ったら、お前か。俺はここで仕事中。白記が借金取り立ての依頼を受けたんだが、K.K.は他の仕事で手を離せなくてな。俺が来るしかなかったんだよ。で、相手をビビらせるためにこれ着てるってわけだ——ハクイツのアイデアだから、俺は関与してないぞ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_che_busuzhike_levelup_001.ogg",
+            "text": "またか？戦ったり殺し合ったりするのは疲れるんだよなぁ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_che_busuzhike_greeting_001.ogg",
+            "text": "まだ終わってないし、本当に殴ったりするわけでもないからな。この店は営業中だから、俺がずっとここに座ってたら、そのうち相手がうんざりしてくるんじゃないか。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_che_busuzhike_talk_001.ogg",
+            "text": "はぁ、依頼なら他にもあるのに、よりによってなんでこの借金取り立ての依頼を受けたんだ。しかも実行するのは俺……ま、失敗なら失敗でいい。どうせ白記が失敗した仕事は一つや二つじゃないからな。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_che_busuzhike_talk_002.ogg",
+            "text": "このまま座ってたら警備員になりそうだ。お茶とヒマワリの種がタダで貰えるのはラッキーだけどな。なぁ、お前も食えば？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_che_busuzhike_specialattention_001.ogg",
+            "text": "よくここに来る暇があったな？まぁ、好きにしろ。そこに座って日光浴しながらビタミンDを補給するのも悪くない。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_che_busuzhike_clicking_001.ogg",
+            "text": "触るな。これは刺青じゃなく、ただのアームカバーだ。何の理由もなく自分の身体傷つける奴がどこにいるんだよ？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_che_busuzhike_idle_001.ogg",
+            "text": "お前も暇そうだし、裏で麻雀でもどうだ？心配するな。ここの社長と仲良くなったから、金は取られない。"
+        }
+    ]
+}
