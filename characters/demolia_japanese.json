@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_demolia_cacha_001.ogg",
+            "text": "エムビーシーシー……だったっけ？いやぁ～聞いたことがあるよ。ここはたくさんコンビクトを受け入れてるってね。さあ、早く入って！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_demolia_promotion_001.ogg",
+            "text": "いや～能力って、ゴミ拾いと同じやな。拾えば拾うほど強くなる！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_demolia_promotion2_001.ogg",
+            "text": "ん～やっぱり強いほうがええわ～仕事が早く終われば、睡眠の質も上がるし。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_demolia_battlebegin_001.ogg",
+            "text": "今回は色々拾えそう。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_demolia_battlewin_001.ogg",
+            "text": "あれ、なんて言うんだっけ……そうそう！力はすべてを……ねじ伏せるってな！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_demolia_battlelose_001.ogg",
+            "text": "逃げろ！追ってくるよ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_demolia_uniqueskill_001.ogg",
+            "text": "とま……れ——！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_demolia_dead_001.ogg",
+            "text": "あんたたち……行かないで……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_demolia_greeting_001.ogg",
+            "text": "今日はどこにコンビクトを拾っ……じゃなくて、捕まえに行く？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_demolia_talk1_001.ogg",
+            "text": "調達部門はみんな金使いが荒いなあ。ちょっと説教してくるわ。お金を稼ぐのは大変なんやで～ってな。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_demolia_talk1_002.ogg",
+            "text": "ディスチェスをやらない？あいつらはいないみたいだし、二人でやろう——…… 局長？どこ行くんだよ局長！物は試しだって。面白いから！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_demolia_talk1_003.ogg",
+            "text": "「他人のくだらない話を贈り物として受け取らないこと。あなたはゴミを集める人じゃないんだから。」ん？局長！この本に書いてあるこの言葉ってあたいへの皮肉じゃない？違うか……それならいいや。でもメモっとこーっと。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_demolia_talk2_001.ogg",
+            "text": "死瞳との戦いはただの仕事。人生を楽しむことこそが一番大事！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_demolia_talk2_002.ogg",
+            "text": "あれ、局長！また夜更かしした？あかん！それはあかんで！若者はちゃんと寝んと。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_demolia_talk2_003.ogg",
+            "text": "前に住んでたとこと比べたら、ここは豪華すぎるわ～できることなら、あたいは廊下で寝て、シンジケートの子供たちにベッドを譲りたいな……。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_demolia_obeyfull_001.ogg",
+            "text": "局長とあたいの仲だから、直接言うよ。前に申請したベランダの承認はいつおりるん？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_demolia_idle_001.ogg",
+            "text": "また錆の川に行きたいな～。あそこにまたなんか新しいものが入ったらしくて……。ライトレールの素材とかもあるんやって。こっちやったらいくらぐらいで売れるんやろ！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_demolia_clicking_001.ogg",
+            "text": "そうそう！そこ！もっと強く揉んで！はあ～ええもんやな～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_demolia_specialattention_001.ogg",
+            "text": "え？あたい一人だけここに立つの？そんな！つまらんわ！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_demolia_dispatch_001.ogg",
+            "text": "今日は天気がいいよ、局長。一緒に行かない？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_demolia_dispatch2_001.ogg",
+            "text": "ふう～大量大量！三輪車に乗り切らない！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_demolia_levelup_002.ogg",
+            "text": "あれ？ハンマーが軽くなった！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_demolia_jointeam_001.ogg",
+            "text": "死瞳め～かかってきいや！"
+        }
+    ]
+}

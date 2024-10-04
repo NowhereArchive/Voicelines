@@ -1,0 +1,156 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_cassia_cacha_001.ogg",
+            "text": "鼻で分かるわ。ここには興味深い「香料」がたくさんあるって。うん……きっと、もっと特別な香水が作れるでしょうね～"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_cassia_promotion_001.ogg",
+            "text": "ああ……もっと芳しい香りがするわ……"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_cassia_promotion2_001.ogg",
+            "text": "私は全ての香りを捕らえ、そして……永遠に所有することに情熱を注いでいるの。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_cassia_battlebegin_001.ogg",
+            "text": "ここの匂いは……息苦しいわ。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_cassia_battlewin_001.ogg",
+            "text": "今回は香りがかなり長持ちしているわね。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_cassia_battlelose_001.ogg",
+            "text": "生臭いのは嫌いよ……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_cassia_uniqueskill_001.ogg",
+            "text": "この香りの中に永遠に溺れるのよ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_cassia_dead_001.ogg",
+            "text": "香りが……消えてしまった……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cassia_greeting_001.ogg",
+            "text": "騒いでいた心が落ち着くたびに、あなたが傍に来てくれたと分かるわ……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_cassia_talk1_001.ogg",
+            "text": "アンバーグリス、イチハツの根、どれもいい原料だけれど、私の基準には満たない。どうしても余計な匂いが取れないのよ……もっと純粋で、新鮮なものが欲しいわ……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_cassia_talk1_002.ogg",
+            "text": "この世には、消えない 「永遠の香り」のようなものがあるはずよ。ただ……それを作るのに適した香料がまだ見つかっていないだけ……"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_cassia_talk1_003.ogg",
+            "text": "芳しい香水に、美しいガラス瓶を合わせるのは当然のことよ。精巧で、透明で、気密性が高く、香りが一切漏れないものでないと……そういったものをたくさん集めてきたわ。その中に、あなたに適した器があるはずよ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_cassia_talk2_001.ogg",
+            "text": "命から抽出された香りだけが、衰亡の匂いを完全に覆い隠すことができる。きっと魂と記憶の複雑さが、より重層的な香りを引き出すのね……人間は本当に不思議だわ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_cassia_talk2_002.ogg",
+            "text": "私は香料を自分で処理するのが好きなの。象牙色の硬い塊を剥がし、指の間を流れる温かい液体を感じると、調香のインスピレーションが自在に湧き出てきて……その感覚が楽しいのよ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_cassia_talk2_003.ogg",
+            "text": "基本的に、最上級の香料の特徴は美しさなの。だから私は、いつも美しい皮を持った人に好んで近づくわ。けれど時々、条件とは関係のないサプライズもあるの。例えばあなたは……人を狂わせるような香りがするのよ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_cassia_obeyfull_001.ogg",
+            "text": "あなたをどんな香水にするかは、もう決めてあるわ……軽く、透明で、絹のような温かみの後に……凛々しいラストノートが主張する。そうした特別な香りは、きっと悪夢や恐怖を全て吹き飛ばしてくれるはずよ……あなたの香りを永遠に身にまとうことができたら、私の心も完全な安らぎを得られるかもしれないわ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cassia_idle_001.ogg",
+            "text": "のんびりとした安らぎのひとときには……フレッシュなグリーンノートを少し加えるといいわね。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cassia_clicking_001.ogg",
+            "text": "あなたも今日私がつけている香水が気に入ったのかしら？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cassia_specialattention_001.ogg",
+            "text": "そんな酔いしれるような顔をして……この香りで何を連想したの？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_cassia_dispatch_001.ogg",
+            "text": "行くのはいいけれど……臭い場所には派遣しないで。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_cassia_dispatch2_001.ogg",
+            "text": "もし「香料」を持ち帰ったと言ったら、運ぶのを手伝ってくれるかしら？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cassia_levelup_002.ogg",
+            "text": "うん、これは傑作と言っていいわ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_cassia_jointeam_001.ogg",
+            "text": "自分だけの香りが欲しい？"
+        }
+    ],
+    "aromas_in_bloom": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_cassia_xinyuanqiluo_cacha_001.ogg",
+            "text": "独特な香りがするわ……爽やかで、暖かくて、ほのかな冷たさが混じっている……私が望む花が、この庭にやって来たのかしら？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cassia_xinyuanqiluo_greeting_001.ogg",
+            "text": "いらっしゃい。早くこっちに来て、私としばらく一緒に休みましょう。月光のエッセンスの潤いで、あなたはきっと、より香り高く美しい花を咲かせられるわ……"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_cassia_xinyuanqiluo_talk_001.ogg",
+            "text": "この場所は、いつでもあなたを歓迎するわ。ヒナギクの生命力と甘さ、もしくはユリの純粋な魅力と豊かさ、どちらがあなたに合うか歩き回って試してみて……そして私の調香を手伝ってもらうわよ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_cassia_xinyuanqiluo_talk_002.ogg",
+            "text": "香水サロンには目玉となる香水が必要で、私の庭には完璧な花が必要よ。もしそれに出会えるなら、喜んで心血を注ぎ、珍しい宝物を養分にしようと思っていた……あなたが目の前に現れた時、私の渇望が遂に運命を動かしたのだと悟ったわ……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cassia_xinyuanqiluo_idle_001.ogg",
+            "text": "焦らないで……もう少し待てば、余計な匂いが消えて、意識が薄れていく。根が伸びれば、この花の香りを永遠に保つことができるわ……うふふ……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cassia_xinyuanqiluo_clicking_001.ogg",
+            "text": "ブランコを押すのを手伝ってくれるなら、もう少し軽い力でお願いね。あまり強すぎると、香りが空気の流れで散って、花々の独特の香りが混ざってしまうの。それは良くないわ……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cassia_xinyuanqiluo_specialattention_001.ogg",
+            "text": "庭の花々全てが、いつもそんな目で私を見つめているの。彼らが私に愛されたがっているのは分かっているわ。でも残念ながら、私がその特権を与えるのはあなただけよ……"
+        }
+    ]
+}

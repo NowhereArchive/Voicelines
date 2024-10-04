@@ -1,0 +1,176 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_cabernet_cacha_001.ogg",
+            "text": "嬉しいですわ～この盛大なパーティーに連れて来てくださって。あぁ……うっとりするような甘い香りが、隅々までしますわ！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_cabernet_promotion_001.ogg",
+            "text": "これだけで、私は満足しませんわよ……"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_cabernet_promotion2_001.ogg",
+            "text": "究極の味のためなら、私がお皿の上の料理になっても構いませんわ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_cabernet_battlebegin_001.ogg",
+            "text": "味見させてくださいまし。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_cabernet_battlewin_001.ogg",
+            "text": "悪くない食事でしたわ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_cabernet_battlelose_001.ogg",
+            "text": "……飲み込めないほど酷い味ですわ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_cabernet_uniqueskill_001.ogg",
+            "text": "魂の香りがしますわ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_cabernet_dead_001.ogg",
+            "text": "あは……あははは……引き裂いて、飲み込みましょう……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cabernet_greeting_001.ogg",
+            "text": "緑の妖精が飛び去り、私は最初に現実を、次に恐怖を見ましたわ。そして最後に……あなたを見たのです。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_cabernet_talk1_001.ogg",
+            "text": "食事とは、単に「飲み込む」という行為ではありません。「味わう」という言葉を知れば、素晴らしい体験ができますわ。ですから、食への欲求と素直に向き合い、力を尽くしてその欲を満たしましょう！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_cabernet_talk1_002.ogg",
+            "text": "私は今まで、多くの珍しい食材をいただいてきました。中には、家を一軒手に入れられるほどのものも。ですが……それらの味は、かつて口にしたあの甘い香りの葡萄ほどではありませんわ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_cabernet_talk1_003.ogg",
+            "text": "高い場所に立つと、聞くものも見るものも、雲と霧に覆われてはっきりと見えませんの。ですが、よく目を凝らして探せば、魂が輝く人を見つけることができますわ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_cabernet_talk2_001.ogg",
+            "text": "私は常に自分の味覚を満足させるものに溺れ、情熱的に偏愛してきました。それは、私がこの地位にいるからこそ、できることなのですわ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_cabernet_talk2_002.ogg",
+            "text": "高尚な人間とは、うっとりする拒めない香りを発するものですわ——そうした方々は、古いカベルネ・フランのようにルビーに似た美酒に醸造され、私を飲み込もうと誘惑しますの。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_cabernet_talk2_003.ogg",
+            "text": "温かい液体が舌先で弾け、口の中を撫でていき、喉を通ってゆっくりと腹部に流れていく……これが、あなたが与えてくださった感覚ですわ。ごめんなさい……私はもう、あなたのそばにいるだけでは満足できないようなのです。私は……もっと完全にあなたと一つになりたいのですわ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_cabernet_obeyfull_001.ogg",
+            "text": "あなたの魂は夢と現実、芸術と人生が融合していますのね。それが熟す前、私は腹立たしい空腹に耐え、あなたの口の端にキスしたいという衝動を抑えますわ。よく実った魅力的な果実が私の目の前で開き、自分の意志で食べられにくるまで……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cabernet_idle_001.ogg",
+            "text": "はぁ……あまり食欲がありませんわ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cabernet_clicking_001.ogg",
+            "text": "深淵からの狡猾な訪問者は、常に待ち構えていますわ……悪戯な人を捕食することを。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cabernet_specialattention_001.ogg",
+            "text": "私との食事を、あなたも楽しみにしてくださったのですね？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_cabernet_dispatch_001.ogg",
+            "text": "これは……私の手でやる必要があるのでしょうか？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_cabernet_dispatch2_001.ogg",
+            "text": "とても斬新な体験でしたわ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cabernet_levelup_002.ogg",
+            "text": "ん～味は悪くありませんわね。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_cabernet_head_001.ogg",
+            "text": "一部の食材において、この部位が一番美味しくってよ。あなたもそう思いませんこと？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_cabernet_jointeam_001.ogg",
+            "text": "お誘い、感謝いたしますわ。"
+        }
+    ],
+    "bacchanal_reverie": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_cabernet_mingdingyoumeng_cacha_001.ogg",
+            "text": "幸せで豊かな聖地へようこそ。天地を探しても、ここでしかあなたの新鮮で独特な魂を養うことはできませんわ……さぁ、私と一杯いかがです？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cabernet_mingdingyoumeng_levelup_001.ogg",
+            "text": "フルーティで、まろやか……いいお酒ですわね。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cabernet_mingdingyoumeng_greeting_001.ogg",
+            "text": "大地から湧き出す蜂蜜、羊の角から流れ出る甘い液体、雷に打たれたリムニオが合わさって、グラスの中で波打つお酒となったのです……さぁ、飲んでくださいまし。このかつてない快楽を私と体験しましょう～"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_cabernet_mingdingyoumeng_head_001.ogg",
+            "text": "ふふ、心配はいりません。私はまだ酔っておりませんし、ほろ酔いの喜びを最大限楽しむには、限界を把握しなければならないと知っていますわ……"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_cabernet_mingdingyoumeng_talk_001.ogg",
+            "text": "何をためらっているのかしら？もし、この世にまだあなたを引き留めている悩みがあるなら、愛らしい果実を取って味わってくださいまし。苦い思いを忘れさせ、重荷を下ろすのを手伝ってくれるでしょう。あなたはきっと……気に入りますわ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_cabernet_mingdingyoumeng_talk_002.ogg",
+            "text": "誰も快楽には逆らえませんわ。ゆっくりと快楽に漬け込まれ、放埓の中で熟成され……血管に葡萄の香りが流れるまで。これもまた、ある種の退廃的で贅沢なごちそうなのです……"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_cabernet_mingdingyoumeng_hand_001.ogg",
+            "text": "あなたも、これだけでは物足りませんか？そう、一流のお酒とは、究極の素材を組み合わせ、至高の官能的快楽を生み出すもの。例えば、あなたのような鋭く揺るぎない魂を……"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_cabernet_mingdingyoumeng_leg_001.ogg",
+            "text": "人間に比べ、動物の欲望はずっと単純で明確ですのよ。この可愛い大きな猫のように、自分が何を欲しいかはっきり分かっているので、満たされやすいのです。ですが人間の欲望は複雑で混沌としていて、尽きることがありませんわ……これは進化でしょうか？それとも退化でしょうか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cabernet_mingdingyoumeng_idle_001.ogg",
+            "text": "安心してくださいまし、急かしたりしませんわ。ここには飢えも渇きもないのです。隅々まで味わった後に決めてくださって構いません。過酷な人間の世界と違って……ここでは、全てがあなたに寛大ですわ～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cabernet_mingdingyoumeng_specialattention_001.ogg",
+            "text": "私が自ら手を下すのをそんなに楽しみにしているのですか？あなたは、私の体温と吐息が……このお酒とフルーツを楽しむのに最適だと思っているようですわね～"
+        }
+    ]
+}
