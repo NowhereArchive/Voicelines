@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_dreya_cacha_001.ogg",
+            "text": "赤い満月が昇り……あなたは未知のものでわたしを捕らえた……あなたは……わたしが望む、秘密のブラックホール。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_dreya_promotion_001.ogg",
+            "text": "解けた？わたしの未解決の謎を。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_dreya_promotion2_001.ogg",
+            "text": "全ての束縛を破り、わたしの最奥にある秘密を覗いて。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_dreya_battlebegin_001.ogg",
+            "text": "わたしが探求したいものは、ここにはない。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_dreya_battlewin_001.ogg",
+            "text": "今回の……行動は……少しは価値があった……"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_dreya_battlelose_001.ogg",
+            "text": "行動した意味がなくなった。時間を無駄にしないで……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_dreya_uniqueskill_001.ogg",
+            "text": "赤い光と熱が全てを飲み込む！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_dreya_dead_001.ogg",
+            "text": "星は……やがて闇の中で煙滅する。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dreya_greeting_001.ogg",
+            "text": "いや……いや……うっ！あ……あなた……よかった……あなたが……来てくれて。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_dreya_talk1_001.ogg",
+            "text": "見てみたい……全ての未知を掘り出し、千億個もの太陽が特異点に包まれたブラックホールに崩壊する様を……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_dreya_talk1_002.ogg",
+            "text": "は……早く！全ての秘密を探索し、研究し、見つけ出して、わたしに飲み込ませて。それらが……わたしの意識から完全に消えるまで。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_dreya_talk1_003.ogg",
+            "text": "それが苦しみながら悲しげに吠えている……あなたの秘密を全て聞き出せと、わたしを唆しているのよ……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_dreya_talk2_001.ogg",
+            "text": "わたし……？わたしが生き残ることができたのは、未知の秘密を飲み込んでいるから。そう……それだけよ……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_dreya_talk2_002.ogg",
+            "text": "わたしは永遠に覚えている……あの赤い星が海に墜落した様を……あれが、尽きることのない知識、秘密、私事、そして未知をもたらした……ああ、とても魅力的ね。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_dreya_talk2_003.ogg",
+            "text": "未曽有のことを追い求めてあの場所に行った……あそこは確かにわたしを満足させてくれたけれど、気付いたの。あなたがわたしに与えた感覚も、あれと同じだと。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_dreya_obeyfull_001.ogg",
+            "text": "場の量子は曲がった時空を引き寄せるけれど、わたしはあなたとあなたの秘密に……惹かれている。……無意識に近づき、堕落し……逃げられない。そしてわたしは……心からそれを望んでいる。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dreya_idle_001.ogg",
+            "text": "わたしの周りで立ち止まっていないで、ゆっくり近づいて来て。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dreya_clicking_001.ogg",
+            "text": "この行動の意味は言わなくていい……知りたくないから。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dreya_specialattention_001.ogg",
+            "text": "ブラックホールを凝視するのは……危険よ……それは、あなたには答えない。ただ、あなたを引き裂いて飲み込むだけ……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_dreya_dispatch_001.ogg",
+            "text": "あなたからあまり離れたくない。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_dreya_dispatch2_001.ogg",
+            "text": "こうした既存の物には、あまり価値がない。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dreya_levelup_002.ogg",
+            "text": "限界を超える。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_dreya_head_001.ogg",
+            "text": "あなたも最も堅牢な守りを破り、人類の秘密を覗き見たい？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_dreya_jointeam_001.ogg",
+            "text": "わたしを使うなら……気をつけないと。"
+        }
+    ],
+    "cosmic_escapist": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_dreya_huanyumimeng_cacha_001.ogg",
+            "text": "これは星々の集まり……この虚空の中で宴に向かうのは、わたしと……あなただけ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dreya_huanyumimeng_greeting_001.ogg",
+            "text": "階段を上って、わたしの所に来て……この花のために立ち止まってしまうと、もっと輝かしい星々の景色を見逃してしまう……"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_dreya_huanyumimeng_talk_001.ogg",
+            "text": "その周囲の天体は、同じ星の影にすぎない……ブラックホールは光をねじ曲げ、屈折させて、自分の姿を隠している……でも今、わたしはその存在を熟知しているかのように、あなたに教えてあげられる。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_dreya_huanyumimeng_talk_002.ogg",
+            "text": "宇宙には星々が集まっていて、わたしはその秘密を全て知りたいと思っている……たとえ、安全な距離を越えて引き裂かれる天体の一つになったとしても、わたしは抗えない……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dreya_huanyumimeng_idle_001.ogg",
+            "text": "赤い満月が……だんだんと近付いている……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dreya_huanyumimeng_clicking_001.ogg",
+            "text": "わたしのことを知りたければ、ドレスを引っ張るのではなく、わたしに教えて……あなたの秘密を。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dreya_huanyumimeng_specialattention_001.ogg",
+            "text": "あなたはこの星の海を観察しているの？……それとも……わたしを観察しているの？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dreya_huanyumimeng_levelup_001.ogg",
+            "text": "星は燃えれば燃えるほど、明るくなる……"
+        }
+    ]
+}
