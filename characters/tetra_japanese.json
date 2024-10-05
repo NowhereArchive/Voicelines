@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_tetra_cacha_001.ogg",
+            "text": "自ら怪盗をおびき寄せるとはな。ふむ……何か盗んでほしいものでもあるのか？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_tetra_promotion_001.ogg",
+            "text": "この数秒は、君だけを見つめるとしよう。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_tetra_promotion2_001.ogg",
+            "text": "時間に追いついた瞬間、すべてを変えられる予感がする……。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_tetra_battlebegin_001.ogg",
+            "text": "相手の計画はすべて把握してる。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_tetra_battlewin_001.ogg",
+            "text": "これは私が考えた計画だ。勝利以外の結末はありえない。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_tetra_battlelose_001.ogg",
+            "text": "時間がない。撤退だ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_tetra_uniqueskill_001.ogg",
+            "text": "Time's up！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_tetra_dead_001.ogg",
+            "text": "はっ……これもある意味、解放か。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_tetra_greeting_001.ogg",
+            "text": "初めまして、MBCCの局長。君の時間を少し盗ませてもらった。今すぐ手持ちの仕事を止めて、私の話に付き合ってもらおうか。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_tetra_talk1_001.ogg",
+            "text": "止まった時間の中で、この砂時計が唯一時間を計れる道具だ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_tetra_talk1_002.ogg",
+            "text": "昼の私は縛られているが……夜の私は心行くまでとろけることができる……ふふ、ふふふふ～……"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_tetra_talk1_003.ogg",
+            "text": "あのウサギさん……面白い子だと思わないか？だがあの子は隙がありすぎる。弱みを握って利用するより、むしろ……傍において縛ってしまいたい。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_tetra_talk2_001.ogg",
+            "text": "背中はプリシラに預けてある……ロマンティックだろう？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_tetra_talk2_002.ogg",
+            "text": "ニューシティも上庭も、あのキラキラとしたうわべはただの枷に過ぎない。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_tetra_talk2_003.ogg",
+            "text": "ここに囚われてはいるが……案外自由がきくものだ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_tetra_obeyfull_001.ogg",
+            "text": "私はこの世でもっとも貴重なものを手に入れた。いっそ……今、君の目の前で足を洗うのはどうだろう？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_tetra_idle_001.ogg",
+            "text": "こんな時間がもう少し長く続いたらいいのだが……。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_tetra_clicking_001.ogg",
+            "text": "どうした？局長も刺激が欲しいのか？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_tetra_specialattention_001.ogg",
+            "text": "まばたきはしない方がいい。キツネに振り回されることになるぞ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_tetra_dispatch_001.ogg",
+            "text": "その任務は完璧に遂行できるが……実際に引き受けるかどうかは、まだ決めていないぞ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_tetra_dispatch2_001.ogg",
+            "text": "土産だ。どうした？盗んだものでは、土産にならないか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_tetra_levelup_002.ogg",
+            "text": "む……どうやら、伸びしろはまだあるようだな。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_tetra_jointeam_001.ogg",
+            "text": "５秒だけ逃げる時間をやろう。"
+        }
+    ],
+    "edge_of_nightfall": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_tetra_yemubianyuan_cacha_001.ogg",
+            "text": "何をぽかんとしているんだ？ 今すぐ追いかければ、あの怪盗ウサギさんに盗まれた宝を取り戻すチャンスがあるぞ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_tetra_yemubianyuan_levelup_001.ogg",
+            "text": "全てが計画通りだ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_tetra_yemubianyuan_greeting_001.ogg",
+            "text": "私の登場の仕方で怖がらせたかな？だが、これが最短で追跡できるルートなんだ……それに、この嘘にまみれた派手なパーティーで騒ぎを起こすのは、とても楽しいことだろう？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_tetra_yemubianyuan_talk_001.ogg",
+            "text": "君の同伴者になることに興味はない。ただ、ディス治安局が内部システムを改修していた時、たまたま彼らが逮捕計画を立てていると知って、参加を志願しただけだ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_tetra_yemubianyuan_talk_002.ogg",
+            "text": "その予告状の差出人は本当に自信満々だな。逃げ道に花びらを残すとは……誰かに捕まることをそんなに期待しているのだろうか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_tetra_yemubianyuan_idle_001.ogg",
+            "text": "この方向は、やはりテラスに行ったか……なぜ、あそこの警備が最も手薄なのか当ててみてくれ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_tetra_yemubianyuan_clicking_001.ogg",
+            "text": "我に返った時、何かをなくしていたくなかったら大人しくしてくれ、局長？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_tetra_yemubianyuan_specialattention_001.ogg",
+            "text": "しっかりついて来てくれ。この混乱の中でも君を守ろう。"
+        }
+    ]
+}

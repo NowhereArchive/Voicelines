@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_pricilla_cacha_001.ogg",
+            "text": "あら～、たくさんの警察官がこの怪盗バニーを追いかけてるけど、本当にあたしを捕まえたのは、あなたが初めてよ～"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_pricilla_promotion_001.ogg",
+            "text": "次のショーはもっとすばらしいものになるわよ～"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_pricilla_promotion2_001.ogg",
+            "text": "ライトよし、ステージよし！準備はいい？盛大な怪盗ショーの始まりよ！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_pricilla_battlebegin_001.ogg",
+            "text": "予告してあげる。あたし、もう少し経ったら逃げちゃうわよ～。頑張って追いかけてね～？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_pricilla_battlewin_001.ogg",
+            "text": "予告状回収っ！今回の反響もすごかったわね～！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_pricilla_battlelose_001.ogg",
+            "text": "ごめんなさい……ごめんなさい……あたしのせいよ……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_pricilla_uniqueskill_001.ogg",
+            "text": "天に代わって～、正義しっこーう！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_pricilla_dead_001.ogg",
+            "text": "許して……くれるかな……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pricilla_greeting_001.ogg",
+            "text": "おはよう～こんにちは～こんばんは～、うふふふ。これは、あたしがあなたに一日中いつでもどこでも会いたいって思ってる証拠。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_pricilla_talk1_001.ogg",
+            "text": "管理局も寛大よね～。大事な局長さんをあたしの目の前に置いておくなんて……スーツケースに入れて持って帰っちゃおうかしら？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_pricilla_talk1_002.ogg",
+            "text": "夜が訪れる時、ディスシティはあたしのステージになる！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_pricilla_talk1_003.ogg",
+            "text": "弱きを助け、強きを挫く、あたしが正義を貫く怪盗バニーよ～！泥棒なんかじゃないわ！それに万引き常習犯のあのキツネと一緒にしないでちょうだい。あいつと組んだのは…………たまたまなんだから……。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_pricilla_talk2_001.ogg",
+            "text": "実は、怪盗をやってるのは正義のためだけじゃないの……自分なりの罪滅ぼしでもあるのよ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_pricilla_talk2_002.ogg",
+            "text": "局長も時間があったらあの面倒なキツネに説教してやってちょうだい！ あいつと組んでからひどい目にあってるのよ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_pricilla_talk2_003.ogg",
+            "text": "足を洗うのもいいかもしれないわね～。だって……局長さんはこれからもあたしたちと一緒に、正義を貫くんだもの。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_pricilla_obeyfull_001.ogg",
+            "text": "あたしたちもいつか離れ離れになるのよねぇ。自由な怪盗がいつまでも誰かの傍に……えっ、傷ついちゃったの？よしよし、どこにも行かないわよ～傍にいるわ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pricilla_idle_001.ogg",
+            "text": "このパイプなかなか硬いね～、……つまらなかったら、ダンスでも踊ってあげるわよ～？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pricilla_clicking_001.ogg",
+            "text": "ふふ、局長さんったら～、これ以上いたずらされちゃったら、あたし……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pricilla_specialattention_001.ogg",
+            "text": "怪盗は影のように消えるものよ。だから、あたしが消えないようにちゃんと見張っててね～。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_pricilla_dispatch_001.ogg",
+            "text": "あたしを外に出すってことは……もう一度捕まえる自信があるの？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_pricilla_dispatch2_001.ogg",
+            "text": "ふぅ、あそこにも金目のものはなかったわねぇ……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pricilla_levelup_002.ogg",
+            "text": "あたしのスーツケースには世界が丸ごと入るのよ～"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_pricilla_jointeam_001.ogg",
+            "text": "あら～あたしが活躍する番が来たようね！"
+        }
+    ],
+    "night_of_petals": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_pricilla_night_of_petals_cacha_001.ogg",
+            "text": "予告状回収～あなたのために降らせた薔薇の雨はどう？……ふふっ、気に入ったなら遠慮なくあなたの心をいただくわよ～"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pricilla_night_of_petals_levelup_001.ogg",
+            "text": "ハート泥棒作戦、大成功～"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pricilla_night_of_petals_greeting_001.ogg",
+            "text": "しーっ、静かに～。関係ない人に邪魔されたくないでしょ？さぁ、この薔薇をあなたにあげるわ～"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_pricilla_night_of_petals_talk_001.ogg",
+            "text": "仮面は怪盗の変装道具なんだから、簡単に外さないわ。でも、あたしの素顔を見たからには、あっさり逃がさないわよ～"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_pricilla_night_of_petals_talk_002.ogg",
+            "text": "パーティーから逃げるのは、ガラスの靴を失くしたお姫様だけじゃない。大収穫があった心の怪盗もいるんだから～"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pricilla_night_of_petals_idle_001.ogg",
+            "text": "退屈だなぁ……花びらが一枚……花びらが二枚……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pricilla_night_of_petals_clicking_001.ogg",
+            "text": "もう、勝手に動かないで。ん？あたしの弱点を見つけたい？ふんっ……あのキツネと同じ！まぁ、あたしの変装は完璧だけどね～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pricilla_night_of_petals_specialattention_001.ogg",
+            "text": "驚かないで～怪盗は狙った宝物のために、自ら落とし穴にかかることもあるの～"
+        }
+    ]
+}

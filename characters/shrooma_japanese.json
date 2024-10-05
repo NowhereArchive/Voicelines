@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_shrooma_cacha_001.ogg",
+            "text": "腕時計、宿題、カバン……うん、全部揃ったことだし、行きましょうか。一市民として、先生が仰る通りあなた方には従うわ。でも、早く確認を進めてくれる？学校が始まる前に人違いに気付いて、家に帰してほしいわ。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_shrooma_promotion_001.ogg",
+            "text": "わ、私のキノコにこんなデータが……？間違いではなく？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_shrooma_promotion2_001.ogg",
+            "text": "少しずつ胞子を集めれば……いつか世界を同化して、自由を手に入れられるわ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_shrooma_battlebegin_001.ogg",
+            "text": "私の帽子から目を離さず、しっかりついてきて！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_shrooma_battlewin_001.ogg",
+            "text": "どう？隅に生えたキノコを甘く見ていると、大変なことになるわよ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_shrooma_battlelose_001.ogg",
+            "text": "じっとしてろって言ったじゃん、この分からず屋。結局ボコボコにされたんでしょ？"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_shrooma_uniqueskill_001.ogg",
+            "text": "腐って泥になれ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_shrooma_dead_001.ogg",
+            "text": "もうすぐ……もうすぐ太陽の光が見えたのに……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_shrooma_greeting_001.ogg",
+            "text": "大人なのに私の助けが必要なの？もしかして学校を卒業して随分経っているから、先生に知識を返してしまったの？そうねぇ……二元一次方程式なら、かなり得意よ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_shrooma_talk1_001.ogg",
+            "text": "ここで泣いたり叫んだりしても、自分の体力と他の人たちの忍耐力を消耗するだけだわ。それに、両親もすぐ迎えに来るでしょう——だって私は何も悪いことをしていないもの。あなた方もすぐ気付くはずよ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_shrooma_talk1_002.ogg",
+            "text": "『「黒い泥」という、言葉による悪意のエンターテインメント化、および匿名の誹謗中傷コミュニティによる人間性の歪曲について』……？難しい単語がたくさんね。局長さん、説明してくれる？この言葉はまだ習っていない気がするわ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_shrooma_talk1_003.ogg",
+            "text": "強いて言えば、ここでの生活は学校や家とあまり変わらないわ。守るべき「ルール」がたくさんあって、応えるべき「期待」だらけ。こんなのは慣れっこよ……ん？これが義務教育の終点だと言っていた彼らは正しかったということ？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_shrooma_talk2_001.ogg",
+            "text": "キノコを嫌うクラスメイトはたくさんいたよ。「食用キノコはどんなに白くて柔らかそうに見えても、泥から生えていて根っこから腐ってる。だから学校はキノコをメニューから消したんだ」って。それ聞いてマジウケたんだけど。——だって、キノコはただ生きていくためにそうやって成長しているだけで、人に好かれるかどうかなんて気にしていないのに。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_shrooma_talk2_002.ogg",
+            "text": "前は、私たちの掲示板に間違って入ってきて、「ゴミはゴミの居場所に帰れ」ってコメントする人がよくいたっけ。私たちは反撃するために「そうね、じゃあ帰りなさい」って返信していたんだ。それを何十回も繰り返すと、彼らは面白くなくなるんだよ……よく考えてみると、喧嘩よりも、「悪意があるのは私だけじゃない」っていう事実の方が心を慰めてくれたな……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_shrooma_talk2_003.ogg",
+            "text": "局長ちゃん、あなたは私が今まで会った中で一番物知りな人だよ。だからもしあなたでさえ、怒らず、嫉妬せず、不満を持たない人を見たことがないなら……つまり、そういう人はこの世に存在しないんだよね？自分の心に黒い泥があるからといって、他人より汚いって感じる必要はないってこと？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_shrooma_obeyfull_001.ogg",
+            "text": "大人なんて、学校の風紀や規律をチェックしに来る委員会みたいなものだと思ってた。表面上、仕事がちゃんとできてるかだけを気にして、暗い隅に生えてるキノコは見て見ぬふりをするか、死ぬまでうやむやに覆い隠すって。でも、キノコに気付いてくれる人は本当にいたんだね。汚れも臭いも気にしないで、泥を落として毒キノコにも太陽の光が当たるチャンスをくれる人が本当にいたんだ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_shrooma_idle_001.ogg",
+            "text": "あれ？誰もいない？よし、チャンス到来。局長ちゃんの端末のネットワークパスワードは、初期設定のものよりもっと簡単なんだよね。遠慮なくネット使わせてもらおうっと。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_shrooma_clicking_001.ogg",
+            "text": "大人だからこんなことをしても先生に怒られないと思わないで。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_shrooma_specialattention_001.ogg",
+            "text": "不思議ね。あなたは私を嫌っているわけでも、弱みを握りたいわけでもない。私があなたを満足させられるかどうかも考えていない……それなら、どうしてそんな目で私を見るの？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_shrooma_dispatch_001.ogg",
+            "text": "舐めないで。私は5歳の時、既に一人で買い物をしていたのよ。まぁ、おつりは私が自由に使えるというルールだったけれど。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_shrooma_dispatch2_001.ogg",
+            "text": "リストにある物を全て買って、ちょうどお金も使い切ったわ。本当に意図的じゃないの？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_shrooma_levelup_002.ogg",
+            "text": "ゆっくりと栄養を与え、ゆっくりと成長し、ゆっくりと拡散していく……"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_shrooma_jointeam_001.ogg",
+            "text": "ここの大人たちはそんなに役立たずなの？私が戦場に出なければならないほどに？"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_wendy_cacha_001.ogg",
+            "text": "柔らかい手触り、腐った匂い、バラバラになるときの音……どれも好き……ふふふ……局長……あんたは、アタシを満足させられる？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_wendy_promotion_001.ogg",
+            "text": "チェーンソーがこんなに鋭く……気をつけなくちゃ……あははははっ！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_wendy_promotion2_001.ogg",
+            "text": "ククク……匂うわ。錆の川の匂いね。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_wendy_battlebegin_001.ogg",
+            "text": "どこ？死瞳、化け物……！逃がさないわっ！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_wendy_battlewin_001.ogg",
+            "text": "はあ……処分完了～"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_wendy_battlelose_001.ogg",
+            "text": "絶対に許さないから！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_wendy_uniqueskill_001.ogg",
+            "text": "ははははは！痛い！？イタイ！？"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_wendy_dead_001.ogg",
+            "text": "この手で、自分を……葬る……！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_wendy_greeting_001.ogg",
+            "text": "ははは……こんなに近づいて来るなんて……八つ裂きにされたいの？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_wendy_talk1_001.ogg",
+            "text": "体の動きが鈍い？組み立て直すのはどう？手伝うよ？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_wendy_talk1_002.ogg",
+            "text": "あんたたちはなんて呼ぶの？刈り取る者？チェーンソーの女？清掃員？ククッ……でも一番好きなのは……葬儀屋よ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_wendy_talk1_003.ogg",
+            "text": "あんたもあいつらのイヌなの……いつか容赦なく捨てられるわよ……あははは！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_wendy_talk2_001.ogg",
+            "text": "裏切り者は……裏切り者は容赦なく切る！ そして錆の川に放り込むわ。ククク……アタシはあんたを裏切らない。だから……あんたも裏切らないでね？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_wendy_talk2_002.ogg",
+            "text": "太陽が昇って沈む。チェーンソーを起動して、目に見える汚物をバラバラにして、浄化して、埋葬する……錆の川にお墓が一つ、二つ……遠くからディスシティを見つめてる……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_wendy_talk2_003.ogg",
+            "text": "仲間はみんな、錆の川のそばに埋葬されてる。朧気だけど……彼らの面影を思い出せるわ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_wendy_obeyfull_001.ogg",
+            "text": "決めた。お墓はここにするわ。それから、あんたがアタシの最期を看取るのよ。局長……その時は、墓石に刻む言葉は頼んだわ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_wendy_idle_001.ogg",
+            "text": "しーっ……遠くで、死瞳の声が……！違う……あんたの後ろだあ！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_wendy_clicking_001.ogg",
+            "text": "この体にそんなに興味があるんだ……どの辺が好き？プレゼントするわよ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_wendy_specialattention_001.ogg",
+            "text": "鋭い目……まるでアタシを切り裂くみたいに……ククク……あんたとは、気が合いそう。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_wendy_dispatch_001.ogg",
+            "text": "ふふん。いいわ～。ちょうど錆の川の化け物たちに会いたくなってきたところだったの……"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_wendy_dispatch2_001.ogg",
+            "text": "汚物を処分できて、すっきりしたわ。ククク。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_wendy_levelup_002.ogg",
+            "text": "あ～ああ～チェーンソーのスピードが上がっていく。なんて素敵なの！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_wendy_jointeam_001.ogg",
+            "text": "あれ～？どうして死んだ人が喋ってるの～？"
+        }
+    ],
+    "chainsaw_nightmare": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_wendy_lianjujinghunye_cacha_001.ogg",
+            "text": "裏切り者め。怯えろ、叫べ！最後の時間を楽しむんだ——「チェーンソー」ウェンディが来た！もう逃げられない！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_wendy_lianjujinghunye_levelup_001.ogg",
+            "text": "これでもっと多くのものを吊るしあげられる！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_wendy_lianjujinghunye_greeting_001.ogg",
+            "text": "ゲーム開始！ルールはただ一つ——アタシに切り刻まれないことだあ！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_wendy_lianjujinghunye_talk_001.ogg",
+            "text": "映画の殺人鬼や幽霊の何が怖いんだか……現実の人間の方が、よっぽど危険なのにね。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_wendy_lianjujinghunye_talk_002.ogg",
+            "text": "生きてるのが当然だと思ってる人間が多すぎるのさ……だから、分からせてやるよ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_wendy_lianjujinghunye_idle_001.ogg",
+            "text": "ウサギちゃん、ちゃんと隠れなきゃ～ウェンディが今行くよ～見つかっても悲鳴あげないでね～じゃないと舌を切り落としちゃうぞ～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_wendy_lianjujinghunye_clicking_001.ogg",
+            "text": "ははははは！こんなことしちゃって……元通りちゃんと生きていけると思ってるの？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_wendy_lianjujinghunye_specialattention_001.ogg",
+            "text": "ハハハハッ、見つかったか。ちょっとゲームをしようよ。緊張しないで、ほんのちょっとの努力と、諦める勇気があれば生き残れるさ。"
+        }
+    ],
+    "elegy_of_the_rust": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_wendy_xiuhewange_cacha_001.ogg",
+            "text": "ほら、アタシの昔の友達に挨拶して。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_wendy_xiuhewange_levelup_001.ogg",
+            "text": "ああ、このチェーンソーの音、懐かしい……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_wendy_xiuhewange_greeting_001.ogg",
+            "text": "しーっ……静かな錆の川……みんな寝てる……起こさないでね。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_wendy_xiuhewange_head_001.ogg",
+            "text": "この感覚と温度、懐かしいなぁ……前にもしてもらったことがあるような……今、頭を撫でてくれるのはあんただけだよ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_wendy_xiuhewange_talk_001.ogg",
+            "text": "錆の川にいたい人なんて誰もいないわ。ここには死瞳と化け物しかいない……クク、あとは葬儀屋についてくる変人が一人ね。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_wendy_xiuhewange_talk_002.ogg",
+            "text": "暗い色のマントは、汚いものを遮ってくれるし、最後の処理もしやすい。使い捨てのイヌに、いいリードなんていらないでしょ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_wendy_xiuhewange_hand_001.ogg",
+            "text": "みんなの名前はアタシが守る。誰かがアタシたちのことを覚えててくれるように……ああ、葬儀屋はどこに帰ればいいの……？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_wendy_xiuhewange_leg_001.ogg",
+            "text": "仲間はみんな眠った。アタシもいつか、彼らと一緒にこの汚い故郷で安らかに眠るの……その時、あんたもこうやってアタシに花束をくれる？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_wendy_xiuhewange_idle_001.ogg",
+            "text": "聞いて……錆の川に吹く風の音を。おやすみって言ってるよ……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_wendy_xiuhewange_specialattention_001.ogg",
+            "text": "いつもそうやってアタシを見てるから、あんたにも錆の川の匂いがついちゃったのかな？クク……あんたはやっぱり……アタシの仲間だ……"
+        }
+    ]
+}

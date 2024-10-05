@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_peggy_cacha_001.ogg",
+            "text": "シンジケート城、ラップ浪人登場。お前ナニサマ、その間抜けな様。\nお前のその生きざま、許さん勝手気まま。骸骨に砲口、弾丸が咆哮——"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_peggy_promotion_001.ogg",
+            "text": "新曲のアイデアが！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_peggy_promotion2_001.ogg",
+            "text": "これこそスーパースターの待遇だ！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_peggy_levelup_002.ogg",
+            "text": "リリックが滑らかになった！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_peggy_battlebegin_001.ogg",
+            "text": "あたしのリズムについてこい！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_peggy_battlewin_001.ogg",
+            "text": "あたしに勝ちたい？寝言は寝てから言え！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_peggy_battlelose_001.ogg",
+            "text": "あ——即興ってミスが伴うもんだよ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_peggy_uniqueskill_001.ogg",
+            "text": "Drop the beat！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_peggy_dead_001.ogg",
+            "text": "ひ……ヒップホップじゃないぜ……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_peggy_talk1_001.ogg",
+            "text": "金のネックレスってやっぱいいよな。逃亡中は金に換えられるし、ケンカじゃ武器としても使える……なんでラッパー仲間はダイヤのほうが好きなんだろうな……。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_peggy_talk1_002.ogg",
+            "text": "ミキサーはいつ貰えるんだ？ラップ界のスーパースターとして、このくそレコーダーで作曲なんて情けないだろ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_peggy_talk1_003.ogg",
+            "text": "室内でサングラスを付けるやつは大嫌いだね。ラッパーとしてどうよ？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_peggy_talk2_001.ogg",
+            "text": "ニューシティのくそ野郎どもが！何が弁護士だ！何が条例だ！？つまり金は払わねえってことだろ！？だからあたしは殴り込んでオーナーの顔をボコボコにしてやったぜ！ すっきりした！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_peggy_talk2_002.ogg",
+            "text": "人をディスるためにわざわざ曲を？そんなのつまんねえよ。あたしの作品に名前が出てもいいのは局長くらいだ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_peggy_talk2_003.ogg",
+            "text": "新しいレーベルを作ろうぜ！「MBCC」ってのはどうだ？あたしが創設者で、あんたが最初の歌手だ！できないとか言うなよ？教えてやるよ、簡単だからさ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_peggy_obeyfull_001.ogg",
+            "text": "シンジケートを出てからロクな奴がいないなって思ってたけど、あんたは……シンジケートの出じゃないのに、ちゃんと会話ができたのは、あんたが初めてだ。子分にしてやるよ！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_peggy_greeting_001.ogg",
+            "text": "よっ。来たか？早く水をくれ。リリック書いてたら喉乾いたんだよ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_peggy_idle_001.ogg",
+            "text": "ラップはフリー、わざとはタブー。燃えるリリックと、ループがすべて。あふれ出すインスピレーション、不敗のバトルはセンセーション。あたしは天国、お前は地獄。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_peggy_clicking_001.ogg",
+            "text": "お前どこ触ってんだ？死にてえのか！？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_peggy_dispatch_001.ogg",
+            "text": "このスーパースターをパシリに使うなんて、どうかしてるって！"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_peggy_dispatch2_001.ogg",
+            "text": "終わったぜ！すごいだろ？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_peggy_specialattention_001.ogg",
+            "text": "よっ。あたしのラップが聞きたいのか？それ以外に何があるんだよ？まさか仕事をさせようってわけじゃないだろ？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_peggy_jointeam_001.ogg",
+            "text": "あたしのリリックに、失敗の文字はない。"
+        }
+    ]
+}

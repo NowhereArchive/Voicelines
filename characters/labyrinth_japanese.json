@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Level Start",
+            "filename": "File:vo_labyrinth_battlebegin_001.ogg",
+            "text": "指令を承りました。実行準備中です。"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_labyrinth_cacha_001.ogg",
+            "text": "家庭用Ⅲ型AIメイド、ラビリンスでございます。どうぞ何なりとお申し付けください。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_labyrinth_promotion_001.ogg",
+            "text": "「これを着れば強くなれる？」家事の効率を向上させられるのであれば、直ちにインストールいたします。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_labyrinth_promotion2_001.ogg",
+            "text": "機体強度が極限までアップしました。ご主人様を阻むものは全てこのラビリンスが排除いたしましょう。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_labyrinth_battlewin_001.ogg",
+            "text": "清掃を終了しました。家庭用モードに切り替えます。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_labyrinth_battlelose_001.ogg",
+            "text": "警告。バトルパラメータがオーバーフローしました。緊急撤退プロトコルを使用します。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_labyrinth_uniqueskill_001.ogg",
+            "text": "戦闘形態を起動します。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_labyrinth_dead_001.ogg",
+            "text": "……まだ……終わっては……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_labyrinth_greeting_001.ogg",
+            "text": "家庭用Ⅲ型AIメイド、ラビリンスをご使用いただき、ありがとうございます。何なりとお申し付けください。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_labyrinth_talk1_001.ogg",
+            "text": "ゴミを見つけた？申し訳ございません。ラビリンス、直ちに処分いたします。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_labyrinth_talk1_002.ogg",
+            "text": "ご主人様、何かお手伝いできることはありますか？お茶？食事？それとも、ラビリンスが肩たたきをして差し上げましょうか？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_labyrinth_talk1_003.ogg",
+            "text": "警告。刃の破損率が10%を超えました。作業に支障をきたさないよう、交換を申請します。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_labyrinth_talk2_001.ogg",
+            "text": "かわいいメイドユニットを起動しました。人称切替機能を解放します。局長への呼びかけ方を切り替えますか？ 局長殿？ 局長様？ それとも……ご主人様？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_labyrinth_talk2_002.ogg",
+            "text": "申し訳ございません、局長様。ラビリンスには表情モジュールが実装されていません。ですが、これだけは言えます。ラビリンスの現在の感情は、とても楽しい……でございます。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_labyrinth_talk2_003.ogg",
+            "text": "ラビリンスはかつてシンジケートと過去の自分を嫌っていました……ですが、今のラビリンスはもう過去のことで悩むことはありません。ラビリンスはご主人様と出会えましたので……"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_labyrinth_obeyfull_001.ogg",
+            "text": "好感度システムのダウンロードが完了いたしました。ラビリンスのご主人様に対する好感度を設定してください。選択できる好感度レベルは「Love」、「Love」、「Love」と「Love」の4つがございます。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_labyrinth_idle_001.ogg",
+            "text": "局長様……局長殿？ご主人様？そこに突っ立っておられてはラビリンスの作業の邪魔になります。それとも、何か御用がおありでしょうか？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_labyrinth_clicking_001.ogg",
+            "text": "触覚システムをオフにしました……どうぞ続けてくださいませ、ご主人様。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_labyrinth_specialattention_001.ogg",
+            "text": "発信源が検出されました。発信源、ご主人様。チャットユニットを起動します。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_labyrinth_dispatch_001.ogg",
+            "text": "任務を承りました。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_labyrinth_dispatch2_001.ogg",
+            "text": "任務が完了いたしました。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_labyrinth_levelup_002.ogg",
+            "text": "ハードウェアの更新中です。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_labyrinth_jointeam_001.ogg",
+            "text": "モードを切り替えます。作戦確認中です。"
+        }
+    ],
+    "fortune_and_prosperity": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_cacha_001.ogg",
+            "text": "「福隆レストラン」へようこそ。当店は、定番の家庭料理から新鮮な海鮮まで、なんでも揃っています。ピピ——お食事の際の注意事項。店内は禁煙です。お煙草の持ち込みはご遠慮ください。ご協力をお願いいたします。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_greeting_001.ogg",
+            "text": "お客様、いらっしゃいませ。どうぞこちらへ。申し訳ございませんが、ラビリンスは只今手が空いておりません。テーブルにある二次元コードを読み取ると注文していただけますので、ご協力をお願いいたします。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_talk_001.ogg",
+            "text": "営業時間中、用もなく店員を呼ばないでください。ピピ——音量を下げます。局長、任務はまだ続行中です。身分を明かさないでください。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_talk_002.ogg",
+            "text": "ここにはラビリンスが必要です。人のお役に立て、ラビリンスは嬉しいです。ラビリンスは、ここが好きです。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_idle_001.ogg",
+            "text": "第一段階の仕事が完了。現在の売り上げは、77,777ディスコイン。縁起のいい数字ですね、局長。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_clicking_001.ogg",
+            "text": "ウェイトレスを叩いたり、攻撃したりしないでください。損害が発生した場合、賠償額が10倍になります。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_levelup_001.ogg",
+            "text": "配膳効率が上昇しました。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_labyrinth_fortune_and_prosperity_specialattention_001.ogg",
+            "text": "ターゲットはまだ現れていません。局長、安心してください。他にご用がなければ、入り口を塞いでお客様の出入りを邪魔しないでください。ご協力をお願いいたします。"
+        }
+    ]
+}

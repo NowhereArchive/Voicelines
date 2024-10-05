@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_uni_cacha_001.ogg",
+            "text": "わざわざ遠くから私を拐かして……自分の顔が気に入っていないのか？安心するといい。少なくとも、君の瞳は悪くない。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_uni_promotion_001.ogg",
+            "text": "強くなるのは構わないが、本当に必要なことなのか？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_uni_promotion2_001.ogg",
+            "text": "鏡像は人の心のようだ。教えてほしい。私の鏡に映っているのは人か？それとも欲望か？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_uni_battlebegin_001.ogg",
+            "text": "来るといい。まだ救いがあるか見てみよう。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_uni_battlewin_001.ogg",
+            "text": "あまり楽しそうに笑うと、目尻に皺ができるぞ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_uni_battlelose_001.ogg",
+            "text": "負け犬と脱走兵。まさに運命的な組み合わせだね。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_uni_uniqueskill_001.ogg",
+            "text": "己の醜さをよく見ろ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_uni_dead_001.ogg",
+            "text": "私は……彼女を連れ戻す……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_uni_greeting_001.ogg",
+            "text": "今日も君の瞳は美しいね。緊張しなくていい。枷がある限り、私は何もできないのだから。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_uni_talk1_001.ogg",
+            "text": "全てをあるべき場所で保持するのは、難しいことなのか？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_uni_talk1_002.ogg",
+            "text": "額幅で縦三等分、目幅で横五等分。黄金比だ。この顔は彼らにとって最も価値あるものだというのに、なぜ急いで売ろうとするんだ？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_uni_talk1_003.ogg",
+            "text": "私の鏡には見た者が最も望む顔が映るのだが、君の欲望はよく見えないな。局長、君は本当に何も求めていないのか？……それとも、他の企みがあるのか？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_uni_talk2_001.ogg",
+            "text": "娯楽はニューシティの勲章であり、美しい顔はこのお祭り騒ぎの入場チケットだ。夢の実現には、代償を払わなければならない——私たちは、互いに協力してそれぞれの目的を達成しよう。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_uni_talk2_002.ogg",
+            "text": "明日のスター？はっ、そういった量産型が好みなのか？能力を使わずとも、彼らの望みは分かる。月並みなセンスにマンネリ顔……死瞳の方がマシだよ。少なくとも、それぞれ違った醜さがある。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_uni_talk2_003.ogg",
+            "text": "外見は自由に調整できるが、瞳は無理だ。一度目の表情が死ねば、希少価値はなくなる……だが、君は違うね。私のものになる気はないか？できるだけ優しくしよう。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_uni_obeyfull_001.ogg",
+            "text": "君を見ていると、ある人のことを思い出す……誠実で、情熱的で、太陽のような目で私を、私だけをずっと見つめてくれる人だ。君の目も、永遠に私の元に留まってくれるか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_uni_idle_001.ogg",
+            "text": "……足りないのは瞳だけだ。もう少し待ってくれ。すぐにあなたを連れ戻すから……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_uni_clicking_001.ogg",
+            "text": "私も、君には近づいてもらいたいが……これは近すぎないか？落ち着け、行動には気をつけるんだ。まだナイチンゲール副官がいるのだから。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_uni_specialattention_001.ogg",
+            "text": "ふむ……君にとって、最も特別なのは私なのか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_uni_dispatch_001.ogg",
+            "text": "手術以外の仕事？それなら別料金だ。忘れずに支払うように。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_uni_dispatch2_001.ogg",
+            "text": "ん？こんな小さなゴミで、それほど喜ぶのか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_uni_levelup_002.ogg",
+            "text": "これは、おまけのようなものだ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_uni_jointeam_001.ogg",
+            "text": "君に人の心はないのか？これほど多くの醜いものを私に見せるな。"
+        }
+    ],
+    "guise_into_life": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_uni_zhuanggumoying_cacha_001.ogg",
+            "text": "国色天香でも美冠玉の如しでも、何でも言ってくれ。この皮にどんな美しさを描いてほしいんだ？必ず君を満足させよう。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_uni_zhuanggumoying_levelup_001.ogg",
+            "text": "昔は、皮や肉や骨を描いてきた……これからは、精神や気質を描くことができる。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_uni_zhuanggumoying_greeting_001.ogg",
+            "text": "毎日私の所に来ているが、なりたい美しい顔を見つけたのか？忠告しておくが、こうした量産型の美しさは君の瞳にふさわしくない。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_uni_zhuanggumoying_talk_001.ogg",
+            "text": "良い皮を描きたければ、老いも若きも、美しきも醜きも見なければならないし、艶やかな顔にも枯れた骨にも触れなければならない。そうでなければ、抜け目ない人間を欺くことも、愚かな願望も叶えることもできないだろう。つまり、商売にならないんだよ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_uni_zhuanggumoying_talk_002.ogg",
+            "text": "ここでのルールは皮だけを描くこと。瞳は描かない。どんなに美しい顔を描いても、地上に戻れば自分の目しか使えないのだから。はぁ、魚や雁が圧倒されるほどの皮を描くのは簡単だが、花も恥じらい月も隠れるような瞳には滅多に出会えない。君のような澄んだ瞳は世界にいくつあるのだろうか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_uni_zhuanggumoying_idle_001.ogg",
+            "text": "頬骨はもう少し描いてもよさそうだが……期待していたほどではないな。骨の作りに問題があるのかもしれない。一からやり直すか……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_uni_zhuanggumoying_clicking_001.ogg",
+            "text": "ここで勝手に動いたり私の袖を引っ張ったりしないでくれ。もし私の手が震えてそばかすだらけの顔ができたら、依頼者が夜中に君のベッドに忍び込んで怒鳴るだろうね。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_uni_zhuanggumoying_specialattention_001.ogg",
+            "text": "私の仕事姿が好き？それなら、ただ傍で見ていればいい。私の邪魔はしないでくれ。そうでなければ……君の顔の最も美しい部分を、私のものにするぞ。"
+        }
+    ]
+}

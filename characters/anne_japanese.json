@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_anne_cacha_001.ogg",
+            "text": "これからどうぞよろしくお願いします……\nはぁ……私がいなくても、彼岸の患者さんたちはちゃんと薬を飲んでるかしら？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_anne_promotion_001.ogg",
+            "text": "今の私を見たら、あの人はびっくりするでしょうね？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_anne_promotion2_001.ogg",
+            "text": "あの時にこんな力を持っていたら、もう少し彼らの痛みを和らげることができたのかもしれませんね……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_anne_battlebegin_001.ogg",
+            "text": "準備はいいですか？それでは出発しましょう。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_anne_battlewin_001.ogg",
+            "text": "無事で何よりです。私は何もしていませんよ。皆さんが頑張った結果です。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_anne_battlelose_001.ogg",
+            "text": "気を落とさないでください。これはあなたのせいじゃありません。あなたはよく頑張っていましたよ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_anne_uniqueskill_001.ogg",
+            "text": "は～い、注射の時間ですよ～"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_anne_dead_001.ogg",
+            "text": "あなたは必ず……生き延びてください……。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_anne_greeting_001.ogg",
+            "text": "局長さん、何かお手伝いすることがあればいつでも言ってください。私の前では無理をしなくてもいいんですからね？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_anne_talk1_001.ogg",
+            "text": "人の悩みを聞くのも看護師長の役目です。私でよければ、いつでもお話を聞きますよ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_anne_talk1_002.ogg",
+            "text": "局長さんの微笑みは皆さんの元気の素なんですよ。だからもっと笑ってください。笑うとかわいいんですから。私が保証します。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_anne_talk1_003.ogg",
+            "text": "ふふ、確かにアインは怖い時もありますが……彼女は決して悪い人ではありません。私が保証します。彼女なりに理由があって行動しているはずです。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_anne_talk2_001.ogg",
+            "text": "子供って本当にかわいいですよね。天真爛漫で、悩みがなくて、単純で……ふふ、局長さんと同じで、つい守りたくなってしまいます。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_anne_talk2_002.ogg",
+            "text": "「アン姉さん、ずっと笑ってるのって疲れないの？」とビクトリアさんによく聞かれます。はぁ……局長さんも気をつけてください。あの子は意外と鋭いんですよ。私は返す言葉が見つかりませんでした。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_anne_talk2_003.ogg",
+            "text": "狂瞳病は本当に治るんでしょうか？私には分かりません。ですが、可能性がわずかでもある限り私は諦めません。これは厳しい持久戦になるでしょう。それでも一緒に……戦ってくれますか？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_anne_obeyfull_001.ogg",
+            "text": "あの……もっと私を頼ってくださっていいんですよ？ 患者さんと関係があってもなくても、あなたのためなら、力になりたいんです。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_anne_idle_001.ogg",
+            "text": "こんなところで寝てしまうなんて……昨日も遅くまで仕事をされていたようですね？……ふふ、お疲れさまでした、局長さん。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_anne_clicking_001.ogg",
+            "text": "局長さん、ダメですよ。怒りますからね。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_anne_specialattention_001.ogg",
+            "text": "どうかしましたか？もしかして、私を見ているとドキドキしちゃうのかしら？\nふふ……はいはい、それじゃあもう少し見ていても構いませんよ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_anne_dispatch_001.ogg",
+            "text": "ひとまず、管理局の負傷者はお願いしますね。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_anne_dispatch2_001.ogg",
+            "text": "ただいま戻りました。私がいない間、患者さんたちはちゃんと湿布を取り換えていましたか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_anne_levelup_002.ogg",
+            "text": "お気遣い、ありがとうございます。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_anne_jointeam_001.ogg",
+            "text": "安心してください。局長さんを危険にさらしたりなんてしませんよ。"
+        }
+    ],
+    "steamy_night_chat": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_anne_steamy_night_chat_cacha_001.ogg",
+            "text": "部屋が散らかっていてごめんなさい。片付ける時間がなかったので……ふふ、不意打ちされたのは私なのに、どうしてあなたが顔を赤くしているのですか？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_anne_steamy_night_chat_greeting_001.ogg",
+            "text": "やっぱり、お風呂に入るとお腹が空きますね。ん～餃子のいい匂い。一緒に食べませんか？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_anne_steamy_night_chat_talk_001.ogg",
+            "text": "彼らが生き延びるチャンスが増えるなら、大変でもやる意味はあります……それに、ここに戻ってくると疲れを洗い流してゆっくり休めますから～"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_anne_steamy_night_chat_talk_002.ogg",
+            "text": "え？私が忙しくて夕飯を食べていないことを心配してくれたのですか？ふふ……安心してください。自分の面倒は見られますよ。逆に私がいない間、局長はちゃんとご飯を食べて休んでいましたか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_anne_steamy_night_chat_idle_001.ogg",
+            "text": "少し眠いですね。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_anne_steamy_night_chat_clicking_001.ogg",
+            "text": "髪を拭いてくれるのですか？それなら、引っ張らないように気をつけてくださいね。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_anne_steamy_night_chat_levelup_001.ogg",
+            "text": "温かいお風呂は、疲労回復に効果的ですよ～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_anne_steamy_night_chat_specialattention_001.ogg",
+            "text": "私からいい匂いがする？ローズオイルを使っているからかもしれません。心をリラックスさせ、疲れを癒やすのに役立つのですよ……ふふ、ちょっと眠くなってきましたか？でなければ、どうしてずっと私を見ているのでしょうか？"
+        }
+    ],
+    "glistening_raindrops": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_anne_yeyuweiguang_levelup_001.ogg",
+            "text": "応急処置は完了しました。患者さんは今のところ問題ありません。"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_anne_yeyuweiguang_cacha_001.ogg",
+            "text": "すみません、突然パーティーを抜けてしまって……「ドアの外で突然気を失った人がいる。誰か応急処置ができる人はいないか」とウェイターが言っていたので、手伝えることがないか見に来たんです。応急処置は完了して、患者さんも無事なのでご安心ください。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_anne_yeyuweiguang_greeting_001.ogg",
+            "text": "お待たせしました。こちらの用事は終わりましたので、パーティー会場に戻りましょう。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_anne_yeyuweiguang_talk_001.ogg",
+            "text": "あの患者さんのバイタルサインはもう問題ありません。血圧、心拍数、体温は全て正常に戻っていますし、救急隊員があの人の友人に連絡すると思うので、あまり心配しないでください。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_anne_yeyuweiguang_talk_002.ogg",
+            "text": "どんなドレスを着ていようと、高価なアクセサリーをつけていようと、命を救うことが私の一番の本能なのです。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_anne_yeyuweiguang_idle_001.ogg",
+            "text": "ああ……ドレスの裾が泥だらけですね。このままパーティーに戻るのは少し失礼でしょうか。一度着替えに戻った方がいいかしら……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_anne_yeyuweiguang_clicking_001.ogg",
+            "text": "私のドレスの裾は汚れているので、泥がつかないように気をつけてくださいね局長さん。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_anne_yeyuweiguang_specialattention_001.ogg",
+            "text": "心配してくださってありがとうございます。安心してください、私は大丈夫です。ただ少し精神的に疲れているだけで……休めば問題ありません。"
+        }
+    ]
+}

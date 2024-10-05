@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_iron_cacha_001.ogg",
+            "text": "シンジケートの暴徒たちを野放しにしておいて、人助けをする医者を捕まえるの？ふん、MBCCって本当に善悪の区別がついてないのね。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_iron_promotion_001.ogg",
+            "text": "努力はしたけど、機械の義手を筋肉の神経と完全に融合させるのは、そう簡単にできることじゃないわ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_iron_promotion2_001.ogg",
+            "text": "狂瞳病を完全に治すという理想が、もうすぐ実現するわ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_iron_battlebegin_001.ogg",
+            "text": "汚染物には触らないで。ついてきて。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_iron_battlewin_001.ogg",
+            "text": "手術は成功よ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_iron_battlelose_001.ogg",
+            "text": "負傷者の救助が最優先よ。撤退するわ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_iron_uniqueskill_001.ogg",
+            "text": "病巣切除！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_iron_dead_001.ogg",
+            "text": "患者にはまだ私が必要なの。ここで……倒れるわけには……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_iron_greeting_001.ogg",
+            "text": "来てるならさっさと仕事を始めるわよ。ぼーっと突っ立って時間を無駄にしないで。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_iron_talk1_001.ogg",
+            "text": "いつになったらあのコンビクトたちを何とかしてくれるの？ 喧嘩、酒、賭博……人を殺さないこと以外は、まるでもう一つのシンジケートと同じね。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_iron_talk1_002.ogg",
+            "text": "この世には、代償もなしに医学の才能を手に入れることはできないの。だから、自分が何をすべきかは……もうわかってる。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_iron_talk1_003.ogg",
+            "text": "人々が怖れているのは狂瞳病そのものじゃなくて、狂瞳病がもたらす暴力と死よ。そしてそれは私が罪を根絶やしにしたい理由でもあるわ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_iron_talk2_001.ogg",
+            "text": "患者にロボトミーを強制したことはないわ。死を前にして、生きたいと願う患者自身がそれを選んだのよ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_iron_talk2_002.ogg",
+            "text": "医術に関わる者なら、誰だって自分の患者が目の前で死ぬところを見たくはないわ。私も、アンも同じよ。だから……彼女を許してあげて。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_iron_talk2_003.ogg",
+            "text": "狂瞳病を抑え込むために、私は人の脳を切除する悪魔になった。自分の理性を保つために左腕を犠牲にしたように、利害を考慮したうえで選択したまでよ。だから、別に後悔はしてないわ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_iron_obeyfull_001.ogg",
+            "text": "私と一緒に来るつもりなら、忠告しておかないといけないわね——ロボトミー手術が終われば後悔をすることができないの。狂瞳病を抑えるためには、大きなリスクと汚名を背負う必要があるわ。それでも、きみは私と一緒に戦ってくれる？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_iron_idle_001.ogg",
+            "text": "犯罪者が外で暴れているのに、MBCCの局長は仕事中に居眠りをしてるなんて……このディスシティ、ちゃんと整備しておかないといけないわね。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_iron_clicking_001.ogg",
+            "text": "ドーパミンが過剰に分泌されてるわね。開頭して検査してあげましょうか。ふっ、本気で言ってるのよ。試してみる？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_iron_specialattention_001.ogg",
+            "text": "狂瞳病にかかっていないのに私のところに来る人は、きみが初めてよ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_iron_dispatch_001.ogg",
+            "text": "狂瞳病の患者を治療する時間は貴重なのよ。そんな些細なことで私の手を煩わさないでほしいわね。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_iron_dispatch2_001.ogg",
+            "text": "謝辞はいいわ。医学と関係のないことには興味がないの。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_iron_levelup_002.ogg",
+            "text": "これで満足したの？まだ向上の余地があるから、続けるわよ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_iron_jointeam_001.ogg",
+            "text": "言っておくけど、医者の指示に従わない人間は助けないわよ。"
+        }
+    ],
+    "dr__ironstein": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_iron_jinjiguaiyi_cacha_001.ogg",
+            "text": "何をチラチラと見ているの？今日は特別診察日だから、いつもと違うだけよ。安心して入ってきなさい。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_iron_jinjiguaiyi_levelup_001.ogg",
+            "text": "縫合範囲確定。続けるわよ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_iron_jinjiguaiyi_greeting_001.ogg",
+            "text": "あそこで横になって。きみのか弱い身体を釘で固定する必要があるかどうか、ゆっくり検査させてちょうだい。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_iron_jinjiguaiyi_talk_001.ogg",
+            "text": "常に重々しくならないよう、服装を変えることをアンに勧められたわ。そうしないと、患者がプレッシャーを感じて問診に影響が出ると……ふん、どうやら効果はないようね。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_iron_jinjiguaiyi_talk_002.ogg",
+            "text": "医学に精通している点は共通しているけれど、私はあの死者を縫い合わせて怪物にする科学者とは違うわ。彼は死から生を創造しようと考えた。でも私の職責は、死を阻止することよ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_iron_jinjiguaiyi_idle_001.ogg",
+            "text": "室温は正常なのに、診察を待つ患者たちに震盪の症状があるのはなぜかしら？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_iron_jinjiguaiyi_clicking_001.ogg",
+            "text": "医療用のインクで縫合痕を描いただけよ。そんなに大げさに騒がないで。気に入ったのなら、今度は本物の傷痕にしてあげるわ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_iron_jinjiguaiyi_specialattention_001.ogg",
+            "text": "確かに金属で脳組織を繋げて、脳を動かし続ける治療法はあったわ。そんな風に私を見ているということは、試したいのかしら？"
+        }
+    ]
+}

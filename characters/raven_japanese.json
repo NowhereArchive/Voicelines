@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_raven_cacha_001.ogg",
+            "text": "おやおや、私はしがない記者だ。捕まるいわれはないが？もしや……お前の秘密を記事にしてしまったせいか？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_raven_promotion_001.ogg",
+            "text": "ご依頼、承った。しっかり書かせてもらうよ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_raven_promotion2_001.ogg",
+            "text": "ほう、歴史に残る瞬間だ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_raven_battlebegin_001.ogg",
+            "text": "面白いネタに出会えると良いのだが。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_raven_battlewin_001.ogg",
+            "text": "「MBCCコンビクト、完勝！」——いいタイトルだろう？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_raven_battlelose_001.ogg",
+            "text": "ゴホン……以前の取材相手と同じくらいやりにくい奴だな……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_raven_uniqueskill_001.ogg",
+            "text": "Nevermore！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_raven_dead_001.ogg",
+            "text": "ははっ……私の死は、人々の記憶に残るだろうか……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_raven_greeting_001.ogg",
+            "text": "ん？ああ、徹夜していたわけではない。朝一番にお前に会いたかっただけだ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_raven_talk1_001.ogg",
+            "text": "私の執筆料は手頃だぞ。さあ、何を依頼したい？ゴシップか？それとも著名人の不祥事か？それとも……ラブレターとか？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_raven_talk1_002.ogg",
+            "text": "狂人？お前は分かっているはずだ。我々詩人は、ほとんど狂っている。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_raven_talk1_003.ogg",
+            "text": "記事に善悪はないのだよ。正しいかどうかなど、重要ではないだろう？今のシンジケートで……そんなものに価値はないのだから。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_raven_talk2_001.ogg",
+            "text": "ここが日々変化していることは認識している。これからどこへ向かうのか……お前はどう思う？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_raven_talk2_002.ogg",
+            "text": "犬猫探しのチラシなど書かない。どうしてもと言うなら、そうだな……「MBCCの局長が謎の美人に一目惚れ！？、小さな新聞社に押しかけ居候中」と書いてやろう。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_raven_talk2_003.ogg",
+            "text": "言葉と文字には力がある。その響きの全ては、世界に対する私の反逆だ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_raven_obeyfull_001.ogg",
+            "text": "私はこのペンでシンジケートの全てを刻み、やがてお前が現れる時に……駄目だな、この詩は失敗作だ。まあ、気持ちが伝わるなら構わないか。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_raven_idle_001.ogg",
+            "text": "退屈な一日だ。この世界に捧ぐ詩でも詠もうか。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_raven_clicking_001.ogg",
+            "text": "斬新な催促だな？もういい、お前の依頼は受けんよ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_raven_specialattention_001.ogg",
+            "text": "おや——私にそこまで興味があったとは。自分がどう書かれているのか気になるか？心配するな。私の記事は完璧だ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_raven_dispatch_001.ogg",
+            "text": "昔は取材で各地を飛び回るのが大好きだった。膝に銃弾を受けるまではね……"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_raven_dispatch2_001.ogg",
+            "text": "疲れたな……だが、それに見合う収穫は得た。この世界には、まだまだ面白い事が溢れているようだ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_raven_levelup_002.ogg",
+            "text": "「カラス」が喜んでいるな。ああ、私のことではない。この子のことだ。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_raven_head_001.ogg",
+            "text": "これは傷跡ではない……これは私の勲章。狂人となった勲章なのだ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_raven_jointeam_001.ogg",
+            "text": "私の墓に、酒と薔薇を供えてくれたのは誰だい？"
+        }
+    ],
+    "arnheim_athenaeum": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_raven_aenhaimuzhiguan_cacha_001.ogg",
+            "text": "おや、私をここで千年も待たせたのはお前か。私を慕う観察者なのか？それならサインをしてやろう。どうだ？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_raven_aenhaimuzhiguan_levelup_001.ogg",
+            "text": "教えてくれ。他にどんな秘密が欲しいんだ？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_raven_aenhaimuzhiguan_greeting_001.ogg",
+            "text": "この世界の未来を知りたいのか、それとも過去の歴史が語る真理を知りたいのか、どちらだ？さぁ、探しに連れて行ってやろう……待て、前の持ち主はあの本をどこに置いただろうか……？え？前だと？あぁ、また「前の持ち主」と言ってしまったか？聞き間違いさ……あはは～"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_raven_aenhaimuzhiguan_talk_001.ogg",
+            "text": "困った時、何か面倒が起きた時は、図書館に来るといい。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_raven_aenhaimuzhiguan_talk_002.ogg",
+            "text": "ここで読書をしているカラスを見かけても驚かないでくれ。前の持ち主が宝を見に戻ってきたのかもしれないのだよ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_raven_aenhaimuzhiguan_idle_001.ogg",
+            "text": "ルールによると、この図書館が答えられる内容なら私は何でも答えるが、質問は1ターンにつき3回までだ。よく考えて質問するように～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_raven_aenhaimuzhiguan_clicking_001.ogg",
+            "text": "おやおや、これは世界のルールが仕立てた服だぞ。それをお前は……チッ、この服はアイティがレンタルしたものだ。高いから破かないよう気をつけてくれ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_raven_aenhaimuzhiguan_specialattention_001.ogg",
+            "text": "私が誰なのか興味があるようだな？お前の「古い友人」とよく似ているのか？"
+        }
+    ]
+}
