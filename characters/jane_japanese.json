@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_jane_cacha_001.ogg",
+            "text": "こんにちは、あたしはジェイン。見ての通りのコンビクトだ。あの……ここはコンビクトたちが仕事を見つけられる場所か？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_jane_promotion_001.ogg",
+            "text": "強くなれば給料も上がるんだよな？上がらなかったら、もう1回金庫に取りに行くしかない。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_jane_promotion2_001.ogg",
+            "text": "これで十分だ……犯した過ちは、自分で償わないと。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_jane_battlebegin_001.ogg",
+            "text": "さぁ……ようやく戦いを楽しむ時間だ……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_jane_battlewin_001.ogg",
+            "text": "弱いな。数発撃っただけで動かなくなるなんて。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_jane_battlelose_001.ogg",
+            "text": "次こそは……次こそは、死瞳たちをバラバラに吹き飛ばしてやる。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_jane_uniqueskill_001.ogg",
+            "text": "じゃあな、虫けらども。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_jane_dead_001.ogg",
+            "text": "これは……あたしへの罰だ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_jane_greeting_001.ogg",
+            "text": "あたしに合う任務はあるか？できればソロだとありがたい。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_jane_talk1_001.ogg",
+            "text": "なぜこの武器を使うのかって？シンプルで効率的だからだ。まず特製の手榴弾を銃身に装填する。ボルトハンドルをロックした後、照準を合わせて発射したら、任務完了だ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_jane_talk1_002.ogg",
+            "text": "この弾丸は家族が残してくれたものなんだ。あたしが弾丸のように勇敢になって、あらゆる困難を突破できるようにって。もちろん、自分のコントロールがきかなくなった時の最後の保険でもある。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_jane_talk1_003.ogg",
+            "text": "任務中、あたしは武器にも道具にもなれる。あなたが思いつくものなら何でも……法に触れず、報酬が妥当であればな。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_jane_talk2_001.ogg",
+            "text": "どんなに傷ついても、それがあたしの贖罪であって、誰のせいでもない。あなたは……あたしみたいな人間をそこまで気にしなくていい……あたしは全部上手くいくように頑張る。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_jane_talk2_002.ogg",
+            "text": "あたしは本当にダメな人間だ……いつも破壊と破滅から満足感を得ている。あなたはきっと……あたしを変な奴だと思ってるよな。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_jane_talk2_003.ogg",
+            "text": "MBCCと局長に助けてもらったおかげで、あたしの家族は無事にニューシティに戻れた……2～3日したら、会いに行こうと思ってる。え！？あ、あなたも行くのか？それは……ちょっと……早すぎないか？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_jane_obeyfull_001.ogg",
+            "text": "もしあの時あたしがもっと理性的だったら、全部違っていたと思うか？あぁ……また考えすぎたな。分かってる。この世の選択肢に「もしも」なんてない。あるのは結果だけ……でも幸い、あたしの選択の中であなたが一番正しい答えだ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_jane_idle_001.ogg",
+            "text": "……8、9、10……これだけ用意すれば十分だろう。いや……念のため、もう少し他の弾丸も用意しておくか……前回の任務中、浴火の者を1体仕留めるのに時間がかかったからな。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_jane_clicking_001.ogg",
+            "text": "……ちょっとくすぐったい。 集中してる時はやめてくれ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_jane_specialattention_001.ogg",
+            "text": "あたしとは距離を置いてほしい……気になっても、そんなに近づかないでくれ……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_jane_dispatch_001.ogg",
+            "text": "銀行以外の所なら問題ない。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_jane_dispatch2_001.ogg",
+            "text": "予想よりも簡単だった。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_jane_levelup_002.ogg",
+            "text": "弾もあたしと一緒に強くなれたらいいのに。死瞳の中には皮がすごく硬い奴がいるんだ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_jane_jointeam_001.ogg",
+            "text": "Let me be clear, if you insist on putting me on the battlefield, I can't be held responsible if anything goes haywire."
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_lamia_cacha_001.ogg",
+            "text": "全てが見えました。あなたの脆さ、疲れ、悲しみ……さぁ、私の元へいらっしゃい。あなたの悩みと葛藤を分けてください。そして私を、あなたの最も信頼できる仲間として受け入れてください……"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_lamia_promotion_001.ogg",
+            "text": "あなたの欲求から目を逸らさないで。あなたを救ってくれる人を裏切らないで。揺るぎない同行者は、最終的に夢にまで見た貴重な真珠を手に入れるでしょう。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_lamia_promotion2_001.ogg",
+            "text": "渦の中心に深く入った時、何が見えた？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_lamia_levelup_002.ogg",
+            "text": "何かを得るには対価が必要ですよ。十分な誠意を見せてください。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_lamia_battlebegin_001.ogg",
+            "text": "さぁ、私の罠を踏みなさい！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_lamia_battlewin_001.ogg",
+            "text": "私と敵対すれば、必ず大波に囚われ、永遠に空を見られなくなりますよ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_lamia_battlelose_001.ogg",
+            "text": "チッ……見破られたわ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_lamia_uniqueskill_001.ogg",
+            "text": "永遠に、ここに囚われなさい！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_lamia_dead_001.ogg",
+            "text": "ここで終わるわけにはいかない……私は……生きていたいの……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_lamia_talk1_001.ogg",
+            "text": "遥かなる深海を知っていますか？水底の古い文明、波でできた屋根、真珠で築かれた城壁……実は私、そこから来たんです。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_lamia_talk1_002.ogg",
+            "text": "しーっ……喋らないでください。電気もつけてはいけません……静かな暗闇だけが、私の心を落ち着かせてくれるのです……"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_lamia_talk1_003.ogg",
+            "text": "私の見た目？ふふ、言いたいことは分かるわ。「奇妙」「怖い」「普通じゃない」でしょ？どうせ私は化け物よ……え？「独特な美しさがある」？そ……そんなこと初めて言われたわ。あ、あなたは本当にそう思う？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_lamia_talk2_001.ogg",
+            "text": "かつて怪物だと嫌われていた時も、同行者から崇められている今も、本質的には変わらないわ……周りが何を思おうとどうでもいい。ただ、一つ知りたいことがあるの。あなたの目に、私はどう映ってるの？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_lamia_talk2_002.ogg",
+            "text": "この綺麗な子は、実はとっても凶暴な捕食者なのよ。同じ水槽にいた他の魚は、最終的にこの子の餌になった。それでも、この薄いガラスの中に囚われている……この子もきっと自由を求めてるのよね？"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_lamia_talk2_003.ogg",
+            "text": "実際、美しくて無害に見えるものほど危険だけど、多くの人がこの理屈を分かってないのよね。ようやく真実に気付いた時の、あの驚きと恐怖の表情……ふふ、これ以上に興奮するものなんてある？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_lamia_obeyfull_001.ogg",
+            "text": "私は自分の周りに無数の罠を仕掛け、近づいてくる人を嘘と幻覚で惑わしてきたわ。生きていく上で真心なんて必要なかったの。でもどうして……あなたが現れると、私の庇護下に入れるように大波と茨が道を作るのかしら？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_lamia_greeting_001.ogg",
+            "text": "あなたも私に質問しに来たんですか？……そんなに警戒しないでください。食べたりしませんよ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_lamia_idle_001.ogg",
+            "text": "ちょっと疲れちゃった。お風呂に入ろうかしら……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_lamia_clicking_001.ogg",
+            "text": "そうやって私に慌てて求めてきた人たちがどうなったか知ってる？何を考えてるの？もちろん願いを叶えてあげて、人生のあらゆる悩みから解放してあげたわ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_lamia_dispatch_001.ogg",
+            "text": "さて、まだ深い迷いの中にいる人たちを見に行きましょう。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_lamia_dispatch2_001.ogg",
+            "text": "う～ん、また祝福をたくさんの人に広められました。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lamia_specialattention_001.ogg",
+            "text": "そう、そうやって目を離さないで……波に包まれてるのを感じる？これで苦痛を洗い流し、平和を取り戻し、罪の跡を完全になくせるわ……"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_lamia_jointeam_001.ogg",
+            "text": "どんな願いでも、私に言ってくださいね。"
+        }
+    ],
+    "hushed_tides": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_lamia_chaoximiyu_levelup_001.ogg",
+            "text": "束縛を解いてくれてありがとうございます。"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_lamia_chaoximiyu_cacha_001.ogg",
+            "text": "どうか怖がらないで。私は……足が生えてきたばかりの……その、人魚なんです！そう、うっかり商人に捕まってここまで密かに運ばれてきました。でも、あなたの助けでなんとか逃げ出すことができたんです。私には、あたなを傷つける力もありませんし、そもそもそんなことしません。信じられないなら、私の涙でできた真珠を差し上げます……あなたが助けてくれるなら。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_lamia_chaoximiyu_greeting_001.ogg",
+            "text": "ちょうどいいタイミングで来ましたね、恩人さん。最近、帆船軍艦が黒海に到着したのをうっすら思い出しました。お探しの「イーヴィル・バロネス」号かもしれません。見に行ってみませんか？ご案内しますよ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_lamia_chaoximiyu_talk_001.ogg",
+            "text": "貪欲な人間たちは私の容姿、涙、血肉を欲して私を傷つけるのだと、長老たちにいつも教えられてきました。でも私は、人間の中にもあなたのような善良な人がいることを知っています。身も心も清らかで、その味はきっと……ああ、つまりあなたの願いはきっと叶うという意味です。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_lamia_chaoximiyu_talk_002.ogg",
+            "text": "望み通り船員になれたら、私の家に遊びに来てください。私たちは、母なる海の懐深くに住んでいます。珊瑚やタイマイで宮殿を飾り、ホラガイや亀の甲羅で音楽を奏でる……私たちを守ってくれる海流や渦が少し危険ですが、それだけです。あなたにとっては難しくないでしょう。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_lamia_chaoximiyu_idle_001.ogg",
+            "text": "私は深海で歌う。あなたを眠らせ、夢を叶え、私は空腹を満たすの。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_lamia_chaoximiyu_clicking_001.ogg",
+            "text": "いたっ……ああ、大丈夫です。あなたのせいじゃありません。前に海を漂う帆船や願いのボトルで負った時の傷なんです。自然に治るので心配しないでください……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lamia_chaoximiyu_specialattention_001.ogg",
+            "text": "やめて……私の足を見つめないで。生えてきたばかりで、脆弱なんです……でもすぐに成長できると思います。十分な愛情と……栄養があれば。"
+        }
+    ]
+}

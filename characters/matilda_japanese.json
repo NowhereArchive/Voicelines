@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_matilda_cacha_001.ogg",
+            "text": "異動だとおっしゃっていましたよね。これはどういうことですか？コンビクト……収容！？ちゃんと教えてください。私が一体何をしたというんですか！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_matilda_promotion_001.ogg",
+            "text": "お引き立ていただきありがとうございます。今後、更に精進します。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_matilda_promotion2_001.ogg",
+            "text": "これが今の私の限界なのかもしれません。いずれにせよ、信頼とサポートに感謝します。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_matilda_battlebegin_001.ogg",
+            "text": "チームの火力支援を行います。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_matilda_battlewin_001.ogg",
+            "text": "映像資料、収録完了。後ほど録画を見て、今回の戦闘の良し悪しを確認できます。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_matilda_battlelose_001.ogg",
+            "text": "攻撃をやめるな！局長の撤退を援護しろ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_matilda_uniqueskill_001.ogg",
+            "text": "火力制圧！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_matilda_dead_001.ogg",
+            "text": "戦線を維持……私のことは……気にしないで……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_matilda_greeting_001.ogg",
+            "text": "こんにちは、局長。本日の書類は整理済みです。大半が通常の調達申請と行動報告でした。簡単に目を通していただければ大丈夫です。上層部から送られてきた暗号化ファイルは個別に分類しましたので、早めの確認が必要かもしれません。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_matilda_talk1_001.ogg",
+            "text": "「物事が始まる前に、事前準備する機会を逃さないこと」。母から教わった言葉のおかげで、私は多くの困難を乗り越えられました。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_matilda_talk1_002.ogg",
+            "text": "ナイチンゲール先輩の仕事ぶりを見ると、私に足りないものがまだたくさんあると気付かされます。こんなに頼もしい副官の支持を得たあなたは、とても幸運ですね。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_matilda_talk1_003.ogg",
+            "text": "「10点は的の限界であり、私の限界ではない」。分かっています。かなり大それた言葉で、普段の私の……ええっと、スタイルには合っていません。しかし射撃に関してだけは、こうした自信を持てます。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_matilda_talk2_001.ogg",
+            "text": "再建委員会には確かに多くの問題があります。内部管理が機能せず、人員の編成も混乱している。正常に運営できているのはほとんど奇跡です……それでも、私はそこからたくさんのことを学びました。その経験をMBCCで役立てればと思っています。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_matilda_talk2_002.ogg",
+            "text": "綺麗な職場環境は心身の健康に繋がります。できれば、定期的にご自分の執務室を片付けていただきたいのですが……仕事が忙しいのは分かっていますので、私に任せていただいても構いません。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_matilda_talk2_003.ogg",
+            "text": "なるべく勤務時間と休憩時間を定め、時間通りに休んでください。残った仕事は部下に任せればいいのです。無理はしないでください。なんといっても……管理局全体が正常に機能するには、あなたの健康が必要不可欠ですから。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_matilda_obeyfull_001.ogg",
+            "text": "以前は、輝かしいエリートたちを前にすると、自分の努力など無意味だと思っていました。しかし今は違います。彼らと比べることなく、自分らしくいればいい。MBCCの皆さんが気付かせてくれました。皆さん、ありがとう。そしてあなたも、ありがとうございます。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_matilda_idle_001.ogg",
+            "text": "コーヒーはいかがですか？私が挽いたものです。コーヒー豆は家から……いえ、ニューシティから持ってきました。口当たりが良く、余計な渋みもありません。本当にいらないのですか？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_matilda_clicking_001.ogg",
+            "text": "このような行為は、ただちにやめてください！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_matilda_specialattention_001.ogg",
+            "text": "MBCC-S-745、コンビクト・マチルダです。指示をお願いします。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_matilda_dispatch_001.ogg",
+            "text": "任務完了まで8～24時間かかると推定されます。進捗は随時ご報告します。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_matilda_dispatch2_001.ogg",
+            "text": "後ほど行政部に任務報告を提出しますので、ご確認ください。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_matilda_levelup_002.ogg",
+            "text": "力が増すということは、責任も更に重くなるということです。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_matilda_jointeam_001.ogg",
+            "text": "あまりにも高リスクな司令を出さないでください。行動の結果に関わらず、私達はあなたの安全を保証しなければならないのですから。"
+        }
+    ]
+}

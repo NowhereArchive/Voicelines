@@ -1,0 +1,228 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_nox_cacha_001.ogg",
+            "text": "あなたたちを蝕む苦しみと、狂気が……見える……"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_nox_promotion_001.ogg",
+            "text": "強大なコンビクトほど……破滅に近づく……"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_nox_promotion2_001.ogg",
+            "text": "深淵は、もはや私の檻ではない。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_nox_battlebegin_001.ogg",
+            "text": "深淵の呼びかけが聞こえた……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_nox_battlewin_001.ogg",
+            "text": "もう苦しまなくていい……これで……いい。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_nox_battlelose_001.ogg",
+            "text": "いや、まだ安らかに眠ってはいない……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_nox_uniqueskill_001.ogg",
+            "text": "死こそあなたたちの帰る場所だ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_nox_dead_001.ogg",
+            "text": "私は……死にたく……ない……！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_nox_greeting_001.ogg",
+            "text": "もう少しで、私はまたあの声に飲み込まれるところだった。よかった……貴方が来てくれて。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_nox_talk1_001.ogg",
+            "text": "この剣に染み込んだ血を……私は決して忘れない。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_nox_talk1_002.ogg",
+            "text": "「死神」——コンビクトは私をそう呼ぶ。私は……この呼ばれ方が好きだ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_nox_talk1_003.ogg",
+            "text": "この体にはかつて魂があったが、彼女の記憶も名前も深淵に飲み込まれてしまった。私は彼女ではない……彼女の残骸に過ぎない。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_nox_talk2_001.ogg",
+            "text": "こんな姿になっても……悪いことばかりではない。もし感染していなかったら、私は普通に歩くことさえできなかったはずだ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_nox_talk2_002.ogg",
+            "text": "朝日が東から昇り、窓に光が差し込み、私の上に降り注いだことを覚えている。それは私が待ち望んでいた瞬間だった。あれは一体……いつの記憶なのだろう。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_nox_talk2_003.ogg",
+            "text": "私にとって、貴方がいる限り、死は……唯一の答えでは無くなる。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_nox_obeyfull_001.ogg",
+            "text": "貴方は私に多くの……知らなかった感情を気づかせてくれた。貴方が来るのが楽しみになり、もっと貴方の話が聞きたい、貴方の笑顔が見たいと思うようになった。こんな気持ちを過去の私は持っていたのか……？今は……貴方のそばにいたい。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_nox_idle_001.ogg",
+            "text": "ああ、聞こえた……苦しいんだろう？安心して……すぐに解放してあげるから。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_nox_clicking_001.ogg",
+            "text": "そんなことをしても意味がない。私の体はとっくに……何も感じなくなっている。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_nox_specialattention_001.ogg",
+            "text": "私みたいな……化け物と、一緒にいてくれるのか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_nox_dispatch_001.ogg",
+            "text": "貴方のためなら、この世を駆け回ってもいい。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_nox_dispatch2_001.ogg",
+            "text": "この結果は、貴方の期待に応えられている？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_nox_levelup_002.ogg",
+            "text": "また一歩近づいた……"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_nox_head_001.ogg",
+            "text": "そんなことしないで。……危険だから。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_nox_jointeam_001.ogg",
+            "text": "救済を与える……"
+        }
+    ],
+    "ashen_prayer": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_nox_ashen_prayer_cacha_001.ogg",
+            "text": "日差し、教会、赤い花……懐かしい……懐かしいってなに？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_nox_ashen_prayer_greeting_001.ogg",
+            "text": "祈りが届いた……おかえり。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_nox_ashen_prayer_talk_001.ogg",
+            "text": "祈りは安らぎをもたらしてくれるわけではない。それは分かっていた。それでも昔の私にはこれしか方法がなかった。幸い、今はあなたがいる。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_nox_ashen_prayer_talk_002.ogg",
+            "text": "内海にいた頃、いつも夜明けの光が見えることを祈っていた。朝日への思いが、私に力をくれた。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_nox_ashen_prayer_hand_001.ogg",
+            "text": "内海の辺境に小さな教会があったことを覚えている。あそこは太陽の光が見えるから、好きだった……でも、あの教会を二度と見つけることはできなかったな……。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_nox_ashen_prayer_leg_001.ogg",
+            "text": "この姿のほうが好きなのか？私はずっとこのままでも構わない。貴方がそう望むなら……。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_nox_ashen_prayer_idle_001.ogg",
+            "text": "……どうか彼らに……そして私たちに……安らぎを……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_nox_ashen_prayer_levelup_001.ogg",
+            "text": "力を求めたことはない……でも、ありがとう。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_nox_ashen_prayer_head_001.ogg",
+            "text": "温かい。ありがとう。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_nox_ashen_prayer_specialattention_001.ogg",
+            "text": "貴方は私を見つけた……叶えられない願いでもあるのか？大丈夫だ。私が貴方のために祈りを捧げるから。"
+        }
+    ],
+    "gloom_of_daybreak": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_nox_poxiaozhian_cacha_001.ogg",
+            "text": "私はNOX。妖鬼の狩人であり、最後の黒剣。運命の人よ、教えてほしい。貴方も人類の儚い夜明けのために決戦を求めるのか……もしそうなら、私を使ってほしい。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_nox_poxiaozhian_greeting_001.ogg",
+            "text": "出発しよう、日が昇った。私たちには、あまり時間がない。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_nox_poxiaozhian_talk_001.ogg",
+            "text": "黒剣は、妖鬼の血肉が混ざり合った異種で、戦闘兵器だ。どちらが勝っても、この世界に私たちの居場所はなくなる。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_nox_poxiaozhian_talk_002.ogg",
+            "text": "妖鬼とは……未知の闇から現れる悪魔で、人を食らう怪物だ。中には人間の姿を持つ者もいるが、騙されないでほしい——妖鬼には感情がない。ただ果てない飢えによって突き動かされている。彼らに出会った瞬間、残される選択肢は戦うのみだ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_nox_poxiaozhian_hand_001.ogg",
+            "text": "死の天使……私は本当にそう呼ばれているのか？残念だが、私は血も涙もない天使ではない……私は翼もなく、地を這うことしかできないが、それでも空を見上げたい。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_nox_poxiaozhian_leg_001.ogg",
+            "text": "湖畔の日の出、のどかな村……それが黒剣となった私に唯一残った思い出だ。妖鬼の出現は、私の過去も含めて全てを引き裂いた……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_nox_poxiaozhian_idle_001.ogg",
+            "text": "やがて妖鬼の血肉が私の理性を蝕む。これが全ての黒剣の宿命だ……その日が来たら、どうか私に安らぎを……かつて守ってきたものを壊したくない。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_nox_poxiaozhian_specialattention_001.ogg",
+            "text": "祈りは奇跡を呼び起こせず、妖鬼の憐憫と代わることもできない……私たちに生きる権利を与えてくれる唯一のものは、戦うことだ……運命の人よ、私は貴方の鋭い刃となり、貴方のために、生き残るためにもがく全ての人のために、最後の希望をもたらす！"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_nox_poxiaozhian_head_001.ogg",
+            "text": "心配しなくていい。私は貴方から離れない。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_nox_poxiaozhian_levelup_001.ogg",
+            "text": "これは必要な力であり……必要な犠牲でもある。"
+        }
+    ]
+}

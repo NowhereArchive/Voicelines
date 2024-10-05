@@ -783,6 +783,14 @@
       "libram": "none",
       "tendency": "none",
       "category": "NPCs"
+    },
+    {
+      "name": "faye",
+      "displayName": "Faye",
+      "rank": "MBCC",
+      "libram": "none",
+      "tendency": "none",
+      "category": "NPCs"
     }
   ]
 }

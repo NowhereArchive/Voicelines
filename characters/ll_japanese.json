@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_l.l._cacha_001.ogg",
+            "text": "ここは暗くて退屈すぎない？みんなも私と一緒に、身体にかかる負担を全部投げ捨てて、動物たちから学び、何も着ず、何も考えずに、思う存分遊ぶのはどうかしら？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_l.l._promotion_001.ogg",
+            "text": "私たちの関係がもっと強くなるといいわ～"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_l.l._promotion2_001.ogg",
+            "text": "静かに眠り、静かに海に沈んでいく……この幻の夢を覚ますのは誰？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_l.l._battlebegin_001.ogg",
+            "text": "私を喜ばせるために来てくれたの？嬉しいわ！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_l.l._battlewin_001.ogg",
+            "text": "可哀想に。手足があちこち折れて、泥になっちゃったわね……"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_l.l._battlelose_001.ogg",
+            "text": "よくも私の島で悪いことを！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_l.l._uniqueskill_001.ogg",
+            "text": "思う存分解放！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_l.l._dead_001.ogg",
+            "text": "さようなら、私の全てのもの……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_l.l._greeting_001.ogg",
+            "text": "あなたが私の身体に結んだ赤い糸が好きよ。私がそれを引っ張ったら、二人の極楽の地にあなたを連れて行けるもの。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_l.l._talk1_001.ogg",
+            "text": "極楽島では、ラブラブしてベタベタしていいし、いっぱい食べて飲んでもいいのよ。何もせずにダラダラして、いくらでも喧嘩して構わないわ！好きに過ごしてちょうだい！ここでは全てが自由。唯一大事なのは、みんながハッピーになることよ！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_l.l._talk1_002.ogg",
+            "text": "外の世界の何がいいの？私のところみたいに自由で幸せ？ここには友達がたくさんいるから、全然寂しくないし外にも出たくないわ。あなたもそうよ。ここにいて。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_l.l._talk1_003.ogg",
+            "text": "海の底で目を開ければ、あなたは気付くはず……でも、誰もそんなことをする勇気はないのよ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_l.l._talk2_001.ogg",
+            "text": "あのバカたちは、たとえ私と一緒に海の底に沈んで楽しい時間を過ごしても、誰かに名前を呼ばれた途端、岸まで全力で浮上して、私をそのまま放っておくのよ……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_l.l._talk2_002.ogg",
+            "text": "空と海に境界線はない……そのはずなのに、なんで極楽島には、空と海の果てに見えない壁があるのかしら？友達が少ないから？ええ、きっとそうね！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_l.l._talk2_003.ogg",
+            "text": "私と一緒に潜って、ただ水に抱かれ、溶け込み、私の鼓動に耳を傾けて、私と一つになりましょう……"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_l.l._obeyfull_001.ogg",
+            "text": "エサも釣り針もないのに、あなたは美しい小さな魚を釣り上げた。彼女は今、とても幸せよ。だって水の中の世界だけじゃなく、笑顔、ハグ、そして自分と繋がっている人を手に入れたのだから。私と手を繋いで、一緒に朝日を見に行きましょう！私は泡になったり、海の底に沈んだりしないわ。ずっとここにいるわよ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_l.l._idle_001.ogg",
+            "text": "「戦闘と反抗、全てに意味がある」、「今度は私があなたたちを守る番だ」……あなたのデータはすごく面白いから、ブックマークさせてちょうだ～い。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_l.l._clicking_001.ogg",
+            "text": "う～ん、もうちょっと強く押してみたらどう？試してみて？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_l.l._specialattention_001.ogg",
+            "text": "私のことが本当に好きね！じゃあ、そのままずっと私を見ていて。いい？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_l.l._dispatch_001.ogg",
+            "text": "タマちゃんに任せれば大丈夫だわ！島探しが得意なのよ～"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_l.l._dispatch2_001.ogg",
+            "text": "タマちゃんが帰ってきたわ！あなたへのプレゼントも持ってるわね！うん、私と同じくらいあなたのことが好きみたいね～"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_l.l._levelup_002.ogg",
+            "text": "あなたにこうされるのが好きなの。もっとお願い～"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_l.l._jointeam_001.ogg",
+            "text": "タマちゃん、行って！"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_l.l._head_001.ogg",
+            "text": "こっそり教えてあげるわ。私はずっと前からあなたを頭の中に閉じ込めているのよ～"
+        }
+    ]
+}

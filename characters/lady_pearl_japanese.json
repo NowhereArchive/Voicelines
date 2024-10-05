@@ -1,0 +1,176 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_lady_pearl_cacha_001.ogg",
+            "text": "フォルトナ劇場へようこそ～あらぁ、ごめんなさ～い。誰かと挨拶する時は、ついついこう言ってしまうのよぉ～でも、アナタのところには役者の才能がありそうな人がたくさんいるわね。どうかしら、アタクシと話をしてみな～い？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_lady_pearl_promotion_001.ogg",
+            "text": "アタクシばっかり見てないで、ショーを見てちょうだ～い。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_lady_pearl_promotion2_001.ogg",
+            "text": "さぁ～完璧な千秋楽を祝って、一杯飲みましょう～"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_lady_pearl_battlebegin_001.ogg",
+            "text": "ハニー、アナタが主演の大舞台がもうすぐ始まるわよぉ～"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_lady_pearl_battlewin_001.ogg",
+            "text": "めでたしめでたし～なんて素敵な物語なのかしら～"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_lady_pearl_battlelose_001.ogg",
+            "text": "あぁ～これはめったにない演出事故だわ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_lady_pearl_uniqueskill_001.ogg",
+            "text": "お楽しみくださいませ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_lady_pearl_dead_001.ogg",
+            "text": "この瞬間、全ての夢が消えていく……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_lady_pearl_greeting_001.ogg",
+            "text": "う～ん、アナタのことを考えていたら来てくれるなんて～いい子ね～褒めてあげないと～"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_lady_pearl_talk1_001.ogg",
+            "text": "アタクシの一声で、脇役から主役級になれるわ——でも、主役にしてあげるためにかかったお金は、アナタが稼ぐのが前提よ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_lady_pearl_talk1_002.ogg",
+            "text": "アタクシの前ではそんなに遠慮しないでちょうだ～い。この場所はアナタを狂わせるのよ。ハニー、アナタはただ楽しんで、大胆に選択すればいいだけ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_lady_pearl_talk1_003.ogg",
+            "text": "この劇場で生き残る方法を教えてあげるわ～そ・れ・は……アナタの愛を少しずつ全ての人に分け与え、誰にも愛を全て注がないことよぉ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_lady_pearl_talk2_001.ogg",
+            "text": "劇場には確かに裏があるわ。ボックス席の座席は赤いベルベットだけど、ホールの椅子は一番安い素材なの。でも、芝居が誰にでも平等に上演されるのと同じく、たとえ市議会のお偉方がみんなベルベットの席を欲しがっても、チケットを買えなければ床ですら奪い合うのよ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_lady_pearl_talk2_002.ogg",
+            "text": "みんなが既定路線に従って生きていたらつまらないわ～人には狂気の瞬間や、自制心を失う瞬間がないと……将来どんな人になっても、どんな道を歩むとしても、きっとその瞬間をとても恋しく思うはずよ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_lady_pearl_talk2_003.ogg",
+            "text": "キスは素晴らしいものかもしれないわね。でも、それも一瞬のことで、夢から現実に戻れば、狂人は空っぽの抜け殻になる。それを受け入れる人もいれば、堕落する人もいるわ。知りたいわねぇ。もしアナタだったら、どんな意外な選択をするのかしら？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_lady_pearl_obeyfull_001.ogg",
+            "text": "アナタと過ごす一瞬一瞬が、次にどこへ繋がるのか予想できないわ。アナタはアタクシのお気に入りのダンサーであり、最も素晴らしいシンガーよ。アタクシは劇場全体が炎で焼き尽くされることを願っているわ。そして、二人で灰になるまで最高にクレイジーな台本を演じましょうね。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_lady_pearl_idle_001.ogg",
+            "text": "アタクシはステージで自由に振る舞う子たちを見るのが好きなの。全てを脇に置いて別の人生を体験しようと奮闘するのを見るのが好き……ええ、アタクシはそういう瞬間をとても楽しんでいるわ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_lady_pearl_clicking_001.ogg",
+            "text": "とても目がくらんでしまうけれど、アタクシにとっては昔ながらの手口だわ～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lady_pearl_specialattention_001.ogg",
+            "text": "あの綺麗で可愛らしい子たちより、アタクシの方がお好み？うふふ……クレイジーで大胆な、アナタみたいな人は大好きよぉ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_lady_pearl_dispatch_001.ogg",
+            "text": "はぁ、何でアタクシ自ら接待しに行く必要があるのよ……"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_lady_pearl_dispatch2_001.ogg",
+            "text": "素敵よ、本当に素敵だわぁ～ついでに、アナタへちょっとしたプレゼントも持ってきたわよ～"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_lady_pearl_levelup_002.ogg",
+            "text": "もう～アタクシはステージの大スターじゃないのに、どうしてお花をくれるのかしら？まぁ、貰っておいてあげるわ～"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_lady_pearl_jointeam_001.ogg",
+            "text": "もし、このシーンが再び起こったらあなたは何を選ぶのかしら。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_lady_pearl_head_001.ogg",
+            "text": "お茶目さんね～でも、この時間にはふさわしくないこともあるのよ～"
+        }
+    ],
+    "aftershow_brilliance": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_levelup_001.ogg",
+            "text": "アナタのありがたいお言葉のおかげで、今回の初日はきっと上手くいくわ。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_head_001.ogg",
+            "text": "この髪をセットするのにとても時間がかかったのよぉ。もし乱したら、責任をとって直してちょうだいね～"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_cacha_001.ogg",
+            "text": "どの舞台も丁寧に紡がれた夢であり、身も心もその中に浸ることができるのよ。全く違った人生を体験したり、経験したことのない感情を抱いたりすることができる……今日の不思議な古い夢は、アナタを失望させることはないはずよ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_greeting_001.ogg",
+            "text": "ふふ、賓客がいらっしゃるんだから、劇団長として自らお出迎えするのは当然よ～"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_talk_001.ogg",
+            "text": "今回の新作は、時代の荒波に揉まれた市民たちの運命を描いた懐かしい時代が舞台よ……ふふ、紹介はここまで。どんな物語なのか、アナタ自身で発見し、探求し、目にした方がいいでしょう？サプライズを台無しにしたくないわぁ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_talk_002.ogg",
+            "text": "ええ、リハーサルは簡単ではないわ。各役者に台本を細かく説明して、実際の状況に合わせてセリフを修正。更に立ち位置を調整するだけじゃなく、道具や照明を何度もチェックする必要があるの……でも、劇団の子たちは、この舞台を成功させるために頑張っているのよ。彼らの努力や観客の期待に応えられるよう、アタクシも気を緩めてはいけないわ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_hand_001.ogg",
+            "text": "あらぁ、アナタもこの扇子が気に入ったのかしら？もしそうなら、記念品としてプレゼントするわ。これはアタクシが作った小道具のサンプルで、世界に一つしかない、アナタだけのものよ。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_leg_001.ogg",
+            "text": "フォルトナの公演形式はご存知の通り、より没頭できるよう、公演に合った服装で観劇するのよ。アタクシも例外ではないわ。さぁ、舞台裏でもっとアタクシに釣り合う衣装に着替えてから、素晴らしい舞台を楽しみましょう？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_idle_001.ogg",
+            "text": "もうすぐ開演の時間よ。最初のシーンを見逃さないよう、早く入場してちょうだい。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_lady_pearl_muxiahuazhang_specialattention_001.ogg",
+            "text": "今はアタクシばかりを見ていてもいいけど、公演が始まったらステージに集中してちょうだい。役者の真摯な気持ちを感じ、アタクシが用意した最高の眺めのVIPボックスを堪能してほしいわぁ～"
+        }
+    ]
+}

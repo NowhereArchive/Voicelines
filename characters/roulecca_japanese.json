@@ -1,0 +1,208 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_roulecca_cacha_001.ogg",
+            "text": "ルリを捕まえられるなんて、あんた、運がいいね！あたしと何か賭けをしない？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_roulecca_promotion_001.ogg",
+            "text": "ラッキー！もしかして、今日もルリのラッキーデー？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_roulecca_promotion2_001.ogg",
+            "text": "もっと大きな賭けをしようよ。それから……もっといっぱい賭けをしよう？一番ワクワクする賭け金は……みーんなの命とか！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_roulecca_battlebegin_001.ogg",
+            "text": "ふんふんふん～、遊びに行こ——"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_roulecca_battlewin_001.ogg",
+            "text": "ルリはもぉっと刺激的な賭けがしたいの！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_roulecca_battlelose_001.ogg",
+            "text": "負けた？ルリが負けたの？！ハハハ、ハハハ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_roulecca_uniqueskill_001.ogg",
+            "text": "ははは、はっはっはっはっは！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_roulecca_dead_001.ogg",
+            "text": "やっと……迎えに来てくれた……。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_roulecca_greeting_001.ogg",
+            "text": "一人はつまんないんだもん……ルリと何かして遊ばない？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_roulecca_talk1_001.ogg",
+            "text": "四十五口径の弾丸が頭を貫通するのにかかる時間は0.45秒なんだって。うーん……誰かに試してみる？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_roulecca_talk1_002.ogg",
+            "text": "ルリは超有名な殺し屋だよ。テクニック？戦術？情報？そんなのが必要なのは運の悪いやつだけでしょ。ルリが目をつけたら、神様がやつを見逃さないんだもん！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_roulecca_talk1_003.ogg",
+            "text": "子供の頃から、どんなゲームでも、ルリは負けたことがないんだぁ。ズルする必要もないし、努力する必要もない。みんながルリを超——可愛がってくれるから。局長、あんたもそうでしょう？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_roulecca_talk2_001.ogg",
+            "text": "復讐はルリの目的じゃないよ。へへ、ルリが生きていく理由だもん。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_roulecca_talk2_002.ogg",
+            "text": "爆弾も、敵も、ブラックウォーターも、カルトも、殺人モンスターも、ルリは恐くない！いつか黒幕を引きずり出してやるもん。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_roulecca_talk2_003.ogg",
+            "text": "ルリはあんたにありったけのお金を賭けてるんだから、勝手に命を落としちゃダメ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_roulecca_obeyfull_001.ogg",
+            "text": "また四つ葉のクローバー見つけちゃった！ふふ、局長ほど運が悪いと、きっと一生に1本だって見つけられないよね。いいや……これはあげる。その代わり、もう少しルリと遊んでね。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_roulecca_idle_001.ogg",
+            "text": "バン！バンバンバーン！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_roulecca_clicking_001.ogg",
+            "text": "局長、暇なの？ルリと遊びたい？じゃあ——これで賭けしてみない？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_roulecca_specialattention_001.ogg",
+            "text": "あっ、局長、ルリと一緒に遊ぶ？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_roulecca_dispatch_001.ogg",
+            "text": "しゅっぱ～つ！"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_roulecca_dispatch2_001.ogg",
+            "text": "ルリが帰ってきたよ！今回は走り回ってないもん。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_roulecca_levelup_002.ogg",
+            "text": "え？ルリってばもっと強くなれるの——？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_roulecca_head_001.ogg",
+            "text": "頭を触らないで！子供じゃないもん！わあああやめてよ！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_roulecca_jointeam_001.ogg",
+            "text": "えっと、今回はどれくらい勝てば良いんだろう？"
+        }
+    ],
+    "seaside_dessert_stand": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_cacha_001.ogg",
+            "text": "バンバンバン——！へへっ、びっくりした？これは水鉄砲だよ、局長！早くルリと一緒に遊ぼうよ！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_levelup_001.ogg",
+            "text": "ルリが勝ったら、もっともっとアイスをくれる？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_greeting_001.ogg",
+            "text": "局長——ルリとの勝負、ちゃんと準備できた？負けた方はメロンアイス三つ奢りだからね！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_talk_001.ogg",
+            "text": "エイレーネーの大きな船に遊びに行くの、大好き！あそこの人、ルリがたくさん勝っちゃっても怒らないし、ルリと写真を撮りたがるの。「ギャンブルの神」とか言って……なんかよくわかんない。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_talk_002.ogg",
+            "text": "ラッキー！今日もこんなにいっぱいケーキ勝ち取っちゃった！嬉しい！でも、なんだか、昔も色んな人からスイーツをもらった気がするの。あの人たち……誰だっけ？うーん……どうしよう、よく思い出せないの……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_idle_001.ogg",
+            "text": "うーん、いい天気。局長、何か遊んでくれない？サーフィンでも、バレーボールでも、ルリはなんでもいいよ！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_clicking_001.ogg",
+            "text": "あはははは……局長、くすぐったいよ！もうールリも負けないんだから！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_roulecca_seaside_dessert_stand_specialattention_001.ogg",
+            "text": "局長……なんでルリのことじっと見てるの？うーん、もしかして……局長もサメのぬいぐるみが好きなの？でも、これはルリが勝ち取ったものだから、貸してあげないもん！"
+        }
+    ],
+    "puerile_maniac": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_roulecca_puerile_maniac_cacha_001.ogg",
+            "text": "今朝、変なケーキを食べたらこうなっちゃったんだ。えーっと……夏音おねえちゃんがテーブルに置いたらしいんだけど、美味しそうだったから……ルリ、我慢できなくて……えへへ……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_roulecca_puerile_maniac_levelup_001.ogg",
+            "text": "ルリ、また背が伸びたような気がする！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_roulecca_puerile_maniac_greeting_001.ogg",
+            "text": "かくれんぼ？ヤダ……ルリが小さくなったからって、そんな子供っぽい遊びさせないでよ！それとも、ルリを局長の腕の中に隠す？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_roulecca_puerile_maniac_talk_001.ogg",
+            "text": "え……？寝る前に……お菓子を食べちゃダメなの？ひ……一口だけ！ルリは運がいいから虫歯にならないよ！うん！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_roulecca_puerile_maniac_talk_002.ogg",
+            "text": "んー……ルリ、ちょっと眠くなっちゃった……局長、クマちゃんのぬいぐるみ、いくつか取ってきてくれる？……小さい時みたいに、抱き締めて寝たいんだ……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_roulecca_puerile_maniac_idle_001.ogg",
+            "text": "あの時のルリもこんなに強かったら……この銃だけであいつら全員殺せたのに！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_roulecca_puerile_maniac_clicking_001.ogg",
+            "text": "ルリを子供扱いしないで！身体は小さくなったけど、頭の良さは変わらないんだから！局長に勝つのも簡単だよ！食らえ！バンバンバン！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_roulecca_puerile_maniac_specialattention_001.ogg",
+            "text": "ふふん、この服ルリに似合ってると思わない？ルリの家族として、局長も褒めてよ！"
+        }
+    ]
+}

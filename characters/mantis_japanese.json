@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mantis_cacha_001.ogg",
+            "text": "キミの身体……新しい匂いがするね。彼らとは違う……怖がらないで、諦めないで。すぐ助けに行くよ……"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_mantis_promotion_001.ogg",
+            "text": "どう？このもっと強くなった身体は。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_mantis_promotion2_001.ogg",
+            "text": "個体の異化には限度がある……アタシにはできた……この状態を記録しなきゃ……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_mantis_battlebegin_001.ogg",
+            "text": "可哀想な子……安らかに眠って……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_mantis_battlewin_001.ogg",
+            "text": "弱肉強食は自然の法則。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_mantis_battlelose_001.ogg",
+            "text": "気にしないで……逃げるのも立派な生存戦略だよ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_mantis_uniqueskill_001.ogg",
+            "text": "捕まえた！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_mantis_dead_001.ogg",
+            "text": "ぐぁぁあああ！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mantis_greeting_001.ogg",
+            "text": "覚えのある匂い……やっぱりキミだ！帰ってくるのをずっと待ってたんだよ……アタシを連れてってくれない？……ここに閉じ込められるのは好きじゃないんだ……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_mantis_talk1_001.ogg",
+            "text": "キミの仕事って……ハードなんだね。これあげる。美味しいよ……味は……鶏肉みたいな感じかな……タンパク質と脂質が摂れるよ……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_mantis_talk1_002.ogg",
+            "text": "キミの匂い……いいね。もうちょっと近づいてもいい？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_mantis_talk1_003.ogg",
+            "text": "彼らを……食べるつもりはなかったんだ……ただ……すごくお腹が空いてて……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_mantis_talk2_001.ogg",
+            "text": "助けを必要としてる人が……いっぱいいるんだし……アタシばっか気にしないで、もっとそういう人たちを気遣ってあげなよ。アタシの問題は、自分で……解決できるから……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_mantis_talk2_002.ogg",
+            "text": "全ての異常は……人類から……アタシたちの……心から来る……彼らは怪物じゃない……アタシたちの一部だ……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_mantis_talk2_003.ogg",
+            "text": "恐れないで……たとえいつか道に迷って、危険な目に遭っても、必ず助けてあげる……アタシは仲間を見捨てないって誓うよ……"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_mantis_obeyfull_001.ogg",
+            "text": "アタシはキミを救えなかったみたいだ……代わりにキミが……アタシを救ってくれた。ごめん……みんなの足を引っ張って……いっぱい迷惑かけたよね……ありがとう……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mantis_idle_001.ogg",
+            "text": "今日は友達を幸せにできた？……自分の役割を果たせた？……友達を……救えた……？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mantis_clicking_001.ogg",
+            "text": "……これは何かの生き物の求愛の儀式？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mantis_specialattention_001.ogg",
+            "text": "わざわざ来なくても……キミの匂いは覚えてるから、自分で見つけられるよ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_mantis_dispatch_001.ogg",
+            "text": "アタシに……何してほしいの？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_mantis_dispatch2_001.ogg",
+            "text": "今回の旅は、新しい発見がいっぱいあったよ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mantis_levelup_002.ogg",
+            "text": "環境の変化に……慣れないと。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_mantis_head_001.ogg",
+            "text": "でも……これじゃダメだ……キチンの殻で……何も感じない……"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_mantis_jointeam_001.ogg",
+            "text": "誰かが……食べられる！"
+        }
+    ]
+}

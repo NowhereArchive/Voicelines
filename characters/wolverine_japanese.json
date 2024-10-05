@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_wolverine_cacha_001.ogg",
+            "text": "……今度は誰だ？来るな。下がれ……下がれ！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_wolverine_promotion_001.ogg",
+            "text": "強くなった、のか？……おい、お前……俺に何をした？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_wolverine_promotion2_001.ogg",
+            "text": "おい、このうさぎ……やるよ。お前は俺が強くなる手助けをしてもらった。だから肉をやる。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_wolverine_battlebegin_001.ogg",
+            "text": "……ついてこい。危険だ。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_wolverine_battlewin_001.ogg",
+            "text": "晩飯は肉だ！約束は守ってもらうぞ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_wolverine_battlelose_001.ogg",
+            "text": "さっきのはだめだ。もう一回。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_wolverine_uniqueskill_001.ogg",
+            "text": "おい、逃げるな！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_wolverine_dead_001.ogg",
+            "text": "うぅ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_wolverine_greeting_001.ogg",
+            "text": "チチッチチチ……ああ、お前か。なんでもない。ピーちゃんと話しているだけだ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_wolverine_talk1_001.ogg",
+            "text": "錆の川ではミスは許されない。でないと……面倒なことが起きる。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_wolverine_talk1_002.ogg",
+            "text": "「金」……ってなんだ？ なんであいつらはそれを欲しがるんだ？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_wolverine_talk1_003.ogg",
+            "text": "ピーちゃんはペットじゃない。昼飯だ。まぁ……脂肪が多くて食べられないんだけどな。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_wolverine_talk2_001.ogg",
+            "text": "おい！そいつは何だ？ゴミを…食べてるのか？き、来たぞ！そーじ？ろぼっと？お、俺に近づけるな！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_wolverine_talk2_002.ogg",
+            "text": "前にあいつらが言ったんだ。俺は野良犬には家がないってな。今は、そうじゃない……。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_wolverine_talk2_003.ogg",
+            "text": "お前がどこへ行っても傍にいる。もし俺を置いて行くなら、お前を探しに行くさ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_wolverine_obeyfull_001.ogg",
+            "text": "お前は他の人間とは違う。なんでかは……わからない。ただ、そう感じるだけだ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_wolverine_idle_001.ogg",
+            "text": "おい！おい？それで眠れるのか？……ピーちゃんと同じだな。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_wolverine_clicking_001.ogg",
+            "text": "何するんだ？！俺は犬じゃないぞ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_wolverine_specialattention_001.ogg",
+            "text": "なんで俺を見てる？目的はなんだ！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_wolverine_dispatch_001.ogg",
+            "text": "おい。お、お前は……行かないのか？"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_wolverine_dispatch2_001.ogg",
+            "text": "おい、やるよ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_wolverine_levelup_002.ogg",
+            "text": "つまらないな。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_wolverine_jointeam_001.ogg",
+            "text": "If I win, extra meat for dinner."
+        }
+    ],
+    "summer_splash": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_wolverine_kuxiajiyang_cacha_001.ogg",
+            "text": "こんなとこ来たくなかったけど……ピーちゃんはここが好きみたいだ。でも……なんで水遊びに着替えが必要なんだ？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_wolverine_kuxiajiyang_levelup_001.ogg",
+            "text": "水の掛け合い？俺は負けないぞ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_wolverine_kuxiajiyang_greeting_001.ogg",
+            "text": "お前も水遊びするか？じゃあ、この角が生えた馬をやる……水に浮くからな。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_wolverine_kuxiajiyang_talk_001.ogg",
+            "text": "チチッチチチ……ピーちゃんが、このカラフルなおもちゃが綺麗だって言ってる。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_wolverine_kuxiajiyang_talk_002.ogg",
+            "text": "遊んでるんじゃない。シャンプーしてるだけだ！綺麗にしたら……おいしくなるだろ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_wolverine_kuxiajiyang_idle_001.ogg",
+            "text": "うん……ここの水は、錆の川のゴミだらけで腐った水より全然マシだ……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_wolverine_kuxiajiyang_clicking_001.ogg",
+            "text": "おい、水をかけるな！目に入るだろ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_wolverine_kuxiajiyang_specialattention_001.ogg",
+            "text": "ズボンが濡れただけなのに、なんでじっと見てくるんだ？"
+        }
+    ]
+}

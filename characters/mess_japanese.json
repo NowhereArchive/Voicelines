@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mess_cacha_001.ogg",
+            "text": "これがきみたちの局長？本当に？なんか弱そう。わたしだったらこんな上司ヤダけど……あっ、カバン引っ張らないで！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_mess_promotion_001.ogg",
+            "text": "より良い武器で、より良い戦いを～"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_mess_promotion2_001.ogg",
+            "text": "よーく見てて。神殺しの武器のおでましよ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_mess_battlebegin_001.ogg",
+            "text": "武器は戦場でこそ輝く。でしょ？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_mess_battlewin_001.ogg",
+            "text": "はぁ、全身血まみれ……わたし、次は見てるだけでいいよね？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_mess_battlelose_001.ogg",
+            "text": "こんなのに勝てないなんて、死んだ方がマシ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_mess_uniqueskill_001.ogg",
+            "text": "きみたちの悪意、いただくね……"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_mess_dead_001.ogg",
+            "text": "悪夢が終わった……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mess_greeting_001.ogg",
+            "text": "せかさないでよ。できたらそっちに送るから……あっ、きみか。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_mess_talk1_001.ogg",
+            "text": "わぁ！この呪いの人形、可愛い～。切り裂いて炉の燃料にしてあげたいな。うん……今すぐ注文しよう！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_mess_talk1_002.ogg",
+            "text": "プレス機なんて可愛くないもの絶対使わない！機械で作った量産品より、丹精込めた手作りの武器の方が気分もノるでしょ？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_mess_talk1_003.ogg",
+            "text": "ニューシティのあの弁護士も政治家も、本当に軽蔑する。どいつもこいつも口先ばかり。ナイフでサクッとやっちゃえばいいのにな？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_mess_talk2_001.ogg",
+            "text": "銃もいいけど、やっぱり近接武器よね。パサッ、サクッ、ドンッ——それだけで人が死ぬの……本当に素敵。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_mess_talk2_002.ogg",
+            "text": "ずっと前からきみを観察してたけど、きみって……本当に悪意がないんだね。おかしいな、他人を傷つけるのが嫌いな人なんているんだ……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_mess_talk2_003.ogg",
+            "text": "可愛い物が好き、暴力も好き。別に矛盾してないよ？だって、その人たちが憎しみ合って傷つけ合う姿が可愛くてたまらないんだもの。そう思わない？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_mess_obeyfull_001.ogg",
+            "text": "わたしが殺したいものは、きみが思ってるよりずっと恐ろしいよ。奴の前では、みんな虫ケラ……それでも、わたしと一緒に戦う？ふーん、強がりなところも可愛いね～"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mess_idle_001.ogg",
+            "text": "うん、刀身もいいし、バランスも完璧。次は柄（つか）だね……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mess_clicking_001.ogg",
+            "text": "やめて！これ以上触ったら、炉に入れて燃料にしちゃうから！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mess_specialattention_001.ogg",
+            "text": "いつもはきみの副官が注文に来るのに、今日は自分で来たんだね……もしかして、きみも悪意に満ちた武器が欲しくなった？ふふ、ようやくその気になったかな？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_mess_dispatch_001.ogg",
+            "text": "わたしでもいいけど、その代わり工房には誰も入れちゃダメだからね。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_mess_dispatch2_001.ogg",
+            "text": "終わったわ。あの二人が喧嘩しなかったのが残念。あーあ……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mess_levelup_002.ogg",
+            "text": "技術力アーップ！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_mess_jointeam_001.ogg",
+            "text": "さあ、ケンカの時間よ～"
+        }
+    ],
+    "mystic_pawnshop": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mess_wuqidiandang_cacha_001.ogg",
+            "text": "夜遅くに来るなんて、新しいアイテムを手に入れたから急いで処分したいの？それとも別の物と交換したい？……あはは、もちろん何でもできるよ。きみが後悔しないって言い切れるなら。まぁ、ここで質入れした人は、物を取り戻せないんだけどね～。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mess_wuqidiandang_greeting_001.ogg",
+            "text": "わたしの服は特別なものかって？もちろん。長～い間わたしと一緒にいてくれたから。質入れした人はとっくに死んじゃってるけどね～まぁ、こんな本物のヴィンテージはそうそうお目にかかれないし、もっとじっくり見てみる？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_mess_wuqidiandang_talk_001.ogg",
+            "text": "ちょっと、勝手に触らないで！このタコは持ち主しか認めないし、気性が荒いんだから……質屋のルールその1は、手と口を慎むことよ。聞いちゃいけないことは聞かないし、触っちゃダメなものは触らない。うっかり悪いものを引き寄せたら、冗談じゃ済まないよ。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_mess_wuqidiandang_talk_002.ogg",
+            "text": "ん？わたしにくれるの？……何これ！もち米飴！？きゃあああ、こっちに持ってこないでよ！わたしを喜ばせたいの？傷つけたいの？ひどいよ、絶対わざとでしょ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mess_wuqidiandang_idle_001.ogg",
+            "text": "入り口をぶらぶらするのはいいけど、戸棚の裏には入らないでね。きみは、そこにある物を絶対気に入らないと思うから。好奇心は猫を殺すんだよ。警告したんだから、何があってもわたしのせいにしないでね～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mess_wuqidiandang_specialattention_001.ogg",
+            "text": "中に入った瞬間から、きみはわたしから目を逸らさなかったよね～そんなに質屋から持ち出したい物があるなら……床にある銅の剣を拾って、わたしを服従させてみなよ～！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mess_wuqidiandang_levelup_001.ogg",
+            "text": "この品物、状態いいしもらってあげる。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mess_wuqidiandang_clicking_001.ogg",
+            "text": "へぇ？本当にこの黄色い紙を剥がす気？ふふ、わたしにもどうなるか分からないから、試しにやってみようか？"
+        }
+    ]
+}

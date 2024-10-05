@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_horo_cacha_001.ogg",
+            "text": "またここか！あたしを出せ！軍団はあんたを許さないぞ！ボスが絶対見つけ出して、こんな所、めちゃくちゃにするんだからな！分かったか！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_horo_promotion_001.ogg",
+            "text": "うわー！この力……今すぐゾーヤさんと手合わせしてみたい！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_horo_promotion2_001.ogg",
+            "text": "軍団のことは、これからあたしに任せろ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_horo_battlebegin_001.ogg",
+            "text": "安心しろ。あたしが守ってやる。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_horo_battlewin_001.ogg",
+            "text": "ふん、このあたしの実力を思い知ったか。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_horo_battlelose_001.ogg",
+            "text": "大丈夫だって！生きてれば、勝つチャンスはある！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_horo_uniqueskill_001.ogg",
+            "text": "やぁあああああ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_horo_dead_001.ogg",
+            "text": "あたしたちは……負けない……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_horo_greeting_001.ogg",
+            "text": "おっ、あんたか？今ウォーミングアップをしてるところなんだ。一緒にやろうぜ！ゆーしゅーな戦士たるもの、練習を怠るべからず。さもないと腕が鈍る。ゾーヤさんからの教えだ！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_horo_talk1_001.ogg",
+            "text": "なんでケルシーはあんなに背が高いんだ……。同じ兄弟なのに……待ってろよ、絶対あいつより身長を伸ばしてやる！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_horo_talk1_002.ogg",
+            "text": "強くなる秘訣？そんなの休まず訓練することと、目標のためになんでもしてやるって気持ち、あとは、毎日1リットルの牛乳を飲むこと……笑うなよ！ 骨を伸ばすのに必要なんだぞ！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_horo_talk1_003.ogg",
+            "text": "この斧は軍団のみんなからもらったものだ。どうだ？勇猛果敢なあたしに似合ってるだろ？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_horo_talk2_001.ogg",
+            "text": "ゾーヤさんはすごく強くて、優しくて、頭もいいんだ！いつか、あの人みたいになれるといいなぁ。うん、全部じゃなくても、半分ぐらいになれれば十分だ……！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_horo_talk2_002.ogg",
+            "text": "スカート？そ、そんなものはくか！戦いにくいし、パンツが見えちゃうし……別にショーウィンドウのスカートなんて見てない……いいからもう何も言うなよ！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_horo_talk2_003.ogg",
+            "text": "強くなった今のあたしは、もう誰の足手まといにもならない！でも、そう言いたい あの人は……もういないんだ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_horo_obeyfull_001.ogg",
+            "text": "ゾーヤさんに頼まれてあたしを助けに来たって話、本当は嘘なんだろ……。ふん、まぁいいよ。許してやる。あたしはこんなつまんないことで、大事な人と言い争うつもりはないんだよ……二度と。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_horo_idle_001.ogg",
+            "text": "おい、調達部門がどこにあるか知ってるか？あの紫色の髪のやつが賞味期限切れのぎゅう……商品を割引価格で売るって。どんな商品も半額なんて、もう行くしかないよな。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_horo_clicking_001.ogg",
+            "text": "あっ！逃げるな、ぶっ殺すぞ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_horo_specialattention_001.ogg",
+            "text": "何するんだよ？見てるだけ？あたしは別に見せ物じゃないけど。それとも、手合わせしたいのか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_horo_dispatch_001.ogg",
+            "text": "安心して、あたしに任せろ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_horo_dispatch2_001.ogg",
+            "text": "あたしがいるから、このぐらい余裕余裕！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_horo_levelup_002.ogg",
+            "text": "よし！もう一丁いくぞ！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_horo_jointeam_001.ogg",
+            "text": "軍団、出陣！"
+        }
+    ],
+    "limit_breaker": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_horo_jixianyundongjihua_cacha_001.ogg",
+            "text": "……なんだよ？ちょっと見に来ただけ？だから、あたしは見せ物じゃないぞ。せっかく来たんだし、一緒にトレーニングでもしていけよ。あんたのその細い手足を見てみろ。いつか内海の強風で吹き飛ばされるんじゃないかって心配になるぞ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_horo_jixianyundongjihua_greeting_001.ogg",
+            "text": "今、何時だと思ってるんだ？何でまだここでグズグズしてるんだよ？ゆーしゅーな戦士たるもの、練習を怠るべからず！ほら！まずはウォーミングアップにあたしと2キロランニングだ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_horo_jixianyundongjihua_talk_001.ogg",
+            "text": "ラットプルダウン5セット、リバースグリップラットプルダウン5セット、ダンベルカール5セット、バーベルカール5セット。こんなの、トレーニング計画の最初のステップだぞ。これを全部終わらせたら……おい、逃げるな！じゃあ、まず3セット。3セットならいいだろ！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_horo_jixianyundongjihua_talk_002.ogg",
+            "text": "何て言ったっけ……量的な変化で……なんとかの変化が……ああ、思い出せない！とにかく、トレーニングを続けてれば間違いない！いつかあいつを、そしてゾーヤさんを超えて、軍団最強になるんだ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_horo_jixianyundongjihua_idle_001.ogg",
+            "text": "ぺぺぺ、イチゴの匂いが濃すぎるし、甘すぎる……プロテインを水で割って飲むのはもちろん知ってるけど、そのものの味が気にならないのか！？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_horo_jixianyundongjihua_specialattention_001.ogg",
+            "text": "そんな格好でどうやって一緒に運動するつもりだ？よし、まずはあたしと軍団に戻って、みんなから動きやすい服を貰うぞ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_horo_jixianyundongjihua_levelup_001.ogg",
+            "text": "……ぷはーー！運動の後はやっぱり牛乳だよな！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_horo_jixianyundongjihua_clicking_001.ogg",
+            "text": "おい、気をつけろ！このジャケットは大金をかけてオーダーメイドしたんだぞ。軍団の魂って言ってもいいものなんだ！あんたも着てみたいのか？いいぞ、あんたは軍団を認めてるしな……待て！ま、まず洗うから……"
+        }
+    ]
+}

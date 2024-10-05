@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mcqueen_cacha_001.ogg",
+            "text": "私を捕まえたのはこの手かな？器用で力強い手だね。どうだろう、私のために絵を描いてくれないかい？……もちろん、他のことでも構わないけれど。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_mcqueen_battlebegin_001.ogg",
+            "text": "いい子だね、手を見せて。無能な鑑定士たちに見せたら、君を汚してしまうから。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_mcqueen_battlewin_001.ogg",
+            "text": "はぁ、なんて哀れなんだ。贋作を作る価値すらないなんて。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_mcqueen_battlelose_001.ogg",
+            "text": "おっと……偽物だとバレてしまったかな？"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_mcqueen_uniqueskill_001.ogg",
+            "text": "まばたきしないで。本物か偽物か——見破るのは一瞬さ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_mcqueen_dead_001.ogg",
+            "text": "生か死か、本物か偽物か……ふっ、そんなのどうでもいいさ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mcqueen_greeting_001.ogg",
+            "text": "随分と遅いお帰りだね？もう少し遅かったら、他の人のところへ行ってしまっていたよ。ははっ、冗談だ。あの連中は、劣悪な贋作に過ぎないんだ。君の代わりにはなれないさ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_mcqueen_talk1_001.ogg",
+            "text": "うーん……どっちが本物だと思うかい？ははっ、緊張することはないよ。君の選んだ方が「本物」になるのだからね。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_mcqueen_talk1_002.ogg",
+            "text": "オリジナル作品？私みたいな才能も理念もない凡人は、何も創り出せないのさ……でも君のためなら、私の全てをかけて、自分の真心を描こうと思う。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_mcqueen_talk1_003.ogg",
+            "text": "絵を描いて生きていきたい画家と、名画を求めるバイヤー。両者の願いを叶えてあげたというのに、何をそんなに怒ることがあるんだい？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mcqueen_idle_001.ogg",
+            "text": "どうしたんだい？私では物足りないかな？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mcqueen_clicking_001.ogg",
+            "text": "突然固まってしまって、どうしたんだい？私への興味が薄れてしまったかな？局長？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mcqueen_specialattention_001.ogg",
+            "text": "目に見えるものだけが真実とは限らない。そうやってただ私を見つめるより……その手で確かめてみてはどうだい？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_mcqueen_dispatch_001.ogg",
+            "text": "さて、そろそろ新しい贋作師を探さなければ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_mcqueen_dispatch2_001.ogg",
+            "text": "そんなに慌てて私を連れ戻そうとするなんて、他の誰かと食事に行くのではと心配になったかな？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mcqueen_levelup_002.ogg",
+            "text": "あまり私に優しくしないでくれ……本気になってしまうよ？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_mcqueen_promotion_001.ogg",
+            "text": "なんで贋作を混ぜるのかって？これは基本中の基本さ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_mcqueen_promotion2_001.ogg",
+            "text": "それでも自分の目を信じるのかい？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_mcqueen_talk2_001.ogg",
+            "text": "「夢を諦めない」——はははっ、ニューシティで聞いた笑い話の中で、一番の傑作だ！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_mcqueen_talk2_002.ogg",
+            "text": "かつての私は芸術を愛し、夢を抱いていた。今は……ふっ、芸術はまだ愛しているけれど……夢はこの腕の中から消えてしまった。今あるのは君だけさ、局長。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_mcqueen_talk2_003.ogg",
+            "text": "「マックイーン」に騙されて、彼女のために金を数えた。私の才能を見つけてくれたことに感謝さえしていた……ははっ、こんな馬鹿な奴、たとえ消えても誰も気に留めないだろうさ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_mcqueen_obeyfull_001.ogg",
+            "text": "私にとって、君は複製できない唯一の宝物……信じて。これは君にだけ捧げる言葉だよ。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_mcqueen_jointeam_001.ogg",
+            "text": "君のお願いを拒否することなんてできないさ。"
+        }
+    ],
+    "inferno_of_deception": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_cacha_001.ogg",
+            "text": "怖がらないでくれ、迷える子羊ちゃん。君はただ、私の炎の聖殿に迷い込んだだけさ……ここから出たい？それなら自分で見極めるしかない……その道が本物か偽物かを。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_greeting_001.ogg",
+            "text": "偽の信者になるか、真実の殉教者になるか、もう決めたかい？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_talk_001.ogg",
+            "text": "この炎が本物かどうか確かめるには、自分で触れるしかない。もし本物なら、君は触れた瞬間灰になるまで燃やされるんだ……そんな場面は、見るに忍びないね～"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_talk_002.ogg",
+            "text": "毒牙と鋭い爪？そんなものを君に使えるわけがないだろう……でも、ヤドリギは贈りたいな。受け取ってくれるかい？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_idle_001.ogg",
+            "text": "ここに残ることを選ぶなら、心配はいらない。私は永遠に君のそばにいるさ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_specialattention_001.ogg",
+            "text": "目の前の火の海に足を踏み入れ、自らの運命を賭けるのかい？さぁ、おいで。君を……最高の結末に導いてあげよう！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_levelup_001.ogg",
+            "text": "どんな宝物を持ち帰ればいいのかな？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_clicking_001.ogg",
+            "text": "おや、連れ去ってほしいのかい？それなら、もっと敬虔になってくれ……もしかしたら、神が情けをかけるかもしれないだろう～"
+        }
+    ],
+    "whimsical_theater": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mcqueen_mengxisuitan_cacha_001.ogg",
+            "text": "どこの貴人が私の芝居小屋に迷い込んできたんだい？おやおや、来たからには慌てて帰らなくてもいいさ。私の新しい戯曲を堪能していっておくれ～"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mcqueen_mengxisuitan_greeting_001.ogg",
+            "text": "ちょうどいい。この演目は今から始まるところなんだ……ふむ……前回はどこまで歌ったかな？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_mcqueen_mengxisuitan_talk_001.ogg",
+            "text": "貧しい画家は成長するにつれ、欲望も大きく育っていった。満たされない欲望が静かに画家を見つめ、彼女を誘惑し、その足元に完全にひれ伏すまで彼女の心を支配した……前回はここまでだったね。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_mcqueen_mengxisuitan_talk_002.ogg",
+            "text": "さっき語った画家がどうなったか気になるかい？彼女は、最初の欲望で「真」を失い、2番目の欲望で「善」を失い、3番目の欲望で「美」を失ったのさ……結末については……ふふ、どうなったと思う？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mcqueen_mengxisuitan_idle_001.ogg",
+            "text": "半日も語っていたら、喉が渇いたな。貴人さん、私のことを哀れに思うなら、お茶を用意して休ませてくれるかい？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mcqueen_mengxisuitan_specialattention_001.ogg",
+            "text": "おや、やっと君をこの戯曲に組み込む許可をくれるのかい？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mcqueen_mengxisuitan_levelup_001.ogg",
+            "text": "君が口ずさんでるそのメロディー、かなりいいね。もう一度歌ってほしいな～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mcqueen_mengxisuitan_clicking_001.ogg",
+            "text": "貴人さん、君は本当に「私」の戯曲が好きなのかい？"
+        }
+    ]
+}

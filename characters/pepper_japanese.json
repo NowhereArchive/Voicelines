@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_pepper_cacha_001.ogg",
+            "text": "放して！放してよ！うちはディスシティ一番の悪党なんだ！逮捕するなんて許さないぞ！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_pepper_promotion_001.ogg",
+            "text": "この先もきっとまだまだ楽しい冒険が待ってるんだ！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_pepper_promotion2_001.ogg",
+            "text": "うっそ！これがうち？もう上庭で畑仕事ができるんじゃない！？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_pepper_battlebegin_001.ogg",
+            "text": "今度の冒険地はどこだ？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_pepper_battlewin_001.ogg",
+            "text": "勝ったあ！お祝いだお祝い！コーラが飲みたいな！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_pepper_battlelose_001.ogg",
+            "text": "コホン……わざと逃がしただけだ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_pepper_uniqueskill_001.ogg",
+            "text": "これでも喰らえ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_pepper_dead_001.ogg",
+            "text": "うっ……まだ遊び足りない……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pepper_greeting_001.ogg",
+            "text": "ヤッホー、局長！うちらと一緒に悪いことしないか？なぁ、はやく～つまんないんだって。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_pepper_talk1_001.ogg",
+            "text": "局長！コーラが飲みたいな！お願い……ちゃんと歯磨きするから！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_pepper_talk1_002.ogg",
+            "text": "毎日ケンカしてればうまいものが食べれるなんて、管理局っていいとこだなあ——ん？……ちょっと待って！サボリも悪いことだったよな？やった！うちって、ほんとディスシティいちの悪党だな！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_pepper_talk1_003.ogg",
+            "text": "じいちゃんは小さい頃カウボーイになって街に出て冒険するのが夢だったんだって。でも結局ずっと地元で畑仕事をしてる……だから、じいちゃんの願いを叶えるために、こっそり帽子を盗んできた！あははっ！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_pepper_talk2_001.ogg",
+            "text": "ディスシティって大きいな。三時間走っても端が見えない。地元だったら、全ての畑を耕しても三時間はかからないよ？…………で、いつになったら上庭で畑仕事ができるの？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_pepper_talk2_002.ogg",
+            "text": "なあ、局長！悪い人にあったら、このペッパーの名前を出すといいよ。役には立たないかもしれないけど、勇気が出るから！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_pepper_talk2_003.ogg",
+            "text": "最近任務が忙しくて悪いことをする暇もないなー。このままじゃ、ディスシティでのうちの悪名が忘れられちゃうかも。うーん……決めた！今日は徹夜する！"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_pepper_obeyfull_001.ogg",
+            "text": "局長！畑仕事をしよう！宝探ししよう！変な生き物と戦おう！もう待ちきれないよ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pepper_idle_001.ogg",
+            "text": "ふわぁ～——いつ出発するの？眠くなってきた……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pepper_clicking_001.ogg",
+            "text": "なになに？服になんかついてる？どこにもついてないじゃん！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pepper_specialattention_001.ogg",
+            "text": "何か新しい計画があるのか？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_pepper_dispatch_001.ogg",
+            "text": "ディスに出発！いざ、冒険の旅へ！"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_pepper_dispatch2_001.ogg",
+            "text": "仕事終わったー！褒めて褒めて！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pepper_levelup_002.ogg",
+            "text": "走れ走れ～！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_pepper_jointeam_001.ogg",
+            "text": "I'm coming!"
+        }
+    ]
+}

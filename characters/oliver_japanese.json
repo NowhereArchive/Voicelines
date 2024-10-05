@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_oliver_cacha_001.ogg",
+            "text": "コ、コンビクトなんて知らないのに……ううぅ、僕小さな子どもなんだよ？みんなでいじめないでよぉ……。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_oliver_promotion_001.ogg",
+            "text": "これはいい子にしかもらえないご褒美、でしょ？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_oliver_promotion2_001.ogg",
+            "text": "誰をぬいぐるみにしたい？オリバーがやってあげる！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_oliver_battlebegin_001.ogg",
+            "text": "局長、オリバーのこと……ちゃんと守ってねぇ。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_oliver_battlewin_001.ogg",
+            "text": "えぇー！？ちょっと手を振っただけなのに、なんでこの人たち動かなくなっちゃったんだろぉ？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_oliver_battlelose_001.ogg",
+            "text": "わ——すごいね、この僕の支配に抵抗するなんてさ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_oliver_uniqueskill_001.ogg",
+            "text": "ぬいぐるみたち、大人しくしててね！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_oliver_dead_001.ogg",
+            "text": "おかしいな……体の感覚がないみたい……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_oliver_greeting_001.ogg",
+            "text": "局長のお姉ちゃん～お姉ちゃん～お姉ちゃん！オリバーにこう呼ばれるの、好きでしょ？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_oliver_talk1_001.ogg",
+            "text": "体の傷……？こ、これはオリバーが勝手に転んじゃっただけ！管理局のみ、みんなはいい人だし、優しくしてくれてるよ……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_oliver_talk1_002.ogg",
+            "text": "あの人たちの言うことは聞かないで。オリバーは可愛くていい子なんだから、人をいじめたりなんかしないもん。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_oliver_talk1_003.ogg",
+            "text": "お姉ちゃ～ん、あの人たち、オリバーを外に出してくれないの……だ、脱獄？脱獄ってなに？分からないよ。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_oliver_talk2_001.ogg",
+            "text": "シンジケートの「野良の子」たちがうらやましいな。自分たちだけであんな危険なところで生きていけるんだもの。オリバーは、局長から離れたら何もできないな～"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_oliver_talk2_002.ogg",
+            "text": "見てみて。このぬいぐるみ、オリバーみたいにかわいいでしょ？でもね……この子の心は悪い人に壊されちゃったから、どんなに頑張っても治らないの……ねぇ局長、僕を助けてくれない？"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_oliver_talk2_003.ogg",
+            "text": "局長をぬいぐるみにすれば、ずっと一緒にいられるんじゃないか……ん？ふふ、今のは本気だよ。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_oliver_obeyfull_001.ogg",
+            "text": "もし、たくさん悪いことをした子供がいてね、その子がもう反省してるとしたら、局長はその子のこと、嫌いになる？……オリバー、嫌われたくないな。特にきみには。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_oliver_idle_001.ogg",
+            "text": "またオリバーのことを「いい子」じゃないって言う嫌なやつがいる。どーしよっかなぁ……うん、局長が留守の間に、あいつら処分しちゃおう。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_oliver_clicking_001.ogg",
+            "text": "ねぇ、死にたいの？……ハハッ、びっくりした？さっきのは冗談だよ。僕の演技、うまいでしょ？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_oliver_specialattention_001.ogg",
+            "text": "オリバーのことをじっと見つめてどうしたの？ダメだよ、大きくなったらって、約束したでしょ……？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_oliver_dispatch_001.ogg",
+            "text": "こういう力仕事は大人に任せてよ。オリバーは、ず～っと局長の傍にいたいのにぃ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_oliver_dispatch2_001.ogg",
+            "text": "局長のために、こーんなに頑張ってるのに、褒めてくれないの？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_oliver_levelup_002.ogg",
+            "text": "局長の一番はやっぱりオリバーだよね！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_oliver_jointeam_001.ogg",
+            "text": "局長のためなら、勇気を出して戦場に行ってもいいよ。"
+        }
+    ]
+}

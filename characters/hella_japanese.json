@@ -103,7 +103,7 @@
         {
             "title": "Dispatch Completion",
             "filename": "File:vo_hella_dispatch2_001.ogg",
-            "text": "Mission accomplished. Any rewards for me, Chief?"
+            "text": "仕事終わったよ～局長。ご褒美とかないの？"
         },
         {
             "title": "Level Up",
@@ -113,15 +113,10 @@
         {
             "title": "Deploy",
             "filename": "File:bt_hella_jointeam_001.ogg",
-            "text": "Hmm? You really like being with me, don't you?"
+            "text": "へぇ～？あたしといるの、そんなに好き？"
         }
     ],
     "queen_of_hearts": [
-        {
-            "title": "No",
-            "filename": "File:unknown.ogg",
-            "text": "2"
-        },
         {
             "title": "Obtain the Sinner",
             "filename": "File:vo_hella_queen_of_hearts_cacha_001.ogg",

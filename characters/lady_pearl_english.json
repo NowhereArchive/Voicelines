@@ -120,5 +120,57 @@
       "filename": "File:vo_lady_pearl_head_001.ogg",
       "text": "Don't be naughty... Now is not the time for that..."
     }
+  ],
+  "aftershow_brilliance": [
+    {
+      "title": "Level Up",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_levelup_001.ogg",
+      "text": "Thank you for your kind words. Let's hope today's premiere is a success."
+    },
+    {
+      "title": "Pat Head",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_head_001.ogg",
+      "text": "It took me a long time to get my hair just right. If you mess it up, you'll have to fix it."
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_cacha_001.ogg",
+      "text": "Each play is a carefully woven dream, inviting you to immerse yourself in lives yet unlived and emotions yet unfelt. I'm convinced that you won't be disappointed by today's play, a play that promises to transport you to a vibrant, luminous dream of yesteryear."
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_greeting_001.ogg",
+      "text": "Hahahahaha. We'd long expected a visit from an esteemed guest such as yourself. It's only appropriate for me to welcome you personally."
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_talk_001.ogg",
+      "text": "This new play is a period piece about the fate of ordinary people against a backdrop of changing times... Oh, I shouldn't tell you anything more about the play. It's better to experience and explore the story as it unfolds, don't you think? I wouldn't want to spoil the surprise for you."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_talk_002.ogg",
+      "text": "Yes, staging a play is no easy task. It involves hammering the finer points of the script into each actor, adjusting lines and blocking based on rehearsals, checking the props and lighting over and over again... However, since every child in the troupe is giving their all for this play, there is no reason for me to slack off. I will not let their hard work go to waste, nor will I let the audience down."
+    },
+    {
+      "title": "Ordinary Contact 3",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_hand_001.ogg",
+      "text": "Oh, you like this fan too? Well, take it, as a keepsake. I made this prop myself; it's one of a kind. I'd like to gift it to you..."
+    },
+    {
+      "title": "Ordinary Contact 4",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_leg_001.ogg",
+      "text": "You know the style of Fortuna... To make the viewing experience even more immersive, every audience member comes to the theater dressed up in fitting attire. I'm no exception. How about I take you backstage, so that you can change into an outfit that matches with mine before we watch the play together?"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_idle_001.ogg",
+      "text": "The show is about to start. Let's hurry up. You don't want to miss the opening."
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_lady_pearl_muxiahuazhang_specialattention_001.ogg",
+      "text": "Stare at me all you want for now, but when the show begins, you should direct all your attention to the stage, so as to feel the actors' devotion to their art from this VIP box with the best view. I've reserved it especially for you."
+    }
   ]
 }

@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_pacassi_cacha_001.ogg",
+            "text": "私はペガシ……旧世代の遺児。私の傍にいると汚染されてしまうので、離れていてください。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_pacassi_promotion_001.ogg",
+            "text": "エネルギーレベルが上がっている。放射線防護レベルの調整をお願いします。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_pacassi_promotion2_001.ogg",
+            "text": "まだあきらめていないのですか……では、触って……放射線に貫かれる準備をしてください。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_pacassi_battlebegin_001.ogg",
+            "text": "あなたを失望させるようなことはしません。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_pacassi_battlewin_001.ogg",
+            "text": "やりました。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_pacassi_battlelose_001.ogg",
+            "text": "ゴホッ、ゴホゴホ……ごめんなさい……ごめんなさい……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_pacassi_uniqueskill_001.ogg",
+            "text": "私から……離れて！！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_pacassi_dead_001.ogg",
+            "text": "やっと……終わりました。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pacassi_greeting_001.ogg",
+            "text": "こんにちは、局長。今日は何か仕事はありますか？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_pacassi_talk1_001.ogg",
+            "text": "何か私に仕事をください。じっとしたまま、何もしないことには、慣れてないんです。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_pacassi_talk1_002.ogg",
+            "text": "この腕を改造したのは、筋力を補うため。……すみません、触らないでください。ダメと言うことはないのですが……放射線を吸収しすぎているのです。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_pacassi_talk1_003.ogg",
+            "text": "生きて、町で起きたことをしっかり覚えておかなければ。そうでなければ、私たちが経験してきたすべてが、意味を失ってしまう……。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_pacassi_talk2_001.ogg",
+            "text": "発電所の最後の事故を覚えています。あの冬、積雪で送電網の大半が破壊され、30日間で町の人口の4分の1が減りました。翌年の春になってようやく溶けた雪の下で、彼らを見つけることができました……。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_pacassi_talk2_002.ogg",
+            "text": "マエクは灯台という意味で、最も暗い時でも漂流者を導き、希望を与えてくれるものです。でも、灯台そのものが闇に呑み込まれてしまう可能性があることを誰も気づいていません……。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_pacassi_talk2_003.ogg",
+            "text": "私は他人やあなたに憐れみを求めていません。私は……尊厳を失いたくない。実験体として、あるいは観賞される動物としては生きていたくないんです……。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_pacassi_obeyfull_001.ogg",
+            "text": "これまで私に「友達」が何かを教えてくれた人はいなかった。……「友達」とは、その相手のために死ぬことができるほどの存在だと、本で読んだことがあります……もしそれが間違っていないなら、局長、あなたは私の友達です。私の、唯一の友達。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pacassi_idle_001.ogg",
+            "text": "……局長、仕事もほどほどに。たまには休みませんか？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pacassi_clicking_001.ogg",
+            "text": "局長……これは……ディスシティの人たちの親しみの表現なのですか？……わ……わかりました。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pacassi_specialattention_001.ogg",
+            "text": "そんなに私を……見つめないでください。あまり……慣れていなくて。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_pacassi_dispatch_001.ogg",
+            "text": "やってみせます。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_pacassi_dispatch2_001.ogg",
+            "text": "終わりました。新しい任務をください。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pacassi_levelup_002.ogg",
+            "text": "放射線が、強くなりました。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_pacassi_jointeam_001.ogg",
+            "text": "戦いには慣れています。大丈夫です。"
+        }
+    ],
+    "winter_night": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_pacassi_winter_night_cacha_001.ogg",
+            "text": "局長、たき火にもっと近づいてください。マエクタウンの外でも、ディスシティよりはかなり寒いですから、暖かくしないと。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pacassi_winter_night_greeting_001.ogg",
+            "text": "局長、暖かくなりましたか？まだ寒いようなら……出来立ての私のボルシチを飲んでください。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_pacassi_winter_night_talk_001.ogg",
+            "text": "「百年が経ち、若いお城は北国の宝玉と奇跡になった……」。これは私が管理局の図書室で見つけた詩集です。すごく面白かった……局長も読んでみますか？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_pacassi_winter_night_talk_002.ogg",
+            "text": "かつての私にとって、ここはマエクタウンから一番遠い場所でした。今は……一番近い場所になりました。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pacassi_winter_night_idle_001.ogg",
+            "text": "小さい頃、冬が早く終わって欲しかった。でも今は、もっと長く続いてほしいと思っています……人って、変ですね。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pacassi_winter_night_clicking_001.ogg",
+            "text": "わ……私はただ、制服にマエク風のアレンジを加えてみただけ。これは……管理局のルールに違反してませんよね……？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pacassi_winter_night_specialattention_001.ogg",
+            "text": "冷たい風と雪降る夜は、マエクタウン唯一無二の特徴です。そして防寒着を着て冬の夜からみんなを守っている人も、ずっと記憶に刻まれる……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pacassi_winter_night_levelup_001.ogg",
+            "text": "うん、暖かい。"
+        }
+    ]
+}

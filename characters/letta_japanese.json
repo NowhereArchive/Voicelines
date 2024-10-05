@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_letta_cacha_001.ogg",
+            "text": "ふぁ～先～生～、おはよう～夢と現実を繋げる……レタ・デヴォンシャー……よぉ……ううん……他に質問がないなら……座らせてねぇ……"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_letta_promotion_001.ogg",
+            "text": "うん～これでわたしは、もっと面白い所に行けるわねぇ～"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_letta_promotion2_001.ogg",
+            "text": "ふふ。わたし、無邪気なレディーじゃないわよ……局・長・さ・ま。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_letta_levelup_002.ogg",
+            "text": "灯りが、もっと温かくなった……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_letta_battlebegin_001.ogg",
+            "text": "深い霧の奥には……一体何があるんだろう？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_letta_battlewin_001.ogg",
+            "text": "ふふ……なんて楽しい探検なのぉ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_letta_battlelose_001.ogg",
+            "text": "うう……めまいが……早く危険な場所から離れないと……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_letta_uniqueskill_001.ogg",
+            "text": "照らすわ……この果てしない霧を。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_letta_dead_001.ogg",
+            "text": "お家に……帰りたい……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_letta_talk1_001.ogg",
+            "text": "ごめんなさい。わたし、いつも寝ながら歩き回っちゃうから……変なことをしたら、すぐに起こしてね。絶対よ！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_letta_talk1_002.ogg",
+            "text": "うーん……ベッドルーム……わたしのベッドルーム……ああ、ついたぁ……あっ！ここ、あなたのベッドルームだったの？ごめんなさ～い。邪魔してないといいんだけど～"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_letta_talk1_003.ogg",
+            "text": "この壺に入ってるのは……野菜？えっ？腐ってないの？じゃあ、なんでこんな色を……ええっ！？コンビクトの中には、月末になるとこれを食べる人がいるの？なんか……奇妙な食べ物ね……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_letta_talk2_001.ogg",
+            "text": "いつになったら……大人になれるんだろう？他の人に干渉されず……自分がしたいことだけをする……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_letta_talk2_002.ogg",
+            "text": "あなたは……知ってたの？わたしが、寝ながら歩くふりをしてるって。やっぱりあなたは騙せないわね……でも、ずっと前から気付いてたんでしょ？ふふ、悪い人。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_letta_talk2_003.ogg",
+            "text": "あなたと一緒にいると、何にも束縛されない、本当の自由と喜びを感じるの……だから、約束して！今度のニューシティでの冒険には、必ずわたしを連れて行くって！"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_letta_obeyfull_001.ogg",
+            "text": "ここも、あそこも行ったわ……次は、どこに遊びに行く？行ったことのある場所でも、あなたがそばにいれば、どこでもきっと新しい体験ができると思うの！……お仕事？うう……わかったわ、待ってる！だって……夜はまだまだ長いから！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_letta_greeting_001.ogg",
+            "text": "ふぁ～良い一日に……なりますように……うふふ……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_letta_idle_001.ogg",
+            "text": "もう食べられないわよぉ……うふふ……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_letta_clicking_001.ogg",
+            "text": "わ……わぁ～子猫ちゃん、むやみに踏まないでぇ……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_letta_dispatch_001.ogg",
+            "text": "はい……行ってきまぁす。心配しないで……迷子になんかならないからぁ。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_letta_dispatch2_001.ogg",
+            "text": "うふふ……今回も面白い所に行ってきたのぉ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_letta_specialattention_001.ogg",
+            "text": "しーっ、今夜はわたしと一緒に、ディスシティの深い霧の中で楽しいことを探さない？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_letta_jointeam_001.ogg",
+            "text": "霧よ！ん～今日はどこへ遊びに行くのかなぁ。"
+        }
+    ],
+    "spectral_shenanigans": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_letta_gubaoyouying_levelup_001.ogg",
+            "text": "ふふん、今は元気だから、あなたと一晩中遊べるわよ～"
+        },
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_letta_gubaoyouying_cacha_001.ogg",
+            "text": "うーん……また探検中の旅人が来たみたい……眠ってる主人を起こしたんだから……一緒にゲームをしない？嫌なら……ここから永遠に出られないわよ～"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_letta_gubaoyouying_greeting_001.ogg",
+            "text": "さぁ、わたしのランタンを追って、わたしの足跡を辿って……最後まで粘り続けられたら、このゲームはあなたの勝ち～"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_letta_gubaoyouying_talk_001.ogg",
+            "text": "ふふ、こんなことでびっくりしたの？これからもっと刺激的なことが起きるんだから、そんな簡単に怖がらないで……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_letta_gubaoyouying_talk_002.ogg",
+            "text": "魂が宿る肖像画、今にも落ちそうなシャンデリア、点滅するキャンドル……このお城には色んな種類の奇妙なものがあるのよ。だから、怖がってわたしのゲームに負けないようにね～"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_letta_gubaoyouying_idle_001.ogg",
+            "text": "霧をさまよう白い幽霊……消えないロウソク数えながら、道に迷う人を望む……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_letta_gubaoyouying_clicking_001.ogg",
+            "text": "わっ、包帯を引っ張らないで……大丈夫、ズルはしないから～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_letta_gubaoyouying_specialattention_001.ogg",
+            "text": "ふふ、そんなにわたしをじーっと見てるなんて、あなたも本気になってきたみたいね～じゃあ、よく見ておいて……じゃないと、壁を通り抜けて逃げちゃうから〜"
+        }
+    ]
+}

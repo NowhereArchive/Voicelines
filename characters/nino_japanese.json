@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_nino_cacha_001.ogg",
+            "text": "アンタらMBCCってホント器がちっちゃい。アタシが配信中に、自分がコンビクトだってポロッと言っただけで、1時間もしないうちにドアをノックしに来てさ！ゴホン……でもまぁ、ここも立派じゃん。生配信するのによさそう～"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_nino_promotion_001.ogg",
+            "text": "ちょっと、ダメージテスト用の木の杭ってなんでこんなすぐ壊れんのさ～"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_nino_promotion2_001.ogg",
+            "text": "ふふ～ん、たかがMBCCが、この天才ニノ様を止めることなんてできな～い。ただのネットワーク接続でしょ……えええ！？EDGE警告メールって何？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_nino_battlebegin_001.ogg",
+            "text": "ニノ様の後ろにしっかりついてて。風に飛ばされないようにさ！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_nino_battlewin_001.ogg",
+            "text": "あ～あ、雑魚どもめ～"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_nino_battlelose_001.ogg",
+            "text": "……下手ならもっと練習しな。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_nino_uniqueskill_001.ogg",
+            "text": "——叩き潰す！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_nino_dead_001.ogg",
+            "text": "アタシはまた……一人で寝るんだ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_nino_greeting_001.ogg",
+            "text": "ドドーン！ニノのゲームタイム、スタート！毎晩7時に配信開始。最高のプレイ技術と、時々辛辣なコメントコーナーも。ぜひフォローしてね～"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_nino_talk1_001.ogg",
+            "text": "はぁ……最近面白いゲームないから、ニノ、『コードネームDARK』をまたプレイしたくなってきちゃった。グラフィックはレトロゲームって感じだけど、真面目にプレイすると結構悪くないんだよね～うーん……これが、スルメゲーってやつ？噛めば噛むほど、味が出る！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_nino_talk1_002.ogg",
+            "text": "ニノが今どこで配信してるかって？あははは……もちろん、もっちろん家だよ！MBCCなんて雑魚が、アタシを引き留められるわけないじゃん！しーっ！喋らないで！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_nino_talk1_003.ogg",
+            "text": "ああ——ムカつく！なんでDisMythの管理者は、アタシのアカウントばっかBANすんの？しかもライブ配信中に！前に彼女が告知に書いた中二病発言をもう一回公開しただけじゃん。他の人が同じこと何回やっても気にしないくせに！アタシばっか目付けてさ！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_nino_talk2_001.ogg",
+            "text": "わ……分かった……ニノは局長の命令には逆らえないから……どんな命令でも……え？何その顔。冗談だってば、あははは！その緊張した顔、マジで情けないんですけど～！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_nino_talk2_002.ogg",
+            "text": "アンタ、下手すぎなんだけど。このステージは盾があればクリアなんて簡単じゃん！コントローラーちょうだい、アタシがやってあげる！手、放して——放してってば！放さないなら、アンタの身体の上に寝転がって遊び方教えてやるんだから！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_nino_talk2_003.ogg",
+            "text": "アンタといると何もしなくても退屈しないな……ふぅ——いつの間にか一日が過ぎちゃった。ちょっと肩貸して。アタシが寝るまで行かないでよ。いい……？"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_nino_obeyfull_001.ogg",
+            "text": "ねぇ、消さないでよ！ア、アンタと面と向かって話すのはちょっと気まずいけどさ……画面越しなら真剣に話せるかもしれないから。で、でもこれは全部本心だから！つまり……いつもアンタをからかったり、グチったりするのは、もっと構ってほしいからなんだよ。だって……一人になるのは怖い……誰も話しかけてくれなかったら、傍にいてくれなかったら、死ぬほど寂しい……わ、笑うな！アタシは本気なんだから！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_nino_idle_001.ogg",
+            "text": "今日、暇そうだね。仕事ないの？え、全部終わった？早いじゃん。ふん、それならご褒美として特等席でアタシの生配信見せてあげる。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_nino_clicking_001.ogg",
+            "text": "配信中だから勝手に動かないで！……ゴホン、ごめ～んペットが入って来ちゃってさ。どこまで話したっけ？誰か教えて～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_nino_specialattention_001.ogg",
+            "text": "ふふっ、やっぱりアンタも一人が苦手なんだ。アタシに一緒にいてほしいんでしょ～？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_nino_dispatch_001.ogg",
+            "text": "またパシリ？はぁ……これはアタシの溢れんばかりの優しさだからね。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_nino_dispatch2_001.ogg",
+            "text": "これ、欲しかったものでしょ？ちょっと——タダであげるわけないじゃ～ん。早く「ありがとうございます、ニノ様」って言いなよ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_nino_levelup_002.ogg",
+            "text": "足りない。死瞳100人相手にできるくらいじゃなきゃ話になんない。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_nino_jointeam_001.ogg",
+            "text": "こんな楽しいイベント、アタシに配信させないなんて勿体なくない？"
+        }
+    ]
+}

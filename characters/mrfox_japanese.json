@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mr._fox_cacha_001.ogg",
+            "text": "今は法律に基づいて大人しく逮捕されるしかありませんね。けれど、その気になったら、私はいつでも脱出できますよ。そのことはしっかり覚えておいてください。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_mr._fox_promotion_001.ogg",
+            "text": "さてと、私と話がしたいのでしょうか？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_mr._fox_promotion2_001.ogg",
+            "text": "私を地獄の果てまで送っていただき、感謝いたします。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_mr._fox_battlebegin_001.ogg",
+            "text": "法律に反することは、私にバレないようにしてくださいね。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_mr._fox_battlewin_001.ogg",
+            "text": "弁護士の話はきちんと聞いてくださいね。全て勝ってみせますから。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_mr._fox_battlelose_001.ogg",
+            "text": "いくら支払ったら、考えを改めていただけるのでしょうか……？"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_mr._fox_uniqueskill_001.ogg",
+            "text": "私の言う通りにしてください。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_mr._fox_dead_001.ogg",
+            "text": "これは私が受けるべき……罰です。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mr._fox_greeting_001.ogg",
+            "text": "弁護士とは、争いと共に現れる存在です。ですので、朝一番に弁護士と出会っても平然としていられるのは、あなただけでしょうね。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_mr._fox_talk1_001.ogg",
+            "text": "天秤は法の象徴です。そして私はその天秤をあなたの方へ傾ける力を持っているのです。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_mr._fox_talk1_002.ogg",
+            "text": "Mr.Foxという名前について？私はけっこう気に入っていますよ。狐は、最も賢い動物のひとつですから。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_mr._fox_talk1_003.ogg",
+            "text": "誰もが正義を求める権利を持っています。たとえどんな手を使おうとも、ね。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_mr._fox_talk2_001.ogg",
+            "text": "お金を人の目の前に積み上げると、大体の人間は魂を売ります……そうして、私は正義を手に入れるのです。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_mr._fox_talk2_002.ogg",
+            "text": "私が本気を出せば、あなたにどんなことでもさせられますよ……ふふ、今はまだ惜しいのでやりませんけど。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_mr._fox_talk2_003.ogg",
+            "text": "か弱いつぼみが他人に潰されたら、その人間が誰だろうと、地獄に送り込むべきなのです。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_mr._fox_obeyfull_001.ogg",
+            "text": "あなたはいずれ私に罰を与えるでしょう。そして私は、その罪状の前にひれ伏して、全てを受け入れるのです。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mr._fox_idle_001.ogg",
+            "text": "ちょうど良かった。まだ確認しなければならない文書が何通かありまして……。また後で一緒にコーヒーを飲みましょう。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mr._fox_clicking_001.ogg",
+            "text": "私は弁護士として38件のセクハラ裁判で勝訴判決を勝ち取っています。あなたは……ご存知のはずですよね？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mr._fox_specialattention_001.ogg",
+            "text": "ここへ来た時には、こうやって……あなたとじっくり向かい合う機会はもうないのだと思っていましたよ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_mr._fox_dispatch_001.ogg",
+            "text": "外勤の場合は、1時間単位で料金を頂きます。相談料は別途となりますのでお気を付けください。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_mr._fox_dispatch2_001.ogg",
+            "text": "仕事が完了しました。後で請求書をメールでお送りします。きちんとお支払いくださいね。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mr._fox_levelup_002.ogg",
+            "text": "私の弁舌がさらに巧みになったかどうか、局長さんで試してみましょうか？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_mr._fox_jointeam_001.ogg",
+            "text": "硝煙が見えない戦場、つまりは論争です。"
+        }
+    ],
+    "twilight_game": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mr._fox_twilight_game_cacha_001.ogg",
+            "text": "境界を越えて、私の宮殿へようこそ——親愛なる友人さん。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mr._fox_twilight_game_levelup_001.ogg",
+            "text": "あなたの意見を聞かせてください。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mr._fox_twilight_game_greeting_001.ogg",
+            "text": "親愛なる友人さん、あなたに私の善意を差し上げましょう。ただし……あまり信じないことをお勧めします。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_mr._fox_twilight_game_talk_001.ogg",
+            "text": "雄大な詩に、心地良い歌声。それらは、私の口から湧き出ると鋭利な三日月となります。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_mr._fox_twilight_game_talk_002.ogg",
+            "text": "ここにある公平、正義、度量、そして詩は全て私の支配下にあります……あなたは……私を覆そうと思いますか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mr._fox_twilight_game_idle_001.ogg",
+            "text": "ご心配なく。私からどのように勝利を奪うか考える時間は、たっぷりありますよ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mr._fox_twilight_game_clicking_001.ogg",
+            "text": "このやり方では、火をつけられませんね。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mr._fox_twilight_game_specialattention_001.ogg",
+            "text": "ずっと私を見ていれば、あなたの欲しい答えが見つかるのでしょうか？"
+        }
+    ]
+}

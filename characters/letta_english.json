@@ -115,5 +115,47 @@
       "filename": "File:bt_letta_jointeam_001.ogg",
       "text": "It's getting foggy! Let me see... Where should I go have fun today?"
     }
+  ],
+  "spectral_shenanigans": [
+    {
+      "title": "Level Up",
+      "filename": "File:vo_letta_gubaoyouying_levelup_001.ogg",
+      "text": "Hehe, I'm feeling super energetic now. I can play with you all night long!"
+    },
+    {
+      "title": "Obtain the Sinner",
+      "filename": "File:vo_letta_gubaoyouying_cacha_001.ogg",
+      "text": "Hmm... Another adventurer, huh... Since you woke me up from my slumber, how about... you play a game with me! If you refuse... you can forget about ever leaving!"
+    },
+    {
+      "title": "Greeting",
+      "filename": "File:vo_letta_gubaoyouying_greeting_001.ogg",
+      "text": "Come, follow my lantern and chase after my tracks... If you can last till the end, you'll be the winner of this game!"
+    },
+    {
+      "title": "Ordinary Contact 1",
+      "filename": "File:vo_letta_gubaoyouying_talk_001.ogg",
+      "text": "Hehe, did I scare you just now? There are more thrills to come. You can't be jumping at every little thing..."
+    },
+    {
+      "title": "Ordinary Contact 2",
+      "filename": "File:vo_letta_gubaoyouying_talk_002.ogg",
+      "text": "Possessed portraits, teetering chandeliers, and flickering candles... All sorts of strange things exist in this castle. Hehe, don't get too scared and lose my game!"
+    },
+    {
+      "title": "Idle",
+      "filename": "File:vo_letta_gubaoyouying_idle_001.ogg",
+      "text": "A little white ghost wanders in the mist... Counting the ever-lit candles, waiting for the lost souls..."
+    },
+    {
+      "title": "Annoyed",
+      "filename": "File:vo_letta_gubaoyouying_clicking_001.ogg",
+      "text": "Ahh, don't pull on my bandages... Relax, I won't cheat!"
+    },
+    {
+      "title": "Special Attention",
+      "filename": "File:vo_letta_gubaoyouying_specialattention_001.ogg",
+      "text": "Hehe, your gaze on me is so intense. Are you getting serious now? Well, keep your eyes peeled... Or I might just slip away through the walls!"
+    }
   ]
 }

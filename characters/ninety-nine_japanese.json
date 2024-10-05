@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_ninety-nine_cacha_001.ogg",
+            "text": "あんたは……わたしたちを閉じ込めたやつだ。匂いを覚えている。どこに逃げても無駄だ。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_ninety-nine_promotion_001.ogg",
+            "text": "はは……言え。あんたが欲しいのはわたしか？それとも一匹の獣か？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_ninety-nine_promotion2_001.ogg",
+            "text": "わたしに力を与えたら、足かせを緩めるな——一瞬でも……だめだ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_ninety-nine_battlebegin_001.ogg",
+            "text": "殺し合いの準備をしろ。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_ninety-nine_battlewin_001.ogg",
+            "text": "早すぎだ。ゴミどもめ、終わるのが早すぎる！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_ninety-nine_battlelose_001.ogg",
+            "text": "放せ。まだ終わっていない！放せ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_ninety-nine_uniqueskill_001.ogg",
+            "text": "あぁああああ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_ninety-nine_dead_001.ogg",
+            "text": "わたしは……自由になれたのか？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ninety-nine_greeting_001.ogg",
+            "text": "来たのがあんただってことはわかっていた。わたしはあんたの足音がわかるからな。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_ninety-nine_talk1_001.ogg",
+            "text": "やつらはわたしの腕を、血を欲しがっている。わたしに全てを切り裂いて欲しいと望んでいる。化け物を作り出したかったやつらにとって、わたしは「最高傑作」なんだ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_ninety-nine_talk1_002.ogg",
+            "text": "わたしの刀は多くの人を切った。ただ、切ってきたやつらの中でヘラは最強ではなく、最もしぶとい者と思われているんだろうな。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_ninety-nine_talk1_003.ogg",
+            "text": "血が騒ぐと、体が勝手に動く。考える必要はないし、誰を引き裂いたかは覚えていない。ただ楽しければ十分。わたしはそういう風に設計されている。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_ninety-nine_talk2_001.ogg",
+            "text": "鎖？大した物じゃない。慣れている。それに、断ち切るなんて……今では簡単なことだ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_ninety-nine_talk2_002.ogg",
+            "text": "人に何と呼ばれてもかまわない。でも「ナインティナイン」は好きだ……わたしの最初の名前だから。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_ninety-nine_talk2_003.ogg",
+            "text": "パルマでのことは、よく覚えていない。暗闇の中でヘラの声がしたことだけは覚えている。「シンジケート」、「地上」、「人」とずっと話しかけてくれた。わたしを連れて行くと何度も……。"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_ninety-nine_obeyfull_001.ogg",
+            "text": "殺したくても殺せない人間は、あんたが二人目だ。わたしはこれから、自分が死ぬその日まであんたのために戦う。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ninety-nine_idle_001.ogg",
+            "text": "……腹が減った。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_ninety-nine_clicking_001.ogg",
+            "text": "喧嘩を……売ってるのか？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ninety-nine_specialattention_001.ogg",
+            "text": "わたしをよく見て。わたしがあんたを見ているように。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_ninety-nine_dispatch_001.ogg",
+            "text": "……頑張る。"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_ninety-nine_dispatch2_001.ogg",
+            "text": "あんたの言う通り、終わらせた。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ninety-nine_levelup_002.ogg",
+            "text": "おもしろい。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_ninety-nine_head_001.ogg",
+            "text": "それは……わたしを慰めているのか？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_ninety-nine_jointeam_001.ogg",
+            "text": "血が騒いでいる。"
+        }
+    ],
+    "chaotic_restraint": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_cacha_001.ogg",
+            "text": "わたしは……パルマの生物兵器、ナインティナイン。戦う……命令をくれ。わたしは戦いしかいらない……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_levelup_001.ogg",
+            "text": "更に強くなった……やつらを楽にしてやる。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_greeting_001.ogg",
+            "text": "来たか……次の戦闘は、いつから始まる？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_talk_001.ogg",
+            "text": "戦い……絶え間ない戦い……どちらかが倒れるまで……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_talk_002.ogg",
+            "text": "痛みは人の気を散らす。だから、生き残りたければ痛みに慣れる必要がある。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_idle_001.ogg",
+            "text": "ずっとここにいるようだが、何がしたいんだ？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_clicking_001.ogg",
+            "text": "はぁっ……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_specialattention_001.ogg",
+            "text": "戦闘のためでないなら、なぜわたしに近づく？わたしに他の使い道があるのか？"
+        }
+    ]
+}

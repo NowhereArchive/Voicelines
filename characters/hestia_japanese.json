@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hestia_cacha_001.ogg",
+            "text": "あ……あなたなのですか！？火の明かりが見えましたよね？あなたには見えると思ったんです……ふふ、ずっと……待ってましたよ……"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hestia_promotion_001.ogg",
+            "text": "私は見ました……くすぶる火種を。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hestia_promotion2_001.ogg",
+            "text": "私は……この身で照らしました……よかった。彼らはようやく……戻ってこられるんですね……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hestia_battlebegin_001.ogg",
+            "text": "暗すぎますね……火を起こします。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hestia_battlewin_001.ogg",
+            "text": "そんなに……怖くなかったですね……"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hestia_battlelose_001.ogg",
+            "text": "こ……来ないで……あっちいって！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hestia_uniqueskill_001.ogg",
+            "text": "これが炎の導きです！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hestia_dead_001.ogg",
+            "text": "誰か……助けて……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hestia_greeting_001.ogg",
+            "text": "戻ってきましたか……誰か見つけたんですか？いえ……ちょっと聞いただけです。そう緊張しないでください。少なくとも私は……まだここにいます……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hestia_talk1_001.ogg",
+            "text": "私の目は……あなたたちが見ているものは見えません。ですが……あなたたちも私が見ているものは見えないのです……空に昇るあの赤い月、滅びゆく幻影……ここで生きていたいなら、私の導きに従ってください。いいですね……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hestia_talk1_002.ogg",
+            "text": "「松明を灯せ」……そんな声が聞こえたんです……そうしなければあなたたちは戻ってこないと……神は嘘をつきませんでした。少なくともあなたは戻ってきたのですから。そうでしょう……？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hestia_talk1_003.ogg",
+            "text": "ここの人たちは……いつも……変なことを言っています。あなたは理解できますか？彼らは……何がしたいんでしょう？あなたは私を守ってくれますよね？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hestia_talk2_001.ogg",
+            "text": "あなたたちのように私を大切にしてくれる人は今までいませんでした……なぜですか？なぜそんなに簡単に見知らぬ人を受け入れ、無償で食べ物を分け与え、守ることができるんですか……私の言葉を信じていないくせに……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hestia_talk2_002.ogg",
+            "text": "私も……あの神は嫌いです……ですが、神は本当に存在します……この先、あなたが行こうとしている所にいます……どうしてですか……信じたくないんですか？"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hestia_talk2_003.ogg",
+            "text": "これ以上進んではいけません……罠です。闇はあなたたち一人ひとりを飲み込むんです……あなたたちが嘘つきを信じないのは知っています……ですが、今回は嘘ではないんです……"
+        },
+        {
+            "title": "Compliance",
+            "filename": "File:vo_hestia_obeyfull_001.ogg",
+            "text": "全部あなたのせいですよ……私は一人で生きていく術さえ忘れてしまいました……あんな所に一人取り残されるのは……本当に……怖い……もう戻りたくない……二度と私を置いていかないでください。もう一人にはなりたくありません……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hestia_idle_001.ogg",
+            "text": "しーっ……静かに……神は私たちを見ています……感じたんです。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hestia_clicking_001.ogg",
+            "text": "こ……これはいじめです！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hestia_specialattention_001.ogg",
+            "text": "またしても、あなたは暗闇を越えて私を見つけましたね。分かっていましたよ。これもまた神の定めなのですから……どんなに時が経っても、あなたは私のもとに戻ってくるのです……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hestia_dispatch_001.ogg",
+            "text": "これもまた、神の御意志です……"
+        },
+        {
+            "title": "Dispatch Completion",
+            "filename": "File:vo_hestia_dispatch2_001.ogg",
+            "text": "私は迷子になったりしません。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hestia_levelup_002.ogg",
+            "text": "炎が……更に明るくなりました……"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hestia_head_001.ogg",
+            "text": "やめなさい……聖女を……冒涜することは許されませんよ！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_hestia_jointeam_001.ogg",
+            "text": "怖くないですよ……私が導いてあげますからね……"
+        }
+    ]
+}
