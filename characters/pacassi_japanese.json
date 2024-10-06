@@ -76,7 +76,7 @@
             "text": "私は他人やあなたに憐れみを求めていません。私は……尊厳を失いたくない。実験体として、あるいは観賞される動物としては生きていたくないんです……。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_pacassi_obeyfull_001.ogg",
             "text": "これまで私に「友達」が何かを教えてくれた人はいなかった。……「友達」とは、その相手のために死ぬことができるほどの存在だと、本で読んだことがあります……もしそれが間違っていないなら、局長、あなたは私の友達です。私の、唯一の友達。"
         },
@@ -101,7 +101,7 @@
             "text": "やってみせます。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_pacassi_dispatch2_001.ogg",
             "text": "終わりました。新しい任務をください。"
         },
@@ -118,7 +118,7 @@
     ],
     "winter_night": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_pacassi_winter_night_cacha_001.ogg",
             "text": "局長、たき火にもっと近づいてください。マエクタウンの外でも、ディスシティよりはかなり寒いですから、暖かくしないと。"
         },

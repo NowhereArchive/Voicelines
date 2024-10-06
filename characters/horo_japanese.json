@@ -76,7 +76,7 @@
             "text": "強くなった今のあたしは、もう誰の足手まといにもならない！でも、そう言いたい あの人は……もういないんだ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_horo_obeyfull_001.ogg",
             "text": "ゾーヤさんに頼まれてあたしを助けに来たって話、本当は嘘なんだろ……。ふん、まぁいいよ。許してやる。あたしはこんなつまんないことで、大事な人と言い争うつもりはないんだよ……二度と。"
         },
@@ -101,7 +101,7 @@
             "text": "安心して、あたしに任せろ。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_horo_dispatch2_001.ogg",
             "text": "あたしがいるから、このぐらい余裕余裕！"
         },
@@ -118,7 +118,7 @@
     ],
     "limit_breaker": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_horo_jixianyundongjihua_cacha_001.ogg",
             "text": "……なんだよ？ちょっと見に来ただけ？だから、あたしは見せ物じゃないぞ。せっかく来たんだし、一緒にトレーニングでもしていけよ。あんたのその細い手足を見てみろ。いつか内海の強風で吹き飛ばされるんじゃないかって心配になるぞ。"
         },

@@ -1,0 +1,228 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_zoya_cacha_001.ogg",
+            "text": "シンジケートのヤクザを捕まえるためだけに、これだけの警察官が出動するとは。お前の部下は……弱過ぎるな。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_zoya_promotion_001.ogg",
+            "text": "力があるだけじゃ十分と言えねえ。その役割を発揮させなきゃ意味がねぇんだ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_zoya_promotion2_001.ogg",
+            "text": "もう限界だと？ 笑わせるな。人間は限界を超え続ける生き物だ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_zoya_battlebegin_001.ogg",
+            "text": "だいぶ待ったぞ。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_zoya_battlewin_001.ogg",
+            "text": "相手を間違えたな。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_zoya_battlelose_001.ogg",
+            "text": "これは終わりじゃねえ。負けを認めるな！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_zoya_uniqueskill_001.ogg",
+            "text": "俺こそが、軍団だ！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_zoya_dead_001.ogg",
+            "text": "ここで……倒れるわけには……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_zoya_greeting_001.ogg",
+            "text": "ほお、随分のんびりしているようだな。俺とシンジケートに戻ってみないか？お前に会いたがってるやつがたくさんいるぞ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_zoya_talk1_001.ogg",
+            "text": "お前の上司は毎日俺を監視するやつを変えてるな。なんだ？そんなに恐いのか？囚われたコンビクトごときが。あるいはシンジケートの落ちぶれたヤクザが？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_zoya_talk1_002.ogg",
+            "text": "俺の部下は筋肉バカだけでなく、頭脳明晰なやつもいるぜ。うん……お前みたいなのもいいかもな。公務員なんざ辞めて軍団に入ったらどうだ！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_zoya_talk1_003.ogg",
+            "text": "銃？そんなもので戦うなんてありえねぇ。戦士とは自分の拳と意志だけを信じて戦うもんだ。それに、シンジケートの「銃」はとっくに汚れてる。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_zoya_talk2_001.ogg",
+            "text": "暴力だけが暴力を終わらせることができる。それがシンジケートが出した唯一の答えだ。かつて幻想を抱いていた者は、何も成せずに命を落としていったよ。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_zoya_talk2_002.ogg",
+            "text": "廃墟と化したあの工場は、この街の黄金時代の記録だ。あれこそシンジケートが取り戻さなければならない栄光なんだよ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_zoya_talk2_003.ogg",
+            "text": "「誰を失っても、軍団長は冷静でなければならない」か、だが、もしそれがお前だったら、俺は自分が何をするか分からないな……。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_zoya_obeyfull_001.ogg",
+            "text": "最初に出会ったとき、お前は片手で持ち上げられる程度のひよっこだったが……まさか今もそうだとはな。……だがお前は、俺がこれまでに出会った中で一番強い人間でもある。これからは、いろいろと任せるぞ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_zoya_idle_001.ogg",
+            "text": "ここにはわんさかいるみてえじゃねえか……稽古に付き合えそうな人間がよ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_zoya_clicking_001.ogg",
+            "text": "ほう？俺を挑発してるのか?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_zoya_specialattention_001.ogg",
+            "text": "そうやって見ているだけか？はは、ならかかってこいよ。俺は立ったまま動かないし、両手も使わねえからさ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_zoya_dispatch_001.ogg",
+            "text": "このくらいのことは、軍団の連中がすぐにやってのけるさ。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_zoya_dispatch2_001.ogg",
+            "text": "ほら、楽勝だっただろ?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_zoya_levelup_002.ogg",
+            "text": "うーん……まだ足りねぇな。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_zoya_jointeam_001.ogg",
+            "text": "そろそろ、身体を動かさねえとな。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_zoya_head_001.ogg",
+            "text": "ふっ、大胆なことをするじゃねえか……。"
+        }
+    ],
+    "wolves_strike_soon": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_zoya_langxijiangzhi_cacha_001.ogg",
+            "text": "マフィアのやつらに伝えろ。我ら軍団は、お前たち全員に宣戦布告する！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_zoya_langxijiangzhi_greeting_001.ogg",
+            "text": "はは、遅かったな。ついてこい。シンジケートの変革をその目で見てえだろう？なら、離れるんじゃねえぞ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_zoya_langxijiangzhi_talk_001.ogg",
+            "text": "最初の相手は誰だ？テッドか？それとも柳生か？なんなら全員かかってこい。結果は一緒だからな。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_zoya_langxijiangzhi_talk_002.ogg",
+            "text": "策略はケルシーに任せて、俺は道を切り開くことに専念する。それがあいつにとって一番必要なことなんだよ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_zoya_langxijiangzhi_hand_001.ogg",
+            "text": "錆の匂い、硝煙、終わりのない暴力。シンジケートは何一つ変わっちゃいねえ。もうたくさんだ……全部壊して、俺が変えてやる。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_zoya_langxijiangzhi_leg_001.ogg",
+            "text": "軍団にアジトなんかいらねえよ。シンジケート全土が群狼の領地だ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_zoya_langxijiangzhi_idle_001.ogg",
+            "text": "敵は目に見えてるやつらだけじゃねえ。だが、こそこそ隠れてるネズミどもが顔を出せば……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_zoya_langxijiangzhi_specialattention_001.ogg",
+            "text": "ほう？やっと入団する気になったか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_zoya_langxijiangzhi_levelup_001.ogg",
+            "text": "ふん。これからの戦いが楽しみじゃねえか。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_zoya_langxijiangzhi_head_001.ogg",
+            "text": "お前、最近……肝が据わってきたじゃねえか。"
+        }
+    ],
+    "supreme_negotiation": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_zoya_zhigaojiaoshe_cacha_001.ogg",
+            "text": "この通り、交渉は上手くいったぜ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_zoya_zhigaojiaoshe_greeting_001.ogg",
+            "text": "来たか。残念だが、交渉は予定より早く終わったぜ。だが、ここはまあまあいい場所だ。お前と話すにはちょうどいい。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_zoya_zhigaojiaoshe_talk_001.ogg",
+            "text": "はは、猛獣を飼い慣らしてぇなら、猛獣以上に凶悪で野心的にならねぇとな。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_zoya_zhigaojiaoshe_talk_002.ogg",
+            "text": "シンジケートの未来？ふっ、知らねぇよ。だが……俺なりのやり方で答えを見つけてやる。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_zoya_zhigaojiaoshe_hand_001.ogg",
+            "text": "お前のその目、羨ましいと思ってるのか？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_zoya_zhigaojiaoshe_leg_001.ogg",
+            "text": "錆や硝煙は、消えずに人の心に潜む。残された痕跡は、密かにあちこちで育っていくんだ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_zoya_zhigaojiaoshe_idle_001.ogg",
+            "text": "ちゃんと警備できたみてぇだな。いい子だ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_zoya_zhigaojiaoshe_specialattention_001.ogg",
+            "text": "この服、交渉のテーブルにつくにはふさわしいが、動くには少し邪魔なんだよな。まぁいい……これも、あいつらの気持ちだ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_zoya_zhigaojiaoshe_levelup_001.ogg",
+            "text": "十分な強さがねぇと、誰も話を聞いちゃくれねぇぞ。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_zoya_zhigaojiaoshe_head_001.ogg",
+            "text": "お前の勇気には、相変わらず感心するな。"
+        }
+    ]
+}

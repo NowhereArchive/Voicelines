@@ -76,7 +76,7 @@
             "text": "局長。もし、いつか……わたしが「ヘカテー」ではなくなっても、傍に……置いてくれますか？"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_hecate_obeyfull_001.ogg",
             "text": "もうわたしに命令する必要はありません、局長。どうかわたしを見ていてください。残された時間は、自分の意志であなたと一緒に歩んでいきます。"
         },
@@ -101,7 +101,7 @@
             "text": "これは命令ですか？分かりました。やり遂げます。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_hecate_dispatch2_001.ogg",
             "text": "命令を完遂。ただいま戻りました。"
         },
@@ -118,7 +118,7 @@
     ],
     "yesterday_revisits": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_hecate_yesterday_revisits_cacha_001.ogg",
             "text": "局長の要求でなければ……この服を着る機会もなかったでしょう。"
         },
@@ -170,7 +170,7 @@
     ],
     "traveller_s_tale": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_hecate_traveller's_tale_cacha_001.ogg",
             "text": "こんにちは。私は異世界から来た魔法使い。夢と幻想を操る能力があります……セリフはこれで合っている？"
         },

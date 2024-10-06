@@ -71,7 +71,7 @@
             "text": "さて、そろそろ新しい贋作師を探さなければ。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_mcqueen_dispatch2_001.ogg",
             "text": "そんなに慌てて私を連れ戻そうとするなんて、他の誰かと食事に行くのではと心配になったかな？"
         },
@@ -106,7 +106,7 @@
             "text": "「マックイーン」に騙されて、彼女のために金を数えた。私の才能を見つけてくれたことに感謝さえしていた……ははっ、こんな馬鹿な奴、たとえ消えても誰も気に留めないだろうさ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_mcqueen_obeyfull_001.ogg",
             "text": "私にとって、君は複製できない唯一の宝物……信じて。これは君にだけ捧げる言葉だよ。"
         },
@@ -118,7 +118,7 @@
     ],
     "inferno_of_deception": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_mcqueen_zhuoxinwangjing_cacha_001.ogg",
             "text": "怖がらないでくれ、迷える子羊ちゃん。君はただ、私の炎の聖殿に迷い込んだだけさ……ここから出たい？それなら自分で見極めるしかない……その道が本物か偽物かを。"
         },
@@ -160,7 +160,7 @@
     ],
     "whimsical_theater": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_mcqueen_mengxisuitan_cacha_001.ogg",
             "text": "どこの貴人が私の芝居小屋に迷い込んできたんだい？おやおや、来たからには慌てて帰らなくてもいいさ。私の新しい戯曲を堪能していっておくれ～"
         },

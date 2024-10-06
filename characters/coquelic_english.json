@@ -1,124 +1,124 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_coquelic_cacha_001.ogg",
-      "text": "Feel honored I'm willing to walk into this place. I'd like to have a little garden outside my room. Thanks."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_coquelic_promotion_001.ogg",
-      "text": "I recognize your hard work, my child."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_coquelic_promotion2_001.ogg",
-      "text": "Enjoy being surrounded by flowers."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_coquelic_battlebegin_001.ogg",
-      "text": "Who will bloom under my sword today?"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_coquelic_battlewin_001.ogg",
-      "text": "The splash of petals is incomparably gorgeous."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_coquelic_battlelose_001.ogg",
-      "text": "I'll spare your life for now..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_coquelic_uniqueskill_001.ogg",
-      "text": "Bloom here, till the day you wither!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_coquelic_dead_001.ogg",
-      "text": "This will be... the grandest flower shower..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_coquelic_greeting_001.ogg",
-      "text": "I hope we're both free from work today, so we can stay here... and rest a whole day..."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_coquelic_talk1_001.ogg",
-      "text": "I cherish and care for every flower in the Garden. I hope my nurture will give them leaves sharp enough to cut through hardships, so their souls can bloom into the most beautiful flowers..."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_coquelic_talk1_002.ogg",
-      "text": "Rules can't confine the wish to bloom. A sprout born in the dark will eventually break them into pieces."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_coquelic_talk1_003.ogg",
-      "text": "Working for pay is only the most basic way of life. The client gains convenience while I gain happiness. I enjoy my life much better than those who hustle for unrealistic, empty goals."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_coquelic_talk2_001.ogg",
-      "text": "Those who like flowers pick them. Those who love flowers water them... But I won't mind if you pick me and take me home."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_coquelic_talk2_002.ogg",
-      "text": "Don't give me those contrived moral lessons. In this world, nothing means more than the most simple words \"I want to.\""
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_coquelic_talk2_003.ogg",
-      "text": "A kind and lovely lady like me will wash the dirt off those stems and nurture them properly, so they can be reborn as exquisite flowers in their next lives... Oh, how admirable am I!"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_coquelic_obeyfull_001.ogg",
-      "text": "Flowers in bloom wither in the end. When the day comes, I long to rest in the immortal, deep-blue abyss of yours... May the poppies bloom on your chest like a scarlet blaze... The mark of my genuine affection..."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_coquelic_idle_001.ogg",
-      "text": "Touched by no one. Loved by no one. Though tortured by loneliness, it'll bloom even more brightly."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_coquelic_clicking_001.ogg",
-      "text": "Don't think you can get away with anything just because of my affection for you. Or else... You'll be the next to lie in the soil of my garden."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_coquelic_specialattention_001.ogg",
-      "text": "Sigh... I know, I'm pretty, that's why you can't keep your eyes off me."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_coquelic_dispatch_001.ogg",
-      "text": "I can't pick up my jacket. Can you put it on me, please?"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_coquelic_dispatch2_001.ogg",
-      "text": "Ask someone else to do it next time. It's so not for me."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_coquelic_levelup_002.ogg",
-      "text": "Look at me. Am I not good enough for you?"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_coquelic_head_001.ogg",
-      "text": "Like this flower? Or... You wanna see how it got tinted red?"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_coquelic_jointeam_001.ogg",
-      "text": "Flowers will bloom wherever I go."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_coquelic_cacha_001.ogg",
+            "text": "Feel honored I'm willing to walk into this place. I'd like to have a little garden outside my room. Thanks."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_coquelic_promotion_001.ogg",
+            "text": "I recognize your hard work, my child."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_coquelic_promotion2_001.ogg",
+            "text": "Enjoy being surrounded by flowers."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_coquelic_battlebegin_001.ogg",
+            "text": "Who will bloom under my sword today?"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_coquelic_battlewin_001.ogg",
+            "text": "The splash of petals is incomparably gorgeous."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_coquelic_battlelose_001.ogg",
+            "text": "I'll spare your life for now..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_coquelic_uniqueskill_001.ogg",
+            "text": "Bloom here, till the day you wither!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_coquelic_dead_001.ogg",
+            "text": "This will be... the grandest flower shower..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_coquelic_greeting_001.ogg",
+            "text": "I hope we're both free from work today, so we can stay here... and rest a whole day..."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_coquelic_talk1_001.ogg",
+            "text": "I cherish and care for every flower in the Garden. I hope my nurture will give them leaves sharp enough to cut through hardships, so their souls can bloom into the most beautiful flowers..."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_coquelic_talk1_002.ogg",
+            "text": "Rules can't confine the wish to bloom. A sprout born in the dark will eventually break them into pieces."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_coquelic_talk1_003.ogg",
+            "text": "Working for pay is only the most basic way of life. The client gains convenience while I gain happiness. I enjoy my life much better than those who hustle for unrealistic, empty goals."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_coquelic_talk2_001.ogg",
+            "text": "Those who like flowers pick them. Those who love flowers water them... But I won't mind if you pick me and take me home."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_coquelic_talk2_002.ogg",
+            "text": "Don't give me those contrived moral lessons. In this world, nothing means more than the most simple words \"I want to.\""
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_coquelic_talk2_003.ogg",
+            "text": "A kind and lovely lady like me will wash the dirt off those stems and nurture them properly, so they can be reborn as exquisite flowers in their next lives... Oh, how admirable am I!"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_coquelic_obeyfull_001.ogg",
+            "text": "Flowers in bloom wither in the end. When the day comes, I long to rest in the immortal, deep-blue abyss of yours... May the poppies bloom on your chest like a scarlet blaze... The mark of my genuine affection..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_coquelic_idle_001.ogg",
+            "text": "Touched by no one. Loved by no one. Though tortured by loneliness, it'll bloom even more brightly."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_coquelic_clicking_001.ogg",
+            "text": "Don't think you can get away with anything just because of my affection for you. Or else... You'll be the next to lie in the soil of my garden."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_coquelic_specialattention_001.ogg",
+            "text": "Sigh... I know, I'm pretty, that's why you can't keep your eyes off me."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_coquelic_dispatch_001.ogg",
+            "text": "I can't pick up my jacket. Can you put it on me, please?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_coquelic_dispatch2_001.ogg",
+            "text": "Ask someone else to do it next time. It's so not for me."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_coquelic_levelup_002.ogg",
+            "text": "Look at me. Am I not good enough for you?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_coquelic_head_001.ogg",
+            "text": "Like this flower? Or... You wanna see how it got tinted red?"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_coquelic_jointeam_001.ogg",
+            "text": "Flowers will bloom wherever I go."
+        }
+    ]
 }

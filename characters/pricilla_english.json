@@ -1,166 +1,161 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_pricilla_cacha_001.ogg",
-      "text": "Oh my! Many police officers have chased Robber Rabbit, but you're the only one who caught me!"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_pricilla_promotion_001.ogg",
-      "text": "The next performance will be even more spectacular..."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_pricilla_promotion2_001.ogg",
-      "text": "The lights are set, and the stage is perfect! Are you ready? A spectacular phantom burglary is about to begin!"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_pricilla_battlebegin_001.ogg",
-      "text": "Let me give you a spoiler: I'm going to run away in a bit! Better catch up to me!"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_pricilla_battlewin_001.ogg",
-      "text": "Taking back the notice! There was a great response to this mission, too!"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_pricilla_battlelose_001.ogg",
-      "text": "I'm sorry... I'm sorry... I shouldn't have done that..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_pricilla_uniqueskill_001.ogg",
-      "text": "Rob the rich and give to the poor!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_pricilla_dead_001.ogg",
-      "text": "Can you forgive me now..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_pricilla_greeting_001.ogg",
-      "text": "Good morning! Good afternoon! Good evening! Hahaha, this means I want to see you all day!"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_pricilla_talk1_001.ogg",
-      "text": "How trusting the Bureau must be to send their precious Chief to me... Aren't you afraid I'll stuff you in a suitcase and run away?"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_pricilla_talk1_002.ogg",
-      "text": "When night falls, the whole of DisCity becomes my stage!"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_pricilla_talk1_003.ogg",
-      "text": "I am the righteous Robber Rabbit, robbing the rich to help the poor! I am not a thief! Don't compare me to that kleptomaniac fox! Teaming up with her was just a coincidence."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_pricilla_talk2_001.ogg",
-      "text": "Well, I'm not doing this entirely out of righteousness... it's more like belated atonement."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_pricilla_talk2_002.ogg",
-      "text": "Chief, you should really find some time to control that fox! It sucks for me to be her partner."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_pricilla_talk2_003.ogg",
-      "text": "I could also just retire and go into hiding... After all, you'll lead us to keep pursuing justice, right Chief?"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_pricilla_obeyfull_001.ogg",
-      "text": "We will part someday, too. A free phantom robber won't stay by anyone's side forever... oh, are you sad? There there, I'm not leaving now. I'll stay with you for a bit longer."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_pricilla_idle_001.ogg",
-      "text": "The quality of this metal rod is pretty good... if you're bored, how about I dance for you?"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_pricilla_clicking_001.ogg",
-      "text": "Hehe, oh Chief, if you make trouble again, I will..."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_pricilla_specialattention_001.ogg",
-      "text": "A phantom robber could disappear at any time. Now you see me, now you don't..."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_pricilla_dispatch_001.ogg",
-      "text": "If you let me out... will you be able to catch me again?"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_pricilla_dispatch2_001.ogg",
-      "text": "Ugh, there's nothing valuable there anyway..."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_pricilla_levelup_002.ogg",
-      "text": "I can carry the whole world in my luggage!"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_pricilla_jointeam_001.ogg",
-      "text": "Oh? Is it my turn to shine?"
-    }
-  ],
-  "night_of_petals": [
-    {
-      "title": "No",
-      "filename": "File:unknown.ogg",
-      "text": "2"
-    },
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_pricilla_night_of_petals_cacha_001.ogg",
-      "text": "Taking back the notice! So, did you like the shower of petals I gave you?~ Hehe, since you liked it, I'll be keeping your heart~"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_pricilla_night_of_petals_levelup_001.ogg",
-      "text": "Heart-stealing mission accomplished~"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_pricilla_night_of_petals_greeting_001.ogg",
-      "text": "Shhh... Be quiet. You don't want irrelevant people to come bother us, do you? Come. This rose is for you."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_pricilla_night_of_petals_talk_001.ogg",
-      "text": "This mask is part of the Phantom Robber's identity. It should never be taken off lightly. But since you've seen my face under the mask, I can't let you off the hook..."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_pricilla_night_of_petals_talk_002.ogg",
-      "text": "Cinderella's not the only who fled the ball. There's also the heart-stealing Phantom Robber, who left with a full bag of loot~"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_pricilla_night_of_petals_idle_001.ogg",
-      "text": "I'm so bored... One petal... Two petals..."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_pricilla_night_of_petals_clicking_001.ogg",
-      "text": "Hey, stop moving around, will ya? You want to discover my flaws? Hmph... You're just like that damn fox! Anyways, my makeover is perfect..."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_pricilla_night_of_petals_specialattention_001.ogg",
-      "text": "Don't be shocked. The phantom robber would be willing to get caught for a treasure she desires."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_pricilla_cacha_001.ogg",
+            "text": "Oh my! Many police officers have chased Robber Rabbit, but you're the only one who caught me!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_pricilla_promotion_001.ogg",
+            "text": "The next performance will be even more spectacular..."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_pricilla_promotion2_001.ogg",
+            "text": "The lights are set, and the stage is perfect! Are you ready? A spectacular phantom burglary is about to begin!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_pricilla_battlebegin_001.ogg",
+            "text": "Let me give you a spoiler: I'm going to run away in a bit! Better catch up to me!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_pricilla_battlewin_001.ogg",
+            "text": "Taking back the notice! There was a great response to this mission, too!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_pricilla_battlelose_001.ogg",
+            "text": "I'm sorry... I'm sorry... I shouldn't have done that..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_pricilla_uniqueskill_001.ogg",
+            "text": "Rob the rich and give to the poor!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_pricilla_dead_001.ogg",
+            "text": "Can you forgive me now..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pricilla_greeting_001.ogg",
+            "text": "Good morning! Good afternoon! Good evening! Hahaha, this means I want to see you all day!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_pricilla_talk1_001.ogg",
+            "text": "How trusting the Bureau must be to send their precious Chief to me... Aren't you afraid I'll stuff you in a suitcase and run away?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_pricilla_talk1_002.ogg",
+            "text": "When night falls, the whole of DisCity becomes my stage!"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_pricilla_talk1_003.ogg",
+            "text": "I am the righteous Robber Rabbit, robbing the rich to help the poor! I am not a thief! Don't compare me to that kleptomaniac fox! Teaming up with her was just a coincidence."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_pricilla_talk2_001.ogg",
+            "text": "Well, I'm not doing this entirely out of righteousness... it's more like belated atonement."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_pricilla_talk2_002.ogg",
+            "text": "Chief, you should really find some time to control that fox! It sucks for me to be her partner."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_pricilla_talk2_003.ogg",
+            "text": "I could also just retire and go into hiding... After all, you'll lead us to keep pursuing justice, right Chief?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_pricilla_obeyfull_001.ogg",
+            "text": "We will part someday, too. A free phantom robber won't stay by anyone's side forever... oh, are you sad? There there, I'm not leaving now. I'll stay with you for a bit longer."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pricilla_idle_001.ogg",
+            "text": "The quality of this metal rod is pretty good... if you're bored, how about I dance for you?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pricilla_clicking_001.ogg",
+            "text": "Hehe, oh Chief, if you make trouble again, I will..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pricilla_specialattention_001.ogg",
+            "text": "A phantom robber could disappear at any time. Now you see me, now you don't..."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_pricilla_dispatch_001.ogg",
+            "text": "If you let me out... will you be able to catch me again?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_pricilla_dispatch2_001.ogg",
+            "text": "Ugh, there's nothing valuable there anyway..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pricilla_levelup_002.ogg",
+            "text": "I can carry the whole world in my luggage!"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_pricilla_jointeam_001.ogg",
+            "text": "Oh? Is it my turn to shine?"
+        }
+    ],
+    "night_of_petals": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_pricilla_night_of_petals_cacha_001.ogg",
+            "text": "Taking back the notice! So, did you like the shower of petals I gave you?~ Hehe, since you liked it, I'll be keeping your heart~"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_pricilla_night_of_petals_levelup_001.ogg",
+            "text": "Heart-stealing mission accomplished~"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_pricilla_night_of_petals_greeting_001.ogg",
+            "text": "Shhh... Be quiet. You don't want irrelevant people to come bother us, do you? Come. This rose is for you."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_pricilla_night_of_petals_talk_001.ogg",
+            "text": "This mask is part of the Phantom Robber's identity. It should never be taken off lightly. But since you've seen my face under the mask, I can't let you off the hook..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_pricilla_night_of_petals_talk_002.ogg",
+            "text": "Cinderella's not the only who fled the ball. There's also the heart-stealing Phantom Robber, who left with a full bag of loot~"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_pricilla_night_of_petals_idle_001.ogg",
+            "text": "I'm so bored... One petal... Two petals..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_pricilla_night_of_petals_clicking_001.ogg",
+            "text": "Hey, stop moving around, will ya? You want to discover my flaws? Hmph... You're just like that damn fox! Anyways, my makeover is perfect..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_pricilla_night_of_petals_specialattention_001.ogg",
+            "text": "Don't be shocked. The phantom robber would be willing to get caught for a treasure she desires."
+        }
+    ]
 }

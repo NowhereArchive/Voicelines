@@ -1,124 +1,124 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_coquelic_cacha_001.ogg",
-      "text": "私がここに来たことを光栄に思いなさい。部屋の外に小さな庭が欲しいんだけど。よろしくね～"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_coquelic_promotion_001.ogg",
-      "text": "勤勉な子よ、私はあなたを認めるわ。"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_coquelic_promotion2_001.ogg",
-      "text": "花に囲まれるひとときを楽しんで。"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_coquelic_levelup_002.ogg",
-      "text": "今の私は、まだあなたを満足させられないの？"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_coquelic_head_001.ogg",
-      "text": "この花が好きなの？それとも……赤く染まる様子を見たい？"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_coquelic_battlebegin_001.ogg",
-      "text": "今日、私の剣の下で咲くのは誰？"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_coquelic_battlewin_001.ogg",
-      "text": "ここに散っている花びらは、本当に比類ないほどの美しさだわ。"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_coquelic_battlelose_001.ogg",
-      "text": "しばらく生かしておいてあげる……"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_coquelic_uniqueskill_001.ogg",
-      "text": "ここで咲かせるわ。終わるまで。"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_coquelic_dead_001.ogg",
-      "text": "これは……最も美しい花の雨になる……"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_coquelic_talk1_001.ogg",
-      "text": "私は庭の花一つ一つを大切に思い、愛している。私の指導でその枝葉を鋭くし、苦難を切り裂き、魂を最も美しい花として咲かせることを願っているわ……"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_coquelic_talk1_002.ogg",
-      "text": "規則は咲き誇りたいという願いを封じ込めることはできない。暗闇の中で伸びる枝や葉は、遅かれ早かれその境界を打ち破るでしょうね。"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_coquelic_talk1_003.ogg",
-      "text": "お金を貰って仕事をする。これが一番普通の生き方でしょ～。顧客は便利になって、私は愉悦を得るの。漠然とした非現実的な目標に突っ走るおばかさんたちに比べたら、私は今の生活の方が好きだわ～"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_coquelic_talk2_001.ogg",
-      "text": "花が好きな人は花を摘み、花を愛している人は水をやる……でも、あなたが私を摘んで持って行っても構わないわ～"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_coquelic_talk2_002.ogg",
-      "text": "そんな面倒な理屈ばかり言わないで。この世に「私の勝手」という言葉に匹敵する理屈はないわ。"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_coquelic_talk2_003.ogg",
-      "text": "私みたいな優しくて美しい人が、汚物をしっかり教育して洗い流し、来世で綺麗な花になれるようにする……あ～私って本当に偉大だわ～"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_coquelic_obeyfull_001.ogg",
-      "text": "咲いた花は必ず枯れる。その日が訪れたら、あなたの休むことない青い深淵で眠りたい……あなたの胸に、赤く燃えるヒナゲシを咲かせて……それはあなたのために残す真心。撒いた跡よ……"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_coquelic_greeting_001.ogg",
-      "text": "今日は依頼がないことを願うわ。そうすれば、私たちはここで……丸一日ゆっくり休めるでしょ～"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_coquelic_idle_001.ogg",
-      "text": "誰にも触れられず、誰にも愛されないのは、寂しくて耐えられないけど、もっと華やかに咲き誇ることができるわ。"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_coquelic_clicking_001.ogg",
-      "text": "私の好意に甘えて変なことをしないでね？そうじゃないと……私の庭の土の中に横たわる一人になるわよ。"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_coquelic_dispatch_001.ogg",
-      "text": "上着を持ち上げられなくて。着るの、手伝ってくれる？"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_coquelic_dispatch2_001.ogg",
-      "text": "今度から、こういうことは他の人に頼みなさい。私には相応しくないわ。"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_coquelic_specialattention_001.ogg",
-      "text": "あら～分かっているわ。私が綺麗だから、ずっと見ていたいのね。"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_coquelic_jointeam_001.ogg",
-      "text": "-"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_coquelic_cacha_001.ogg",
+            "text": "私がここに来たことを光栄に思いなさい。部屋の外に小さな庭が欲しいんだけど。よろしくね～"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_coquelic_promotion_001.ogg",
+            "text": "勤勉な子よ、私はあなたを認めるわ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_coquelic_promotion2_001.ogg",
+            "text": "花に囲まれるひとときを楽しんで。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_coquelic_levelup_002.ogg",
+            "text": "今の私は、まだあなたを満足させられないの？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_coquelic_head_001.ogg",
+            "text": "この花が好きなの？それとも……赤く染まる様子を見たい？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_coquelic_battlebegin_001.ogg",
+            "text": "今日、私の剣の下で咲くのは誰？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_coquelic_battlewin_001.ogg",
+            "text": "ここに散っている花びらは、本当に比類ないほどの美しさだわ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_coquelic_battlelose_001.ogg",
+            "text": "しばらく生かしておいてあげる……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_coquelic_uniqueskill_001.ogg",
+            "text": "ここで咲かせるわ。終わるまで。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_coquelic_dead_001.ogg",
+            "text": "これは……最も美しい花の雨になる……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_coquelic_talk1_001.ogg",
+            "text": "私は庭の花一つ一つを大切に思い、愛している。私の指導でその枝葉を鋭くし、苦難を切り裂き、魂を最も美しい花として咲かせることを願っているわ……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_coquelic_talk1_002.ogg",
+            "text": "規則は咲き誇りたいという願いを封じ込めることはできない。暗闇の中で伸びる枝や葉は、遅かれ早かれその境界を打ち破るでしょうね。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_coquelic_talk1_003.ogg",
+            "text": "お金を貰って仕事をする。これが一番普通の生き方でしょ～。顧客は便利になって、私は愉悦を得るの。漠然とした非現実的な目標に突っ走るおばかさんたちに比べたら、私は今の生活の方が好きだわ～"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_coquelic_talk2_001.ogg",
+            "text": "花が好きな人は花を摘み、花を愛している人は水をやる……でも、あなたが私を摘んで持って行っても構わないわ～"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_coquelic_talk2_002.ogg",
+            "text": "そんな面倒な理屈ばかり言わないで。この世に「私の勝手」という言葉に匹敵する理屈はないわ。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_coquelic_talk2_003.ogg",
+            "text": "私みたいな優しくて美しい人が、汚物をしっかり教育して洗い流し、来世で綺麗な花になれるようにする……あ～私って本当に偉大だわ～"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_coquelic_obeyfull_001.ogg",
+            "text": "咲いた花は必ず枯れる。その日が訪れたら、あなたの休むことない青い深淵で眠りたい……あなたの胸に、赤く燃えるヒナゲシを咲かせて……それはあなたのために残す真心。撒いた跡よ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_coquelic_greeting_001.ogg",
+            "text": "今日は依頼がないことを願うわ。そうすれば、私たちはここで……丸一日ゆっくり休めるでしょ～"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_coquelic_idle_001.ogg",
+            "text": "誰にも触れられず、誰にも愛されないのは、寂しくて耐えられないけど、もっと華やかに咲き誇ることができるわ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_coquelic_clicking_001.ogg",
+            "text": "私の好意に甘えて変なことをしないでね？そうじゃないと……私の庭の土の中に横たわる一人になるわよ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_coquelic_dispatch_001.ogg",
+            "text": "上着を持ち上げられなくて。着るの、手伝ってくれる？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_coquelic_dispatch2_001.ogg",
+            "text": "今度から、こういうことは他の人に頼みなさい。私には相応しくないわ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_coquelic_specialattention_001.ogg",
+            "text": "あら～分かっているわ。私が綺麗だから、ずっと見ていたいのね。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_coquelic_jointeam_001.ogg",
+            "text": "-"
+        }
+    ]
 }

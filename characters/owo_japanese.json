@@ -1,124 +1,124 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_owo_cacha_001.ogg",
-      "text": "やっぱりナ！誰もガオ様の獅子舞を拒めないアル！管理局も引き寄せられて、「大都市ディス」も（訳：この程度か～）"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_owo_promotion_001.ogg",
-      "text": "アー、さすがガオ様！"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_owo_promotion2_001.ogg",
-      "text": "オマエがガオ様を支持してくれたこと、ワタシ、忘れナイ！……しばらく、忘れナイ……少なくとも、今月中は忘れナイ！"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_owo_levelup_002.ogg",
-      "text": "ガオー！"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_owo_head_001.ogg",
-      "text": "獅子の頭、キレイか？カッコイイか？オーラあるか？触りたいか？フフン……触らせないアルよ！"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_owo_battlebegin_001.ogg",
-      "text": "よかったナ、ディス人。ガオ様の後ろで獅子の尻尾になれるチャンスなんて、普通の人にはないアルよ！"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_owo_battlewin_001.ogg",
-      "text": "この無敵獅子舞マスターをバカにしたからボコボコにされたアル！べろべろバー！"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_owo_battlelose_001.ogg",
-      "text": "クソー！待ってろアル！ワタシ……ガオ様はまた戻ってくるネ！"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_owo_uniqueskill_001.ogg",
-      "text": "威武獅子王、堂々見参！"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_owo_dead_001.ogg",
-      "text": "ガオ様は強い……ソイツらが……ううっ……ズルしたアル……"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_owo_talk1_001.ogg",
-      "text": "いにしえの異邦に♪一頭の獅子あり♪彼女の名前は～、ガオ！"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_owo_talk1_002.ogg",
-      "text": "ワタシの獅子頭をダサイと言ったの、誰アルか！時代遅れ！？誰アルか！！ううう……バカヤロー、出てこい！ううう……（訳：ワタシ、噛んでやる！）"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_owo_talk1_003.ogg",
-      "text": "（訳：「天下の武。攻守に優れるも、スピードのみが足りぬ」）……あ、映画の台詞アルよ。獅子舞の秘訣だと思ったバカはいないナ？アハハハ！バーカ！"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_owo_talk2_001.ogg",
-      "text": "オマエ！何か忘れてないか！よく考えるアル！それ！それアルよ！……ううう、オマエ今日、ガオ様の映画を褒めてくれてないアル！"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_owo_talk2_002.ogg",
-      "text": "オマエ、いい骨格してるアル。獅子舞の18代目継承者にならないアルか？あれ……18……19……どっち……ワタシ、何代目アル？……1、2、3……"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_owo_talk2_003.ogg",
-      "text": "ワタシの故郷にことわざがあるネ——「獅子が騒げば金の神来たる」！だからワタシ、オマエのために頑張って大騒ぎするアル！"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_owo_obeyfull_001.ogg",
-      "text": "獅子舞はしんどいアルよ！長いこと学習しないとナ！ケガもよくするアル！ホントに学びたいか？後悔しないか？……ガオ様に弟子？ガオ様に弟子！ガオ様に弟子ができたアル！！"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_owo_greeting_001.ogg",
-      "text": "無邪気なディス人、ムダな努力はやめるアル。オマエと天才獅子舞少女の距離は、永遠に埋められないアルよ！"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_owo_idle_001.ogg",
-      "text": "起きろー！！！（訳：まさか）、ホントにビックリしたアルか？アハハ、ディス人は面白いアルね～！"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_owo_clicking_001.ogg",
-      "text": "いいい言っとくけどナ、獅子を軽んじる人間に祝福はないガオ！怪物に食べられても、ワタシ知らないアル！こ、こっち来るな！！！"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_owo_dispatch_001.ogg",
-      "text": "ディスはワタシの故郷よりつまらないアルな？人手足りてるなら、ワタシ出かけたくないアル！"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_owo_dispatch2_001.ogg",
-      "text": "取るな！ドロボー！コレ全部、ガオ様が頑張って手に入れた物アルよ！"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_owo_specialattention_001.ogg",
-      "text": "これが威風と巧妙さを兼ね備えた天下無敵の天才・ガオ様のパフォーマンスね！まばたきしたら駄目アルよ！"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_owo_jointeam_001.ogg",
-      "text": "-"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_owo_cacha_001.ogg",
+            "text": "やっぱりナ！誰もガオ様の獅子舞を拒めないアル！管理局も引き寄せられて、「大都市ディス」も（訳：この程度か～）"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_owo_promotion_001.ogg",
+            "text": "アー、さすがガオ様！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_owo_promotion2_001.ogg",
+            "text": "オマエがガオ様を支持してくれたこと、ワタシ、忘れナイ！……しばらく、忘れナイ……少なくとも、今月中は忘れナイ！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_owo_levelup_002.ogg",
+            "text": "ガオー！"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_owo_head_001.ogg",
+            "text": "獅子の頭、キレイか？カッコイイか？オーラあるか？触りたいか？フフン……触らせないアルよ！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_owo_battlebegin_001.ogg",
+            "text": "よかったナ、ディス人。ガオ様の後ろで獅子の尻尾になれるチャンスなんて、普通の人にはないアルよ！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_owo_battlewin_001.ogg",
+            "text": "この無敵獅子舞マスターをバカにしたからボコボコにされたアル！べろべろバー！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_owo_battlelose_001.ogg",
+            "text": "クソー！待ってろアル！ワタシ……ガオ様はまた戻ってくるネ！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_owo_uniqueskill_001.ogg",
+            "text": "威武獅子王、堂々見参！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_owo_dead_001.ogg",
+            "text": "ガオ様は強い……ソイツらが……ううっ……ズルしたアル……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_owo_talk1_001.ogg",
+            "text": "いにしえの異邦に♪一頭の獅子あり♪彼女の名前は～、ガオ！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_owo_talk1_002.ogg",
+            "text": "ワタシの獅子頭をダサイと言ったの、誰アルか！時代遅れ！？誰アルか！！ううう……バカヤロー、出てこい！ううう……（訳：ワタシ、噛んでやる！）"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_owo_talk1_003.ogg",
+            "text": "（訳：「天下の武。攻守に優れるも、スピードのみが足りぬ」）……あ、映画の台詞アルよ。獅子舞の秘訣だと思ったバカはいないナ？アハハハ！バーカ！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_owo_talk2_001.ogg",
+            "text": "オマエ！何か忘れてないか！よく考えるアル！それ！それアルよ！……ううう、オマエ今日、ガオ様の映画を褒めてくれてないアル！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_owo_talk2_002.ogg",
+            "text": "オマエ、いい骨格してるアル。獅子舞の18代目継承者にならないアルか？あれ……18……19……どっち……ワタシ、何代目アル？……1、2、3……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_owo_talk2_003.ogg",
+            "text": "ワタシの故郷にことわざがあるネ——「獅子が騒げば金の神来たる」！だからワタシ、オマエのために頑張って大騒ぎするアル！"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_owo_obeyfull_001.ogg",
+            "text": "獅子舞はしんどいアルよ！長いこと学習しないとナ！ケガもよくするアル！ホントに学びたいか？後悔しないか？……ガオ様に弟子？ガオ様に弟子！ガオ様に弟子ができたアル！！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_owo_greeting_001.ogg",
+            "text": "無邪気なディス人、ムダな努力はやめるアル。オマエと天才獅子舞少女の距離は、永遠に埋められないアルよ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_owo_idle_001.ogg",
+            "text": "起きろー！！！（訳：まさか）、ホントにビックリしたアルか？アハハ、ディス人は面白いアルね～！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_owo_clicking_001.ogg",
+            "text": "いいい言っとくけどナ、獅子を軽んじる人間に祝福はないガオ！怪物に食べられても、ワタシ知らないアル！こ、こっち来るな！！！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_owo_dispatch_001.ogg",
+            "text": "ディスはワタシの故郷よりつまらないアルな？人手足りてるなら、ワタシ出かけたくないアル！"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_owo_dispatch2_001.ogg",
+            "text": "取るな！ドロボー！コレ全部、ガオ様が頑張って手に入れた物アルよ！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_owo_specialattention_001.ogg",
+            "text": "これが威風と巧妙さを兼ね備えた天下無敵の天才・ガオ様のパフォーマンスね！まばたきしたら駄目アルよ！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_owo_jointeam_001.ogg",
+            "text": "-"
+        }
+    ]
 }

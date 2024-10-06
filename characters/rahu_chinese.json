@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_rahu_cacha_001.ogg",
+            "text": "同是反狂厄作战单位，我会把这一系列针对我的行为视作“人事调动”，也服从你的安排。但如果你的命令与那个人有冲突，还请局长谅解。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_rahu_promotion_001.ogg",
+            "text": "终有一天，细小的湍流将汇聚成涌动的潮汐。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_rahu_promotion2_001.ogg",
+            "text": "阴影散尽，烈日当空……是时候了。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_rahu_battlebegin_001.ogg",
+            "text": "不用害怕，我不会让任何人伤害你。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_rahu_battlewin_001.ogg",
+            "text": "不能停留，这里还不安全。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_rahu_battlelose_001.ogg",
+            "text": "……别管我，你们带她离开！快！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_rahu_uniqueskill_001.ogg",
+            "text": "清除……所有……威胁！！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_rahu_dead_001.ogg",
+            "text": "我还有使命……有要守护的人……我不能……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rahu_greeting_001.ogg",
+            "text": "为什么要这样看着我？你是在……期待我给你回应吗？嗯……好吧，你好。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_rahu_talk1_001.ogg",
+            "text": "对我而言，忠诚是不容违背的原则。这一点无论发生什么，都不会动摇。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_rahu_talk1_002.ogg",
+            "text": "若只是舍弃性命就能达成自己的目的，又有什么可抱怨的呢？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_rahu_talk1_003.ogg",
+            "text": "休息？那是我不配拥有的奢侈品……好吧，如果你真的需要一个谈话消遣的对象，我想我可以试试。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_rahu_talk2_001.ogg",
+            "text": "这是我求得的力量，我绝不会后悔当初的选择，只恨没有更早行动。那样的话，至少不会沦为如今的丧家之犬。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_rahu_talk2_002.ogg",
+            "text": "教会我“忠诚”的人，也是我第一个效忠的对象……奇怪，那个人是谁？我……我想不起来了……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_rahu_talk2_003.ogg",
+            "text": "沾染狂厄，陷入癫狂，那是我实现目的的手段，亦是代价。或许有一天，我会失去控制。到时候，为了你的安全，做你该做的事，不要犹疑。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_rahu_obeyfull_001.ogg",
+            "text": "过去我的眼前只有黑暗。可你做的一切……就像给这片无尽的黑暗打上了一束光，即便那只是虚无缥缈的希望……我会保护你的……用我的一切。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rahu_idle_001.ogg",
+            "text": "……不用管我……很快就会结束……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rahu_clicking_001.ogg",
+            "text": "身为MBCC的长官，却做出这种事……你不会觉得羞耻吗？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rahu_specialattention_001.ogg",
+            "text": "你不必亲自来监视我，枷锁不是什么可以轻易挣脱的束缚。只是想和我独处？哦，好吧。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_rahu_dispatch_001.ogg",
+            "text": "知道了，我会去的。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_rahu_dispatch2_001.ogg",
+            "text": "任务完成，请指示。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rahu_levelup_002.ogg",
+            "text": "很好，多来一些，我需要它们。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_rahu_head_001.ogg",
+            "text": "喜欢我的……头发？谢谢。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_rahu_jointeam_001.ogg",
+            "text": "-"
+        }
+    ],
+    "radiant_stealth": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_rahu_qingkongmixing_cacha_001.ogg",
+            "text": "待机地点已经到达，等待下一步指示。是的，太阳有些耀眼，气温也有所上升，这有利于目标人物改变装束，躲避搜查，需要特别注意。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rahu_qingkongmixing_levelup_001.ogg",
+            "text": "这点台阶不算什么，继续向上吧。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rahu_qingkongmixing_greeting_001.ogg",
+            "text": "为了保证伪装效果，尽量融入环境，我们现在确实应该进行一些闲谈。参考那边的两位白领，我们或许可以聊聊不宽容的上司。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_rahu_qingkongmixing_talk_001.ogg",
+            "text": "对我来说，职责不会因为服饰和角色而有所变动。无论穿着打扮如何，我都是你的护卫，会为了你的安全清除一切障碍。没有什么不习惯。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_rahu_qingkongmixing_talk_002.ogg",
+            "text": "发现远处有多名可疑人物聚集，且有紧密关注我方动向的迹象……这个距离难以判断是否携带武器。为你的安全起见，我们转移阵地。嗯？只是想要我的联系方式？如果有困难，可以拨打治安局的电话，而不是我的。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rahu_qingkongmixing_idle_001.ogg",
+            "text": "停。坐。起。受训程度合格，但稍微有点外抑制……希望关键时刻能稳住，不要被其他因素吸引注意力。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rahu_qingkongmixing_clicking_001.ogg",
+            "text": "这样的触碰方式有可能被训练过的犬类判断为攻击行为，我不太建议你继续。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rahu_qingkongmixing_specialattention_001.ogg",
+            "text": "在其他人就位之前，你都打算这样看着我吗？遵循人设？好吧……需要我做出回应的话，就告诉我。"
+        }
+    ]
+}

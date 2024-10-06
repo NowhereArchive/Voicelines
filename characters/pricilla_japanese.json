@@ -76,7 +76,7 @@
             "text": "足を洗うのもいいかもしれないわね～。だって……局長さんはこれからもあたしたちと一緒に、正義を貫くんだもの。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_pricilla_obeyfull_001.ogg",
             "text": "あたしたちもいつか離れ離れになるのよねぇ。自由な怪盗がいつまでも誰かの傍に……えっ、傷ついちゃったの？よしよし、どこにも行かないわよ～傍にいるわ。"
         },
@@ -101,7 +101,7 @@
             "text": "あたしを外に出すってことは……もう一度捕まえる自信があるの？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_pricilla_dispatch2_001.ogg",
             "text": "ふぅ、あそこにも金目のものはなかったわねぇ……"
         },
@@ -118,7 +118,7 @@
     ],
     "night_of_petals": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_pricilla_night_of_petals_cacha_001.ogg",
             "text": "予告状回収～あなたのために降らせた薔薇の雨はどう？……ふふっ、気に入ったなら遠慮なくあなたの心をいただくわよ～"
         },

@@ -76,7 +76,7 @@
             "text": "外見は自由に調整できるが、瞳は無理だ。一度目の表情が死ねば、希少価値はなくなる……だが、君は違うね。私のものになる気はないか？できるだけ優しくしよう。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_uni_obeyfull_001.ogg",
             "text": "君を見ていると、ある人のことを思い出す……誠実で、情熱的で、太陽のような目で私を、私だけをずっと見つめてくれる人だ。君の目も、永遠に私の元に留まってくれるか？"
         },
@@ -101,7 +101,7 @@
             "text": "手術以外の仕事？それなら別料金だ。忘れずに支払うように。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_uni_dispatch2_001.ogg",
             "text": "ん？こんな小さなゴミで、それほど喜ぶのか？"
         },
@@ -118,7 +118,7 @@
     ],
     "guise_into_life": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_uni_zhuanggumoying_cacha_001.ogg",
             "text": "国色天香でも美冠玉の如しでも、何でも言ってくれ。この皮にどんな美しさを描いてほしいんだ？必ず君を満足させよう。"
         },

@@ -76,7 +76,7 @@
             "text": "可愛い物が好き、暴力も好き。別に矛盾してないよ？だって、その人たちが憎しみ合って傷つけ合う姿が可愛くてたまらないんだもの。そう思わない？"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_mess_obeyfull_001.ogg",
             "text": "わたしが殺したいものは、きみが思ってるよりずっと恐ろしいよ。奴の前では、みんな虫ケラ……それでも、わたしと一緒に戦う？ふーん、強がりなところも可愛いね～"
         },
@@ -101,7 +101,7 @@
             "text": "わたしでもいいけど、その代わり工房には誰も入れちゃダメだからね。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_mess_dispatch2_001.ogg",
             "text": "終わったわ。あの二人が喧嘩しなかったのが残念。あーあ……"
         },
@@ -118,7 +118,7 @@
     ],
     "mystic_pawnshop": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_mess_wuqidiandang_cacha_001.ogg",
             "text": "夜遅くに来るなんて、新しいアイテムを手に入れたから急いで処分したいの？それとも別の物と交換したい？……あはは、もちろん何でもできるよ。きみが後悔しないって言い切れるなら。まぁ、ここで質入れした人は、物を取り戻せないんだけどね～。"
         },

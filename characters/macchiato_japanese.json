@@ -76,7 +76,7 @@
             "text": "こんなことを言うのもなんですが、私は「女王様」という呼ばれ方は好きじゃないんです……でも局長が望むなら、あなただけの女王様になりますよ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_macchiato_obeyfull_001.ogg",
             "text": "この能力と立場にずっと抵抗がありました。でもあなたと出会って、やっと本当の意味で満足できました……ふふ、あなたの虜になりそう、愛しい局長様……。"
         },
@@ -101,7 +101,7 @@
             "text": "必ずこの仕事を完遂させてみせます。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_macchiato_dispatch2_001.ogg",
             "text": "仕事が完了しました。領収書は誰に清算してもらえばよろしいでしょうか？"
         },
@@ -118,7 +118,7 @@
     ],
     "beguiled_heart": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_macchiato_yiluanqingmi_cacha_001.ogg",
             "text": "そう、それがあなたの望みなら、あなたのためにもう一度鞭を振り上げ、あなたの……深い欲望を満たしてあげる。"
         },

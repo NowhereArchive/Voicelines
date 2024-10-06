@@ -76,7 +76,7 @@
             "text": "パルマでのことは、よく覚えていない。暗闇の中でヘラの声がしたことだけは覚えている。「シンジケート」、「地上」、「人」とずっと話しかけてくれた。わたしを連れて行くと何度も……。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_ninety-nine_obeyfull_001.ogg",
             "text": "殺したくても殺せない人間は、あんたが二人目だ。わたしはこれから、自分が死ぬその日まであんたのために戦う。"
         },
@@ -101,7 +101,7 @@
             "text": "……頑張る。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_ninety-nine_dispatch2_001.ogg",
             "text": "あんたの言う通り、終わらせた。"
         },
@@ -123,7 +123,7 @@
     ],
     "chaotic_restraint": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_ninety-nine_chaotic_restraint_cacha_001.ogg",
             "text": "わたしは……パルマの生物兵器、ナインティナイン。戦う……命令をくれ。わたしは戦いしかいらない……"
         },

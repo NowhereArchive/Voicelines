@@ -1,176 +1,176 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_deren_cacha_001.ogg",
-      "text": "Huh... Where are you taking me? Oh, food and lodging are included? Great! What's my room number?"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_deren_promotion_001.ogg",
-      "text": "Hmm? You want to watch a film I made?"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_deren_promotion2_001.ogg",
-      "text": "I will make everyone see me and respect me."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_deren_battlebegin_001.ogg",
-      "text": "Lights, camera, action!"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_deren_battlewin_001.ogg",
-      "text": "See? I'm still a professional."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_deren_battlelose_001.ogg",
-      "text": "Haha... I knew I'd ruin everything."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_deren_uniqueskill_001.ogg",
-      "text": "A good show is about to start!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_deren_dead_001.ogg",
-      "text": "In the end, I couldn't leave anything behind..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_deren_greeting_001.ogg",
-      "text": "Oh, you're here? Good timing. I found a movie that we can watch together."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_deren_talk1_001.ogg",
-      "text": "Don't fret over past mistakes. If you want to improve, keep moving forward."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_deren_talk1_002.ogg",
-      "text": "No one's life is perfect, but I can capture everyone's most perfect moments. Here, show me a smile."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_deren_talk1_003.ogg",
-      "text": "Flexibility is a trait of a mature adult... Of course, flexing too much will cause painful sprains."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_deren_talk2_001.ogg",
-      "text": "The Legends of the Minos Hero... This might make a great film."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_deren_talk2_002.ogg",
-      "text": "I want to record all those who refuse to accept fate, and immortalize their gazes and cries in film."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_deren_talk2_003.ogg",
-      "text": "I maybe weak, I maybe mediocre, yet at the certain moments, I can also be the hero."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_deren_obeyfull_001.ogg",
-      "text": "Reality is a far cry from the beautiful scenes depicted in movies. Countless shining souls disappear in the blink of an eye, like shooting stars... If only I could catch one of them... What I mean is, to me, you're a shining star, and the focal point of this world. Would you like to be the female/male lead of my film?"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_deren_idle_001.ogg",
-      "text": "If you observe with your heart, the material for films will appear before your eyes."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_deren_clicking_001.ogg",
-      "text": "Hey, you have to pay first before telling a filmmaker what to do."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_deren_specialattention_001.ogg",
-      "text": "I'd rather you focus on my work than on me. Of course, I haven't made any good one yet, haha..."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_deren_dispatch_001.ogg",
-      "text": "Yes, all right, okay, wait... for... me... to... come... back..."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_deren_dispatch2_001.ogg",
-      "text": "That was exhausting... There you go, that's everything I got, no more no less... I'm gonna rest now! Don't come find me again for at least... two days."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_deren_levelup_002.ogg",
-      "text": "Aww, thank you so much..."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_deren_jointeam_001.ogg",
-      "text": "Uh... Ok, fine. I'll go, I'll go."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_deren_head_001.ogg",
-      "text": "Are you... complimenting my work?"
-    }
-  ],
-  "eclat_eminence": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_deren_shijiejiaodian_cacha_001.ogg",
-      "text": "Look up, slow down, and hold that smile. Don't look at me, look at the camera... It's okay, everyone gets nervous at first. But you, my chosen star, you're destined to get used to this."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_deren_shijiejiaodian_greeting_001.ogg",
-      "text": "Oh come on, we're already here. Stop being all fidgety. Or... are you waiting for me to help you out of the car?"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_deren_shijiejiaodian_talk_001.ogg",
-      "text": "While I was gone, they really hogged the limelight, didn't they? Such a pity, I'm back now. Wait a bit longer, you might get a front-row seat to a spectacular show of these Eastside stars crying."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_deren_shijiejiaodian_talk_002.ogg",
-      "text": "Word of advice, don't eat the cake at the afterparty, it's made of fondant. Looks pretty, but tastes awful... How do I know? Well, obviously because I've tried it."
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_deren_shijiejiaodian_hand_001.ogg",
-      "text": "I thought that I should've already gotten used to this by now, getting one more award won't prove anything... But being back here is... unexpectedly exhilarating. Probably because you're standing here with me."
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_deren_shijiejiaodian_leg_001.ogg",
-      "text": "Oh no... The zipper on my back seems to be open... It fit perfectly five years ago... Ugh, help me zip it quick. Don't let them see!"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_deren_shijiejiaodian_idle_001.ogg",
-      "text": "If I'd known, I would've just arrived a lot later and let them wait. My face is all stiff from smiling..."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_deren_shijiejiaodian_specialattention_001.ogg",
-      "text": "Did you hear that? The spotlight will keep on shining, and the applause and cheers will never cease... Hmph, come on. Join me and we will become the center of the world's attention."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_deren_shijiejiaodian_head_001.ogg",
-      "text": "Hey, we are under the spotlight... Aren't you afraid our picture will end up on the front page of the entertainment section tomorrow? Haha, not that I mind."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_deren_shijiejiaodian_levelup_001.ogg",
-      "text": "Emm, that's right, keep up the praise! I can take it."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_deren_cacha_001.ogg",
+            "text": "Huh... Where are you taking me? Oh, food and lodging are included? Great! What's my room number?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_deren_promotion_001.ogg",
+            "text": "Hmm? You want to watch a film I made?"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_deren_promotion2_001.ogg",
+            "text": "I will make everyone see me and respect me."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_deren_battlebegin_001.ogg",
+            "text": "Lights, camera, action!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_deren_battlewin_001.ogg",
+            "text": "See? I'm still a professional."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_deren_battlelose_001.ogg",
+            "text": "Haha... I knew I'd ruin everything."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_deren_uniqueskill_001.ogg",
+            "text": "A good show is about to start!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_deren_dead_001.ogg",
+            "text": "In the end, I couldn't leave anything behind..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_deren_greeting_001.ogg",
+            "text": "Oh, you're here? Good timing. I found a movie that we can watch together."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_deren_talk1_001.ogg",
+            "text": "Don't fret over past mistakes. If you want to improve, keep moving forward."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_deren_talk1_002.ogg",
+            "text": "No one's life is perfect, but I can capture everyone's most perfect moments. Here, show me a smile."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_deren_talk1_003.ogg",
+            "text": "Flexibility is a trait of a mature adult... Of course, flexing too much will cause painful sprains."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_deren_talk2_001.ogg",
+            "text": "The Legends of the Minos Hero... This might make a great film."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_deren_talk2_002.ogg",
+            "text": "I want to record all those who refuse to accept fate, and immortalize their gazes and cries in film."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_deren_talk2_003.ogg",
+            "text": "I maybe weak, I maybe mediocre, yet at the certain moments, I can also be the hero."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_deren_obeyfull_001.ogg",
+            "text": "Reality is a far cry from the beautiful scenes depicted in movies. Countless shining souls disappear in the blink of an eye, like shooting stars... If only I could catch one of them... What I mean is, to me, you're a shining star, and the focal point of this world. Would you like to be the female/male lead of my film?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_deren_idle_001.ogg",
+            "text": "If you observe with your heart, the material for films will appear before your eyes."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_deren_clicking_001.ogg",
+            "text": "Hey, you have to pay first before telling a filmmaker what to do."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_deren_specialattention_001.ogg",
+            "text": "I'd rather you focus on my work than on me. Of course, I haven't made any good one yet, haha..."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_deren_dispatch_001.ogg",
+            "text": "Yes, all right, okay, wait... for... me... to... come... back..."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_deren_dispatch2_001.ogg",
+            "text": "That was exhausting... There you go, that's everything I got, no more no less... I'm gonna rest now! Don't come find me again for at least... two days."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_deren_levelup_002.ogg",
+            "text": "Aww, thank you so much..."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_deren_jointeam_001.ogg",
+            "text": "Uh... Ok, fine. I'll go, I'll go."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_deren_head_001.ogg",
+            "text": "Are you... complimenting my work?"
+        }
+    ],
+    "eclat_eminence": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_deren_shijiejiaodian_cacha_001.ogg",
+            "text": "Look up, slow down, and hold that smile. Don't look at me, look at the camera... It's okay, everyone gets nervous at first. But you, my chosen star, you're destined to get used to this."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_deren_shijiejiaodian_greeting_001.ogg",
+            "text": "Oh come on, we're already here. Stop being all fidgety. Or... are you waiting for me to help you out of the car?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_deren_shijiejiaodian_talk_001.ogg",
+            "text": "While I was gone, they really hogged the limelight, didn't they? Such a pity, I'm back now. Wait a bit longer, you might get a front-row seat to a spectacular show of these Eastside stars crying."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_deren_shijiejiaodian_talk_002.ogg",
+            "text": "Word of advice, don't eat the cake at the afterparty, it's made of fondant. Looks pretty, but tastes awful... How do I know? Well, obviously because I've tried it."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_deren_shijiejiaodian_hand_001.ogg",
+            "text": "I thought that I should've already gotten used to this by now, getting one more award won't prove anything... But being back here is... unexpectedly exhilarating. Probably because you're standing here with me."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_deren_shijiejiaodian_leg_001.ogg",
+            "text": "Oh no... The zipper on my back seems to be open... It fit perfectly five years ago... Ugh, help me zip it quick. Don't let them see!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_deren_shijiejiaodian_idle_001.ogg",
+            "text": "If I'd known, I would've just arrived a lot later and let them wait. My face is all stiff from smiling..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_deren_shijiejiaodian_specialattention_001.ogg",
+            "text": "Did you hear that? The spotlight will keep on shining, and the applause and cheers will never cease... Hmph, come on. Join me and we will become the center of the world's attention."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_deren_shijiejiaodian_head_001.ogg",
+            "text": "Hey, we are under the spotlight... Aren't you afraid our picture will end up on the front page of the entertainment section tomorrow? Haha, not that I mind."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_deren_shijiejiaodian_levelup_001.ogg",
+            "text": "Emm, that's right, keep up the praise! I can take it."
+        }
+    ]
 }

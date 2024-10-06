@@ -76,7 +76,7 @@
             "text": "お前がどこへ行っても傍にいる。もし俺を置いて行くなら、お前を探しに行くさ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_wolverine_obeyfull_001.ogg",
             "text": "お前は他の人間とは違う。なんでかは……わからない。ただ、そう感じるだけだ。"
         },
@@ -101,7 +101,7 @@
             "text": "おい。お、お前は……行かないのか？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_wolverine_dispatch2_001.ogg",
             "text": "おい、やるよ。"
         },
@@ -118,7 +118,7 @@
     ],
     "summer_splash": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_wolverine_kuxiajiyang_cacha_001.ogg",
             "text": "こんなとこ来たくなかったけど……ピーちゃんはここが好きみたいだ。でも……なんで水遊びに着替えが必要なんだ？"
         },

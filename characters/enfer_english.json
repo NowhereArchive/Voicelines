@@ -1,218 +1,218 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_enfer_cacha_001.ogg",
-      "text": "Keep going ahead and you'll see the Gate of Hell. Are you here to welcome me, or to bid farewell to me?"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_enfer_promotion_001.ogg",
-      "text": "A good piece of work needs to be polished and refined carefully."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_enfer_promotion2_001.ogg",
-      "text": "The present me is finally able to breathe life into them..."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_enfer_battlebegin_001.ogg",
-      "text": "There, there. It's normal to get scared..."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_enfer_battlewin_001.ogg",
-      "text": "The contorted faces and terrified screams are truly irresistible."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_enfer_battlelose_001.ogg",
-      "text": "We'll start again from scratch."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_enfer_uniqueskill_001.ogg",
-      "text": "Face your fear head-on!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_enfer_dead_001.ogg",
-      "text": "Oh... Such a warm embrace..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_enfer_greeting_001.ogg",
-      "text": "Hello, Chief. Did you have fun last night?"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_enfer_talk1_001.ogg",
-      "text": "I've always been devoted to nature, but this world is no different than hell to me."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_enfer_talk1_002.ogg",
-      "text": "Artist? Do I deserve this title in your opinion?"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_enfer_talk1_003.ogg",
-      "text": "Only when you're most frightened will you follow your most primal instincts... Those are the true colors of humans."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_enfer_talk2_001.ogg",
-      "text": "Sculpture is not a superficial art. It's a form of creation that touches bones and flesh and forms the shape of life."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_enfer_talk2_002.ogg",
-      "text": "My chisel and hammer will surely carve through those hypocritical illusions and subvert everything!"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_enfer_talk2_003.ogg",
-      "text": "If I could... I wish to frame your terrified face just for myself to admire... Haha, don't be scared, it's only an idea."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_enfer_obeyfull_001.ogg",
-      "text": "If you call me the witch of the night, then don't blame me for peeking into your heart. I wish to see life that erupts from the inside out. It will germinate, grow, and bloom into a flower named love..."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_enfer_idle_001.ogg",
-      "text": "Since I'm free... Why don't I carve a few flowers on these ugly iron bars?"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_enfer_clicking_001.ogg",
-      "text": "Alright, I've memorized it. I'll carve holes on you later according to the order of your touches just now."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_enfer_specialattention_001.ogg",
-      "text": "Okay, okay. You're already eye-catching enough... What? You won't believe me unless I actually take out my eyeballs and give them to you?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_enfer_dispatch_001.ogg",
-      "text": "Go out to find inspiration? Can I come back before the evening?"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_enfer_dispatch2_001.ogg",
-      "text": "I've found my inspiration. Now, let the Witching Hour begin."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_enfer_levelup_002.ogg",
-      "text": "Hmm! It's carved perfectly."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_enfer_jointeam_001.ogg",
-      "text": "Do you want my mark?"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_enfer_head_001.ogg",
-      "text": "What? Do you want to nurture some artsy vibe as well?"
-    }
-  ],
-  "sculptor_s_nest": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_enfer_zankezhezhichao_cacha_001.ogg",
-      "text": "Welcome to the sculptor's nest, my most secret garden. Herein lies fears and struggles, distortions and pain... as well as boundless love."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_enfer_zankezhezhichao_greeting_001.ogg",
-      "text": "As soon as I prayed to the sculpture to meet you, you appeared before my eyes. Do I have a unique power of making wishes come true?"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_enfer_zankezhezhichao_talk_001.ogg",
-      "text": "It's the greatest joy to carve out the imagination with my own hands."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_enfer_zankezhezhichao_talk_002.ogg",
-      "text": "Fix your gaze on the sculptures. If you can't look fear in the eye, you might get crushed by it..."
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_enfer_zankezhezhichao_hand_001.ogg",
-      "text": "For convenience's sake, I added many practical little pockets on my clothes to hold carving tools."
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_enfer_zankezhezhichao_leg_001.ogg",
-      "text": "Why is this work unfinished? Hehe... Maybe \"she\" needs someone who loves \"her\" to make up for the missing half of her heart..."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_enfer_zankezhezhichao_idle_001.ogg",
-      "text": "Thump, thump, thump... You hear that? I'm sculpting heartbeats."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_enfer_zankezhezhichao_specialattention_001.ogg",
-      "text": "I can't work properly if you keep staring at me like this... Hmm? Do you want to model for me or something?"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_enfer_zankezhezhichao_head_001.ogg",
-      "text": "Did the artist make the hat special, or did the hat become the symbol of the artist?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_enfer_zankezhezhichao_levelup_001.ogg",
-      "text": "With a flash of lightning and a speeding heart, Venus is born from my hands."
-    }
-  ],
-  "virtuoso_of_jade": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.ogg",
-      "text": "The jade emits warm haze, its body transparent. Your emotions and thoughts live through the carved jade. What do you seek from me, young carver?"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_enfer_puyuzhuozhuo_greeting_001.ogg",
-      "text": "Let's see. What kind of jade piece do you want to carve today?"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_enfer_puyuzhuozhuo_talk_001.ogg",
-      "text": "Raw jade born under the moon is always hidden in rubble. Ordinary carvers often overlook its true value. Will you become a skilled carver with such acumen?"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_enfer_puyuzhuozhuo_talk_002.ogg",
-      "text": "A gentleman's character is often compared to the quality of jade. People wear limpid jade accessories to demonstrate their virtue and good manners... Hmm, judging by your demeanor and skills, you'll be a piece of pure jade."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_enfer_puyuzhuozhuo_idle_001.ogg",
-      "text": "These discarded raw stones are good for carving a few simple accessories to ease this boredom."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_enfer_puyuzhuozhuo_specialattention_001.ogg",
-      "text": "Have you decided? What kind of ornament do you want me to carve this jade into?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_enfer_puyuzhuozhuo_levelup_001.ogg",
-      "text": "You're developing an eye for good rough stones. Keep it up~"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_enfer_puyuzhuozhuo_clicking_001.ogg",
-      "text": "Never pass jade with your hands. I won't remind you again."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_enfer_cacha_001.ogg",
+            "text": "Keep going ahead and you'll see the Gate of Hell. Are you here to welcome me, or to bid farewell to me?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_enfer_promotion_001.ogg",
+            "text": "A good piece of work needs to be polished and refined carefully."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_enfer_promotion2_001.ogg",
+            "text": "The present me is finally able to breathe life into them..."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_enfer_battlebegin_001.ogg",
+            "text": "There, there. It's normal to get scared..."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_enfer_battlewin_001.ogg",
+            "text": "The contorted faces and terrified screams are truly irresistible."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_enfer_battlelose_001.ogg",
+            "text": "We'll start again from scratch."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_enfer_uniqueskill_001.ogg",
+            "text": "Face your fear head-on!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_enfer_dead_001.ogg",
+            "text": "Oh... Such a warm embrace..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_enfer_greeting_001.ogg",
+            "text": "Hello, Chief. Did you have fun last night?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_enfer_talk1_001.ogg",
+            "text": "I've always been devoted to nature, but this world is no different than hell to me."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_enfer_talk1_002.ogg",
+            "text": "Artist? Do I deserve this title in your opinion?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_enfer_talk1_003.ogg",
+            "text": "Only when you're most frightened will you follow your most primal instincts... Those are the true colors of humans."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_enfer_talk2_001.ogg",
+            "text": "Sculpture is not a superficial art. It's a form of creation that touches bones and flesh and forms the shape of life."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_enfer_talk2_002.ogg",
+            "text": "My chisel and hammer will surely carve through those hypocritical illusions and subvert everything!"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_enfer_talk2_003.ogg",
+            "text": "If I could... I wish to frame your terrified face just for myself to admire... Haha, don't be scared, it's only an idea."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_enfer_obeyfull_001.ogg",
+            "text": "If you call me the witch of the night, then don't blame me for peeking into your heart. I wish to see life that erupts from the inside out. It will germinate, grow, and bloom into a flower named love..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_enfer_idle_001.ogg",
+            "text": "Since I'm free... Why don't I carve a few flowers on these ugly iron bars?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_enfer_clicking_001.ogg",
+            "text": "Alright, I've memorized it. I'll carve holes on you later according to the order of your touches just now."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_enfer_specialattention_001.ogg",
+            "text": "Okay, okay. You're already eye-catching enough... What? You won't believe me unless I actually take out my eyeballs and give them to you?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_enfer_dispatch_001.ogg",
+            "text": "Go out to find inspiration? Can I come back before the evening?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_enfer_dispatch2_001.ogg",
+            "text": "I've found my inspiration. Now, let the Witching Hour begin."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_levelup_002.ogg",
+            "text": "Hmm! It's carved perfectly."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_enfer_jointeam_001.ogg",
+            "text": "Do you want my mark?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_enfer_head_001.ogg",
+            "text": "What? Do you want to nurture some artsy vibe as well?"
+        }
+    ],
+    "sculptor_s_nest": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_enfer_zankezhezhichao_cacha_001.ogg",
+            "text": "Welcome to the sculptor's nest, my most secret garden. Herein lies fears and struggles, distortions and pain... as well as boundless love."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_enfer_zankezhezhichao_greeting_001.ogg",
+            "text": "As soon as I prayed to the sculpture to meet you, you appeared before my eyes. Do I have a unique power of making wishes come true?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_enfer_zankezhezhichao_talk_001.ogg",
+            "text": "It's the greatest joy to carve out the imagination with my own hands."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_enfer_zankezhezhichao_talk_002.ogg",
+            "text": "Fix your gaze on the sculptures. If you can't look fear in the eye, you might get crushed by it..."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_enfer_zankezhezhichao_hand_001.ogg",
+            "text": "For convenience's sake, I added many practical little pockets on my clothes to hold carving tools."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_enfer_zankezhezhichao_leg_001.ogg",
+            "text": "Why is this work unfinished? Hehe... Maybe \"she\" needs someone who loves \"her\" to make up for the missing half of her heart..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_enfer_zankezhezhichao_idle_001.ogg",
+            "text": "Thump, thump, thump... You hear that? I'm sculpting heartbeats."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_enfer_zankezhezhichao_specialattention_001.ogg",
+            "text": "I can't work properly if you keep staring at me like this... Hmm? Do you want to model for me or something?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_enfer_zankezhezhichao_head_001.ogg",
+            "text": "Did the artist make the hat special, or did the hat become the symbol of the artist?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_zankezhezhichao_levelup_001.ogg",
+            "text": "With a flash of lightning and a speeding heart, Venus is born from my hands."
+        }
+    ],
+    "virtuoso_of_jade": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.ogg",
+            "text": "The jade emits warm haze, its body transparent. Your emotions and thoughts live through the carved jade. What do you seek from me, young carver?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_enfer_puyuzhuozhuo_greeting_001.ogg",
+            "text": "Let's see. What kind of jade piece do you want to carve today?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_enfer_puyuzhuozhuo_talk_001.ogg",
+            "text": "Raw jade born under the moon is always hidden in rubble. Ordinary carvers often overlook its true value. Will you become a skilled carver with such acumen?"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_enfer_puyuzhuozhuo_talk_002.ogg",
+            "text": "A gentleman's character is often compared to the quality of jade. People wear limpid jade accessories to demonstrate their virtue and good manners... Hmm, judging by your demeanor and skills, you'll be a piece of pure jade."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_enfer_puyuzhuozhuo_idle_001.ogg",
+            "text": "These discarded raw stones are good for carving a few simple accessories to ease this boredom."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_enfer_puyuzhuozhuo_specialattention_001.ogg",
+            "text": "Have you decided? What kind of ornament do you want me to carve this jade into?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_enfer_puyuzhuozhuo_levelup_001.ogg",
+            "text": "You're developing an eye for good rough stones. Keep it up~"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_enfer_puyuzhuozhuo_clicking_001.ogg",
+            "text": "Never pass jade with your hands. I won't remind you again."
+        }
+    ]
 }

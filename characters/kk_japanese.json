@@ -76,7 +76,7 @@
             "text": "あいつらが私に隠し事をしてるのはわかってる。それでもいい。私にとっては、あいつらと安らかに暮らせれば、それで十分だから。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_k.k._obeyfull_001.ogg",
             "text": "白記事務所からここに引っ越そうかと考えてる。だってあなたは私たちを自由にさせてくれるし、頼りがいもある……少なくともあの二人よりはよっぽどまし。"
         },
@@ -101,7 +101,7 @@
             "text": "ああ、分かった。ほかに要求は？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_k.k._dispatch2_001.ogg",
             "text": "用が済んだから、少し寝てくる。"
         },
@@ -123,12 +123,7 @@
     ],
     "undercover_fill_in": [
         {
-            "title": "No",
-            "filename": "File:unknown.ogg",
-            "text": "2"
-        },
-        {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_k.k._undercover_fill-in_cacha_001.ogg",
             "text": "えっと……ハクイツはその……用事ができたんだ。だから私が代わりに来た。そんなにジロジロ見るな。変なのは分かってるから……え？似合ってる？そうか、ありがとう。"
         },

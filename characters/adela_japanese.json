@@ -76,7 +76,7 @@
             "text": "あなたも煙霧街伝説の正体が気になりますか？人の煩悩を断ち切ってくれる善人か、破壊と切断を楽しむ変人か。もしくは……その両方なのかもしれません。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_adela_obeyfull_001.ogg",
             "text": "人は常に悩みや過去の記憶に縛られ、負荷に耐えられず息ができなくなる。ですが、考えてもみませんでした。その束縛を断ち切れば、もう心臓が高鳴ることもないのだと——あなたに出会って、やっと鼓動を取り戻すことができました。"
         },
@@ -101,7 +101,7 @@
             "text": "お役に立てて、光栄です。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_adela_dispatch2_001.ogg",
             "text": "あなたのために力を尽くしました。今回の収穫に満足していただけましたか？"
         },
@@ -118,12 +118,12 @@
         {
             "title": "Deploy",
             "filename": "File:bt_adela_jointeam_001.ogg",
-            "text": "心をこめてサービス致します。m"
+            "text": "心をこめてサービス致します。"
         }
     ],
     "candlelit_turret": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_adela_talouzhuguang_cacha_001.ogg",
             "text": "わたしに会うために塔を登ってきてくださって光栄です。ようこそ、殿下。今回は、もう少し長く留まっていただけると嬉しいです……"
         },

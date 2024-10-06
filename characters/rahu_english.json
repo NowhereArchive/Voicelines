@@ -1,166 +1,166 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_rahu_cacha_001.ogg",
-      "text": "Hmph. As an anti-Mania combatant, I will regard this series of actions targeting me as a \"work transfer\" and follow your arrangement. But if your orders will do harm to that person, please forgive me for my refusal, Chief."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_rahu_promotion_001.ogg",
-      "text": "Some day, the tiny currents will merge into a surging tide."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_rahu_promotion2_001.ogg",
-      "text": "The shadows have vanished, and the sun is overhead... It's time."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_rahu_battlebegin_001.ogg",
-      "text": "Don't be afraid. I won't let anyone hurt you."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_rahu_battlewin_001.ogg",
-      "text": "Quick, leave now. It's not safe here."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_rahu_battlelose_001.ogg",
-      "text": "...Don't mind me! Take him/her away! Quick!"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_rahu_uniqueskill_001.ogg",
-      "text": "Eradicate... all... threats!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_rahu_dead_001.ogg",
-      "text": "I'm on a mission... I have to protect... I can't..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_rahu_greeting_001.ogg",
-      "text": "Why are you looking at me this way? Are you... expecting some kind of response? Um... all right, hello."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_rahu_talk1_001.ogg",
-      "text": "For me, loyalty is the golden rule that cannot be broken. No matter what happens, my loyalty will not waver."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_rahu_talk1_002.ogg",
-      "text": "If I could reach my goal only at the cost of my life, what more could I ask for?"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_rahu_talk1_003.ogg",
-      "text": "Rest? That's a luxury I don't deserve... (Sigh) All right, if you really need someone to talk to, I'll give it a shot."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_rahu_talk2_001.ogg",
-      "text": "I sought this power, and I will never regret my choice. Only if I had done it sooner... If so, at least I wouldn't have to end up as the failure I am now."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_rahu_talk2_002.ogg",
-      "text": "The one who taught me \"loyalty\" was also the first person I pledged my loyalty to... Strange, who was it? I... I can't remember..."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_rahu_talk2_003.ogg",
-      "text": "Mania contamination and descent into madness... That's my method for reaching my goal, and also the price I choose to pay. Perhaps one day, I'll lose control. When the time comes, do what you must do for your own safety. Don't hesitate."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_rahu_obeyfull_001.ogg",
-      "text": "Not long ago, I saw only darkness before my eyes. But what you've done for me... it's as if a ray of light has shone into this boundless darkness. Even if this hope is illusory... I will protect you... with all I've got."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_rahu_idle_001.ogg",
-      "text": "...Don't mind me... It'll all be over soon..."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_rahu_clicking_001.ogg",
-      "text": "You're the Chief of the MBCC, yet you're doing such things... Have you no shame?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_rahu_specialattention_001.ogg",
-      "text": "You don't have to come and keep an eye on me yourself. The shackles won't break that easily. You just want to spend some time with me? Oh, all right."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_rahu_dispatch_001.ogg",
-      "text": "Got it. I'll go."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_rahu_dispatch2_001.ogg",
-      "text": "Mission accomplished. Please give me new orders."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_rahu_levelup_002.ogg",
-      "text": "Good, keep 'em coming. I need them."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_rahu_head_001.ogg",
-      "text": "Hmm? You like my... hair? Thank you."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_rahu_jointeam_001.ogg",
-      "text": "I can eradicate any threats, if that's what it takes to guarantee your safety."
-    }
-  ],
-  "radiant_stealth": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_rahu_qingkongmixing_cacha_001.ogg",
-      "text": "Arrived at the standby location, awaiting further instructions. Yes, the sun is dazzling and the temperature has risen, which favors the target to change clothes and evade search. We must pay more attention."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_rahu_qingkongmixing_levelup_001.ogg",
-      "text": "These steps are nothing. Keep going up."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_rahu_qingkongmixing_greeting_001.ogg",
-      "text": "In order to look more natural and blend into the environment well, we really should engage in some small talk now. In reference to the two office ladies over there, we might talk about our intolerant superiors."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_rahu_qingkongmixing_talk_001.ogg",
-      "text": "For me, duties don't change based on dress or role. Regardless of what I wear, I am your escort and will remove all obstacles for your safety. There's nothing uncomfortable about that."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_rahu_qingkongmixing_talk_002.ogg",
-      "text": "I've spotted several suspicious figures gathering in the distance, and they seem to be keeping a close eye on our movements... It is difficult to tell if they are armed at this distance. For your safety, we should relocate. Hmm? Just want my contact info? If you run into trouble, it's better to call the sheriff, not me."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_rahu_qingkongmixing_idle_001.ogg",
-      "text": "Stop. Sit. Up. Passable level of training, but slightly externally inhibited... Hopefully they will remain steady in critical moments and not be distracted by other factors."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_rahu_qingkongmixing_clicking_001.ogg",
-      "text": "Touching in this manner is likely to be judged as aggressive behavior by a trained canine. I do not recommend that you continue."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_rahu_qingkongmixing_specialattention_001.ogg",
-      "text": "Are you gonna stare at me like that until our backup is in position? Stick to your character? Okay... let me know if you need me to respond."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_rahu_cacha_001.ogg",
+            "text": "Hmph. As an anti-Mania combatant, I will regard this series of actions targeting me as a \"work transfer\" and follow your arrangement. But if your orders will do harm to that person, please forgive me for my refusal, Chief."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_rahu_promotion_001.ogg",
+            "text": "Some day, the tiny currents will merge into a surging tide."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_rahu_promotion2_001.ogg",
+            "text": "The shadows have vanished, and the sun is overhead... It's time."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_rahu_battlebegin_001.ogg",
+            "text": "Don't be afraid. I won't let anyone hurt you."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_rahu_battlewin_001.ogg",
+            "text": "Quick, leave now. It's not safe here."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_rahu_battlelose_001.ogg",
+            "text": "...Don't mind me! Take him/her away! Quick!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_rahu_uniqueskill_001.ogg",
+            "text": "Eradicate... all... threats!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_rahu_dead_001.ogg",
+            "text": "I'm on a mission... I have to protect... I can't..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rahu_greeting_001.ogg",
+            "text": "Why are you looking at me this way? Are you... expecting some kind of response? Um... all right, hello."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_rahu_talk1_001.ogg",
+            "text": "For me, loyalty is the golden rule that cannot be broken. No matter what happens, my loyalty will not waver."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_rahu_talk1_002.ogg",
+            "text": "If I could reach my goal only at the cost of my life, what more could I ask for?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_rahu_talk1_003.ogg",
+            "text": "Rest? That's a luxury I don't deserve... (Sigh) All right, if you really need someone to talk to, I'll give it a shot."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_rahu_talk2_001.ogg",
+            "text": "I sought this power, and I will never regret my choice. Only if I had done it sooner... If so, at least I wouldn't have to end up as the failure I am now."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_rahu_talk2_002.ogg",
+            "text": "The one who taught me \"loyalty\" was also the first person I pledged my loyalty to... Strange, who was it? I... I can't remember..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_rahu_talk2_003.ogg",
+            "text": "Mania contamination and descent into madness... That's my method for reaching my goal, and also the price I choose to pay. Perhaps one day, I'll lose control. When the time comes, do what you must do for your own safety. Don't hesitate."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_rahu_obeyfull_001.ogg",
+            "text": "Not long ago, I saw only darkness before my eyes. But what you've done for me... it's as if a ray of light has shone into this boundless darkness. Even if this hope is illusory... I will protect you... with all I've got."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rahu_idle_001.ogg",
+            "text": "...Don't mind me... It'll all be over soon..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rahu_clicking_001.ogg",
+            "text": "You're the Chief of the MBCC, yet you're doing such things... Have you no shame?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rahu_specialattention_001.ogg",
+            "text": "You don't have to come and keep an eye on me yourself. The shackles won't break that easily. You just want to spend some time with me? Oh, all right."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_rahu_dispatch_001.ogg",
+            "text": "Got it. I'll go."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_rahu_dispatch2_001.ogg",
+            "text": "Mission accomplished. Please give me new orders."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rahu_levelup_002.ogg",
+            "text": "Good, keep 'em coming. I need them."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_rahu_head_001.ogg",
+            "text": "Hmm? You like my... hair? Thank you."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_rahu_jointeam_001.ogg",
+            "text": "I can eradicate any threats, if that's what it takes to guarantee your safety."
+        }
+    ],
+    "radiant_stealth": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_rahu_qingkongmixing_cacha_001.ogg",
+            "text": "Arrived at the standby location, awaiting further instructions. Yes, the sun is dazzling and the temperature has risen, which favors the target to change clothes and evade search. We must pay more attention."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_rahu_qingkongmixing_levelup_001.ogg",
+            "text": "These steps are nothing. Keep going up."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_rahu_qingkongmixing_greeting_001.ogg",
+            "text": "In order to look more natural and blend into the environment well, we really should engage in some small talk now. In reference to the two office ladies over there, we might talk about our intolerant superiors."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_rahu_qingkongmixing_talk_001.ogg",
+            "text": "For me, duties don't change based on dress or role. Regardless of what I wear, I am your escort and will remove all obstacles for your safety. There's nothing uncomfortable about that."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_rahu_qingkongmixing_talk_002.ogg",
+            "text": "I've spotted several suspicious figures gathering in the distance, and they seem to be keeping a close eye on our movements... It is difficult to tell if they are armed at this distance. For your safety, we should relocate. Hmm? Just want my contact info? If you run into trouble, it's better to call the sheriff, not me."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_rahu_qingkongmixing_idle_001.ogg",
+            "text": "Stop. Sit. Up. Passable level of training, but slightly externally inhibited... Hopefully they will remain steady in critical moments and not be distracted by other factors."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_rahu_qingkongmixing_clicking_001.ogg",
+            "text": "Touching in this manner is likely to be judged as aggressive behavior by a trained canine. I do not recommend that you continue."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_rahu_qingkongmixing_specialattention_001.ogg",
+            "text": "Are you gonna stare at me like that until our backup is in position? Stick to your character? Okay... let me know if you need me to respond."
+        }
+    ]
 }

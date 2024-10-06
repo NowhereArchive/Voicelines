@@ -76,7 +76,7 @@
             "text": "ずっとあなたと一緒に戦ってきたから、この力でも人を幸せにできるって信じられるようになったのかも……"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_ignis_obeyfull_001.ogg",
             "text": "いつか、全てが終わったら、自分の手でキャラメルプリンを作りたいの……そうしたら一番に食べてくれる？"
         },
@@ -101,7 +101,7 @@
             "text": "グルメ情報がほしいの？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_ignis_dispatch2_001.ogg",
             "text": "食レポ付きよ。べ、別に……ついでに書いただけだから。"
         },
@@ -118,7 +118,7 @@
     ],
     "warm_flame": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_ignis_warm_flame_cacha_001.ogg",
             "text": "新たな一年を迎えるから、みんなこんなに浮かれてるの？コホン……わ、わたしは別に浮かれてなんかないんだから！普段滅多に着ない服を着てみただけよ！"
         },
@@ -170,7 +170,7 @@
     ],
     "caramel_starwish": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_ignis_jiaotangxingyuan_cacha_001.ogg",
             "text": "もう、こんな感じでやるんだってば！かき混ぜながら大きな声で願い事をするの……安心して、あなたの願いは誰にも教えないから。ふ、二人だけの秘密にしてあげる。"
         },

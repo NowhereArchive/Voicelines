@@ -76,7 +76,7 @@
             "text": "ラビリンスはかつてシンジケートと過去の自分を嫌っていました……ですが、今のラビリンスはもう過去のことで悩むことはありません。ラビリンスはご主人様と出会えましたので……"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_labyrinth_obeyfull_001.ogg",
             "text": "好感度システムのダウンロードが完了いたしました。ラビリンスのご主人様に対する好感度を設定してください。選択できる好感度レベルは「Love」、「Love」、「Love」と「Love」の4つがございます。"
         },
@@ -101,7 +101,7 @@
             "text": "任務を承りました。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_labyrinth_dispatch2_001.ogg",
             "text": "任務が完了いたしました。"
         },
@@ -118,7 +118,7 @@
     ],
     "fortune_and_prosperity": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_labyrinth_fortune_and_prosperity_cacha_001.ogg",
             "text": "「福隆レストラン」へようこそ。当店は、定番の家庭料理から新鮮な海鮮まで、なんでも揃っています。ピピ——お食事の際の注意事項。店内は禁煙です。お煙草の持ち込みはご遠慮ください。ご協力をお願いいたします。"
         },

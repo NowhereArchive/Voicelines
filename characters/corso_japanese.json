@@ -76,7 +76,7 @@
             "text": "闘技場じゃ、どいつもこいつもアタシを狂犬みてぇに見やがった。で、アタシを死ぬほど怖がってたぜ。でも、お前がアタシを見る目は気に入った……あいつらとは、ちげぇからよ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_corso_obeyfull_001.ogg",
             "text": "アタシは常に自分のために戦ってる。だが、お前は頭がいいな。アタシを「束縛」したんだからよ。つまり……アタシの力が、お前に勝利をくれてやるってことだ。"
         },
@@ -101,7 +101,7 @@
             "text": "どこで喧嘩すんだ？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_corso_dispatch2_001.ogg",
             "text": "ほらよ、今日の戦利品だ。ああ、まだまだ物足りねぇな！"
         },
@@ -118,7 +118,7 @@
     ],
     "suit_up_outlaw": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_corso_zhengzhuangkuangtu_cacha_001.ogg",
             "text": "剣闘士を番犬として連れ出すとは、なかなか度胸あるじゃねぇか。噛み付いてほしくない人にアタシが噛み付かねぇよう……リードはしっかり持つんだな。"
         },

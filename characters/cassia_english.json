@@ -1,273 +1,273 @@
 {
-  "default_old": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_cassia_cacha_001.ogg",
-      "text": "I can smell many interesting \"scents\" around here. Hmm... Maybe I can make a few really extraordinary perfumes out of them."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_cassia_promotion_001.ogg",
-      "text": "I smell a richer aroma..."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_cassia_promotion2_001.ogg",
-      "text": "I love to capture all fragrances, and then... keep them forever."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_cassia_battlebegin_001.ogg",
-      "text": "The smell here is... suffocating."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_cassia_battlewin_001.ogg",
-      "text": "The scent lasted quite a while this time."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_cassia_battlelose_001.ogg",
-      "text": "I despise the stench of blood..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_cassia_uniqueskill_001.ogg",
-      "text": "Indulge in this fragrance forever!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_cassia_dead_001.ogg",
-      "text": "The scent... has dispersed..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_cassia_greeting_001.ogg",
-      "text": "Whenever my restless emotions are soothed, I know... it's because you have come to me..."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_cassia_talk1_001.ogg",
-      "text": "Grey amber, iris root... these are all excellent ingredients, but they don't meet my standards. They always have a lingering, unpleasant odor... I need something more pure, more vivid..."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_cassia_talk1_002.ogg",
-      "text": "There must be a never-fading \"immortal fragrance\" in this world. It's just that I haven't found the right ingredients to create it yet..."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_cassia_talk1_003.ogg",
-      "text": "Naturally, rich perfumes must be stored in exquisite glass bottles. They need to be delicate, transparent, and sealed so that not a whiff leaks out... I've collected many, and there must be one that's good to put you in."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_cassia_talk2_001.ogg",
-      "text": "Only fragrances made from life can completely mask the scent of decay. Perhaps it's the complexity of the soul and memory that brings a more layered aroma... Humans are truly fascinating."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_cassia_talk2_002.ogg",
-      "text": "I like to handle the ingredients myself. When I strip away those ivory-colored chunks and feel the warm fluids flow through my fingers, inspiration for the fragrance will gush incessantly into my mind... Oh, how I love this feeling."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_cassia_talk2_003.ogg",
-      "text": "Typically, beauty is a notable characteristic of top-tier ingredients, hence I love approaching beautiful bodies. However, sometimes I find unexpected delights with other characteristics, like you... You have a fragrance that drives one mad."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_cassia_obeyfull_001.ogg",
-      "text": "I already know what kind of perfume I will make you into... Something light, clear, and with a soft warmth... topped with a sharp finish. Such a special fragrance will surely dispel all nightmares and fears. If I could keep your scent on me forever, then perhaps my heart could achieve complete tranquility."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_cassia_idle_001.ogg",
-      "text": "Moments of leisure and comfort... are best to enjoy a hint of fresh green notes."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_cassia_clicking_001.ogg",
-      "text": "Do you like the perfume I have on today, too?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_cassia_specialattention_001.ogg",
-      "text": "Hmm, you look so intoxicated... What does this scent make you think of?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_cassia_dispatch_001.ogg",
-      "text": "Just don't make me go to any... foul-smelling places."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_cassia_dispatch2_001.ogg",
-      "text": "If I told you I brought some \"perfume ingredients\" back, would you help me carry them?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_cassia_levelup_002.ogg",
-      "text": "Hmm, this should be considered a masterpiece."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_cassia_jointeam_001.ogg",
-      "text": "Would you like a fragrance tailored just for you?"
-    }
-  ],
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_cassia_cacha_001.ogg",
-      "text": "I can smell many interesting \"scents\" around here. Hmm... Maybe I can make a few really extraordinary perfumes out of them."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_cassia_promotion_001.ogg",
-      "text": "I smell a richer aroma..."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_cassia_promotion2_001.ogg",
-      "text": "I love to capture all fragrances, and then... keep them forever."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_cassia_battlebegin_001.ogg",
-      "text": "The smell here is... suffocating."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_cassia_battlewin_001.ogg",
-      "text": "The scent lasted quite a while this time."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_cassia_battlelose_001.ogg",
-      "text": "I despise the stench of blood..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_cassia_uniqueskill_001.ogg",
-      "text": "Indulge in this fragrance forever!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_cassia_dead_001.ogg",
-      "text": "The scent... has dispersed..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_cassia_greeting_001.ogg",
-      "text": "Whenever my restless emotions are soothed, I know... it's because you have come to me..."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_cassia_talk1_001.ogg",
-      "text": "Grey amber, iris root... these are all excellent ingredients, but they don't meet my standards. They always have a lingering, unpleasant odor... I need something more pure, more vivid..."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_cassia_talk1_002.ogg",
-      "text": "There must be a never-fading \"immortal fragrance\" in this world. It's just that I haven't found the right ingredients to create it yet..."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_cassia_talk1_003.ogg",
-      "text": "Naturally, rich perfumes must be stored in exquisite glass bottles. They need to be delicate, transparent, and sealed so that not a whiff leaks out... I've collected many, and there must be one that's good to put you in."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_cassia_talk2_001.ogg",
-      "text": "Only fragrances made from life can completely mask the scent of decay. Perhaps it's the complexity of the soul and memory that brings a more layered aroma... Humans are truly fascinating."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_cassia_talk2_002.ogg",
-      "text": "I like to handle the ingredients myself. When I strip away those ivory-colored chunks and feel the warm fluids flow through my fingers, inspiration for the fragrance will gush incessantly into my mind... Oh, how I love this feeling."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_cassia_talk2_003.ogg",
-      "text": "Typically, beauty is a notable characteristic of top-tier ingredients, hence I love approaching beautiful bodies. However, sometimes I find unexpected delights with other characteristics, like you... You have a fragrance that drives one mad."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_cassia_obeyfull_001.ogg",
-      "text": "I already know what kind of perfume I will make you into... Something light, clear, and with a soft warmth... topped with a sharp finish. Such a special fragrance will surely dispel all nightmares and fears. If I could keep your scent on me forever, then perhaps my heart could achieve complete tranquility."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_cassia_idle_001.ogg",
-      "text": "Moments of leisure and comfort... are best to enjoy a hint of fresh green notes."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_cassia_clicking_001.ogg",
-      "text": "Do you like the perfume I have on today, too?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_cassia_specialattention_001.ogg",
-      "text": "Hmm, you look so intoxicated... What does this scent make you think of?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_cassia_dispatch_001.ogg",
-      "text": "Just don't make me go to any... foul-smelling places."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_cassia_dispatch2_001.ogg",
-      "text": "If I told you I brought some \"perfume ingredients\" back, would you help me carry them?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_cassia_levelup_002.ogg",
-      "text": "Hmm, this should be considered a masterpiece."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_cassia_jointeam_001.ogg",
-      "text": "Would you like a fragrance tailored just for you?"
-    }
-  ],
-  "aromas_in_bloom": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_cassia_xinyuanqiluo_cacha_001.ogg",
-      "text": "There seems to be a unique fragrance in the air—pure, warm, with a hint of sharpness. Could it be the \"flower\" I've longed for has finally come to my garden?"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_cassia_xinyuanqiluo_greeting_001.ogg",
-      "text": "I've been waiting for you. Come take a rest here with me. With the nourishment from the moonlight, you will surely blossom into a more aromatic and delicious flower..."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_cassia_xinyuanqiluo_talk_001.ogg",
-      "text": "You have the run of this place. Please, feel free to take a tour around and see which scent suits you the best. Is it the vitality and sweetness of the daisy, or the purity and richness of the lily? And maybe, you can offer me some \"help\" with my perfume making."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_cassia_xinyuanqiluo_talk_002.ogg",
-      "text": "Just as a perfume gala needs a real exquisite bottle to captivate the crowd, my garden requires a flawless bud. I vowed to myself that once I found it, I will water it with my blood and nourish it with my essence... Now, I believe fate has answered my plea, for it has brought you to me."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_cassia_xinyuanqiluo_idle_001.ogg",
-      "text": "Be patient. Just wait a little longer, wait until the undesired smells dissipate and the conscious mind dies down. Then your fragrance will take root and be preserved forever... Hehe..."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_cassia_xinyuanqiluo_clicking_001.ogg",
-      "text": "Don't push me too hard. Be gentler, please. If the swing goes too high, the airflow may carry the scent away and mess up the unique fragrances of my flowers. I wouldn't want that..."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_cassia_xinyuanqiluo_specialattention_001.ogg",
-      "text": "The \"flowers\" in this garden always look at me with longing. I know they crave my affection, but unfortunately for them, such privilege is reserved only for you..."
-    }
-  ]
+    "default_old": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_cassia_cacha_001.ogg",
+            "text": "I can smell many interesting \"scents\" around here. Hmm... Maybe I can make a few really extraordinary perfumes out of them."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_cassia_promotion_001.ogg",
+            "text": "I smell a richer aroma..."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_cassia_promotion2_001.ogg",
+            "text": "I love to capture all fragrances, and then... keep them forever."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_cassia_battlebegin_001.ogg",
+            "text": "The smell here is... suffocating."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_cassia_battlewin_001.ogg",
+            "text": "The scent lasted quite a while this time."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_cassia_battlelose_001.ogg",
+            "text": "I despise the stench of blood..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_cassia_uniqueskill_001.ogg",
+            "text": "Indulge in this fragrance forever!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_cassia_dead_001.ogg",
+            "text": "The scent... has dispersed..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cassia_greeting_001.ogg",
+            "text": "Whenever my restless emotions are soothed, I know... it's because you have come to me..."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_cassia_talk1_001.ogg",
+            "text": "Grey amber, iris root... these are all excellent ingredients, but they don't meet my standards. They always have a lingering, unpleasant odor... I need something more pure, more vivid..."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_cassia_talk1_002.ogg",
+            "text": "There must be a never-fading \"immortal fragrance\" in this world. It's just that I haven't found the right ingredients to create it yet..."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_cassia_talk1_003.ogg",
+            "text": "Naturally, rich perfumes must be stored in exquisite glass bottles. They need to be delicate, transparent, and sealed so that not a whiff leaks out... I've collected many, and there must be one that's good to put you in."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_cassia_talk2_001.ogg",
+            "text": "Only fragrances made from life can completely mask the scent of decay. Perhaps it's the complexity of the soul and memory that brings a more layered aroma... Humans are truly fascinating."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_cassia_talk2_002.ogg",
+            "text": "I like to handle the ingredients myself. When I strip away those ivory-colored chunks and feel the warm fluids flow through my fingers, inspiration for the fragrance will gush incessantly into my mind... Oh, how I love this feeling."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_cassia_talk2_003.ogg",
+            "text": "Typically, beauty is a notable characteristic of top-tier ingredients, hence I love approaching beautiful bodies. However, sometimes I find unexpected delights with other characteristics, like you... You have a fragrance that drives one mad."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_cassia_obeyfull_001.ogg",
+            "text": "I already know what kind of perfume I will make you into... Something light, clear, and with a soft warmth... topped with a sharp finish. Such a special fragrance will surely dispel all nightmares and fears. If I could keep your scent on me forever, then perhaps my heart could achieve complete tranquility."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cassia_idle_001.ogg",
+            "text": "Moments of leisure and comfort... are best to enjoy a hint of fresh green notes."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cassia_clicking_001.ogg",
+            "text": "Do you like the perfume I have on today, too?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cassia_specialattention_001.ogg",
+            "text": "Hmm, you look so intoxicated... What does this scent make you think of?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_cassia_dispatch_001.ogg",
+            "text": "Just don't make me go to any... foul-smelling places."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_cassia_dispatch2_001.ogg",
+            "text": "If I told you I brought some \"perfume ingredients\" back, would you help me carry them?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cassia_levelup_002.ogg",
+            "text": "Hmm, this should be considered a masterpiece."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_cassia_jointeam_001.ogg",
+            "text": "Would you like a fragrance tailored just for you?"
+        }
+    ],
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_cassia_cacha_001.ogg",
+            "text": "I can smell many interesting \"scents\" around here. Hmm... Maybe I can make a few really extraordinary perfumes out of them."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_cassia_promotion_001.ogg",
+            "text": "I smell a richer aroma..."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_cassia_promotion2_001.ogg",
+            "text": "I love to capture all fragrances, and then... keep them forever."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_cassia_battlebegin_001.ogg",
+            "text": "The smell here is... suffocating."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_cassia_battlewin_001.ogg",
+            "text": "The scent lasted quite a while this time."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_cassia_battlelose_001.ogg",
+            "text": "I despise the stench of blood..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_cassia_uniqueskill_001.ogg",
+            "text": "Indulge in this fragrance forever!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_cassia_dead_001.ogg",
+            "text": "The scent... has dispersed..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cassia_greeting_001.ogg",
+            "text": "Whenever my restless emotions are soothed, I know... it's because you have come to me..."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_cassia_talk1_001.ogg",
+            "text": "Grey amber, iris root... these are all excellent ingredients, but they don't meet my standards. They always have a lingering, unpleasant odor... I need something more pure, more vivid..."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_cassia_talk1_002.ogg",
+            "text": "There must be a never-fading \"immortal fragrance\" in this world. It's just that I haven't found the right ingredients to create it yet..."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_cassia_talk1_003.ogg",
+            "text": "Naturally, rich perfumes must be stored in exquisite glass bottles. They need to be delicate, transparent, and sealed so that not a whiff leaks out... I've collected many, and there must be one that's good to put you in."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_cassia_talk2_001.ogg",
+            "text": "Only fragrances made from life can completely mask the scent of decay. Perhaps it's the complexity of the soul and memory that brings a more layered aroma... Humans are truly fascinating."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_cassia_talk2_002.ogg",
+            "text": "I like to handle the ingredients myself. When I strip away those ivory-colored chunks and feel the warm fluids flow through my fingers, inspiration for the fragrance will gush incessantly into my mind... Oh, how I love this feeling."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_cassia_talk2_003.ogg",
+            "text": "Typically, beauty is a notable characteristic of top-tier ingredients, hence I love approaching beautiful bodies. However, sometimes I find unexpected delights with other characteristics, like you... You have a fragrance that drives one mad."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_cassia_obeyfull_001.ogg",
+            "text": "I already know what kind of perfume I will make you into... Something light, clear, and with a soft warmth... topped with a sharp finish. Such a special fragrance will surely dispel all nightmares and fears. If I could keep your scent on me forever, then perhaps my heart could achieve complete tranquility."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cassia_idle_001.ogg",
+            "text": "Moments of leisure and comfort... are best to enjoy a hint of fresh green notes."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cassia_clicking_001.ogg",
+            "text": "Do you like the perfume I have on today, too?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cassia_specialattention_001.ogg",
+            "text": "Hmm, you look so intoxicated... What does this scent make you think of?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_cassia_dispatch_001.ogg",
+            "text": "Just don't make me go to any... foul-smelling places."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_cassia_dispatch2_001.ogg",
+            "text": "If I told you I brought some \"perfume ingredients\" back, would you help me carry them?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cassia_levelup_002.ogg",
+            "text": "Hmm, this should be considered a masterpiece."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_cassia_jointeam_001.ogg",
+            "text": "Would you like a fragrance tailored just for you?"
+        }
+    ],
+    "aromas_in_bloom": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_cassia_xinyuanqiluo_cacha_001.ogg",
+            "text": "There seems to be a unique fragrance in the air—pure, warm, with a hint of sharpness. Could it be the \"flower\" I've longed for has finally come to my garden?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cassia_xinyuanqiluo_greeting_001.ogg",
+            "text": "I've been waiting for you. Come take a rest here with me. With the nourishment from the moonlight, you will surely blossom into a more aromatic and delicious flower..."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_cassia_xinyuanqiluo_talk_001.ogg",
+            "text": "You have the run of this place. Please, feel free to take a tour around and see which scent suits you the best. Is it the vitality and sweetness of the daisy, or the purity and richness of the lily? And maybe, you can offer me some \"help\" with my perfume making."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_cassia_xinyuanqiluo_talk_002.ogg",
+            "text": "Just as a perfume gala needs a real exquisite bottle to captivate the crowd, my garden requires a flawless bud. I vowed to myself that once I found it, I will water it with my blood and nourish it with my essence... Now, I believe fate has answered my plea, for it has brought you to me."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cassia_xinyuanqiluo_idle_001.ogg",
+            "text": "Be patient. Just wait a little longer, wait until the undesired smells dissipate and the conscious mind dies down. Then your fragrance will take root and be preserved forever... Hehe..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cassia_xinyuanqiluo_clicking_001.ogg",
+            "text": "Don't push me too hard. Be gentler, please. If the swing goes too high, the airflow may carry the scent away and mess up the unique fragrances of my flowers. I wouldn't want that..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cassia_xinyuanqiluo_specialattention_001.ogg",
+            "text": "The \"flowers\" in this garden always look at me with longing. I know they crave my affection, but unfortunately for them, such privilege is reserved only for you..."
+        }
+    ]
 }

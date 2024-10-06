@@ -76,7 +76,7 @@
             "text": "狂瞳病を抑え込むために、私は人の脳を切除する悪魔になった。自分の理性を保つために左腕を犠牲にしたように、利害を考慮したうえで選択したまでよ。だから、別に後悔はしてないわ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_iron_obeyfull_001.ogg",
             "text": "私と一緒に来るつもりなら、忠告しておかないといけないわね——ロボトミー手術が終われば後悔をすることができないの。狂瞳病を抑えるためには、大きなリスクと汚名を背負う必要があるわ。それでも、きみは私と一緒に戦ってくれる？"
         },
@@ -101,7 +101,7 @@
             "text": "狂瞳病の患者を治療する時間は貴重なのよ。そんな些細なことで私の手を煩わさないでほしいわね。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_iron_dispatch2_001.ogg",
             "text": "謝辞はいいわ。医学と関係のないことには興味がないの。"
         },
@@ -118,7 +118,7 @@
     ],
     "dr__ironstein": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_iron_jinjiguaiyi_cacha_001.ogg",
             "text": "何をチラチラと見ているの？今日は特別診察日だから、いつもと違うだけよ。安心して入ってきなさい。"
         },

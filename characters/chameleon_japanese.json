@@ -76,7 +76,7 @@
             "text": "他人の善意は、まるでハゲタカのようなものよ。暴行が起こると、頭上を旋回して耳障りな音を立てるだけで、被害者がもがくのをやめると、地面に落りてきて最後の肉を貪り喰らうのよ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_chameleon_obeyfull_001.ogg",
             "text": "最も頑固な精神病患者と最も残酷な臨床心理士——わたしたちの間には世界で最も完璧な関係が築かれているようね。"
         },
@@ -101,7 +101,7 @@
             "text": "臨床心理士にこんなことをさせるなんて…… はぁ……"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_chameleon_dispatch2_001.ogg",
             "text": "向こうで面白いことがあったの。聞きたい？"
         },
@@ -118,7 +118,7 @@
     ],
     "message_in_dreams": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_chameleon_mengmeisiyu_cacha_001.ogg",
             "text": "「好奇心」「強欲」「愛」……これらに導かれて、わたしに会いに来たのね。"
         },
@@ -160,7 +160,7 @@
     ],
     "dream_s_ephemera": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_chameleon_xiaomengfusheng_cacha_001.ogg",
             "text": "夢の導きに従い、心の束縛を解くためにここに来たのかしら？"
         },

@@ -1,161 +1,161 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_corso_cacha_001.ogg",
-      "text": "Haha, so you actually managed to shackle me. Looks like you do have some tricks up your sleeve... What a refreshing challenge. I accept your duel!"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_corso_promotion_001.ogg",
-      "text": "Ha! Prepare to get torn apart by the mad dog!"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_corso_promotion2_001.ogg",
-      "text": "Now, I stand at the apex, waiting to be challenged by you all!"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_corso_battlebegin_001.ogg",
-      "text": "C'mon, let's fight!"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_corso_battlewin_001.ogg",
-      "text": "Yeah... Yeah! Kneel and beg for mercy! Just like that!"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_corso_battlelose_001.ogg",
-      "text": "Don't get cocky! I'll win everything back!"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_corso_uniqueskill_001.ogg",
-      "text": "Have a taste of this!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_corso_dead_001.ogg",
-      "text": "Ha... A gladiator should die... on the battlefield..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_corso_greeting_001.ogg",
-      "text": "Let's have a fight! If you beat me, I'll consider letting you through to the office."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_corso_talk1_001.ogg",
-      "text": "Why do I fight so hard on the field? Haha, no reason! I just like to win!"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_corso_talk1_002.ogg",
-      "text": "Law of the jungle? Ha! Brawn is shit in fights. You've got to use your brain to win!"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_corso_talk1_003.ogg",
-      "text": "What's the \"Syndicate Spirit\"? Winner takes all, that's what! Only fools care about ethics. For me, the end justifies the means."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_corso_talk2_001.ogg",
-      "text": "Mmm... You're a smart cookie. You're way more interesting than those brutes who are all brawn and no brains."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_corso_talk2_002.ogg",
-      "text": "Those guys who used to surround me were like dogs wagging their tails for a treat, so I dealt with them like the dogs they were... Why the frown? I don't mean you!"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_corso_talk2_003.ogg",
-      "text": "Back in the arena, they always looked at me in disgust, as if I were a mad dog. Yet they also feared me to death. I like the way you look at me... you're not like them."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_corso_obeyfull_001.ogg",
-      "text": "I've only ever fought for myself, but you're a smart cookie who managed to \"shackle\" me... Then, my strength may also bring you victory."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_corso_idle_001.ogg",
-      "text": "Hey, come and throw a few shots at me. I feel like I'm getting rusty!"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_corso_clicking_001.ogg",
-      "text": "Pfft, you also want to taste some nails?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_corso_specialattention_001.ogg",
-      "text": "What are you looking at? Wanna fight?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_corso_dispatch_001.ogg",
-      "text": "Where's the fight?"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_corso_dispatch2_001.ogg",
-      "text": "Here, these are the spoils today. Tsk, those chickens fled before I had enough fun."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_corso_levelup_002.ogg",
-      "text": "Yeah, just like that! Fight! Keep fighting!"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_corso_jointeam_001.ogg",
-      "text": "It's finally my turn on the battlefield!"
-    }
-  ],
-  "suit_up_outlaw": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_cacha_001.ogg",
-      "text": "You've got some nerve, treating a gladiator like a guard dog. And just make sure to keep a tight grip on that leash of yours, or else... I might bite someone you'd rather I didn't."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_greeting_001.ogg",
-      "text": "Look, all I see here are a bunch of dressed-up softies. Will they really give me a good fight? 'Cause if not, you better make it up to me when we get back."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_talk_001.ogg",
-      "text": "This outfit's so uncomfortable. It barely has any room for anything... Seems like those scaredy-cat rich folks do have a brain after all. But this little trick won't stop me... I've never tried using diamonds to fight before, let's see if these rich folks' trinkets are up to the task of being my props!"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_talk_002.ogg",
-      "text": "See that guy over there? He's got a weird stench on him. I bet he's got poison with him. And that one, he's the type to hit first, and ask later. But his buddy won't agree... How do I know all this? Ha, don't play dumb. You brought me along because of my keen nose and sharp ears, didn't you?"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_idle_001.ogg",
-      "text": "We need to make a quick getaway? This route is the shortest. There are people in the way... That path ahead is blocked... Damn, planning an escape before the fight even starts is a new low for me... But this is an exception. Don't even think about making me do this ever again!"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_specialattention_001.ogg",
-      "text": "No need to keep such a close eye on me... I won't run, and I won't cause any trouble. After all, you're the one holding the leash... What are you worried about?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_levelup_001.ogg",
-      "text": "That's not enough. I need a few more reckless fools to sharpen my teeth on!"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_corso_zhengzhuangkuangtu_clicking_001.ogg",
-      "text": "Hey, hey, hey, you're all flustered just from loosening a collar. You can't even handle this? Hey, you big oaf! Which hand did you touch my boss with? You don't want to keep it anymore!"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_corso_cacha_001.ogg",
+            "text": "Haha, so you actually managed to shackle me. Looks like you do have some tricks up your sleeve... What a refreshing challenge. I accept your duel!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_corso_promotion_001.ogg",
+            "text": "Ha! Prepare to get torn apart by the mad dog!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_corso_promotion2_001.ogg",
+            "text": "Now, I stand at the apex, waiting to be challenged by you all!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_corso_battlebegin_001.ogg",
+            "text": "C'mon, let's fight!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_corso_battlewin_001.ogg",
+            "text": "Yeah... Yeah! Kneel and beg for mercy! Just like that!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_corso_battlelose_001.ogg",
+            "text": "Don't get cocky! I'll win everything back!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_corso_uniqueskill_001.ogg",
+            "text": "Have a taste of this!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_corso_dead_001.ogg",
+            "text": "Ha... A gladiator should die... on the battlefield..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_corso_greeting_001.ogg",
+            "text": "Let's have a fight! If you beat me, I'll consider letting you through to the office."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_corso_talk1_001.ogg",
+            "text": "Why do I fight so hard on the field? Haha, no reason! I just like to win!"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_corso_talk1_002.ogg",
+            "text": "Law of the jungle? Ha! Brawn is shit in fights. You've got to use your brain to win!"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_corso_talk1_003.ogg",
+            "text": "What's the \"Syndicate Spirit\"? Winner takes all, that's what! Only fools care about ethics. For me, the end justifies the means."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_corso_talk2_001.ogg",
+            "text": "Mmm... You're a smart cookie. You're way more interesting than those brutes who are all brawn and no brains."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_corso_talk2_002.ogg",
+            "text": "Those guys who used to surround me were like dogs wagging their tails for a treat, so I dealt with them like the dogs they were... Why the frown? I don't mean you!"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_corso_talk2_003.ogg",
+            "text": "Back in the arena, they always looked at me in disgust, as if I were a mad dog. Yet they also feared me to death. I like the way you look at me... you're not like them."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_corso_obeyfull_001.ogg",
+            "text": "I've only ever fought for myself, but you're a smart cookie who managed to \"shackle\" me... Then, my strength may also bring you victory."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_corso_idle_001.ogg",
+            "text": "Hey, come and throw a few shots at me. I feel like I'm getting rusty!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_corso_clicking_001.ogg",
+            "text": "Pfft, you also want to taste some nails?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_corso_specialattention_001.ogg",
+            "text": "What are you looking at? Wanna fight?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_corso_dispatch_001.ogg",
+            "text": "Where's the fight?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_corso_dispatch2_001.ogg",
+            "text": "Here, these are the spoils today. Tsk, those chickens fled before I had enough fun."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_corso_levelup_002.ogg",
+            "text": "Yeah, just like that! Fight! Keep fighting!"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_corso_jointeam_001.ogg",
+            "text": "It's finally my turn on the battlefield!"
+        }
+    ],
+    "suit_up_outlaw": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_cacha_001.ogg",
+            "text": "You've got some nerve, treating a gladiator like a guard dog. And just make sure to keep a tight grip on that leash of yours, or else... I might bite someone you'd rather I didn't."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_greeting_001.ogg",
+            "text": "Look, all I see here are a bunch of dressed-up softies. Will they really give me a good fight? 'Cause if not, you better make it up to me when we get back."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_talk_001.ogg",
+            "text": "This outfit's so uncomfortable. It barely has any room for anything... Seems like those scaredy-cat rich folks do have a brain after all. But this little trick won't stop me... I've never tried using diamonds to fight before, let's see if these rich folks' trinkets are up to the task of being my props!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_talk_002.ogg",
+            "text": "See that guy over there? He's got a weird stench on him. I bet he's got poison with him. And that one, he's the type to hit first, and ask later. But his buddy won't agree... How do I know all this? Ha, don't play dumb. You brought me along because of my keen nose and sharp ears, didn't you?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_idle_001.ogg",
+            "text": "We need to make a quick getaway? This route is the shortest. There are people in the way... That path ahead is blocked... Damn, planning an escape before the fight even starts is a new low for me... But this is an exception. Don't even think about making me do this ever again!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_specialattention_001.ogg",
+            "text": "No need to keep such a close eye on me... I won't run, and I won't cause any trouble. After all, you're the one holding the leash... What are you worried about?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_levelup_001.ogg",
+            "text": "That's not enough. I need a few more reckless fools to sharpen my teeth on!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_clicking_001.ogg",
+            "text": "Hey, hey, hey, you're all flustered just from loosening a collar. You can't even handle this? Hey, you big oaf! Which hand did you touch my boss with? You don't want to keep it anymore!"
+        }
+    ]
 }

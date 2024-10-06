@@ -76,7 +76,7 @@
             "text": "あたくしのように芸術の浄化に大きく貢献した評論家を、芸術界は毒舌女と呼ぶのよ。……まあいいわ。あの愚かな低能たちの目を覚まさせることができるなら、毒舌女でもかまわない。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_lisa_obeyfull_001.ogg",
             "text": "よく見ると、あなたの顔にもなかなか見どころがあるわね……残念だけど、出会うのが遅かったわ。もっと早ければ記念にあなたの絵を描いてあげたかもしれないのに。"
         },
@@ -101,7 +101,7 @@
             "text": "せめてあまり下品なところには行かせないでくれる？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_lisa_dispatch2_001.ogg",
             "text": "ずっとここで待っていたの？あたくしたちの局長さんは随分と暇なようね。"
         },
@@ -118,7 +118,7 @@
     ],
     "trail_of_butterfly": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_lisa_trail_of_butterfly_cacha_001.ogg",
             "text": "あたくしがここにいるのは意外？静かで誰かに邪魔される心配もないし、集中して評論を書くには適した場所だわ。"
         },

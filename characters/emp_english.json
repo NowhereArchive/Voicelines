@@ -1,208 +1,203 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_emp_cacha_001.ogg",
-      "text": "Do you know who you just captured?! I... I'm the uncrowned queen of the Syndicate, the killer marksman of the toughest gang! Ahhh, don't hit me, please! I'll cooperate! I'll do anything you want!"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_emp_promotion_001.ogg",
-      "text": "I told you a long time ago, I'm the strongest. Hey! Listen to me!"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_emp_promotion2_001.ogg",
-      "text": "EMP evolves—into ultimate EMP!"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_emp_battlebegin_001.ogg",
-      "text": "Chief... after you."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_emp_battlewin_001.ogg",
-      "text": "Hmph. All thanks to invincible me."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_emp_battlelose_001.ogg",
-      "text": "Bad luck... it was just bad luck!"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_emp_uniqueskill_001.ogg",
-      "text": "You... you forced me to do this!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_emp_dead_001.ogg",
-      "text": "Chief... think of something..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_emp_greeting_001.ogg",
-      "text": "Huh? Oh, it's Chief. What do you want to play today? Poker? Dice? Mahjong? You don't want to play? Don't be so uptight. Doing nothing is boring!"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_emp_talk1_001.ogg",
-      "text": "Chief, want to go to the Syndicate with me? Don't worry, with me there, no one will dare mess with us! Oh, right! Remember to take the Bureau's car."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_emp_talk1_002.ogg",
-      "text": "If someone is looking for me and mentions something about repaying a debt... please cover for me, Chief. I might as well be dead if those loan sharks find me."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_emp_talk1_003.ogg",
-      "text": "Ahhh, Chief, can you give me the comic book from that shelf? Not that one, that one. No, not that one... eh, forget it. You sit. I'll do it myself."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_emp_talk2_001.ogg",
-      "text": "A blackout? Yes, I did that! Impressed? I singlehandedly cut the Syndicate's power for a week! Aren't I amazing? Oh please praise me... please..."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_emp_talk2_002.ogg",
-      "text": "I'm delicate, and I love to chat and gossip. I'm not really good at anything, and I always seem to annoy everyone. You must get a headache from meeting someone like me... haha... thank you..."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_emp_talk2_003.ogg",
-      "text": "Shush! Be quiet! I'm practicing archery! Oh... someday, I will be able to effortlessly hit the target!"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_emp_obeyfull_001.ogg",
-      "text": "Actually, the name I used before EMP is Emy Pan... oh, it's nothing. It's just that... I'm really happy to meet you, Chief."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_emp_idle_001.ogg",
-      "text": "Chief! Chief! Chief! Talk to me! Nobody is chatting with me! I'd die! Really! Really! Chief..."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_emp_clicking_001.ogg",
-      "text": "Ahhhh! You can't be serious, Chief! You'd really do this to someone as grotesque as me? Spare me..."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_emp_specialattention_001.ogg",
-      "text": "Oh Chief, I didn't expect you to remember me! Since you came, have a seat and let's chat! I'm bored to death over here..."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_emp_dispatch_001.ogg",
-      "text": "One of my favorite things to do is saying \"no\" to arrogant guys... just kidding! I'll go, I'll go."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_emp_dispatch2_001.ogg",
-      "text": "EMP, glorious return!"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_emp_levelup_002.ogg",
-      "text": "Combat power should exceed 5 by now!"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_emp_jointeam_001.ogg",
-      "text": "Do I have to go?"
-    }
-  ],
-  "backstreet_overlord": [
-    {
-      "title": "No",
-      "filename": "File:unknown.ogg",
-      "text": "2"
-    },
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_emp_backstreet_overlord_cacha_001.ogg",
-      "text": "After encountering the Uncrowned Queen in a dark alley, your first instinct is to walk towards me instead of running away. Now that's something you don't see every day! You've earned EMP's admiration. Cough up your name."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_emp_backstreet_overlord_greeting_001.ogg",
-      "text": "Come on, let's go take a walk around the block. Hey don't worry, no one in Syndicate would dare pick on EMP. By the way, you... walk in front of me."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_emp_backstreet_overlord_talk_001.ogg",
-      "text": "That... Minos Bureau of Crisis Control you mentioned, what do they usually do? Ah, it's fine, don't be nervous. As the boss, I just want to know how much mettle my underling's got!"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_emp_backstreet_overlord_talk_002.ogg",
-      "text": "I've resolved all the disorders around here lately! Now the only thing that interests me is scamming... Um, I mean, training talented people with great potential like you! You should keep learning from me!"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_emp_backstreet_overlord_idle_001.ogg",
-      "text": "You see her? Next time you meet her, remember to call her Big Sis. Even though she's only a few months old, she's also a founding member of the gang! You must show her the respect she deserves."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_emp_backstreet_overlord_clicking_001.ogg",
-      "text": "You've only been here for a few days and you've forgotten your place already?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_emp_backstreet_overlord_levelup_001.ogg",
-      "text": "Where are you going... The West District? Ahem, um... Nothing, I choked on something... But, are... are you sure? That's the Legion's territory."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_emp_backstreet_overlord_specialattention_001.ogg",
-      "text": "I haven't seen that little thug with the water pipe in a while. I took a heavy blow from her last time and I haven't fully recovered... If I see her again, I must repay her properly."
-    }
-  ],
-  "hail_from_the_otaku_world": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_emp_qihangerciyuan_cacha_001.ogg",
-      "text": "Thou hast discovered my secret... Then stay here with me forever! C'mon, quit gawking! This is the time for you to say, \"In your dream, Dreadlord! Not even over my dead body!\""
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_emp_qihangerciyuan_greeting_001.ogg",
-      "text": "Hey, you're just in time to see the love of my life. Isn't it a masterpiece? Great storyboard and plot, right? What? The love of my life wasn't this one last time we met? Ummm... Well, I just made the mistake that all manga otaku make!"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_emp_qihangerciyuan_talk_001.ogg",
-      "text": "Ta-da! Check my babies out! This room of comics is the kingdom I have built for myself! Many are already out-of-print! Thanks to these treasures, I can usurp... ahem, I mean, achieve this lofty status in the comic club!"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_emp_qihangerciyuan_talk_002.ogg",
-      "text": "If you sincerely want to read it, it's not like I can't lend it to you, but strings attached: first, you can't soil the fold-outs; second, you can't lend it to anyone else; and third, the next time I have to go stand in line to buy some special edition comic books, you will approve my leave permit."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_emp_qihangerciyuan_idle_001.ogg",
-      "text": "It's the guy posting spoilers again! I have reported so many times but no use! This forum is garbage! Arghhhhh! You left me with no choice but to do this! Just wait and see, your server is gone!"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_emp_qihangerciyuan_clicking_001.ogg",
-      "text": "\"Hands off\" is rule No.1 of the adventure code, okay? If you continue to be so harum-scarum, you might trigger the spell sealed in my equipment. Humph, that'll be fun to watch!"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_emp_qihangerciyuan_specialattention_001.ogg",
-      "text": "It's not that I'm stingy, but this is a random special edition that came with the limited color illustration! And I had to buy two other unsalable books to get it. I swore I'd never let it fall into the hands of outsiders!"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_emp_qihangerciyuan_levelup_001.ogg",
-      "text": "Hehe, see this shining magic tattoo? I am not bald, and I get stronger!"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_emp_cacha_001.ogg",
+            "text": "Do you know who you just captured?! I... I'm the uncrowned queen of the Syndicate, the killer marksman of the toughest gang! Ahhh, don't hit me, please! I'll cooperate! I'll do anything you want!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_emp_promotion_001.ogg",
+            "text": "I told you a long time ago, I'm the strongest. Hey! Listen to me!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_emp_promotion2_001.ogg",
+            "text": "EMP evolves—into ultimate EMP!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_emp_battlebegin_001.ogg",
+            "text": "Chief... after you."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_emp_battlewin_001.ogg",
+            "text": "Hmph. All thanks to invincible me."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_emp_battlelose_001.ogg",
+            "text": "Bad luck... it was just bad luck!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_emp_uniqueskill_001.ogg",
+            "text": "You... you forced me to do this!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_emp_dead_001.ogg",
+            "text": "Chief... think of something..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_greeting_001.ogg",
+            "text": "Huh? Oh, it's Chief. What do you want to play today? Poker? Dice? Mahjong? You don't want to play? Don't be so uptight. Doing nothing is boring!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_emp_talk1_001.ogg",
+            "text": "Chief, want to go to the Syndicate with me? Don't worry, with me there, no one will dare mess with us! Oh, right! Remember to take the Bureau's car."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_emp_talk1_002.ogg",
+            "text": "If someone is looking for me and mentions something about repaying a debt... please cover for me, Chief. I might as well be dead if those loan sharks find me."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_emp_talk1_003.ogg",
+            "text": "Ahhh, Chief, can you give me the comic book from that shelf? Not that one, that one. No, not that one... eh, forget it. You sit. I'll do it myself."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_emp_talk2_001.ogg",
+            "text": "A blackout? Yes, I did that! Impressed? I singlehandedly cut the Syndicate's power for a week! Aren't I amazing? Oh please praise me... please..."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_emp_talk2_002.ogg",
+            "text": "I'm delicate, and I love to chat and gossip. I'm not really good at anything, and I always seem to annoy everyone. You must get a headache from meeting someone like me... haha... thank you..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_emp_talk2_003.ogg",
+            "text": "Shush! Be quiet! I'm practicing archery! Oh... someday, I will be able to effortlessly hit the target!"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_emp_obeyfull_001.ogg",
+            "text": "Actually, the name I used before EMP is Emy Pan... oh, it's nothing. It's just that... I'm really happy to meet you, Chief."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_idle_001.ogg",
+            "text": "Chief! Chief! Chief! Talk to me! Nobody is chatting with me! I'd die! Really! Really! Chief..."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_clicking_001.ogg",
+            "text": "Ahhhh! You can't be serious, Chief! You'd really do this to someone as grotesque as me? Spare me..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_specialattention_001.ogg",
+            "text": "Oh Chief, I didn't expect you to remember me! Since you came, have a seat and let's chat! I'm bored to death over here..."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_emp_dispatch_001.ogg",
+            "text": "One of my favorite things to do is saying \"no\" to arrogant guys... just kidding! I'll go, I'll go."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_emp_dispatch2_001.ogg",
+            "text": "EMP, glorious return!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_levelup_002.ogg",
+            "text": "Combat power should exceed 5 by now!"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_emp_jointeam_001.ogg",
+            "text": "Do I have to go?"
+        }
+    ],
+    "backstreet_overlord": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_emp_backstreet_overlord_cacha_001.ogg",
+            "text": "After encountering the Uncrowned Queen in a dark alley, your first instinct is to walk towards me instead of running away. Now that's something you don't see every day! You've earned EMP's admiration. Cough up your name."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_backstreet_overlord_greeting_001.ogg",
+            "text": "Come on, let's go take a walk around the block. Hey don't worry, no one in Syndicate would dare pick on EMP. By the way, you... walk in front of me."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_emp_backstreet_overlord_talk_001.ogg",
+            "text": "That... Minos Bureau of Crisis Control you mentioned, what do they usually do? Ah, it's fine, don't be nervous. As the boss, I just want to know how much mettle my underling's got!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_emp_backstreet_overlord_talk_002.ogg",
+            "text": "I've resolved all the disorders around here lately! Now the only thing that interests me is scamming... Um, I mean, training talented people with great potential like you! You should keep learning from me!"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_backstreet_overlord_idle_001.ogg",
+            "text": "You see her? Next time you meet her, remember to call her Big Sis. Even though she's only a few months old, she's also a founding member of the gang! You must show her the respect she deserves."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_backstreet_overlord_clicking_001.ogg",
+            "text": "You've only been here for a few days and you've forgotten your place already?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_backstreet_overlord_levelup_001.ogg",
+            "text": "Where are you going... The West District? Ahem, um... Nothing, I choked on something... But, are... are you sure? That's the Legion's territory."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_backstreet_overlord_specialattention_001.ogg",
+            "text": "I haven't seen that little thug with the water pipe in a while. I took a heavy blow from her last time and I haven't fully recovered... If I see her again, I must repay her properly."
+        }
+    ],
+    "hail_from_the_otaku_world": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_emp_qihangerciyuan_cacha_001.ogg",
+            "text": "Thou hast discovered my secret... Then stay here with me forever! C'mon, quit gawking! This is the time for you to say, \"In your dream, Dreadlord! Not even over my dead body!\""
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_qihangerciyuan_greeting_001.ogg",
+            "text": "Hey, you're just in time to see the love of my life. Isn't it a masterpiece? Great storyboard and plot, right? What? The love of my life wasn't this one last time we met? Ummm... Well, I just made the mistake that all manga otaku make!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_emp_qihangerciyuan_talk_001.ogg",
+            "text": "Ta-da! Check my babies out! This room of comics is the kingdom I have built for myself! Many are already out-of-print! Thanks to these treasures, I can usurp... ahem, I mean, achieve this lofty status in the comic club!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_emp_qihangerciyuan_talk_002.ogg",
+            "text": "If you sincerely want to read it, it's not like I can't lend it to you, but strings attached: first, you can't soil the fold-outs; second, you can't lend it to anyone else; and third, the next time I have to go stand in line to buy some special edition comic books, you will approve my leave permit."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_qihangerciyuan_idle_001.ogg",
+            "text": "It's the guy posting spoilers again! I have reported so many times but no use! This forum is garbage! Arghhhhh! You left me with no choice but to do this! Just wait and see, your server is gone!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_qihangerciyuan_clicking_001.ogg",
+            "text": "\"Hands off\" is rule No.1 of the adventure code, okay? If you continue to be so harum-scarum, you might trigger the spell sealed in my equipment. Humph, that'll be fun to watch!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_qihangerciyuan_specialattention_001.ogg",
+            "text": "It's not that I'm stingy, but this is a random special edition that came with the limited color illustration! And I had to buy two other unsalable books to get it. I swore I'd never let it fall into the hands of outsiders!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_qihangerciyuan_levelup_001.ogg",
+            "text": "Hehe, see this shining magic tattoo? I am not bald, and I get stronger!"
+        }
+    ]
 }

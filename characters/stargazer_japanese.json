@@ -76,7 +76,7 @@
             "text": "私は夢の中で真実の国を訪れたことがある。いつか……あなたにもそこを訪れられるといいわね。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_stargazer_obeyfull_001.ogg",
             "text": "今ならすべてを取り去って、本当の姿を見せてもいいわ……うふふ、あらぁ？少し服を脱いだだけなのに、もう恥ずかしくなったのぉ？"
         },
@@ -101,7 +101,7 @@
             "text": "あら、この先に行く場所って純粋な力があるところなのかしら？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_stargazer_dispatch2_001.ogg",
             "text": "やっぱり局長のそばが一番居心地がいいわ。"
         },
@@ -123,12 +123,7 @@
     ],
     "moonlit_enchantment": [
         {
-            "title": "No",
-            "filename": "File:unknown.ogg",
-            "text": "2"
-        },
-        {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_stargazer_yueyeqitan_cacha_001.ogg",
             "text": "あなたは白砂の伝説の魔法のランプを見つけ、あたしを召喚した。ご褒美として、願いを一つ叶えてあげるわ。"
         },

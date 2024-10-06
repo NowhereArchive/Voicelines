@@ -76,7 +76,7 @@
             "text": "局長、もしあたしがあなたを愛人にしたいと言ったら、どう思う？ 本気よ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_chelsea_obeyfull_001.ogg",
             "text": "これが遺産分割協議書よ。こっちに来てサインして……あたしに何かあったら、このお金で、あの可愛い子ちゃんたち……と、シディーの面倒を見て。わかった？"
         },
@@ -101,7 +101,7 @@
             "text": "お安い御用よ。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_chelsea_dispatch2_001.ogg",
             "text": "ただいま。ほら、みんなにお土産よ。"
         },
@@ -123,7 +123,7 @@
     ],
     "moonlight_rendezvous": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_chelsea_yueyinsheqing_cacha_001.ogg",
             "text": "ようこそあたしの荘園へ！局長……やっと来られたんだから、自分の家だと思って楽しんでって。遠慮なんてしたら、つまらないわよ。"
         },
@@ -165,7 +165,7 @@
     ],
     "lake_of_mythos": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_chelsea_yiluoxinhu_cacha_001.ogg",
             "text": "あなたが落としたのはこの金の斧？それとも宝石の斧？遠慮しないで。気に入ったなら、両方持っていって～"
         },

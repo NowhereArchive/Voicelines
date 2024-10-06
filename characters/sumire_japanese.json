@@ -1,213 +1,213 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_sumire_cacha_001.ogg",
-      "text": "やっとお会いできましたね……菫、それは花の名であり、わたしの名でもあります。よろしければ、どうぞお受け取り下さい。"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_sumire_promotion_001.ogg",
-      "text": "根を地面に深く伸ばす花ほど美しく咲き誇り……そして命を奪うのです。"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_sumire_promotion2_001.ogg",
-      "text": "この身は、すでに咲き誇っています。これからは、貴方様だけの刃になると誓いましょう。"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_sumire_battlebegin_001.ogg",
-      "text": "ついてきてください。"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_sumire_jointeam_001.ogg",
-      "text": "貴方様の信頼は、決して裏切りません。"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_sumire_battlewin_001.ogg",
-      "text": "これは貴方様の勝利です。"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_sumire_battlelose_001.ogg",
-      "text": "すべてはわたしの……わたしのせいです……"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_sumire_uniqueskill_001.ogg",
-      "text": "落桜……落命！"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_sumire_dead_001.ogg",
-      "text": "申し訳ありません。永遠のお別れです……"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_sumire_greeting_001.ogg",
-      "text": "局長様、見てください。茶柱が立っています。これは意外な幸運が訪れるかもしれませんね。"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_sumire_talk1_001.ogg",
-      "text": "まだ命のある花の枝を切り、人間の意思通りに形づくり、死に行く花の最期の優雅さを楽しむ……これが華道です。酷いものでしょう？"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_sumire_talk1_002.ogg",
-      "text": "命を奪うのはあまりにもたやすいことです。それに比べ、生きることは難しいですわ。"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_sumire_talk1_003.ogg",
-      "text": "太陽のもとで生きられるなんて、花はなんとうらやましいものでしょう。わたしなど、影に潜む毒虫に過ぎません……「菫」という名前はわたしには勿体なさ過ぎますね。"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_sumire_talk2_001.ogg",
-      "text": "花も人も、失ってからその大切さがわかるのです。"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_sumire_talk2_002.ogg",
-      "text": "貴方様と一緒にいると、わたしまで夢や未来、そして希望を信じるようになりました……もはや殺し屋失格です。"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_sumire_talk2_003.ogg",
-      "text": "初めて武器を手にした時、もう戻れないと覚悟しました。貴方様に出会うまでは……これだけは約束してください。わたしから、決して離れないで。"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_sumire_obeyfull_001.ogg",
-      "text": "傍に居るだけで満足だったのですが……わたしは自分が思っているよりも貪欲なようですね。"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_sumire_idle_001.ogg",
-      "text": "局長様？お休みになられてしまったのですか？お疲れなのですね……機会を見て邪魔な者は排除します。その時はもっとゆっくりお休みくださいね。"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_sumire_clicking_001.ogg",
-      "text": "局長様、まだ仕事の時間ですよ……。"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_sumire_specialattention_001.ogg",
-      "text": "局長様はいつも自分のことは二の次なのですね。貴方様にも悩み事があるのでしょうに。わたしでよければ、話を聞かせてください。"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_sumire_dispatch_001.ogg",
-      "text": "この道を、行き来する者は数え切れぬほど。わたしもまたその一人。"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_sumire_dispatch2_001.ogg",
-      "text": "花は地に帰り、鳥は巣に帰る。"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_sumire_levelup_002.ogg",
-      "text": "花開く刻……間近に……。"
-    }
-  ],
-  "flower_of_fantasy": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_sumire_mengjiancao_cacha_001.ogg",
-      "text": "来てくださってありがとうございます……今年のモチヅキザクラはよく咲いているので、どうしても……貴方様と一緒に、この美しい景色を楽しみたいのです。"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_sumire_mengjiancao_greeting_001.ogg",
-      "text": "貴方様は遅刻などしていません。お会いできると思うと落ち着かず、わたしが早く来てしまっただけなのです……ご安心ください。待っている間も、退屈ではありませんでした。貴方様への想いで心が満たされていましたので。"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_sumire_mengjiancao_talk_001.ogg",
-      "text": "生け花にふさわしい花材を選ぶのと同じく、花見にふさわしい装いをしなければ、花に申し訳ありませんわ。局長様、この服装はいかがでしょうか？"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_sumire_mengjiancao_talk_002.ogg",
-      "text": "桜は、夢のように儚く美しいことから「夢見草」とも呼ばれています……今この瞬間と同じです。貴方様と過ごす時間は、桜のように酔いしれるほど美しい。たとえ脆く消えやすくても、わたしは……飴のように甘く感じるのです。"
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_sumire_mengjiancao_hand_001.ogg",
-      "text": "隣へどうぞ。よろしければ、わたしの膝を枕にして休んでください。傘をさしますので……"
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_sumire_mengjiancao_leg_001.ogg",
-      "text": "「世の中は三日見ぬ間の桜かな」。人々は、時の流れの速さを表現するためにこの句を使います……次に貴方様と出かけられるのは、いつになるのでしょう？"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_sumire_mengjiancao_idle_001.ogg",
-      "text": "ご覧になりましたか？先ほど飛んでいた蝶の羽に、花びらが乗っていました……"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_sumire_mengjiancao_specialattention_001.ogg",
-      "text": "花を見ずに、ずっとわたしをご覧になっていますが……何か言いたいことがあるのですか？"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_sumire_mengjiancao_levelup_001.ogg",
-      "text": "桜は見てくれる人のために、命が尽きるまで咲こうとします。わたしも同じです。"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_sumire_mengjiancao_head_001.ogg",
-      "text": "……どうされましたか？顔に花びらが？わざわざ取ってくださって、ありがとうございます。"
-    }
-  ],
-  "moonrise_fondness": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_sumire_yaoyehuashi_cacha_001.ogg",
-      "text": "この美しい景色を一緒に楽しんでくださり、ありがとうございます……これから夜が来るたび、どのような月が見えても、必ず今夜貴方様と見た月を思い出すでしょう。"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_sumire_yaoyehuashi_greeting_001.ogg",
-      "text": "雲に隠れていた月が顔を出していますわ。今この瞬間、わたしたちに会いたいと思ったのでしょうか？"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_sumire_yaoyehuashi_talk_001.ogg",
-      "text": "美酒を飲み終え、盃の底も見えたことですし、月夜だけの物語を語って差し上げましょうか？"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_sumire_yaoyehuashi_talk_002.ogg",
-      "text": "幼い頃に聞いた噂では、キツネはたいてい明るい夜に人間の姿に化け、運命の人を夜遊びに誘うそうです……あら？もしかして、わたしをキツネだと思っていらっしゃいますか？"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_sumire_yaoyehuashi_idle_001.ogg",
-      "text": "紅葉散り、月夜を彷徨う、酒の詩。"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_sumire_yaoyehuashi_clicking_001.ogg",
-      "text": "風が強くなってきましたか？もう一枚羽織ってください。"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_sumire_yaoyehuashi_specialattention_001.ogg",
-      "text": "月を見る時、あの清らかな美しい光だけを眺めていると、本当に気に留めなければならない景色を見逃してしまうかもしれませんよ。"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_sumire_yaoyehuashi_levelup_001.ogg",
-      "text": "夜の美しさには限りがありますが、貴方様がわたしに向けてくださる賛辞は比類のないものです。"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_sumire_cacha_001.ogg",
+            "text": "やっとお会いできましたね……菫、それは花の名であり、わたしの名でもあります。よろしければ、どうぞお受け取り下さい。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_sumire_promotion_001.ogg",
+            "text": "根を地面に深く伸ばす花ほど美しく咲き誇り……そして命を奪うのです。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_sumire_promotion2_001.ogg",
+            "text": "この身は、すでに咲き誇っています。これからは、貴方様だけの刃になると誓いましょう。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_sumire_battlebegin_001.ogg",
+            "text": "ついてきてください。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_sumire_jointeam_001.ogg",
+            "text": "貴方様の信頼は、決して裏切りません。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_sumire_battlewin_001.ogg",
+            "text": "これは貴方様の勝利です。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_sumire_battlelose_001.ogg",
+            "text": "すべてはわたしの……わたしのせいです……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_sumire_uniqueskill_001.ogg",
+            "text": "落桜……落命！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_sumire_dead_001.ogg",
+            "text": "申し訳ありません。永遠のお別れです……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_sumire_greeting_001.ogg",
+            "text": "局長様、見てください。茶柱が立っています。これは意外な幸運が訪れるかもしれませんね。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_sumire_talk1_001.ogg",
+            "text": "まだ命のある花の枝を切り、人間の意思通りに形づくり、死に行く花の最期の優雅さを楽しむ……これが華道です。酷いものでしょう？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_sumire_talk1_002.ogg",
+            "text": "命を奪うのはあまりにもたやすいことです。それに比べ、生きることは難しいですわ。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_sumire_talk1_003.ogg",
+            "text": "太陽のもとで生きられるなんて、花はなんとうらやましいものでしょう。わたしなど、影に潜む毒虫に過ぎません……「菫」という名前はわたしには勿体なさ過ぎますね。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_sumire_talk2_001.ogg",
+            "text": "花も人も、失ってからその大切さがわかるのです。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_sumire_talk2_002.ogg",
+            "text": "貴方様と一緒にいると、わたしまで夢や未来、そして希望を信じるようになりました……もはや殺し屋失格です。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_sumire_talk2_003.ogg",
+            "text": "初めて武器を手にした時、もう戻れないと覚悟しました。貴方様に出会うまでは……これだけは約束してください。わたしから、決して離れないで。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_sumire_obeyfull_001.ogg",
+            "text": "傍に居るだけで満足だったのですが……わたしは自分が思っているよりも貪欲なようですね。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_sumire_idle_001.ogg",
+            "text": "局長様？お休みになられてしまったのですか？お疲れなのですね……機会を見て邪魔な者は排除します。その時はもっとゆっくりお休みくださいね。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_sumire_clicking_001.ogg",
+            "text": "局長様、まだ仕事の時間ですよ……。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_sumire_specialattention_001.ogg",
+            "text": "局長様はいつも自分のことは二の次なのですね。貴方様にも悩み事があるのでしょうに。わたしでよければ、話を聞かせてください。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_sumire_dispatch_001.ogg",
+            "text": "この道を、行き来する者は数え切れぬほど。わたしもまたその一人。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_sumire_dispatch2_001.ogg",
+            "text": "花は地に帰り、鳥は巣に帰る。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_sumire_levelup_002.ogg",
+            "text": "花開く刻……間近に……。"
+        }
+    ],
+    "flower_of_fantasy": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_sumire_mengjiancao_cacha_001.ogg",
+            "text": "来てくださってありがとうございます……今年のモチヅキザクラはよく咲いているので、どうしても……貴方様と一緒に、この美しい景色を楽しみたいのです。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_sumire_mengjiancao_greeting_001.ogg",
+            "text": "貴方様は遅刻などしていません。お会いできると思うと落ち着かず、わたしが早く来てしまっただけなのです……ご安心ください。待っている間も、退屈ではありませんでした。貴方様への想いで心が満たされていましたので。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_sumire_mengjiancao_talk_001.ogg",
+            "text": "生け花にふさわしい花材を選ぶのと同じく、花見にふさわしい装いをしなければ、花に申し訳ありませんわ。局長様、この服装はいかがでしょうか？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_sumire_mengjiancao_talk_002.ogg",
+            "text": "桜は、夢のように儚く美しいことから「夢見草」とも呼ばれています……今この瞬間と同じです。貴方様と過ごす時間は、桜のように酔いしれるほど美しい。たとえ脆く消えやすくても、わたしは……飴のように甘く感じるのです。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_sumire_mengjiancao_hand_001.ogg",
+            "text": "隣へどうぞ。よろしければ、わたしの膝を枕にして休んでください。傘をさしますので……"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_sumire_mengjiancao_leg_001.ogg",
+            "text": "「世の中は三日見ぬ間の桜かな」。人々は、時の流れの速さを表現するためにこの句を使います……次に貴方様と出かけられるのは、いつになるのでしょう？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_sumire_mengjiancao_idle_001.ogg",
+            "text": "ご覧になりましたか？先ほど飛んでいた蝶の羽に、花びらが乗っていました……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_sumire_mengjiancao_specialattention_001.ogg",
+            "text": "花を見ずに、ずっとわたしをご覧になっていますが……何か言いたいことがあるのですか？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_sumire_mengjiancao_levelup_001.ogg",
+            "text": "桜は見てくれる人のために、命が尽きるまで咲こうとします。わたしも同じです。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_sumire_mengjiancao_head_001.ogg",
+            "text": "……どうされましたか？顔に花びらが？わざわざ取ってくださって、ありがとうございます。"
+        }
+    ],
+    "moonrise_fondness": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_sumire_yaoyehuashi_cacha_001.ogg",
+            "text": "この美しい景色を一緒に楽しんでくださり、ありがとうございます……これから夜が来るたび、どのような月が見えても、必ず今夜貴方様と見た月を思い出すでしょう。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_sumire_yaoyehuashi_greeting_001.ogg",
+            "text": "雲に隠れていた月が顔を出していますわ。今この瞬間、わたしたちに会いたいと思ったのでしょうか？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_sumire_yaoyehuashi_talk_001.ogg",
+            "text": "美酒を飲み終え、盃の底も見えたことですし、月夜だけの物語を語って差し上げましょうか？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_sumire_yaoyehuashi_talk_002.ogg",
+            "text": "幼い頃に聞いた噂では、キツネはたいてい明るい夜に人間の姿に化け、運命の人を夜遊びに誘うそうです……あら？もしかして、わたしをキツネだと思っていらっしゃいますか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_sumire_yaoyehuashi_idle_001.ogg",
+            "text": "紅葉散り、月夜を彷徨う、酒の詩。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_sumire_yaoyehuashi_clicking_001.ogg",
+            "text": "風が強くなってきましたか？もう一枚羽織ってください。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_sumire_yaoyehuashi_specialattention_001.ogg",
+            "text": "月を見る時、あの清らかな美しい光だけを眺めていると、本当に気に留めなければならない景色を見逃してしまうかもしれませんよ。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_sumire_yaoyehuashi_levelup_001.ogg",
+            "text": "夜の美しさには限りがありますが、貴方様がわたしに向けてくださる賛辞は比類のないものです。"
+        }
+    ]
 }

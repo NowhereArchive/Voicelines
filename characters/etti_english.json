@@ -1,166 +1,166 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_etti_cacha_001.ogg",
-      "text": "The mission has been judged as a success! Hero, time to celebrate. You can take me away now."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_etti_promotion_001.ogg",
-      "text": "Aha, that's more like it! This is what the \"Game Master\" deserves!"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_etti_promotion2_001.ogg",
-      "text": "From now on, I shall dictate the rules of the game!"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_etti_battlebegin_001.ogg",
-      "text": "The game has begun! Come pick out a way to change your fate!"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_etti_battlewin_001.ogg",
-      "text": "Congratulations on clearing the level! Heroes, go claim your bounty!"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_etti_battlelose_001.ogg",
-      "text": "Ouch... It hurts... I knew that team would be hard to lead..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_etti_uniqueskill_001.ogg",
-      "text": "Obey my rules!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_etti_dead_001.ogg",
-      "text": "Everything has been... shattered..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_etti_greeting_001.ogg",
-      "text": "The forces of darkness are about to descend upon the world... Hero, it's time to embark on your journey!"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_etti_talk1_001.ogg",
-      "text": "Have no fear! Tell me what you want to do next."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_etti_talk1_002.ogg",
-      "text": "Everything \"interesting\" in this world comes from \"imagination,\" so you don't need to restrain yourself in front of me. Do you understand?"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_etti_talk1_003.ogg",
-      "text": "Not everyone can complete my games... But you look like someone with potential. Want to try it out?"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_etti_talk2_001.ogg",
-      "text": "\"Good,\" \"neutral,\" and \"evil\"... Which one do you think I am? Or rather, which one do you want me to be?"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_etti_talk2_002.ogg",
-      "text": "They all say that dragons are selfish and greedy, but I think... It's just because no one dares to become close with them..."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_etti_talk2_003.ogg",
-      "text": "As long as you hold a dragon-slaying gun in your hand, it's a symbol of justice, even if the gun is broken. So... what are you going to do to an evil dragon like me?"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_etti_obeyfull_001.ogg",
-      "text": "I'm addicted to dark and thrilling imagination, yet I fear the frosty loneliness there... Thank you for defeating me... Thank you, for being by my side."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_etti_idle_001.ogg",
-      "text": "Sometimes, the \"world\" wants to take a break, too... Let's get some rest."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_etti_clicking_001.ogg",
-      "text": "You acted without approval... This world will punish you."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_etti_specialattention_001.ogg",
-      "text": "Are the treasures you seek in my eyes?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_etti_dispatch_001.ogg",
-      "text": "Time for our spring trip!"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_etti_dispatch2_001.ogg",
-      "text": "I got a lot of items! Want to see what they are? As long as I'm here, nothing bad will happen."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_etti_levelup_002.ogg",
-      "text": "It's only fun when you have trade-offs for your base attributes."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_etti_head_001.ogg",
-      "text": "You like my horn, too? Let me tell you about it! It was during a harsh, cold winter... Hey! Where are you going?"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_etti_jointeam_001.ogg",
-      "text": "I'll show you a good game."
-    }
-  ],
-  "noctivagation": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_etti_guiyeqilv_cacha_001.ogg",
-      "text": "As night falls, ghostly lanterns flicker to life. The ancient castle of the dragon will reopen its dusty gates, beckoning the chosen warriors with its secrets and treasures... Hehe, how's that? Immersive enough?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_etti_guiyeqilv_levelup_001.ogg",
-      "text": "Gaze from the Devil takes effect, Luck +1!"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_etti_guiyeqilv_greeting_001.ogg",
-      "text": "The clock has struck midnight. No time to dawdle! Embark on a brand new adventure alongside the dark demon from the Land of Oblivion! Uh-huh, that means me, your guide!"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_etti_guiyeqilv_talk_001.ogg",
-      "text": "These pumpkins are too cute? Umm, maybe they do look a little... Hold on! The game we're playing today is horror themed! They are obviously appalling! How can they be cute!"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_etti_guiyeqilv_talk_002.ogg",
-      "text": "Hmm? Candy? D-don't think you can buy me off with a measly two pieces of candy! I'm a demon, and demons are meant to cause trouble! You know that, right?"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_etti_guiyeqilv_idle_001.ogg",
-      "text": "Dear traveler, please don't let your guard down. The rocky path is full of temptations and traps, and the red-winged demon will eventually reveal her dragon's claws and teeth."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_etti_guiyeqilv_clicking_001.ogg",
-      "text": "Ahh! Don't pull my tail! Acting without permission is not allowed! Not even to your guide! ...What kind of punishment you'll face, you ask? Hmph, take... a... guess?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_etti_guiyeqilv_specialattention_001.ogg",
-      "text": "What are you looking at me for? Hurry up! Huh? You're not really scared, are you? Relax, if you're in any danger, I'll make an exception and provide you with a little extra help... but don't tell anyone about this!"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_etti_cacha_001.ogg",
+            "text": "The mission has been judged as a success! Hero, time to celebrate. You can take me away now."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_etti_promotion_001.ogg",
+            "text": "Aha, that's more like it! This is what the \"Game Master\" deserves!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_etti_promotion2_001.ogg",
+            "text": "From now on, I shall dictate the rules of the game!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_etti_battlebegin_001.ogg",
+            "text": "The game has begun! Come pick out a way to change your fate!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_etti_battlewin_001.ogg",
+            "text": "Congratulations on clearing the level! Heroes, go claim your bounty!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_etti_battlelose_001.ogg",
+            "text": "Ouch... It hurts... I knew that team would be hard to lead..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_etti_uniqueskill_001.ogg",
+            "text": "Obey my rules!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_etti_dead_001.ogg",
+            "text": "Everything has been... shattered..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_greeting_001.ogg",
+            "text": "The forces of darkness are about to descend upon the world... Hero, it's time to embark on your journey!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_etti_talk1_001.ogg",
+            "text": "Have no fear! Tell me what you want to do next."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_etti_talk1_002.ogg",
+            "text": "Everything \"interesting\" in this world comes from \"imagination,\" so you don't need to restrain yourself in front of me. Do you understand?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_etti_talk1_003.ogg",
+            "text": "Not everyone can complete my games... But you look like someone with potential. Want to try it out?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_etti_talk2_001.ogg",
+            "text": "\"Good,\" \"neutral,\" and \"evil\"... Which one do you think I am? Or rather, which one do you want me to be?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_etti_talk2_002.ogg",
+            "text": "They all say that dragons are selfish and greedy, but I think... It's just because no one dares to become close with them..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_etti_talk2_003.ogg",
+            "text": "As long as you hold a dragon-slaying gun in your hand, it's a symbol of justice, even if the gun is broken. So... what are you going to do to an evil dragon like me?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_etti_obeyfull_001.ogg",
+            "text": "I'm addicted to dark and thrilling imagination, yet I fear the frosty loneliness there... Thank you for defeating me... Thank you, for being by my side."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_idle_001.ogg",
+            "text": "Sometimes, the \"world\" wants to take a break, too... Let's get some rest."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_clicking_001.ogg",
+            "text": "You acted without approval... This world will punish you."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_specialattention_001.ogg",
+            "text": "Are the treasures you seek in my eyes?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_etti_dispatch_001.ogg",
+            "text": "Time for our spring trip!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_etti_dispatch2_001.ogg",
+            "text": "I got a lot of items! Want to see what they are? As long as I'm here, nothing bad will happen."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_levelup_002.ogg",
+            "text": "It's only fun when you have trade-offs for your base attributes."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_etti_head_001.ogg",
+            "text": "You like my horn, too? Let me tell you about it! It was during a harsh, cold winter... Hey! Where are you going?"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_etti_jointeam_001.ogg",
+            "text": "I'll show you a good game."
+        }
+    ],
+    "noctivagation": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_etti_guiyeqilv_cacha_001.ogg",
+            "text": "As night falls, ghostly lanterns flicker to life. The ancient castle of the dragon will reopen its dusty gates, beckoning the chosen warriors with its secrets and treasures... Hehe, how's that? Immersive enough?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_guiyeqilv_levelup_001.ogg",
+            "text": "Gaze from the Devil takes effect, Luck +1!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_guiyeqilv_greeting_001.ogg",
+            "text": "The clock has struck midnight. No time to dawdle! Embark on a brand new adventure alongside the dark demon from the Land of Oblivion! Uh-huh, that means me, your guide!"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_etti_guiyeqilv_talk_001.ogg",
+            "text": "These pumpkins are too cute? Umm, maybe they do look a little... Hold on! The game we're playing today is horror themed! They are obviously appalling! How can they be cute!"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_etti_guiyeqilv_talk_002.ogg",
+            "text": "Hmm? Candy? D-don't think you can buy me off with a measly two pieces of candy! I'm a demon, and demons are meant to cause trouble! You know that, right?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_guiyeqilv_idle_001.ogg",
+            "text": "Dear traveler, please don't let your guard down. The rocky path is full of temptations and traps, and the red-winged demon will eventually reveal her dragon's claws and teeth."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_guiyeqilv_clicking_001.ogg",
+            "text": "Ahh! Don't pull my tail! Acting without permission is not allowed! Not even to your guide! ...What kind of punishment you'll face, you ask? Hmph, take... a... guess?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_guiyeqilv_specialattention_001.ogg",
+            "text": "What are you looking at me for? Hurry up! Huh? You're not really scared, are you? Relax, if you're in any danger, I'll make an exception and provide you with a little extra help... but don't tell anyone about this!"
+        }
+    ]
 }

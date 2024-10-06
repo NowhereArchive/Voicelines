@@ -1,124 +1,124 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_du_ruo_cacha_001.ogg",
-      "text": "Good to see you're well, Chief. Is bumping into you here a matter of destiny, coincidence... or a manipulated incident?"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_du_ruo_promotion_001.ogg",
-      "text": "How do you want me to repay you for helping me like this?"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_du_ruo_promotion2_001.ogg",
-      "text": "The bell tolls, playing the rites of the people, praising the voices of humanity... The so-called \"sacred sign\" has always existed between you and me."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_du_ruo_battlebegin_001.ogg",
-      "text": "Just at the right time."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_du_ruo_battlewin_001.ogg",
-      "text": "Thanks~"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_du_ruo_battlelose_001.ogg",
-      "text": "It seems that I, a mere scholar, can't stand up against the heavenly calamity anyways..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_du_ruo_uniqueskill_001.ogg",
-      "text": "The smoke has risen. Now, play your heart out."
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_du_ruo_dead_001.ogg",
-      "text": "Is this written in my fate... huh, how I hate it..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_du_ruo_greeting_001.ogg",
-      "text": "Got some good news, Chief. Want to hear it? I drew a fortune for you. You'll meet a very kind benefactor today... What are you looking for? Isn't it obvious that I'm right in front of you?"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_du_ruo_talk1_001.ogg",
-      "text": "Gods can't help you with your workload or relieve your stress, but maybe I can. Why don't you give it a try by asking nicely?"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_du_ruo_talk1_002.ogg",
-      "text": "Some people long for those bizarre and magical stories, and some fear those miracles beyond human power... So, which one are you, Chief?"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_du_ruo_talk1_003.ogg",
-      "text": "A good fragrance, a collection of thoughts, a heart that seeks the truth—that's all a mythologist needs."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_du_ruo_talk2_001.ogg",
-      "text": "If there really are gods and ghosts in the world, why hasn't anyone ever answer those pious wishes? But if they never existed... then where do people's prayers go..."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_du_ruo_talk2_002.ogg",
-      "text": "Did you see it? The sun rises and sets... the ordinary daily life that is yearned for by some is right here..."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_du_ruo_talk2_003.ogg",
-      "text": "I've told you so many legends now, it's only fair that I also hear some from you. But I don't like to share. I want stories you've never told anyone before, some secrets only known to the heavens, earth, you, and me."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_du_ruo_obeyfull_001.ogg",
-      "text": "You've given me truth, trust, strength, and a place to belong. I've really taken advantage of you. From now on, let me take my time to pay you back."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_du_ruo_idle_001.ogg",
-      "text": "Did you know, the Sun Crow can actually swim... Shh! This is a highly confidential heavenly secret. Don't let anyone hear it."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_du_ruo_clicking_001.ogg",
-      "text": "Stop messing around... My incense burner might just come alive and swallow you whole!"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_du_ruo_specialattention_001.ogg",
-      "text": "Legend has it that if you bow three times and kowtow nine times towards the direction of the sunset, a wish can be granted... Oh, you didn't fall for it?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_du_ruo_dispatch_001.ogg",
-      "text": "Such a bustling and glamorous foreign land. Aren't you afraid I might be tempted away by this dazzling world?"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_du_ruo_dispatch2_001.ogg",
-      "text": "I'm back empty handed... Just kidding, here you go~"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_du_ruo_levelup_002.ogg",
-      "text": "So this is the craftsmanship of the great DisCity?"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_du_ruo_head_001.ogg",
-      "text": "In my hometown, casually touching other people's heads could lead to... Nevermind, it's better if you don't know."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_du_ruo_jointeam_001.ogg",
-      "text": "Hmm... I must take this seriously now."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_du_ruo_cacha_001.ogg",
+            "text": "Good to see you're well, Chief. Is bumping into you here a matter of destiny, coincidence... or a manipulated incident?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_du_ruo_promotion_001.ogg",
+            "text": "How do you want me to repay you for helping me like this?"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_du_ruo_promotion2_001.ogg",
+            "text": "The bell tolls, playing the rites of the people, praising the voices of humanity... The so-called \"sacred sign\" has always existed between you and me."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_du_ruo_battlebegin_001.ogg",
+            "text": "Just at the right time."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_du_ruo_battlewin_001.ogg",
+            "text": "Thanks~"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_du_ruo_battlelose_001.ogg",
+            "text": "It seems that I, a mere scholar, can't stand up against the heavenly calamity anyways..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_du_ruo_uniqueskill_001.ogg",
+            "text": "The smoke has risen. Now, play your heart out."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_du_ruo_dead_001.ogg",
+            "text": "Is this written in my fate... huh, how I hate it..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_du_ruo_greeting_001.ogg",
+            "text": "Got some good news, Chief. Want to hear it? I drew a fortune for you. You'll meet a very kind benefactor today... What are you looking for? Isn't it obvious that I'm right in front of you?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_du_ruo_talk1_001.ogg",
+            "text": "Gods can't help you with your workload or relieve your stress, but maybe I can. Why don't you give it a try by asking nicely?"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_du_ruo_talk1_002.ogg",
+            "text": "Some people long for those bizarre and magical stories, and some fear those miracles beyond human power... So, which one are you, Chief?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_du_ruo_talk1_003.ogg",
+            "text": "A good fragrance, a collection of thoughts, a heart that seeks the truth—that's all a mythologist needs."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_du_ruo_talk2_001.ogg",
+            "text": "If there really are gods and ghosts in the world, why hasn't anyone ever answer those pious wishes? But if they never existed... then where do people's prayers go..."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_du_ruo_talk2_002.ogg",
+            "text": "Did you see it? The sun rises and sets... the ordinary daily life that is yearned for by some is right here..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_du_ruo_talk2_003.ogg",
+            "text": "I've told you so many legends now, it's only fair that I also hear some from you. But I don't like to share. I want stories you've never told anyone before, some secrets only known to the heavens, earth, you, and me."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_du_ruo_obeyfull_001.ogg",
+            "text": "You've given me truth, trust, strength, and a place to belong. I've really taken advantage of you. From now on, let me take my time to pay you back."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_du_ruo_idle_001.ogg",
+            "text": "Did you know, the Sun Crow can actually swim... Shh! This is a highly confidential heavenly secret. Don't let anyone hear it."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_du_ruo_clicking_001.ogg",
+            "text": "Stop messing around... My incense burner might just come alive and swallow you whole!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_du_ruo_specialattention_001.ogg",
+            "text": "Legend has it that if you bow three times and kowtow nine times towards the direction of the sunset, a wish can be granted... Oh, you didn't fall for it?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_du_ruo_dispatch_001.ogg",
+            "text": "Such a bustling and glamorous foreign land. Aren't you afraid I might be tempted away by this dazzling world?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_du_ruo_dispatch2_001.ogg",
+            "text": "I'm back empty handed... Just kidding, here you go~"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_du_ruo_levelup_002.ogg",
+            "text": "So this is the craftsmanship of the great DisCity?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_du_ruo_head_001.ogg",
+            "text": "In my hometown, casually touching other people's heads could lead to... Nevermind, it's better if you don't know."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_du_ruo_jointeam_001.ogg",
+            "text": "Hmm... I must take this seriously now."
+        }
+    ]
 }

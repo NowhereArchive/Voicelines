@@ -76,7 +76,7 @@
             "text": "地底の城？はは、きみってどうしていつもそんなものについてばかり聞くの？誰か見た人がいる？誰も見たことがないなら偽物ね。でないなら……入った人が、みんな生きて帰ってこられなかったということだわ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_bai_yi_obeyfull_001.ogg",
             "text": "努力するのは嫌いなの。でも、努力している人は好きよ。例えばK.K.、澈……そして、きみ。あたしを信じて。きみたちの努力は無駄にはならないわ——あたしが無駄にはさせない。"
         },
@@ -101,7 +101,7 @@
             "text": "あたしへの依頼ってこと？いつも通り、料金がかかるわよ〜。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_bai_yi_dispatch2_001.ogg",
             "text": "ふー、やっぱりK.K.に頼んでおけばよかったわ……"
         },
@@ -123,7 +123,7 @@
     ],
     "blade_of_night": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_bai_yi_yeyoushen_cacha_001.ogg",
             "text": "とうとう見つかっちゃったのね。驚かないで。シンジケートって、闇に潜む陰湿なネズミがいっぱいいるのよ。誰かが片づけないといけないから、成り行きであたしがやってるだけ。"
         },
@@ -175,7 +175,7 @@
     ],
     "wave_rider": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_bai_yi_langlibaitiao_cacha_001.ogg",
             "text": "本当に海に行ったことあるんだから。信じてよ。あの時は豪華なクルーザーを貸し切って、お宝をザクザク引き上げたわ……K.K.と澈が証人よ！"
         },

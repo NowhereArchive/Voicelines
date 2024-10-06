@@ -76,7 +76,7 @@
             "text": "か弱いつぼみが他人に潰されたら、その人間が誰だろうと、地獄に送り込むべきなのです。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_mr._fox_obeyfull_001.ogg",
             "text": "あなたはいずれ私に罰を与えるでしょう。そして私は、その罪状の前にひれ伏して、全てを受け入れるのです。"
         },
@@ -101,7 +101,7 @@
             "text": "外勤の場合は、1時間単位で料金を頂きます。相談料は別途となりますのでお気を付けください。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_mr._fox_dispatch2_001.ogg",
             "text": "仕事が完了しました。後で請求書をメールでお送りします。きちんとお支払いくださいね。"
         },
@@ -118,7 +118,7 @@
     ],
     "twilight_game": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_mr._fox_twilight_game_cacha_001.ogg",
             "text": "境界を越えて、私の宮殿へようこそ——親愛なる友人さん。"
         },

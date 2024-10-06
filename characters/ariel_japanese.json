@@ -76,7 +76,7 @@
             "text": "夜更かしは体に悪いですよ。お仕事はわたくしが代わりにやっておきますから。えっ……もしかして、わたくしが不甲斐ないせいで……あなたが残業することになったのでしょうか……？すみません！すべてわたくしが悪いのです！"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_ariel_obeyfull_001.ogg",
             "text": "今回の任務では、わたくしからあまり離れないでいてもらうことはできますでしょうか？……またはぐれたら、皆さんに笑われてしまいます……。"
         },
@@ -101,7 +101,7 @@
             "text": "今度こそうまくやります！"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_ariel_dispatch2_001.ogg",
             "text": "スペンサー家の顔に泥を塗らなかったでしょうか……？"
         },
@@ -123,7 +123,7 @@
     ],
     "silent_nocturne": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_ariel_jingmiyequ_cacha_001.ogg",
             "text": "本当にこのドレスを貰ってもいいのでしょうか？ふふ、ありがとうございます、局長様。お礼と言ってはなんですが……ピアノを弾いてもよろしいでしょうか？"
         },
@@ -175,7 +175,7 @@
     ],
     "cageling": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_ariel_longzhongniao_cacha_001.ogg",
             "text": "緑豊かな庭園、金色に輝くホール、そして……窮屈な部屋。ここはスペンサー家。わたくしが決して離れることのできない場所です……"
         },

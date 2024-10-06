@@ -1,124 +1,124 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_mantis_cacha_001.ogg",
-      "text": "You smell... unfamiliar, different from theirs... Stay calm, don't give in, I'll be right there to help you..."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_mantis_promotion_001.ogg",
-      "text": "You like it? This new, more powerful form of mine."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_mantis_promotion2_001.ogg",
-      "text": "There are limits to how much one can mutate... I did it! I must jot this down..."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_mantis_battlebegin_001.ogg",
-      "text": "Poor little thing ... Rest in peace..."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_mantis_battlewin_001.ogg",
-      "text": "It's just the natural order, the strong prey on the weak."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_mantis_battlelose_001.ogg",
-      "text": "Don't beat yourself up... Sometimes, running away is also an excellent survival strategy."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_mantis_uniqueskill_001.ogg",
-      "text": "I caught you!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_mantis_dead_001.ogg",
-      "text": "Ah!"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_mantis_greeting_001.ogg",
-      "text": "A familiar scent... I knew it was you! I've been longing for your return... Can you take me away from this place? I hate being caged here..."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_mantis_talk1_001.ogg",
-      "text": "But... what you're doing is meaningless... With this Chitin exterior... I can't feel your patting..."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_mantis_talk1_002.ogg",
-      "text": "You seem to work so hard... Here, try this. It's good, tastes like... chicken. It can provide you with proteins and fats."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_mantis_talk1_003.ogg",
-      "text": "You smell... so good... Can I get a bit closer to you?"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_mantis_talk2_001.ogg",
-      "text": "I never wanted to eat it... eat them... I was just... too hungry..."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_mantis_talk2_002.ogg",
-      "text": "All anomalies... stem from humanity... from within our very souls... They aren't monsters... They're fragments of who we are..."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_mantis_talk2_003.ogg",
-      "text": "Fear not... If you ever lose your way or encounter danger, I promise, I'll be right there for you... I never leave my companions behind, I swear..."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_mantis_obeyfull_001.ogg",
-      "text": "I thought I was here to rescue you, but it was you... who saved me. I'm sorry for being such a burden and causing so much chaos... Thank you..."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_mantis_idle_001.ogg",
-      "text": "Did you manage to light up our friends day?... Have you done your share of job?... Were you... able to rescue them?"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_mantis_clicking_001.ogg",
-      "text": "Hmm? ...Is this the courtship ritual of some animal?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_mantis_specialattention_001.ogg",
-      "text": "You don't have to come and find me... I remember your scent. I can track you down myself."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_mantis_dispatch_001.ogg",
-      "text": "What can I... do for you?"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_mantis_dispatch2_001.ogg",
-      "text": "This adventure has brought so many new discoveries."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_mantis_levelup_002.ogg",
-      "text": "Must... adjust to the changing environment."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_mantis_head_001.ogg",
-      "text": "But... what you're doing is meaningless... With this Chitin exterior... I can't feel your patting..."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_mantis_jointeam_001.ogg",
-      "text": "Looks like... someone's about to be preyed on..."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mantis_cacha_001.ogg",
+            "text": "You smell... unfamiliar, different from theirs... Stay calm, don't give in, I'll be right there to help you..."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_mantis_promotion_001.ogg",
+            "text": "You like it? This new, more powerful form of mine."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_mantis_promotion2_001.ogg",
+            "text": "There are limits to how much one can mutate... I did it! I must jot this down..."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_mantis_battlebegin_001.ogg",
+            "text": "Poor little thing ... Rest in peace..."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_mantis_battlewin_001.ogg",
+            "text": "It's just the natural order, the strong prey on the weak."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_mantis_battlelose_001.ogg",
+            "text": "Don't beat yourself up... Sometimes, running away is also an excellent survival strategy."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_mantis_uniqueskill_001.ogg",
+            "text": "I caught you!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_mantis_dead_001.ogg",
+            "text": "Ah!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mantis_greeting_001.ogg",
+            "text": "A familiar scent... I knew it was you! I've been longing for your return... Can you take me away from this place? I hate being caged here..."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_mantis_talk1_001.ogg",
+            "text": "But... what you're doing is meaningless... With this Chitin exterior... I can't feel your patting..."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_mantis_talk1_002.ogg",
+            "text": "You seem to work so hard... Here, try this. It's good, tastes like... chicken. It can provide you with proteins and fats."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_mantis_talk1_003.ogg",
+            "text": "You smell... so good... Can I get a bit closer to you?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_mantis_talk2_001.ogg",
+            "text": "I never wanted to eat it... eat them... I was just... too hungry..."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_mantis_talk2_002.ogg",
+            "text": "All anomalies... stem from humanity... from within our very souls... They aren't monsters... They're fragments of who we are..."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_mantis_talk2_003.ogg",
+            "text": "Fear not... If you ever lose your way or encounter danger, I promise, I'll be right there for you... I never leave my companions behind, I swear..."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_mantis_obeyfull_001.ogg",
+            "text": "I thought I was here to rescue you, but it was you... who saved me. I'm sorry for being such a burden and causing so much chaos... Thank you..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mantis_idle_001.ogg",
+            "text": "Did you manage to light up our friends day?... Have you done your share of job?... Were you... able to rescue them?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mantis_clicking_001.ogg",
+            "text": "Hmm? ...Is this the courtship ritual of some animal?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mantis_specialattention_001.ogg",
+            "text": "You don't have to come and find me... I remember your scent. I can track you down myself."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_mantis_dispatch_001.ogg",
+            "text": "What can I... do for you?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_mantis_dispatch2_001.ogg",
+            "text": "This adventure has brought so many new discoveries."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mantis_levelup_002.ogg",
+            "text": "Must... adjust to the changing environment."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_mantis_head_001.ogg",
+            "text": "But... what you're doing is meaningless... With this Chitin exterior... I can't feel your patting..."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_mantis_jointeam_001.ogg",
+            "text": "Looks like... someone's about to be preyed on..."
+        }
+    ]
 }

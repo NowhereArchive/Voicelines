@@ -76,7 +76,7 @@
             "text": "ここに囚われてはいるが……案外自由がきくものだ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_tetra_obeyfull_001.ogg",
             "text": "私はこの世でもっとも貴重なものを手に入れた。いっそ……今、君の目の前で足を洗うのはどうだろう？"
         },
@@ -101,7 +101,7 @@
             "text": "その任務は完璧に遂行できるが……実際に引き受けるかどうかは、まだ決めていないぞ。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_tetra_dispatch2_001.ogg",
             "text": "土産だ。どうした？盗んだものでは、土産にならないか？"
         },
@@ -118,7 +118,7 @@
     ],
     "edge_of_nightfall": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_tetra_yemubianyuan_cacha_001.ogg",
             "text": "何をぽかんとしているんだ？ 今すぐ追いかければ、あの怪盗ウサギさんに盗まれた宝を取り戻すチャンスがあるぞ。"
         },

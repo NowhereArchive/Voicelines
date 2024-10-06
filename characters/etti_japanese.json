@@ -76,7 +76,7 @@
             "text": "折れたドラゴン殺しの槍だとしても、握っていれば正義の代表者になる。じゃあ……この悪のドラゴンに……アタシに何をするつもり？"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_etti_obeyfull_001.ogg",
             "text": "アタシは暗くて刺激的な想像に夢中になっているけど、そこの冷たさと孤独に怯えてもいる……アタシを負かしてくれてありがとう。そばにいてくれて……ありがとう。"
         },
@@ -101,7 +101,7 @@
             "text": "遠足チーム出発～"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_etti_dispatch2_001.ogg",
             "text": "アイテム、たくさんゲットしたわ～。開けて中を見たくない？アタシがいるから、何も起きないって～"
         },
@@ -123,7 +123,7 @@
     ],
     "noctivagation": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_etti_guiyeqilv_cacha_001.ogg",
             "text": "夜のとばりが下り、ほのかに明かりが灯る。巨竜の城もその埃にまみれた門を再び開き、秘密と財宝を携え、恐れを知らぬ選ばれし勇者たちを迎える……どう？没入感はバッチリよね？"
         },

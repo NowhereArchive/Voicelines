@@ -1,119 +1,119 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_joan_cacha_001.ogg",
-      "text": "Hmph. Finally found me. It's fine. As long as the guitar is still here, anywhere will do."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_joan_promotion_001.ogg",
-      "text": "Yes, that's it! Quick, give me a paper and pen! A new tune came to me, I need to jot it down!"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_joan_promotion2_001.ogg",
-      "text": "I can wow the audience even with a harp."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_joan_battlebegin_001.ogg",
-      "text": "Go, Krist."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_joan_battlewin_001.ogg",
-      "text": "Done!"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_joan_battlelose_001.ogg",
-      "text": "What a **** performance!"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_joan_uniqueskill_001.ogg",
-      "text": "Solo time!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_joan_dead_001.ogg",
-      "text": "Can't even... get into... a 27-year-old club... hahaha..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_joan_greeting_001.ogg",
-      "text": "Good timing. Let me hear your demo."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_joan_talk1_001.ogg",
-      "text": "As long as I'm still alive, those records companies can fuck off. No way in hell would I let them steal Anavrin's songs."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_joan_talk1_002.ogg",
-      "text": "My favorite food? Coffee with milk, and strawberry cake... what did you expect? You thought I could live on alcohol alone?"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_joan_talk1_003.ogg",
-      "text": "My dad always used to say that God blessed me with musical talent so I wouldn't take the wrong path... Haha, pity I don't believe in God, nor did I choose the right path."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_joan_talk2_001.ogg",
-      "text": "Back then, our lead singer would always holler about burning this city to ashes. Ironically, he became the first of the bunch to burn to ashes."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_joan_talk2_002.ogg",
-      "text": "Maybe because it happened so long ago, but I don't hate her so much anymore. As long as she stops plotting against Anavrin, she can do whatever she wants. I won't stop her anymore."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_joan_talk2_003.ogg",
-      "text": "When this is all over... If that day comes, I want to keep on performing. Of course, I'll leave you a front row seat. Don't you dare not show up."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_joan_obeyfull_001.ogg",
-      "text": "In the past few years, all I had was this guitar. Now... I don't want to sound corny, but thank you for being by my side."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_joan_idle_001.ogg",
-      "text": "But I'm a creep, I'm a weirdo. What the hell am I doing here? I don't belong here."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_joan_clicking_001.ogg",
-      "text": "Get lost!"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_joan_specialattention_001.ogg",
-      "text": "Of course I care about the audience, but don't wag your finger at me and bullshit before the song is even finished. Got it?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_joan_dispatch_001.ogg",
-      "text": "Perfect! I can meet some old friends on the way."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_joan_dispatch2_001.ogg",
-      "text": "Come as you are, as you were, as I want you to be."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_joan_levelup_002.ogg",
-      "text": "New riff, not bad."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_joan_jointeam_001.ogg",
-      "text": "Bass drummer get ready! The performance is about to start."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_joan_cacha_001.ogg",
+            "text": "Hmph. Finally found me. It's fine. As long as the guitar is still here, anywhere will do."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_joan_promotion_001.ogg",
+            "text": "Yes, that's it! Quick, give me a paper and pen! A new tune came to me, I need to jot it down!"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_joan_promotion2_001.ogg",
+            "text": "I can wow the audience even with a harp."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_joan_battlebegin_001.ogg",
+            "text": "Go, Krist."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_joan_battlewin_001.ogg",
+            "text": "Done!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_joan_battlelose_001.ogg",
+            "text": "What a **** performance!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_joan_uniqueskill_001.ogg",
+            "text": "Solo time!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_joan_dead_001.ogg",
+            "text": "Can't even... get into... a 27-year-old club... hahaha..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_joan_greeting_001.ogg",
+            "text": "Good timing. Let me hear your demo."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_joan_talk1_001.ogg",
+            "text": "As long as I'm still alive, those records companies can fuck off. No way in hell would I let them steal Anavrin's songs."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_joan_talk1_002.ogg",
+            "text": "My favorite food? Coffee with milk, and strawberry cake... what did you expect? You thought I could live on alcohol alone?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_joan_talk1_003.ogg",
+            "text": "My dad always used to say that God blessed me with musical talent so I wouldn't take the wrong path... Haha, pity I don't believe in God, nor did I choose the right path."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_joan_talk2_001.ogg",
+            "text": "Back then, our lead singer would always holler about burning this city to ashes. Ironically, he became the first of the bunch to burn to ashes."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_joan_talk2_002.ogg",
+            "text": "Maybe because it happened so long ago, but I don't hate her so much anymore. As long as she stops plotting against Anavrin, she can do whatever she wants. I won't stop her anymore."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_joan_talk2_003.ogg",
+            "text": "When this is all over... If that day comes, I want to keep on performing. Of course, I'll leave you a front row seat. Don't you dare not show up."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_joan_obeyfull_001.ogg",
+            "text": "In the past few years, all I had was this guitar. Now... I don't want to sound corny, but thank you for being by my side."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_joan_idle_001.ogg",
+            "text": "But I'm a creep, I'm a weirdo. What the hell am I doing here? I don't belong here."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_joan_clicking_001.ogg",
+            "text": "Get lost!"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_joan_specialattention_001.ogg",
+            "text": "Of course I care about the audience, but don't wag your finger at me and bullshit before the song is even finished. Got it?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_joan_dispatch_001.ogg",
+            "text": "Perfect! I can meet some old friends on the way."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_joan_dispatch2_001.ogg",
+            "text": "Come as you are, as you were, as I want you to be."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_joan_levelup_002.ogg",
+            "text": "New riff, not bad."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_joan_jointeam_001.ogg",
+            "text": "Bass drummer get ready! The performance is about to start."
+        }
+    ]
 }

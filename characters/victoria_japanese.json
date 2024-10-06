@@ -76,7 +76,7 @@
             "text": "「死」というのは、別の世界に行ってしまうことなの？長い長い夢を見ているだけじゃなくて？もしかすると……わたしと局長はもう夢の中にいるのかもしれないわ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_victoria_obeyfull_001.ogg",
             "text": "管理局にはパパやママが傍にいない人ばっかりだけど、みんな寂しくなさそう。それって局長の付き添いがあるからなの？じゃあ……わたしも同じように、局長に頼ってもいいかな？"
         },
@@ -101,7 +101,7 @@
             "text": "行かなくても……いい？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_victoria_dispatch2_001.ogg",
             "text": "ハァ……ハァ……外の世界って、危ないのね……。"
         },
@@ -118,7 +118,7 @@
     ],
     "good_morning__medison": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_victoria_zaoan_cacha_001.ogg",
             "text": "あれ？……おはよう、局長。ここに他の人が来るなんて初めて……わたしと一緒に、この綺麗で安全な場所にいよう？"
         },
@@ -160,7 +160,7 @@
     ],
     "cocooned_serenade": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_victoria_jianzhongge_cacha_001.ogg",
             "text": "あなたのこと、受け継いだ記憶に記録されてたよ……「人間」なの？……わたしよりもっと弱くて、疲れてるように見えるけど、あなたもわたしの「繭」で眠りたい？"
         },

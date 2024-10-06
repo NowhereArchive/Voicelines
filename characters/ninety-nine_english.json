@@ -1,171 +1,166 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_ninety-nine_cacha_001.ogg",
-      "text": "You... are the one who imprisoned us. I remember your scent... I'll spot you wherever you are."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_ninety-nine_promotion_001.ogg",
-      "text": "Be honest, do you want me, or a beast?"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_ninety-nine_promotion2_001.ogg",
-      "text": "Now that you've granted me power, don't let me loose again—one moment will be too much."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_ninety-nine_battlebegin_001.ogg",
-      "text": "Get ready. There will be blood."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_ninety-nine_battlewin_001.ogg",
-      "text": "Too soon, you scum, you gave up too soon!"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_ninety-nine_battlelose_001.ogg",
-      "text": "Let me go. It's not over yet! Let go!"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_ninety-nine_uniqueskill_001.ogg",
-      "text": "Ah!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_ninety-nine_dead_001.ogg",
-      "text": "Am I... finally free?"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_ninety-nine_greeting_001.ogg",
-      "text": "I knew it was you. I recognize your footsteps."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_ninety-nine_talk1_001.ogg",
-      "text": "They wanted my arms, wanted my blood, wanted me to tear everything down. They wanted to create a monster, and I was <i>the masterpiece.</i>"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_ninety-nine_talk1_002.ogg",
-      "text": "My blade has sliced many. Among them, Hella is not the strongest, but she's the toughest."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_ninety-nine_talk1_003.ogg",
-      "text": "In that blood-boiling moment, the body acts on instinct. Don't think, forget whoever you've torn apart."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_ninety-nine_talk2_001.ogg",
-      "text": "Chains? They're nothing. I'm used to them. Also, I can get rid of them anytime I want."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_ninety-nine_talk2_002.ogg",
-      "text": "I don't care how others call me. But I do like Ninety-Nine... It's the first name I've ever been given."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_ninety-nine_talk2_003.ogg",
-      "text": "I don't remember much about Parma. Only Hella's voice in the dark. She kept talking to me, telling me about Syndicate, what's above the ground, people. She said she'd take me with her."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_ninety-nine_obeyfull_001.ogg",
-      "text": "You're the second person I've wanted to kill but couldn't. From now on, I'll keep on fighting for you, until the day I die."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_ninety-nine_idle_001.ogg",
-      "text": "...I'm hungry."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_ninety-nine_clicking_001.ogg",
-      "text": "What... Do you want a fight?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_ninety-nine_specialattention_001.ogg",
-      "text": "Yeah, keep an eye on me, like how I'm watching you."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_ninety-nine_dispatch_001.ogg",
-      "text": "I'll... do my best."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_ninety-nine_dispatch2_001.ogg",
-      "text": "It's done, as you've instructed."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_ninety-nine_levelup_002.ogg",
-      "text": "Interesting."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_ninety-nine_head_001.ogg",
-      "text": "Are you... trying to comfort me?"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_ninety-nine_jointeam_001.ogg",
-      "text": "I can feel my blood boiling."
-    }
-  ],
-  "chaotic_restraint": [
-    {
-      "title": "No",
-      "filename": "File:unknown.ogg",
-      "text": "2"
-    },
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_cacha_001.ogg",
-      "text": "I'm... Parma's living weapon, Ninety-Nine. Fight... Give me orders, I only need to fight..."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_levelup_001.ogg",
-      "text": "I'm stronger now... I'll give them a quick death."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_greeting_001.ogg",
-      "text": "You're here... When does the next fight start?"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_talk_001.ogg",
-      "text": "Fight, fight endlessly, until one side falls..."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_talk_002.ogg",
-      "text": "Pain distracts you, so if you want to survive, you must get used to pain."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_idle_001.ogg",
-      "text": "You seem to be here all the time. What's your purpose?"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_clicking_001.ogg",
-      "text": "Grrr... Grrr..."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_ninety-nine_chaotic_restraint_specialattention_001.ogg",
-      "text": "If it's not for a fight, what are you here for? Am I useful in other ways?"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_ninety-nine_cacha_001.ogg",
+            "text": "You... are the one who imprisoned us. I remember your scent... I'll spot you wherever you are."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_ninety-nine_promotion_001.ogg",
+            "text": "Be honest, do you want me, or a beast?"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_ninety-nine_promotion2_001.ogg",
+            "text": "Now that you've granted me power, don't let me loose again—one moment will be too much."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_ninety-nine_battlebegin_001.ogg",
+            "text": "Get ready. There will be blood."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_ninety-nine_battlewin_001.ogg",
+            "text": "Too soon, you scum, you gave up too soon!"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_ninety-nine_battlelose_001.ogg",
+            "text": "Let me go. It's not over yet! Let go!"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_ninety-nine_uniqueskill_001.ogg",
+            "text": "Ah!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_ninety-nine_dead_001.ogg",
+            "text": "Am I... finally free?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ninety-nine_greeting_001.ogg",
+            "text": "I knew it was you. I recognize your footsteps."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_ninety-nine_talk1_001.ogg",
+            "text": "They wanted my arms, wanted my blood, wanted me to tear everything down. They wanted to create a monster, and I was <i>the masterpiece.</i>"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_ninety-nine_talk1_002.ogg",
+            "text": "My blade has sliced many. Among them, Hella is not the strongest, but she's the toughest."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_ninety-nine_talk1_003.ogg",
+            "text": "In that blood-boiling moment, the body acts on instinct. Don't think, forget whoever you've torn apart."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_ninety-nine_talk2_001.ogg",
+            "text": "Chains? They're nothing. I'm used to them. Also, I can get rid of them anytime I want."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_ninety-nine_talk2_002.ogg",
+            "text": "I don't care how others call me. But I do like Ninety-Nine... It's the first name I've ever been given."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_ninety-nine_talk2_003.ogg",
+            "text": "I don't remember much about Parma. Only Hella's voice in the dark. She kept talking to me, telling me about Syndicate, what's above the ground, people. She said she'd take me with her."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_ninety-nine_obeyfull_001.ogg",
+            "text": "You're the second person I've wanted to kill but couldn't. From now on, I'll keep on fighting for you, until the day I die."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ninety-nine_idle_001.ogg",
+            "text": "...I'm hungry."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_ninety-nine_clicking_001.ogg",
+            "text": "What... Do you want a fight?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ninety-nine_specialattention_001.ogg",
+            "text": "Yeah, keep an eye on me, like how I'm watching you."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_ninety-nine_dispatch_001.ogg",
+            "text": "I'll... do my best."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_ninety-nine_dispatch2_001.ogg",
+            "text": "It's done, as you've instructed."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ninety-nine_levelup_002.ogg",
+            "text": "Interesting."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_ninety-nine_head_001.ogg",
+            "text": "Are you... trying to comfort me?"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_ninety-nine_jointeam_001.ogg",
+            "text": "I can feel my blood boiling."
+        }
+    ],
+    "chaotic_restraint": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_cacha_001.ogg",
+            "text": "I'm... Parma's living weapon, Ninety-Nine. Fight... Give me orders, I only need to fight..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_levelup_001.ogg",
+            "text": "I'm stronger now... I'll give them a quick death."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_greeting_001.ogg",
+            "text": "You're here... When does the next fight start?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_talk_001.ogg",
+            "text": "Fight, fight endlessly, until one side falls..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_talk_002.ogg",
+            "text": "Pain distracts you, so if you want to survive, you must get used to pain."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_idle_001.ogg",
+            "text": "You seem to be here all the time. What's your purpose?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_clicking_001.ogg",
+            "text": "Grrr... Grrr..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_ninety-nine_chaotic_restraint_specialattention_001.ogg",
+            "text": "If it's not for a fight, what are you here for? Am I useful in other ways?"
+        }
+    ]
 }

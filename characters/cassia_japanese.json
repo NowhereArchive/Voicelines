@@ -76,7 +76,7 @@
             "text": "基本的に、最上級の香料の特徴は美しさなの。だから私は、いつも美しい皮を持った人に好んで近づくわ。けれど時々、条件とは関係のないサプライズもあるの。例えばあなたは……人を狂わせるような香りがするのよ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_cassia_obeyfull_001.ogg",
             "text": "あなたをどんな香水にするかは、もう決めてあるわ……軽く、透明で、絹のような温かみの後に……凛々しいラストノートが主張する。そうした特別な香りは、きっと悪夢や恐怖を全て吹き飛ばしてくれるはずよ……あなたの香りを永遠に身にまとうことができたら、私の心も完全な安らぎを得られるかもしれないわ。"
         },
@@ -101,7 +101,7 @@
             "text": "行くのはいいけれど……臭い場所には派遣しないで。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_cassia_dispatch2_001.ogg",
             "text": "もし「香料」を持ち帰ったと言ったら、運ぶのを手伝ってくれるかしら？"
         },
@@ -118,7 +118,7 @@
     ],
     "aromas_in_bloom": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_cassia_xinyuanqiluo_cacha_001.ogg",
             "text": "独特な香りがするわ……爽やかで、暖かくて、ほのかな冷たさが混じっている……私が望む花が、この庭にやって来たのかしら？"
         },

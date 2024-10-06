@@ -76,7 +76,7 @@
             "text": "「周りと違う」というのはとても恐ろしいことです……周りが甘いと思うものは甘く、酸っぱいと思うものは酸っぱい……違うことを言うと、私は「変わり者」扱いされてしまいますから……。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_kelvin_obeyfull_001.ogg",
             "text": "局長には本当に感謝しています。だって局長は私に居場所を与えてくれて、作りたい料理を作らせてくれて、それに話しかけてもくれます。私、何を話してもつまらないから皆さんを困らせてしまって……これからは局長の言うことにはすべて従うと約束します！"
         },
@@ -101,7 +101,7 @@
             "text": "あの……帰り道に少しだけ、食材を買ってきてもいいでしょうか？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_kelvin_dispatch2_001.ogg",
             "text": "すみません、局長。熱中症に……なってしまったみたいで……。"
         },
@@ -118,7 +118,7 @@
     ],
     "chilling_hideaway": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_kelvin_bishushengdi_cacha_001.ogg",
             "text": "ふぅ……涼しい——えっ！きょきょ局長！い……いつからそこにいたんですか！？ご、ごめんなさい！しばらく、ここにいてもいいですか？……冷蔵庫は後で必ず片付けますから！"
         },

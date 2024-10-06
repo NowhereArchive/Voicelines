@@ -76,7 +76,7 @@
             "text": "しー！静かに！弓の練習してるところなんだ！あっ……いつか絶対能力を使わなくても目標に命中させてやる！"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_emp_obeyfull_001.ogg",
             "text": "実は……その、EMPの前の名前なんだけど、Emy.Panって言うんだよな……ああ、なんでもない。その……お会いできて良かったです、局長。"
         },
@@ -101,7 +101,7 @@
             "text": "このEMPは自意識過剰なやつを否定してやることを楽しみの一つとしている……いやいや、冗談だよ冗談。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_emp_dispatch2_001.ogg",
             "text": "EMP、堂々帰還！"
         },
@@ -118,12 +118,7 @@
     ],
     "backstreet_overlord": [
         {
-            "title": "No",
-            "filename": "File:unknown.ogg",
-            "text": "2"
-        },
-        {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_emp_backstreet_overlord_cacha_001.ogg",
             "text": "暗黒街の無冠の王に会った最初の反応が、「逃げる」ではなく「近づいてくる」人間はなかなかいない。このEMP、お前を気に入った。名を名乗れ。"
         },
@@ -165,7 +160,7 @@
     ],
     "hail_from_the_otaku_world": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_emp_qihangerciyuan_cacha_001.ogg",
             "text": "汝、我の秘密を知ったからには、永遠に我と共にここに居よ……おい、何ぼーっとしてんだよ。ここは「魔王よ、夢を見るのはやめろ！たとえ心臓を捧げることになっても、お前の思い通りにはさせないぞ！」って言うところだろ～"
         },

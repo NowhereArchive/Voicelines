@@ -76,7 +76,7 @@
             "text": "できることならば……そなたの恐怖に歪んだ顔を額に納め、わらわだけのものにしたいのう……くくっ、怖がるでない。冗談じゃ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_enfer_obeyfull_001.ogg",
             "text": "暗闇の魔女と呼ぶからには、わらわに心を覗かれる覚悟はできておろうな？そなたの心から、躍動する生命が見えておる。それが芽吹き、成長し、いずれ美麗な愛の花を咲かせるのであろうな……"
         },
@@ -101,7 +101,7 @@
             "text": "素材集めじゃと？夕方には戻れるのであろうな？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_enfer_dispatch2_001.ogg",
             "text": "素材集め完了じゃ。さて、魔女の夜の始まりじゃの。"
         },
@@ -123,7 +123,7 @@
     ],
     "sculptor_s_nest": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_enfer_zankezhezhichao_cacha_001.ogg",
             "text": "わらわが最も秘する心の部屋——彫刻家の巣へようこそ。ここに隠されておるのは、恐怖と葛藤、歪みと苦痛……そして尽きることのない愛じゃ。"
         },
@@ -175,7 +175,7 @@
     ],
     "virtuoso_of_jade": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_enfer_puyuzhuozhuo_cacha_001.ogg",
             "text": "玉は煙を生ずほど、麗しく透き通っておる。そなたの全ての感情や思考が玉彫にはっきり現れておるぞ。若き玉彫職人よ、わらわの元へ来て何を求めるのじゃ？"
         },

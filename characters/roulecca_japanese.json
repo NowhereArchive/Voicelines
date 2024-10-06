@@ -76,7 +76,7 @@
             "text": "ルリはあんたにありったけのお金を賭けてるんだから、勝手に命を落としちゃダメ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_roulecca_obeyfull_001.ogg",
             "text": "また四つ葉のクローバー見つけちゃった！ふふ、局長ほど運が悪いと、きっと一生に1本だって見つけられないよね。いいや……これはあげる。その代わり、もう少しルリと遊んでね。"
         },
@@ -101,7 +101,7 @@
             "text": "しゅっぱ～つ！"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_roulecca_dispatch2_001.ogg",
             "text": "ルリが帰ってきたよ！今回は走り回ってないもん。"
         },
@@ -123,7 +123,7 @@
     ],
     "seaside_dessert_stand": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_roulecca_seaside_dessert_stand_cacha_001.ogg",
             "text": "バンバンバン——！へへっ、びっくりした？これは水鉄砲だよ、局長！早くルリと一緒に遊ぼうよ！"
         },
@@ -165,7 +165,7 @@
     ],
     "puerile_maniac": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_roulecca_puerile_maniac_cacha_001.ogg",
             "text": "今朝、変なケーキを食べたらこうなっちゃったんだ。えーっと……夏音おねえちゃんがテーブルに置いたらしいんだけど、美味しそうだったから……ルリ、我慢できなくて……えへへ……"
         },

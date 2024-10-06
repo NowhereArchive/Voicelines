@@ -76,7 +76,7 @@
             "text": "あなたが笑うところを見るの、好きよ。私のことで喜んでくれているなら、なおいいわぁ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_serpent_obeyfull_001.ogg",
             "text": "抱きしめてくれない？あなたの温度が、春を、目覚める時を、蘇生の季節を思い出させてくれるの……私たち二人の心臓の鼓動が聞こえるわぁ。"
         },
@@ -101,7 +101,7 @@
             "text": "これであなたの機嫌を取れるなら～"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_serpent_dispatch2_001.ogg",
             "text": "今回の演出、満足してくれたかしら？"
         },
@@ -123,7 +123,7 @@
     ],
     "awake_from_slumber": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_serpent_awake_from_slumber_cacha_001.ogg",
             "text": "長い夢を見たの。幸せを追い求める夢よ。生まれ……変わる夢。"
         },

@@ -76,7 +76,7 @@
             "text": "これまでにここまで長時間、誰か一人を守ったことはありませんでした。まるで局長専属のボディーガードみたいですね。ふふ……こういう仕事も好きですよ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_cinnabar_obeyfull_001.ogg",
             "text": "スネークアイを出てから、背中を預けられるような戦友に出会えたのは久しぶりのことです……局長と一緒に戦うことができて、光栄です。"
         },
@@ -101,7 +101,7 @@
             "text": "わかりました。できるだけ早く任務を遂行します。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_cinnabar_dispatch2_001.ogg",
             "text": "任務完了です。必要な時はいつでもお呼びください。"
         },
@@ -118,7 +118,7 @@
     ],
     "special_escort": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_cinnabar_texuhuwei_cacha_001.ogg",
             "text": "錆の川の護衛任務に参加できて光栄です。もっと局長と一緒に過ごしたいと思っていたので……す、すみません……嬉しいと伝えたかっただけです。"
         },
@@ -160,7 +160,7 @@
     ],
     "courteous_call": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_cinnabar_qianhouzhiyi_cacha_001.ogg",
             "text": "馬に乗るなんて大袈裟ですが、フェイさんが特別に用意してくれたんです。「管理局のメンツのため」だと……その好意を無にするわけにはいきません。"
         },

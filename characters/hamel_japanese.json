@@ -76,7 +76,7 @@
             "text": "凶暴な獣は人の愛し方を知りません。ですから……絶対にそうはならないでください。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_hamel_obeyfull_001.ogg",
             "text": "ダンスを通してしか伝えられない感情もあります。さあ、手を貸してください。わたしのペースに合わせて……局長、あなたには……感じられますか？"
         },
@@ -101,7 +101,7 @@
             "text": "風の音は……まるで自然が贈る舞曲のようですね。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_hamel_dispatch2_001.ogg",
             "text": "ただいま戻りました。……いい経験ができました。"
         },
@@ -123,7 +123,7 @@
     ],
     "joyful_tune": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_hamel_joyful_tune_cacha_001.ogg",
             "text": "揺れる鈴の音、重く響く太鼓のリズム……さあ、共に踊りましょう。この雪夜の下で！"
         },
@@ -175,7 +175,7 @@
     ],
     "odile": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_hamel_aojiliya_cacha_001.ogg",
             "text": "苦痛でありながら優雅。それぞれの羽には物語があります。これはあなたのためのダンス。あなただけのためのダンスです——"
         },

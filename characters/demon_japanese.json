@@ -76,7 +76,7 @@
             "text": "きみと一緒に戦うことは、俺の人生において間違っていない唯一の選択なのかもしれない。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_demon_obeyfull_001.ogg",
             "text": "友と呼べる者は、もういない。きみは……長生きしろ。俺より先に死ぬな。"
         },
@@ -101,7 +101,7 @@
             "text": "任務は了解した。今は作戦を立てているところだ。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_demon_dispatch2_001.ogg",
             "text": "任務完了。報告書は提出済みだ。"
         },
@@ -123,7 +123,7 @@
     ],
     "under_the_neon_lights": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_demon_nihongzhixia_cacha_001.ogg",
             "text": "ここでいつまで待てばいい？「まだ返答がない」だと？はぁ、分かった……緊急事態となれば、どんな命令でも出してくれて構わない。"
         },

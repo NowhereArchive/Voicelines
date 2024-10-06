@@ -1,119 +1,119 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_dolly_cacha_001.ogg",
-      "text": "You caught me again! Fine then. I'll keep hitting the Corruptors' heads like baseballs. After all, they were the ones who made me like this."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_dolly_promotion_001.ogg",
-      "text": "Such strong power... if only I could control it."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_dolly_promotion2_001.ogg",
-      "text": "I've become this strong already? If only I were as strong when I was back on the Eastside baseball fields."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_dolly_battlebegin_001.ogg",
-      "text": "Oh... is this area considered out?"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_dolly_battlewin_001.ogg",
-      "text": "Easier than a bunt."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_dolly_battlelose_001.ogg",
-      "text": "Despicable! A bunt..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_dolly_uniqueskill_001.ogg",
-      "text": "Home run!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_dolly_dead_001.ogg",
-      "text": "What does it even matter... if I'm stronger?! Arghh!"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_dolly_greeting_001.ogg",
-      "text": "When will it be my turn to play?"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_dolly_talk1_001.ogg",
-      "text": "Prepare some extra baseball bats. The ones from the purchasing office aren't enough. They won't survive a single battle."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_dolly_talk1_002.ogg",
-      "text": "Hey, isn't this my fake Eastside identity from way back? Cough... back then, I had to get it to compete in a game."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_dolly_talk1_003.ogg",
-      "text": "It's hard for me to control my emotions. If you find me in unusually high or low spirits, be sure to steer clear. Don't blame me for not warning you if you get beaten to a pulp."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_dolly_talk2_001.ogg",
-      "text": "Isn't the sound of batting a baseball music to the ears? Right? I fell in love with baseball the moment I heard that!"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_dolly_talk2_002.ogg",
-      "text": "Can I skip the mission in Eastside? It's not that I'm scared, I just don't like that place... Of course, if we can watch an Eastside Baseball League game afterwards, you can ignore what I just said."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_dolly_talk2_003.ogg",
-      "text": "There's a Syndicate baseball game tomorrow, do you want to watch the live stream together? If you don't understand baseball, I can be your commentator."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_dolly_obeyfull_001.ogg",
-      "text": "If possible, I really want to challenge the stronger teams... with you here, I think I can control my power. Hey, how about we try it sometime on the baseball field?"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_dolly_idle_001.ogg",
-      "text": "Ah... can you ask the purchasing office to bring me some posters for this baseball tournament? No, I don't play... but I can collect just the same!"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_dolly_clicking_001.ogg",
-      "text": "Hey! Didn't we agree to keep some distance?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_dolly_specialattention_001.ogg",
-      "text": "Good eye! Just like a focused baseball champ."
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_dolly_dispatch_001.ogg",
-      "text": "Start running to the next base!"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_dolly_dispatch2_001.ogg",
-      "text": "Safe!"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_dolly_levelup_002.ogg",
-      "text": "... I'm strong enough already."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_dolly_jointeam_001.ogg",
-      "text": "Prepare to bat."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_dolly_cacha_001.ogg",
+            "text": "You caught me again! Fine then. I'll keep hitting the Corruptors' heads like baseballs. After all, they were the ones who made me like this."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_dolly_promotion_001.ogg",
+            "text": "Such strong power... if only I could control it."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_dolly_promotion2_001.ogg",
+            "text": "I've become this strong already? If only I were as strong when I was back on the Eastside baseball fields."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_dolly_battlebegin_001.ogg",
+            "text": "Oh... is this area considered out?"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_dolly_battlewin_001.ogg",
+            "text": "Easier than a bunt."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_dolly_battlelose_001.ogg",
+            "text": "Despicable! A bunt..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_dolly_uniqueskill_001.ogg",
+            "text": "Home run!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_dolly_dead_001.ogg",
+            "text": "What does it even matter... if I'm stronger?! Arghh!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dolly_greeting_001.ogg",
+            "text": "When will it be my turn to play?"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_dolly_talk1_001.ogg",
+            "text": "Prepare some extra baseball bats. The ones from the purchasing office aren't enough. They won't survive a single battle."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_dolly_talk1_002.ogg",
+            "text": "Hey, isn't this my fake Eastside identity from way back? Cough... back then, I had to get it to compete in a game."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_dolly_talk1_003.ogg",
+            "text": "It's hard for me to control my emotions. If you find me in unusually high or low spirits, be sure to steer clear. Don't blame me for not warning you if you get beaten to a pulp."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_dolly_talk2_001.ogg",
+            "text": "Isn't the sound of batting a baseball music to the ears? Right? I fell in love with baseball the moment I heard that!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_dolly_talk2_002.ogg",
+            "text": "Can I skip the mission in Eastside? It's not that I'm scared, I just don't like that place... Of course, if we can watch an Eastside Baseball League game afterwards, you can ignore what I just said."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_dolly_talk2_003.ogg",
+            "text": "There's a Syndicate baseball game tomorrow, do you want to watch the live stream together? If you don't understand baseball, I can be your commentator."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_dolly_obeyfull_001.ogg",
+            "text": "If possible, I really want to challenge the stronger teams... with you here, I think I can control my power. Hey, how about we try it sometime on the baseball field?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dolly_idle_001.ogg",
+            "text": "Ah... can you ask the purchasing office to bring me some posters for this baseball tournament? No, I don't play... but I can collect just the same!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dolly_clicking_001.ogg",
+            "text": "Hey! Didn't we agree to keep some distance?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dolly_specialattention_001.ogg",
+            "text": "Good eye! Just like a focused baseball champ."
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_dolly_dispatch_001.ogg",
+            "text": "Start running to the next base!"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_dolly_dispatch2_001.ogg",
+            "text": "Safe!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dolly_levelup_002.ogg",
+            "text": "... I'm strong enough already."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_dolly_jointeam_001.ogg",
+            "text": "Prepare to bat."
+        }
+    ]
 }

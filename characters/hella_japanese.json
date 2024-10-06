@@ -76,7 +76,7 @@
             "text": "ケンカはあんまり好きじゃないの。死んだりはしないけど、痛いものは痛いもん。それにめんどくさいし……大丈夫大丈夫。局長のためなら喜んでやるから。気にしないで。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_hella_obeyfull_001.ogg",
             "text": "決めた。毎日くっついてくるから、あんたを子分にしてあげる。感謝しなさい。絶対に裏切らないのよ？分かった？"
         },
@@ -101,7 +101,7 @@
             "text": "やーっとあたしの番！ ねえねえ局長、もう少し出張費用がほしいなぁ～"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_hella_dispatch2_001.ogg",
             "text": "仕事終わったよ～局長。ご褒美とかないの？"
         },
@@ -118,7 +118,7 @@
     ],
     "queen_of_hearts": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_hella_queen_of_hearts_cacha_001.ogg",
             "text": "この女王様の昼寝を邪魔するのは誰？さっさと土下座しやがれ！あっ……局長じゃん！よかった！じゃあクロッケー大会は予定通り開催できるね！（笑）"
         },

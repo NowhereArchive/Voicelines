@@ -76,7 +76,7 @@
             "text": "仲間はみんな、錆の川のそばに埋葬されてる。朧気だけど……彼らの面影を思い出せるわ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_wendy_obeyfull_001.ogg",
             "text": "決めた。お墓はここにするわ。それから、あんたがアタシの最期を看取るのよ。局長……その時は、墓石に刻む言葉は頼んだわ。"
         },
@@ -101,7 +101,7 @@
             "text": "ふふん。いいわ～。ちょうど錆の川の化け物たちに会いたくなってきたところだったの……"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_wendy_dispatch2_001.ogg",
             "text": "汚物を処分できて、すっきりしたわ。ククク。"
         },
@@ -118,7 +118,7 @@
     ],
     "chainsaw_nightmare": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_wendy_lianjujinghunye_cacha_001.ogg",
             "text": "裏切り者め。怯えろ、叫べ！最後の時間を楽しむんだ——「チェーンソー」ウェンディが来た！もう逃げられない！"
         },
@@ -160,7 +160,7 @@
     ],
     "elegy_of_the_rust": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_wendy_xiuhewange_cacha_001.ogg",
             "text": "ほら、アタシの昔の友達に挨拶して。"
         },

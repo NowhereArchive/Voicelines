@@ -1,171 +1,171 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_oak_casket_cacha_001.ogg",
-      "text": "取調室より、墓場であなたと話がしたいわ……あなたが中で、私が外。きっと楽しい会話になるわよ。"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_oak_casket_promotion_001.ogg",
-      "text": "静かに……「彼ら」の囁きが聞こえるわ。"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_oak_casket_promotion2_001.ogg",
-      "text": "私たちのお茶会……あなたもいかが？"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_oak_casket_levelup_002.ogg",
-      "text": "分かるわ。あなたには私が必要なのね。"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_oak_casket_head_001.ogg",
-      "text": "頭蓋骨に残される情報はとても多いの。人が死ぬ時、思い残したことがここに刻まれるのよ。"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_oak_casket_battlebegin_001.ogg",
-      "text": "鐘が鳴るわ。儀式を始めましょう。"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_oak_casket_battlewin_001.ogg",
-      "text": "心配しないで。挽歌の演奏が始まったわ。"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_oak_casket_battlelose_001.ogg",
-      "text": "大丈夫、まだ永遠の眠りにつく時じゃないわ。"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_oak_casket_uniqueskill_001.ogg",
-      "text": "どうか、安らかな眠りを。"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_oak_casket_dead_001.ogg",
-      "text": "人はいつか……棺に入るの……"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_oak_casket_talk1_001.ogg",
-      "text": "楽師が必要なら……トトという楽師を訪ねてみて。私の名を出せば、割引があるかもしれないわ。"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_oak_casket_talk1_002.ogg",
-      "text": "シンジケートで盛大なお別れをして、新たな再生を迎えましょう。"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_oak_casket_talk1_003.ogg",
-      "text": "地で寝る？空を飛ぶ？それとも海を泳ぐ？どれでも構わないわ。友よ、これは救済の一歩にすぎないのだから。"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_oak_casket_talk2_001.ogg",
-      "text": "人が死ぬのは、誰かを泣かせるためじゃないの。涙は、彼らの生きた証と嘆きをかき消してしまう。"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_oak_casket_talk2_002.ogg",
-      "text": "人は永遠の眠りについて初めて、その愚かさ、退屈さ、卑劣さを赦され……趣のある人間になれるの。でも私にとって、あなたは少し違うみたい。"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_oak_casket_talk2_003.ogg",
-      "text": "自分で自分の葬儀はあげられないわ。でも、あなたには最後のメッセージを残してあげる。その時になったら、受け取ってくれるかしら？"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_oak_casket_obeyfull_001.ogg",
-      "text": "あなたは亡霊より面白いわ。私が抱える闇、孤独、憂鬱を、あなたと分かち合いたいの……そして、死さえも。私は永遠に傍にいるわ。"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_oak_casket_greeting_001.ogg",
-      "text": "こんにちは、局長。今日も生きていられて幸せね。同時に、お互いまだここに立っていることが悲しくもあるけれど。"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_oak_casket_idle_001.ogg",
-      "text": "祈り？そんなつまらないこと……しないわ。"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_oak_casket_clicking_001.ogg",
-      "text": "そんなに私のことが好きなのかしら？肉体なんて、水の泡のように脆く崩れ去るというのに。"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_oak_casket_dispatch_001.ogg",
-      "text": "私と一緒に墓場で散歩しない？"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_oak_casket_dispatch2_001.ogg",
-      "text": "うん、うん……たくさんの秘密が聞こえたわ。"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_oak_casket_specialattention_001.ogg",
-      "text": "その目で、あなたは何を見たのかしら？"
-    }
-  ],
-  "forest_of_enthrallment": [
-    {
-      "title": "Level Up",
-      "filename": "File:vo_oak_casket_chenlunzhisen_levelup_001.ogg",
-      "text": "より豊かな香りの果実をあげるわ。"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_oak_casket_chenlunzhisen_head_001.ogg",
-      "text": "空に七色の虹が光り、聖なる者は七日間で世界を作った。そして私の王冠にある七つの宝石が、肉体を離れる音を聞かせてくれる。もしあなたも聞いてみたいなら……私の王冠を奪うといいわ。"
-    },
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_oak_casket_chenlunzhisen_cacha_001.ogg",
-      "text": "あなたが森に足を踏み入れた瞬間、もう私のものになったのよ。あなたに永遠の眠りを与えましょう。そして私は、欲しいものを全て手に入れる。"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_oak_casket_chenlunzhisen_greeting_001.ogg",
-      "text": "いい子ね。こっちに来て、私の果実を食べて……あなたは最も甘い救いを得られるのよ。"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_oak_casket_chenlunzhisen_talk_001.ogg",
-      "text": "以前、ある人から真実を語る魔法の鏡を貰ったの。それの口から、誰の存在を聞いたと思う？"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_oak_casket_chenlunzhisen_talk_002.ogg",
-      "text": "私はここの支配者ではないわ。道に迷った旅人に、永遠に安らかに眠れる休息所を提供しただけよ。"
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_oak_casket_chenlunzhisen_hand_001.ogg",
-      "text": "白い雪が痕跡を隠し、リンゴが欲望を引き出し、黒檀が秘密を守る……あなたは自分が眠る地を何で飾るのかしら？"
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_oak_casket_chenlunzhisen_leg_001.ogg",
-      "text": "目を閉じれば、暗く果てしない禁忌の森が見えるでしょう……でも、怖がらずに私の手を取って。あなたの行くべき場所へ連れて行ってあげるわ。"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_oak_casket_chenlunzhisen_idle_001.ogg",
-      "text": "この森は静かではないわ。彼らが6フィート下から私に話しかけているから。"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_oak_casket_chenlunzhisen_specialattention_001.ogg",
-      "text": "そんなに私に興味があるなら……ここに残って私のコレクションになりなさい。"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_oak_casket_cacha_001.ogg",
+            "text": "取調室より、墓場であなたと話がしたいわ……あなたが中で、私が外。きっと楽しい会話になるわよ。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_oak_casket_promotion_001.ogg",
+            "text": "静かに……「彼ら」の囁きが聞こえるわ。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_oak_casket_promotion2_001.ogg",
+            "text": "私たちのお茶会……あなたもいかが？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_oak_casket_levelup_002.ogg",
+            "text": "分かるわ。あなたには私が必要なのね。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_oak_casket_head_001.ogg",
+            "text": "頭蓋骨に残される情報はとても多いの。人が死ぬ時、思い残したことがここに刻まれるのよ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_oak_casket_battlebegin_001.ogg",
+            "text": "鐘が鳴るわ。儀式を始めましょう。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_oak_casket_battlewin_001.ogg",
+            "text": "心配しないで。挽歌の演奏が始まったわ。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_oak_casket_battlelose_001.ogg",
+            "text": "大丈夫、まだ永遠の眠りにつく時じゃないわ。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_oak_casket_uniqueskill_001.ogg",
+            "text": "どうか、安らかな眠りを。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_oak_casket_dead_001.ogg",
+            "text": "人はいつか……棺に入るの……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_oak_casket_talk1_001.ogg",
+            "text": "楽師が必要なら……トトという楽師を訪ねてみて。私の名を出せば、割引があるかもしれないわ。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_oak_casket_talk1_002.ogg",
+            "text": "シンジケートで盛大なお別れをして、新たな再生を迎えましょう。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_oak_casket_talk1_003.ogg",
+            "text": "地で寝る？空を飛ぶ？それとも海を泳ぐ？どれでも構わないわ。友よ、これは救済の一歩にすぎないのだから。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_oak_casket_talk2_001.ogg",
+            "text": "人が死ぬのは、誰かを泣かせるためじゃないの。涙は、彼らの生きた証と嘆きをかき消してしまう。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_oak_casket_talk2_002.ogg",
+            "text": "人は永遠の眠りについて初めて、その愚かさ、退屈さ、卑劣さを赦され……趣のある人間になれるの。でも私にとって、あなたは少し違うみたい。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_oak_casket_talk2_003.ogg",
+            "text": "自分で自分の葬儀はあげられないわ。でも、あなたには最後のメッセージを残してあげる。その時になったら、受け取ってくれるかしら？"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_oak_casket_obeyfull_001.ogg",
+            "text": "あなたは亡霊より面白いわ。私が抱える闇、孤独、憂鬱を、あなたと分かち合いたいの……そして、死さえも。私は永遠に傍にいるわ。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_oak_casket_greeting_001.ogg",
+            "text": "こんにちは、局長。今日も生きていられて幸せね。同時に、お互いまだここに立っていることが悲しくもあるけれど。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_oak_casket_idle_001.ogg",
+            "text": "祈り？そんなつまらないこと……しないわ。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_oak_casket_clicking_001.ogg",
+            "text": "そんなに私のことが好きなのかしら？肉体なんて、水の泡のように脆く崩れ去るというのに。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_oak_casket_dispatch_001.ogg",
+            "text": "私と一緒に墓場で散歩しない？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_oak_casket_dispatch2_001.ogg",
+            "text": "うん、うん……たくさんの秘密が聞こえたわ。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_oak_casket_specialattention_001.ogg",
+            "text": "その目で、あなたは何を見たのかしら？"
+        }
+    ],
+    "forest_of_enthrallment": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_oak_casket_chenlunzhisen_levelup_001.ogg",
+            "text": "より豊かな香りの果実をあげるわ。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_oak_casket_chenlunzhisen_head_001.ogg",
+            "text": "空に七色の虹が光り、聖なる者は七日間で世界を作った。そして私の王冠にある七つの宝石が、肉体を離れる音を聞かせてくれる。もしあなたも聞いてみたいなら……私の王冠を奪うといいわ。"
+        },
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_oak_casket_chenlunzhisen_cacha_001.ogg",
+            "text": "あなたが森に足を踏み入れた瞬間、もう私のものになったのよ。あなたに永遠の眠りを与えましょう。そして私は、欲しいものを全て手に入れる。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_oak_casket_chenlunzhisen_greeting_001.ogg",
+            "text": "いい子ね。こっちに来て、私の果実を食べて……あなたは最も甘い救いを得られるのよ。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_oak_casket_chenlunzhisen_talk_001.ogg",
+            "text": "以前、ある人から真実を語る魔法の鏡を貰ったの。それの口から、誰の存在を聞いたと思う？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_oak_casket_chenlunzhisen_talk_002.ogg",
+            "text": "私はここの支配者ではないわ。道に迷った旅人に、永遠に安らかに眠れる休息所を提供しただけよ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_oak_casket_chenlunzhisen_hand_001.ogg",
+            "text": "白い雪が痕跡を隠し、リンゴが欲望を引き出し、黒檀が秘密を守る……あなたは自分が眠る地を何で飾るのかしら？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_oak_casket_chenlunzhisen_leg_001.ogg",
+            "text": "目を閉じれば、暗く果てしない禁忌の森が見えるでしょう……でも、怖がらずに私の手を取って。あなたの行くべき場所へ連れて行ってあげるわ。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_oak_casket_chenlunzhisen_idle_001.ogg",
+            "text": "この森は静かではないわ。彼らが6フィート下から私に話しかけているから。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_oak_casket_chenlunzhisen_specialattention_001.ogg",
+            "text": "そんなに私に興味があるなら……ここに残って私のコレクションになりなさい。"
+        }
+    ]
 }

@@ -76,7 +76,7 @@
             "text": "私にとって、貴方がいる限り、死は……唯一の答えでは無くなる。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_nox_obeyfull_001.ogg",
             "text": "貴方は私に多くの……知らなかった感情を気づかせてくれた。貴方が来るのが楽しみになり、もっと貴方の話が聞きたい、貴方の笑顔が見たいと思うようになった。こんな気持ちを過去の私は持っていたのか……？今は……貴方のそばにいたい。"
         },
@@ -101,7 +101,7 @@
             "text": "貴方のためなら、この世を駆け回ってもいい。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_nox_dispatch2_001.ogg",
             "text": "この結果は、貴方の期待に応えられている？"
         },
@@ -123,7 +123,7 @@
     ],
     "ashen_prayer": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_nox_ashen_prayer_cacha_001.ogg",
             "text": "日差し、教会、赤い花……懐かしい……懐かしいってなに？"
         },
@@ -175,7 +175,7 @@
     ],
     "gloom_of_daybreak": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_nox_poxiaozhian_cacha_001.ogg",
             "text": "私はNOX。妖鬼の狩人であり、最後の黒剣。運命の人よ、教えてほしい。貴方も人類の儚い夜明けのために決戦を求めるのか……もしそうなら、私を使ってほしい。"
         },

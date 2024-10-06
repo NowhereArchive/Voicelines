@@ -1,119 +1,119 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_oliver_cacha_001.ogg",
-      "text": "I, I don't know what a Sinner is... Sob, all of you gang up on one little kid!"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_oliver_promotion_001.ogg",
-      "text": "Rewards are only for good kids, right?"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_oliver_promotion2_001.ogg",
-      "text": "Who do you want to turn into a doll, Chief? I can do it for you!"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_oliver_battlebegin_001.ogg",
-      "text": "Please protect me, Chief!"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_oliver_battlewin_001.ogg",
-      "text": "Eh—All I did was just wave my hand. Why have they stopped moving?"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_oliver_battlelose_001.ogg",
-      "text": "Wow—they are so incredible. They even dare to resist my control."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_oliver_uniqueskill_001.ogg",
-      "text": "Dolls, be good!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_oliver_dead_001.ogg",
-      "text": "Strange... I can't feel my body..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_oliver_greeting_001.ogg",
-      "text": "Ma'am! Ma'am! Ma'am!/Sir! Sir! Sir! You like me calling you that, don't you?!"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_oliver_talk1_001.ogg",
-      "text": "The wounds... w-were from falling over accidentally! Everyone at the Bureau h-has been very nice to me..."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_oliver_talk1_002.ogg",
-      "text": "Don't listen to them. I'm so cute and well-behaved. Of course I won't bully others."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_oliver_talk1_003.ogg",
-      "text": "Ma'am/Sir... They don't let me go out on my own to play... J-jailbreak? What's that? I don't understand."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_oliver_talk2_001.ogg",
-      "text": "I'm so jealous of \"The Homeless\" in Syndicate. They manage to live in such a dangerous place on their own, unlike me, who can do nothing without Chief!"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_oliver_talk2_002.ogg",
-      "text": "Look! Isn't this doll as cute as me? But... its heart has been slit open by the baddies. I can't fix it no matter how hard I try... Can you help me, Chief?"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_oliver_talk2_003.ogg",
-      "text": "Will we never be separated if you have been turned into a doll... Hmm? I'm not lying this time!"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_oliver_obeyfull_001.ogg",
-      "text": "If a kid has done lots and lots of bad things, but they have repented, will you hate them, Chief? ...I don't want to be hated, especially by you."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_oliver_idle_001.ogg",
-      "text": "Some other idiots said I'm not a \"good kid.\" What should I do... Well, let me go sort them out while Chief is away!"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_oliver_clicking_001.ogg",
-      "text": "Are you looking for trouble?! ...Hahaha, gotcha! I was just pulling your leg. Didn't I do a great job?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_oliver_specialattention_001.ogg",
-      "text": "Why are you staring at me like this, Chief?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_oliver_dispatch_001.ogg",
-      "text": "Shouldn't I leave this kind of manual work to adults? I just want to stay with you, Chief."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_oliver_dispatch2_001.ogg",
-      "text": "I worked sooo hard for you, Chief. Are you not gonna praise me?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_oliver_levelup_002.ogg",
-      "text": "I knew you'd like me best, Chief!"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_oliver_jointeam_001.ogg",
-      "text": "For you... I will gather the courage to enter the battlefield!"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_oliver_cacha_001.ogg",
+            "text": "I, I don't know what a Sinner is... Sob, all of you gang up on one little kid!"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_oliver_promotion_001.ogg",
+            "text": "Rewards are only for good kids, right?"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_oliver_promotion2_001.ogg",
+            "text": "Who do you want to turn into a doll, Chief? I can do it for you!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_oliver_battlebegin_001.ogg",
+            "text": "Please protect me, Chief!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_oliver_battlewin_001.ogg",
+            "text": "Eh—All I did was just wave my hand. Why have they stopped moving?"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_oliver_battlelose_001.ogg",
+            "text": "Wow—they are so incredible. They even dare to resist my control."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_oliver_uniqueskill_001.ogg",
+            "text": "Dolls, be good!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_oliver_dead_001.ogg",
+            "text": "Strange... I can't feel my body..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_oliver_greeting_001.ogg",
+            "text": "Ma'am! Ma'am! Ma'am!/Sir! Sir! Sir! You like me calling you that, don't you?!"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_oliver_talk1_001.ogg",
+            "text": "The wounds... w-were from falling over accidentally! Everyone at the Bureau h-has been very nice to me..."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_oliver_talk1_002.ogg",
+            "text": "Don't listen to them. I'm so cute and well-behaved. Of course I won't bully others."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_oliver_talk1_003.ogg",
+            "text": "Ma'am/Sir... They don't let me go out on my own to play... J-jailbreak? What's that? I don't understand."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_oliver_talk2_001.ogg",
+            "text": "I'm so jealous of \"The Homeless\" in Syndicate. They manage to live in such a dangerous place on their own, unlike me, who can do nothing without Chief!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_oliver_talk2_002.ogg",
+            "text": "Look! Isn't this doll as cute as me? But... its heart has been slit open by the baddies. I can't fix it no matter how hard I try... Can you help me, Chief?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_oliver_talk2_003.ogg",
+            "text": "Will we never be separated if you have been turned into a doll... Hmm? I'm not lying this time!"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_oliver_obeyfull_001.ogg",
+            "text": "If a kid has done lots and lots of bad things, but they have repented, will you hate them, Chief? ...I don't want to be hated, especially by you."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_oliver_idle_001.ogg",
+            "text": "Some other idiots said I'm not a \"good kid.\" What should I do... Well, let me go sort them out while Chief is away!"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_oliver_clicking_001.ogg",
+            "text": "Are you looking for trouble?! ...Hahaha, gotcha! I was just pulling your leg. Didn't I do a great job?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_oliver_specialattention_001.ogg",
+            "text": "Why are you staring at me like this, Chief?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_oliver_dispatch_001.ogg",
+            "text": "Shouldn't I leave this kind of manual work to adults? I just want to stay with you, Chief."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_oliver_dispatch2_001.ogg",
+            "text": "I worked sooo hard for you, Chief. Are you not gonna praise me?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_oliver_levelup_002.ogg",
+            "text": "I knew you'd like me best, Chief!"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_oliver_jointeam_001.ogg",
+            "text": "For you... I will gather the courage to enter the battlefield!"
+        }
+    ]
 }

@@ -1,233 +1,228 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_nox_cacha_001.ogg",
-      "text": "I can see... the pain and madness consuming you..."
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_nox_promotion_001.ogg",
-      "text": "The stronger a Sinner... the closer they are to destruction..."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_nox_promotion2_001.ogg",
-      "text": "The abyss is no longer my prison."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_nox_battlebegin_001.ogg",
-      "text": "I hear the call of the abyss..."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_nox_battlewin_001.ogg",
-      "text": "They will suffer no longer... That is good."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_nox_battlelose_001.ogg",
-      "text": "No, they're not yet at peace..."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_nox_uniqueskill_001.ogg",
-      "text": "Death is your only destination!"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_nox_dead_001.ogg",
-      "text": "I... don't want to... die..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_nox_greeting_001.ogg",
-      "text": "That was close. I was almost devoured by those voices again. Luckily... you came."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_nox_talk1_001.ogg",
-      "text": "The blood that stained this sword... I will never forget it."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_nox_talk1_002.ogg",
-      "text": "<i>The Grim Reaper</i>—Sinners call me that. I... like that name."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_nox_talk1_003.ogg",
-      "text": "This body once had a soul. Her memories and her name have been devoured by the abyss. I'm not her... I'm just the remains of her."
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_nox_talk2_001.ogg",
-      "text": "Having a body like this... has its merits too. If I hadn't been infected, I wouldn't even have been able to walk normally."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_nox_talk2_002.ogg",
-      "text": "I still remember the sun rising in the east, sunlight shining in through the window, onto me. That was the moment I looked forward to the most. When... did this memory happen?"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_nox_talk2_003.ogg",
-      "text": "For me, as long as you're here, death... is no longer the only answer."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_nox_obeyfull_001.ogg",
-      "text": "You make me aware of many... unfamiliar emotions. I look forward to your visit, I want to hear you talk, I want to see your smile. Is this a part of my forgotten past too? I want to... stay by your side."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_nox_idle_001.ogg",
-      "text": "Yes, I hear it... Are you in pain? Don't worry... Soon you'll be freed from it."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_nox_clicking_001.ogg",
-      "text": "That's useless. Since long ago, my body... hasn't been able to feel anything."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_nox_specialattention_001.ogg",
-      "text": "Why are you willing to stay with... a monster like me?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_nox_dispatch_001.ogg",
-      "text": "I'm willing to roam the world for you."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_nox_dispatch2_001.ogg",
-      "text": "Does this result satisfy your expectations?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_nox_levelup_002.ogg",
-      "text": "Another step closer..."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_nox_head_001.ogg",
-      "text": "Don't do that, it's... dangerous for you."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_nox_jointeam_001.ogg",
-      "text": "I'll relieve them of pain..."
-    }
-  ],
-  "ashen_prayer": [
-    {
-      "title": "No",
-      "filename": "File:unknown.ogg",
-      "text": "2"
-    },
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_nox_ashen_prayer_cacha_001.ogg",
-      "text": "Sunshine, chapel, and red flowers... make one so nostalgic... Strange. What is nostalgic?"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_nox_ashen_prayer_greeting_001.ogg",
-      "text": "Prayers have been answered... You are back."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_nox_ashen_prayer_talk_001.ogg",
-      "text": "I know praying can't bring me peace, but I had no other choice. Thankfully, you are here now."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_nox_ashen_prayer_talk_002.ogg",
-      "text": "When I walked in the DisSea, there wasn't a second I did not pray to see the light of day. This chase gave me the strength to persevere."
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_nox_ashen_prayer_hand_001.ogg",
-      "text": "I still remember that chapel near the DisSea where I could see sunlight. I loved it there... But I never found that place again after I left..."
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_nox_ashen_prayer_leg_001.ogg",
-      "text": "Do you prefer this look? I can stay like this forever if that's what you want..."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_nox_ashen_prayer_idle_001.ogg",
-      "text": "Please bring peace for them... for us..."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_nox_ashen_prayer_levelup_001.ogg",
-      "text": "Thank you, even though I have never prayed for strength."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_nox_ashen_prayer_head_001.ogg",
-      "text": "Thank you for making me feel warm."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_nox_ashen_prayer_specialattention_001.ogg",
-      "text": "Did you look for me... because of your unfulfilled wish? Don't worry. I'll pray for you."
-    }
-  ],
-  "gloom_of_daybreak": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_nox_poxiaozhian_cacha_001.ogg",
-      "text": "I am NOX, the hunter of demons, the last of the Black Swords. Chosen one, tell me, do you too seek a final battle to seize that elusive dawn for humanity... If so, use me as your weapon!"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_nox_poxiaozhian_greeting_001.ogg",
-      "text": "Let's set off. The sun has already risen. We're running out of time."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_nox_poxiaozhian_talk_001.ogg",
-      "text": "Born to be a special combat weapon, the Black Swords are pariahs mixed with demon blood. No matter which side prevails, there will be no place for us in this world."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_nox_poxiaozhian_talk_002.ogg",
-      "text": "Demons... are man-eating monsters that emerge from an unnamed darkness. Some of them may retain a human appearance, but don't be fooled. Demons have no emotions and are only driven by insatiable hunger. Once you face them, you have no other choice but to fight."
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_nox_poxiaozhian_hand_001.ogg",
-      "text": "Angel of Death... is that what they call me? What a shame. I'm no bloodless, tearless angel... With no wings, I can only crawl on the ground, yet I still yearn to look up at the sky."
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_nox_poxiaozhian_leg_001.ogg",
-      "text": "The sunrise by the lake, the peaceful village... Those are the only memories I've kept since I became a Black Sword. The arrival of the demons tore everything apart, including my past..."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_nox_poxiaozhian_idle_001.ogg",
-      "text": "The demon blood will eventually devour my sanity. Such is the fate of every Black Sword... When that day comes, please grant me peace... I don't want to destroy everything I've protected."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_nox_poxiaozhian_specialattention_001.ogg",
-      "text": "Prayers don't bring miracles, nor can they elicit mercy out of demons... Only fighting can grant us the right to live... Chosen one, I will be the sharp blade in your hands and I shall bring the last hope to you and all who struggle to survive!"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_nox_poxiaozhian_head_001.ogg",
-      "text": "Rest assured, I will not leave your side."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_nox_poxiaozhian_levelup_001.ogg",
-      "text": "This is a necessary power... and a necessary sacrifice."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_nox_cacha_001.ogg",
+            "text": "I can see... the pain and madness consuming you..."
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_nox_promotion_001.ogg",
+            "text": "The stronger a Sinner... the closer they are to destruction..."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_nox_promotion2_001.ogg",
+            "text": "The abyss is no longer my prison."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_nox_battlebegin_001.ogg",
+            "text": "I hear the call of the abyss..."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_nox_battlewin_001.ogg",
+            "text": "They will suffer no longer... That is good."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_nox_battlelose_001.ogg",
+            "text": "No, they're not yet at peace..."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_nox_uniqueskill_001.ogg",
+            "text": "Death is your only destination!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_nox_dead_001.ogg",
+            "text": "I... don't want to... die..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_nox_greeting_001.ogg",
+            "text": "That was close. I was almost devoured by those voices again. Luckily... you came."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_nox_talk1_001.ogg",
+            "text": "The blood that stained this sword... I will never forget it."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_nox_talk1_002.ogg",
+            "text": "<i>The Grim Reaper</i>—Sinners call me that. I... like that name."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_nox_talk1_003.ogg",
+            "text": "This body once had a soul. Her memories and her name have been devoured by the abyss. I'm not her... I'm just the remains of her."
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_nox_talk2_001.ogg",
+            "text": "Having a body like this... has its merits too. If I hadn't been infected, I wouldn't even have been able to walk normally."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_nox_talk2_002.ogg",
+            "text": "I still remember the sun rising in the east, sunlight shining in through the window, onto me. That was the moment I looked forward to the most. When... did this memory happen?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_nox_talk2_003.ogg",
+            "text": "For me, as long as you're here, death... is no longer the only answer."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_nox_obeyfull_001.ogg",
+            "text": "You make me aware of many... unfamiliar emotions. I look forward to your visit, I want to hear you talk, I want to see your smile. Is this a part of my forgotten past too? I want to... stay by your side."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_nox_idle_001.ogg",
+            "text": "Yes, I hear it... Are you in pain? Don't worry... Soon you'll be freed from it."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_nox_clicking_001.ogg",
+            "text": "That's useless. Since long ago, my body... hasn't been able to feel anything."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_nox_specialattention_001.ogg",
+            "text": "Why are you willing to stay with... a monster like me?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_nox_dispatch_001.ogg",
+            "text": "I'm willing to roam the world for you."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_nox_dispatch2_001.ogg",
+            "text": "Does this result satisfy your expectations?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_nox_levelup_002.ogg",
+            "text": "Another step closer..."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_nox_head_001.ogg",
+            "text": "Don't do that, it's... dangerous for you."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_nox_jointeam_001.ogg",
+            "text": "I'll relieve them of pain..."
+        }
+    ],
+    "ashen_prayer": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_nox_ashen_prayer_cacha_001.ogg",
+            "text": "Sunshine, chapel, and red flowers... make one so nostalgic... Strange. What is nostalgic?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_nox_ashen_prayer_greeting_001.ogg",
+            "text": "Prayers have been answered... You are back."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_nox_ashen_prayer_talk_001.ogg",
+            "text": "I know praying can't bring me peace, but I had no other choice. Thankfully, you are here now."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_nox_ashen_prayer_talk_002.ogg",
+            "text": "When I walked in the DisSea, there wasn't a second I did not pray to see the light of day. This chase gave me the strength to persevere."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_nox_ashen_prayer_hand_001.ogg",
+            "text": "I still remember that chapel near the DisSea where I could see sunlight. I loved it there... But I never found that place again after I left..."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_nox_ashen_prayer_leg_001.ogg",
+            "text": "Do you prefer this look? I can stay like this forever if that's what you want..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_nox_ashen_prayer_idle_001.ogg",
+            "text": "Please bring peace for them... for us..."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_nox_ashen_prayer_levelup_001.ogg",
+            "text": "Thank you, even though I have never prayed for strength."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_nox_ashen_prayer_head_001.ogg",
+            "text": "Thank you for making me feel warm."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_nox_ashen_prayer_specialattention_001.ogg",
+            "text": "Did you look for me... because of your unfulfilled wish? Don't worry. I'll pray for you."
+        }
+    ],
+    "gloom_of_daybreak": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_nox_poxiaozhian_cacha_001.ogg",
+            "text": "I am NOX, the hunter of demons, the last of the Black Swords. Chosen one, tell me, do you too seek a final battle to seize that elusive dawn for humanity... If so, use me as your weapon!"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_nox_poxiaozhian_greeting_001.ogg",
+            "text": "Let's set off. The sun has already risen. We're running out of time."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_nox_poxiaozhian_talk_001.ogg",
+            "text": "Born to be a special combat weapon, the Black Swords are pariahs mixed with demon blood. No matter which side prevails, there will be no place for us in this world."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_nox_poxiaozhian_talk_002.ogg",
+            "text": "Demons... are man-eating monsters that emerge from an unnamed darkness. Some of them may retain a human appearance, but don't be fooled. Demons have no emotions and are only driven by insatiable hunger. Once you face them, you have no other choice but to fight."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_nox_poxiaozhian_hand_001.ogg",
+            "text": "Angel of Death... is that what they call me? What a shame. I'm no bloodless, tearless angel... With no wings, I can only crawl on the ground, yet I still yearn to look up at the sky."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_nox_poxiaozhian_leg_001.ogg",
+            "text": "The sunrise by the lake, the peaceful village... Those are the only memories I've kept since I became a Black Sword. The arrival of the demons tore everything apart, including my past..."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_nox_poxiaozhian_idle_001.ogg",
+            "text": "The demon blood will eventually devour my sanity. Such is the fate of every Black Sword... When that day comes, please grant me peace... I don't want to destroy everything I've protected."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_nox_poxiaozhian_specialattention_001.ogg",
+            "text": "Prayers don't bring miracles, nor can they elicit mercy out of demons... Only fighting can grant us the right to live... Chosen one, I will be the sharp blade in your hands and I shall bring the last hope to you and all who struggle to survive!"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_nox_poxiaozhian_head_001.ogg",
+            "text": "Rest assured, I will not leave your side."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_nox_poxiaozhian_levelup_001.ogg",
+            "text": "This is a necessary power... and a necessary sacrifice."
+        }
+    ]
 }

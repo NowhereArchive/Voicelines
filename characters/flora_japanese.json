@@ -76,7 +76,7 @@
             "text": "髪は長いほうが好きです！でも……火災現場だと、邪魔になるだけなので……。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_flora_obeyfull_001.ogg",
             "text": "ここは火災現場じゃないですけど、もっとたくさんの人を助けられます。ありがとう、局長さん……これが、これこそが私が本当に望んでいたことなんです。"
         },
@@ -101,7 +101,7 @@
             "text": "フローラ、準備完了。出発します！"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_flora_dispatch2_001.ogg",
             "text": "任務完了。フローラ、ただいま戻りました！"
         },

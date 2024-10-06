@@ -76,7 +76,7 @@
             "text": "監禁部屋、もっと大きくできない？別に狭い部屋は嫌いじゃないけど、ちょっと……嫌なことを思い出すんだ。だめだったら……あんたが……そばにいてくれるのでもいい。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_crache_obeyfull_001.ogg",
             "text": "あんたは……おかしな大人だ。シンジケートの大人がみんなあんたみたいな人間だったら、わたしたちはここまで苦しまずに済んだのかも……どうしてもっと早く来てくれなかったの……。"
         },
@@ -101,7 +101,7 @@
             "text": "はっ？あんたのところに来ても仕事をしなきゃならないの？"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_crache_dispatch2_001.ogg",
             "text": "うっ……やっぱり、日差しは苦手……。"
         },
@@ -123,7 +123,7 @@
     ],
     "eternal_night_hunt": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_crache_yongyeshoulie_cacha_001.ogg",
             "text": "まだあんな古臭い童話を聞いてるの？わたしたちだけの「童話」がどんなものか、ちゃんとその目で見ててね……"
         },

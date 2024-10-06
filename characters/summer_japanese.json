@@ -1,223 +1,223 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_summer_cacha_001.ogg",
-      "text": "危機管理局の技術ってちょっと遅れてるよねぇ。こんな設備じゃあたしを閉じ込めておくことなんてできないよ？よし、システムをアップグレードしよう！あたしなら朝飯前だしさ！"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_summer_promotion_001.ogg",
-      "text": "ヒーロー、登場！こほん……どう？このセリフ言ってみたかったんだぁ～！"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_summer_promotion2_001.ogg",
-      "text": "コントローラー中枢リンク完了、夏音も準備OK！この闇の世界を救っていくわよ！"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_summer_levelup_002.ogg",
-      "text": "糖分補給！"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_summer_head_001.ogg",
-      "text": "えっ？どうしたの？さっきの説明でわからないとこあった？そっか……局長になら、何度でも教えてあげるよ。"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_summer_battlebegin_001.ogg",
-      "text": "そんなところ行ったら、スカートが汚れちゃうって。"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_summer_battlewin_001.ogg",
-      "text": "悪は、破れる運命なのだ……。うん……このセリフもいい……。"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_summer_battlelose_001.ogg",
-      "text": "うーん……きっとリング武器のパラメータの設定に問題があったのよ。もう1回！"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_summer_uniqueskill_001.ogg",
-      "text": "全機ロックオン、エリアクリア！"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_summer_dead_001.ogg",
-      "text": "うぅ……まだ……卒業してないのに……。"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_summer_talk1_001.ogg",
-      "text": "ちゃんと見て。これはリング武器よ。死瞳武器じゃない。根本的に違うのよ。まったく、あたしがこんな粗悪品を作るわけないのに。"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_summer_talk1_002.ogg",
-      "text": "天才科学者は思考するために大量の糖分が必要で、チョコレートは最良の選択なの。女子高生にもぴったりだし。だから、局長……あたしの申請を承認してくれる？ちょっと分けてあげてもいいから！ね！"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_summer_talk1_003.ogg",
-      "text": "あの機体は見た目が悪いだけなの！一般的な機種とは違うんだって！それ以上言うと怒るから。早くモデルに謝って！"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_summer_talk2_001.ogg",
-      "text": "友達？いらなーい。女子高生には友達がいなくちゃいけないなんて誰が決めたの？「学園の天才怪人機甲ミステリアス美少女」って設定の方が面白いでしょ？"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_summer_talk2_002.ogg",
-      "text": "ここはリング研究所に比べれば天国よ！部屋の中に自由に物が置けるだけじゃなくて、時間も自由に使えるし、何より、いつでもどこでもアニメが見られるし！"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_summer_talk2_003.ogg",
-      "text": "自分で戦うって本当に面倒くさいねぇ。スカートはいっつも汚れるし。でも、局長のお願いだったら……手伝ってあげるよ。その代わり、一日だけ実験体になってね。"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_summer_obeyfull_001.ogg",
-      "text": "局長が英雄みたいだなーって思っちゃう瞬間があるんだけど……どう？機甲パイロットになる気はない？デザインの方向性はもう考えてあるんだよ！"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_summer_greeting_001.ogg",
-      "text": "やっほー！局長がいない間に新しいアイデアを思いついたの……手や足をもっと使いやすい物に取り替えるって考えたことある？他には……脳を強化するとか？"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_summer_idle_001.ogg",
-      "text": "今日の運動スケジュールスタート！ふぅ————ふぅ————OK！完璧な腹式呼吸。目標達成、帰ってアイスクリームを食べよ～。"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_summer_clicking_001.ogg",
-      "text": "運動なんか——したくない——一日だけでも怠け者になりたい——"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_summer_dispatch_001.ogg",
-      "text": "えっ……お使い？"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_summer_dispatch2_001.ogg",
-      "text": "はぁ……はぁ……リング武器がなかったら……戦えないよ……"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_summer_specialattention_001.ogg",
-      "text": "あたしに興味があるの？ふふ、あたしもあなたをもっと近くでよく見たいな。"
-    }
-  ],
-  "desert_delusions": [
-    {
-      "title": "Level Up",
-      "filename": "File:vo_summer_kuangshayixiang_levelup_001.ogg",
-      "text": "機械序列最適化！"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_summer_kuangshayixiang_head_001.ogg",
-      "text": "あれ？これを試してみたいの？ふふん～局長もこの「ナツネスペシャル円筒砂除け帽子」の魅力にやられたみたいだね。"
-    },
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_summer_kuangshayixiang_cacha_001.ogg",
-      "text": "「あたしの宝が欲しいか？この世の全てを砂の海に置いてきた！」へへ～どう？この場面にピッタリのセリフでしょ？"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_summer_kuangshayixiang_greeting_001.ogg",
-      "text": "クローの物を掴む能力は合格ね！ まずは局長で試してみよう～っと！あっ……局長おはよ！一緒に実験……さ、砂の海に探険しに行かない？？"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_summer_kuangshayixiang_talk_001.ogg",
-      "text": "宝探しは雰囲気が一番大事なの！……着込んでても暑くなんてないって！服に30個も冷却モジュール仕込んでるんだから！"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_summer_kuangshayixiang_talk_002.ogg",
-      "text": "チョコ～チョコ～あれ？ない……こんなに早くなくなるなんて！はぁ、こんなことならもっと持ってくるべきだったなぁ。"
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_summer_kuangshayixiang_hand_001.ogg",
-      "text": "頭の上にプロペラを付けて、それからソーラーパネルと方向転換システムを設置。最後にバッテリーを取り付けたら、あたしのドローンの代わりに、砂の海で一番知能の高い偵察機になれるね！どう？試してみる？"
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_summer_kuangshayixiang_leg_001.ogg",
-      "text": "ふぁ……ちょっと休ませて……今、砂の船のパワーシステムを一通り調べたところなの……もう疲れて動けないよ……。"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_summer_kuangshayixiang_idle_001.ogg",
-      "text": "うわ……酷い砂嵐！"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_summer_kuangshayixiang_specialattention_001.ogg",
-      "text": "あれっ？局長だ！その装備……まさか局長も砂の海に埋められたお宝を探しに来たの？"
-    }
-  ],
-  "luminous_night": [
-    {
-      "title": "Level Up",
-      "filename": "File:vo_summer_xiayeshanguang_levelup_001.ogg",
-      "text": "清浄なる空のために！"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_summer_xiayeshanguang_head_001.ogg",
-      "text": "これ、リング研究所にいた頃からやりたかったんだよね～！あのジジイたち、いっつも「予算がない、予算がない」とか言っててさ。やっぱ局長、最高～！"
-    },
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_summer_xiayeshanguang_cacha_001.ogg",
-      "text": "リング物質エンジンの圧力正常。電子機械とGPSも正常。本体に損傷なし。空戦強化型リング武器、Summer1号——出る！"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_summer_xiayeshanguang_greeting_001.ogg",
-      "text": "局長ーーどう？この空を飛ぶ感じ、いいでしょ？"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_summer_xiayeshanguang_talk_001.ogg",
-      "text": "う～ん——ベストコンディション！これなら隣の学校の卒業パーティーに間に合う！"
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_summer_xiayeshanguang_talk_002.ogg",
-      "text": "ん？メッセージ……？「設備を壊さないよう、高度に注意してくれ」？はぁ……「夏音」って名を最低限信頼してよ！"
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_summer_xiayeshanguang_hand_001.ogg",
-      "text": "テスト飛行の前に準備運動はしたよ。腹筋を……2回もね！"
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_summer_xiayeshanguang_leg_001.ogg",
-      "text": "装甲、薄すぎ？へへ、当たらなければいいでしょ！"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_summer_xiayeshanguang_idle_001.ogg",
-      "text": "うーん……宇宙に行った種が巨大な実をつけるなら、宇宙に行ったホットココアはもっと甘くなるのかな？えへへっ～"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_summer_xiayeshanguang_specialattention_001.ogg",
-      "text": "ああ局長、そんな緊張しないで！あなたの身体には、スマート飛行モジュールが16個もついてるから、空で寝ても大丈夫だよ！"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_summer_cacha_001.ogg",
+            "text": "危機管理局の技術ってちょっと遅れてるよねぇ。こんな設備じゃあたしを閉じ込めておくことなんてできないよ？よし、システムをアップグレードしよう！あたしなら朝飯前だしさ！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_summer_promotion_001.ogg",
+            "text": "ヒーロー、登場！こほん……どう？このセリフ言ってみたかったんだぁ～！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_summer_promotion2_001.ogg",
+            "text": "コントローラー中枢リンク完了、夏音も準備OK！この闇の世界を救っていくわよ！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_summer_levelup_002.ogg",
+            "text": "糖分補給！"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_summer_head_001.ogg",
+            "text": "えっ？どうしたの？さっきの説明でわからないとこあった？そっか……局長になら、何度でも教えてあげるよ。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_summer_battlebegin_001.ogg",
+            "text": "そんなところ行ったら、スカートが汚れちゃうって。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_summer_battlewin_001.ogg",
+            "text": "悪は、破れる運命なのだ……。うん……このセリフもいい……。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_summer_battlelose_001.ogg",
+            "text": "うーん……きっとリング武器のパラメータの設定に問題があったのよ。もう1回！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_summer_uniqueskill_001.ogg",
+            "text": "全機ロックオン、エリアクリア！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_summer_dead_001.ogg",
+            "text": "うぅ……まだ……卒業してないのに……。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_summer_talk1_001.ogg",
+            "text": "ちゃんと見て。これはリング武器よ。死瞳武器じゃない。根本的に違うのよ。まったく、あたしがこんな粗悪品を作るわけないのに。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_summer_talk1_002.ogg",
+            "text": "天才科学者は思考するために大量の糖分が必要で、チョコレートは最良の選択なの。女子高生にもぴったりだし。だから、局長……あたしの申請を承認してくれる？ちょっと分けてあげてもいいから！ね！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_summer_talk1_003.ogg",
+            "text": "あの機体は見た目が悪いだけなの！一般的な機種とは違うんだって！それ以上言うと怒るから。早くモデルに謝って！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_summer_talk2_001.ogg",
+            "text": "友達？いらなーい。女子高生には友達がいなくちゃいけないなんて誰が決めたの？「学園の天才怪人機甲ミステリアス美少女」って設定の方が面白いでしょ？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_summer_talk2_002.ogg",
+            "text": "ここはリング研究所に比べれば天国よ！部屋の中に自由に物が置けるだけじゃなくて、時間も自由に使えるし、何より、いつでもどこでもアニメが見られるし！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_summer_talk2_003.ogg",
+            "text": "自分で戦うって本当に面倒くさいねぇ。スカートはいっつも汚れるし。でも、局長のお願いだったら……手伝ってあげるよ。その代わり、一日だけ実験体になってね。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_summer_obeyfull_001.ogg",
+            "text": "局長が英雄みたいだなーって思っちゃう瞬間があるんだけど……どう？機甲パイロットになる気はない？デザインの方向性はもう考えてあるんだよ！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_summer_greeting_001.ogg",
+            "text": "やっほー！局長がいない間に新しいアイデアを思いついたの……手や足をもっと使いやすい物に取り替えるって考えたことある？他には……脳を強化するとか？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_summer_idle_001.ogg",
+            "text": "今日の運動スケジュールスタート！ふぅ————ふぅ————OK！完璧な腹式呼吸。目標達成、帰ってアイスクリームを食べよ～。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_summer_clicking_001.ogg",
+            "text": "運動なんか——したくない——一日だけでも怠け者になりたい——"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_summer_dispatch_001.ogg",
+            "text": "えっ……お使い？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_summer_dispatch2_001.ogg",
+            "text": "はぁ……はぁ……リング武器がなかったら……戦えないよ……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_summer_specialattention_001.ogg",
+            "text": "あたしに興味があるの？ふふ、あたしもあなたをもっと近くでよく見たいな。"
+        }
+    ],
+    "desert_delusions": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_summer_kuangshayixiang_levelup_001.ogg",
+            "text": "機械序列最適化！"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_summer_kuangshayixiang_head_001.ogg",
+            "text": "あれ？これを試してみたいの？ふふん～局長もこの「ナツネスペシャル円筒砂除け帽子」の魅力にやられたみたいだね。"
+        },
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_summer_kuangshayixiang_cacha_001.ogg",
+            "text": "「あたしの宝が欲しいか？この世の全てを砂の海に置いてきた！」へへ～どう？この場面にピッタリのセリフでしょ？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_summer_kuangshayixiang_greeting_001.ogg",
+            "text": "クローの物を掴む能力は合格ね！ まずは局長で試してみよう～っと！あっ……局長おはよ！一緒に実験……さ、砂の海に探険しに行かない？？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_summer_kuangshayixiang_talk_001.ogg",
+            "text": "宝探しは雰囲気が一番大事なの！……着込んでても暑くなんてないって！服に30個も冷却モジュール仕込んでるんだから！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_summer_kuangshayixiang_talk_002.ogg",
+            "text": "チョコ～チョコ～あれ？ない……こんなに早くなくなるなんて！はぁ、こんなことならもっと持ってくるべきだったなぁ。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_summer_kuangshayixiang_hand_001.ogg",
+            "text": "頭の上にプロペラを付けて、それからソーラーパネルと方向転換システムを設置。最後にバッテリーを取り付けたら、あたしのドローンの代わりに、砂の海で一番知能の高い偵察機になれるね！どう？試してみる？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_summer_kuangshayixiang_leg_001.ogg",
+            "text": "ふぁ……ちょっと休ませて……今、砂の船のパワーシステムを一通り調べたところなの……もう疲れて動けないよ……。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_summer_kuangshayixiang_idle_001.ogg",
+            "text": "うわ……酷い砂嵐！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_summer_kuangshayixiang_specialattention_001.ogg",
+            "text": "あれっ？局長だ！その装備……まさか局長も砂の海に埋められたお宝を探しに来たの？"
+        }
+    ],
+    "luminous_night": [
+        {
+            "title": "Level Up",
+            "filename": "File:vo_summer_xiayeshanguang_levelup_001.ogg",
+            "text": "清浄なる空のために！"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_summer_xiayeshanguang_head_001.ogg",
+            "text": "これ、リング研究所にいた頃からやりたかったんだよね～！あのジジイたち、いっつも「予算がない、予算がない」とか言っててさ。やっぱ局長、最高～！"
+        },
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_summer_xiayeshanguang_cacha_001.ogg",
+            "text": "リング物質エンジンの圧力正常。電子機械とGPSも正常。本体に損傷なし。空戦強化型リング武器、Summer1号——出る！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_summer_xiayeshanguang_greeting_001.ogg",
+            "text": "局長ーーどう？この空を飛ぶ感じ、いいでしょ？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_summer_xiayeshanguang_talk_001.ogg",
+            "text": "う～ん——ベストコンディション！これなら隣の学校の卒業パーティーに間に合う！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_summer_xiayeshanguang_talk_002.ogg",
+            "text": "ん？メッセージ……？「設備を壊さないよう、高度に注意してくれ」？はぁ……「夏音」って名を最低限信頼してよ！"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_summer_xiayeshanguang_hand_001.ogg",
+            "text": "テスト飛行の前に準備運動はしたよ。腹筋を……2回もね！"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_summer_xiayeshanguang_leg_001.ogg",
+            "text": "装甲、薄すぎ？へへ、当たらなければいいでしょ！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_summer_xiayeshanguang_idle_001.ogg",
+            "text": "うーん……宇宙に行った種が巨大な実をつけるなら、宇宙に行ったホットココアはもっと甘くなるのかな？えへへっ～"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_summer_xiayeshanguang_specialattention_001.ogg",
+            "text": "ああ局長、そんな緊張しないで！あなたの身体には、スマート飛行モジュールが16個もついてるから、空で寝ても大丈夫だよ！"
+        }
+    ]
 }

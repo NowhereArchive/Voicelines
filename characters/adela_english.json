@@ -1,176 +1,176 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_adela_cacha_001.ogg",
-      "text": "Glad to see you again, Chief. Do you want me to trim your hair, or trim away your troubles?"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_adela_promotion_001.ogg",
-      "text": "Your recognition is the best reward I could ever ask for."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_adela_promotion2_001.ogg",
-      "text": "A thick fog rolls in. The eyes of a lurker lock onto its prey... Shh, don't look back, it's staring at you..."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_adela_battlebegin_001.ogg",
-      "text": "Ah... the fog is coming in."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_adela_battlewin_001.ogg",
-      "text": "All done. Look forward to seeing you again."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_adela_battlelose_001.ogg",
-      "text": "Are you not happy with my service?"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_adela_uniqueskill_001.ogg",
-      "text": "Shh... I found you."
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_adela_dead_001.ogg",
-      "text": "I can't let it end here..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_adela_greeting_001.ogg",
-      "text": "Welcome. Though we're not in the shop right now, I'm still open to every customer's needs."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_adela_talk1_001.ogg",
-      "text": "Every customer who comes to my shop is troubled by something, and I happen to enjoy getting rid of those troubles for them."
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_adela_talk1_002.ogg",
-      "text": "\"Hair is like troubles. Cut them to lose all the worries,\" someone once told me that. You are welcome to my humble shop anytime to refresh your mood."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_adela_talk1_003.ogg",
-      "text": "You sharpened my scissors but forbid me to remove people's troubles. Chief, how should I interpret your behavior?"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_adela_talk2_001.ogg",
-      "text": "Don't worry. Most people will never recall the things that have been troubling them. They'll think of it as a dream. The fog disperses, and the dream ends."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_adela_talk2_002.ogg",
-      "text": "Everyone loves Adela the hairdresser and fears the figure in thick fog. Sigh... If my service has become an annoyance, then I'll just have to help them forget all of this."
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_adela_talk2_003.ogg",
-      "text": "Are you wondering who's behind the tale of fog alley, too? Is it a good Samaritan who rid people of their troubles, or a freak who relishes destroying and cutting things? Or maybe both?"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_adela_obeyfull_001.ogg",
-      "text": "People tend to bury themselves with old troubling memories, overburdened and suffocated, so I cut it away from me. But little did I know that I also cut away something that allowed my heart to sing. It's you who helped me rediscover that something."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_adela_idle_001.ogg",
-      "text": "Scissors rust if left unused for a long time."
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_adela_clicking_001.ogg",
-      "text": "Hmm? It seems that you have something that is troubling you. Sit still. Let me cut it off for you..."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_adela_specialattention_001.ogg",
-      "text": "Is this your way of saying you want to keep me by your side, like, forever?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_adela_dispatch_001.ogg",
-      "text": "I'm honored to be of assistance."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_adela_dispatch2_001.ogg",
-      "text": "It's my pleasure. Are you satisfied with the results?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_adela_levelup_002.ogg",
-      "text": "Thank you. How can I ever repay you?"
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_adela_head_001.ogg",
-      "text": "You like my hairstyle? This is very popular in Eastside. If you want to have this haircut, (Chuckles)... perhaps you need to let your hair grow for a while."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_adela_jointeam_001.ogg",
-      "text": "At your service."
-    }
-  ],
-  "candlelit_turret": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_adela_talouzhuguang_cacha_001.ogg",
-      "text": "Welcome to my tower. It is a great honor to have you here, Your Highness. I hope that you're not in a hurry to leave this time."
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_adela_talouzhuguang_levelup_001.ogg",
-      "text": "The candlelight in the turret seems to have grown even brighter."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_adela_talouzhuguang_greeting_001.ogg",
-      "text": "The wind has made a mess of your hair... Come, take a seat here. Let me straighten it up for you and ease your weariness."
-    },
-    {
-      "title": "Pat Head",
-      "filename": "File:vo_adela_talouzhuguang_head_001.ogg",
-      "text": "I once read in the tower's collection that you can capture someone's heart by tying your hair to theirs... You're caressing my hair with such gentleness, Your Highness, that I can't help but wonder if you wish to capture my heart."
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_adela_talouzhuguang_talk_001.ogg",
-      "text": "The trials and tribulations of the outside world have turned your hair into a lusterless mess. Please allow me to trim away your worries, and take care of your hair until it grows long enough to be intertwined with mine..."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_adela_talouzhuguang_talk_002.ogg",
-      "text": "Visitors come to this tower in the hope of receiving my help, and I'm forever ready to render assistance, keeping a candle lit for those in need. But you... you are different. You seem to have a different sort of request in mind."
-    },
-    {
-      "title": "Ordinary Contact 3",
-      "filename": "File:vo_adela_talouzhuguang_hand_001.ogg",
-      "text": "There are times, Your Highness, when I envy outsiders like you... My hair is the only means by which humans can get in and out of this tower. I have no choice but to let it grow. It has become so luxuriant that I feel as if I'm ensnared in an elaborate web."
-    },
-    {
-      "title": "Ordinary Contact 4",
-      "filename": "File:vo_adela_talouzhuguang_leg_001.ogg",
-      "text": "The dancing light of candle flames, the soothing scent of burning incense... Time spent in the tower has always been peaceful, like in a quiet dream. I have grown accustomed to all this, and I never thought to change anything... until you came along."
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_adela_talouzhuguang_idle_001.ogg",
-      "text": "You were lost in thought again, Your Highness. Is the outside world really that fascinating? You always have so much to say whenever this subject comes up. I was wondering... if I could join you outside."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_adela_talouzhuguang_specialattention_001.ogg",
-      "text": "I can see the earnestness in your eyes. If your request is for me to leave the tower with you, then I will. But before we do that, I hope you can stay here for a while longer, to take a break and relax."
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_adela_cacha_001.ogg",
+            "text": "Glad to see you again, Chief. Do you want me to trim your hair, or trim away your troubles?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_adela_promotion_001.ogg",
+            "text": "Your recognition is the best reward I could ever ask for."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_adela_promotion2_001.ogg",
+            "text": "A thick fog rolls in. The eyes of a lurker lock onto its prey... Shh, don't look back, it's staring at you..."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_adela_battlebegin_001.ogg",
+            "text": "Ah... the fog is coming in."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_adela_battlewin_001.ogg",
+            "text": "All done. Look forward to seeing you again."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_adela_battlelose_001.ogg",
+            "text": "Are you not happy with my service?"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_adela_uniqueskill_001.ogg",
+            "text": "Shh... I found you."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_adela_dead_001.ogg",
+            "text": "I can't let it end here..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_adela_greeting_001.ogg",
+            "text": "Welcome. Though we're not in the shop right now, I'm still open to every customer's needs."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_adela_talk1_001.ogg",
+            "text": "Every customer who comes to my shop is troubled by something, and I happen to enjoy getting rid of those troubles for them."
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_adela_talk1_002.ogg",
+            "text": "\"Hair is like troubles. Cut them to lose all the worries,\" someone once told me that. You are welcome to my humble shop anytime to refresh your mood."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_adela_talk1_003.ogg",
+            "text": "You sharpened my scissors but forbid me to remove people's troubles. Chief, how should I interpret your behavior?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_adela_talk2_001.ogg",
+            "text": "Don't worry. Most people will never recall the things that have been troubling them. They'll think of it as a dream. The fog disperses, and the dream ends."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_adela_talk2_002.ogg",
+            "text": "Everyone loves Adela the hairdresser and fears the figure in thick fog. Sigh... If my service has become an annoyance, then I'll just have to help them forget all of this."
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_adela_talk2_003.ogg",
+            "text": "Are you wondering who's behind the tale of fog alley, too? Is it a good Samaritan who rid people of their troubles, or a freak who relishes destroying and cutting things? Or maybe both?"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_adela_obeyfull_001.ogg",
+            "text": "People tend to bury themselves with old troubling memories, overburdened and suffocated, so I cut it away from me. But little did I know that I also cut away something that allowed my heart to sing. It's you who helped me rediscover that something."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_adela_idle_001.ogg",
+            "text": "Scissors rust if left unused for a long time."
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_adela_clicking_001.ogg",
+            "text": "Hmm? It seems that you have something that is troubling you. Sit still. Let me cut it off for you..."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_adela_specialattention_001.ogg",
+            "text": "Is this your way of saying you want to keep me by your side, like, forever?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_adela_dispatch_001.ogg",
+            "text": "I'm honored to be of assistance."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_adela_dispatch2_001.ogg",
+            "text": "It's my pleasure. Are you satisfied with the results?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_adela_levelup_002.ogg",
+            "text": "Thank you. How can I ever repay you?"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_adela_head_001.ogg",
+            "text": "You like my hairstyle? This is very popular in Eastside. If you want to have this haircut, (Chuckles)... perhaps you need to let your hair grow for a while."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_adela_jointeam_001.ogg",
+            "text": "At your service."
+        }
+    ],
+    "candlelit_turret": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_adela_talouzhuguang_cacha_001.ogg",
+            "text": "Welcome to my tower. It is a great honor to have you here, Your Highness. I hope that you're not in a hurry to leave this time."
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_adela_talouzhuguang_levelup_001.ogg",
+            "text": "The candlelight in the turret seems to have grown even brighter."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_adela_talouzhuguang_greeting_001.ogg",
+            "text": "The wind has made a mess of your hair... Come, take a seat here. Let me straighten it up for you and ease your weariness."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_adela_talouzhuguang_head_001.ogg",
+            "text": "I once read in the tower's collection that you can capture someone's heart by tying your hair to theirs... You're caressing my hair with such gentleness, Your Highness, that I can't help but wonder if you wish to capture my heart."
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_adela_talouzhuguang_talk_001.ogg",
+            "text": "The trials and tribulations of the outside world have turned your hair into a lusterless mess. Please allow me to trim away your worries, and take care of your hair until it grows long enough to be intertwined with mine..."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_adela_talouzhuguang_talk_002.ogg",
+            "text": "Visitors come to this tower in the hope of receiving my help, and I'm forever ready to render assistance, keeping a candle lit for those in need. But you... you are different. You seem to have a different sort of request in mind."
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_adela_talouzhuguang_hand_001.ogg",
+            "text": "There are times, Your Highness, when I envy outsiders like you... My hair is the only means by which humans can get in and out of this tower. I have no choice but to let it grow. It has become so luxuriant that I feel as if I'm ensnared in an elaborate web."
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_adela_talouzhuguang_leg_001.ogg",
+            "text": "The dancing light of candle flames, the soothing scent of burning incense... Time spent in the tower has always been peaceful, like in a quiet dream. I have grown accustomed to all this, and I never thought to change anything... until you came along."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_adela_talouzhuguang_idle_001.ogg",
+            "text": "You were lost in thought again, Your Highness. Is the outside world really that fascinating? You always have so much to say whenever this subject comes up. I was wondering... if I could join you outside."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_adela_talouzhuguang_specialattention_001.ogg",
+            "text": "I can see the earnestness in your eyes. If your request is for me to leave the tower with you, then I will. But before we do that, I hope you can stay here for a while longer, to take a break and relax."
+        }
+    ]
 }

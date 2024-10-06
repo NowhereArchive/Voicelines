@@ -1,203 +1,203 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_mcqueen_cacha_001.ogg",
-      "text": "These are the hands that arrested me? Your fingers and dexterous and strong. If only you could use them to paint for me... (Approaches) Of course, you could use them to do other things as well..."
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_mcqueen_battlebegin_001.ogg",
-      "text": "Be nice... Give me your hand. Don't let those incompetent appraisers make your hand dirty."
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_mcqueen_battlewin_001.ogg",
-      "text": "Sigh, what a pity. It's too worthless to even warrant a fake."
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_mcqueen_battlelose_001.ogg",
-      "text": "Oh no... They've spotted the flaw in the painting."
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_mcqueen_uniqueskill_001.ogg",
-      "text": "Don't blink. A mere moment separates real and fake."
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_mcqueen_dead_001.ogg",
-      "text": "Ha, real or fake, dead or alive... I've stopped caring long ago..."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_mcqueen_greeting_001.ogg",
-      "text": "How come you came back so late? I almost went to ask someone else for company... Hey, I'm kidding. Those people out there are all counterfeits. No one else can replace you."
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_mcqueen_talk1_001.ogg",
-      "text": "Hmm.. Take a look for me. Which of these two is genuine? Don't get nervous. If you say it's real, it's real"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_mcqueen_talk1_002.ogg",
-      "text": "An original work? A mediocre person like me with neither talent nor principles can't paint anything... But if it's for you, I'm willing to devote to painting you my heart."
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_mcqueen_talk1_003.ogg",
-      "text": "The painters want to make a living by painting, and the buyers want to purchase famous painting. I've helped them realize their dreams. Why are you mad at me, Chief?"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_mcqueen_idle_001.ogg",
-      "text": "What? Do you not find me attractive anymore?"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_mcqueen_clicking_001.ogg",
-      "text": "Why did you stop? You're not interested in me anymore, Chief?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_mcqueen_specialattention_001.ogg",
-      "text": "What your eyes see may not be true. Instead of staring at me like this, why don't you... verify it with your hands?"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_mcqueen_dispatch_001.ogg",
-      "text": "Hmm... It's about time to look for new forgers."
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_mcqueen_dispatch2_001.ogg",
-      "text": "You asked me to come back so urgently. Worried I may dine with someone else?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_mcqueen_levelup_002.ogg",
-      "text": "Stop giving me so much attention. What if... I get serious?"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_mcqueen_promotion_001.ogg",
-      "text": "Passing off fakes as the real thing? That's just the basics of basics."
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_mcqueen_promotion2_001.ogg",
-      "text": "Are you still willing to trust your own eyes?"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_mcqueen_talk2_001.ogg",
-      "text": "\"Never give up on your dreams.\" Hahaha... That's the funniest joke I've heard in Eastside."
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_mcqueen_talk2_002.ogg",
-      "text": "I used to be an art lover and a dreamer. As for now... Ha, I'm still passionate about art, but I don't have a dream anymore. All I have is you, Chief!"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_mcqueen_talk2_003.ogg",
-      "text": "Got dragged into trouble by McQueen but still tried to help her and thanked her for spotting her talent... Haha, no one will care about such a fool even if they go missing."
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_mcqueen_obeyfull_001.ogg",
-      "text": "You're the only valuable piece in my vault that cannot be replicated... Trust me, I'd never said that to anyone else before."
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_mcqueen_jointeam_001.ogg",
-      "text": "You know I won't turn down your request."
-    }
-  ],
-  "inferno_of_deception": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_cacha_001.ogg",
-      "text": "Fret not, my lost lamb, you've only stumbled upon my hall of flames... Oh... The way out? You'll have to distinguish... the real path from the false one."
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_greeting_001.ogg",
-      "text": "Have you made up your mind? Will you become a follower of lies or a martyr for the truth?"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_talk_001.ogg",
-      "text": "The only way to test if these flames are real is to touch them yourself. But if they are the fire of truth, a touch of it will burn you to ashes... It'll break my heart to witness that."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_talk_002.ogg",
-      "text": "Fangs and claws? How can I bring myself to hurt you with those... I've got this mistletoe branch for you, though. Take it, will you?"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_idle_001.ogg",
-      "text": "If you'd rather stay here forever, that's fine too. I'll keep you company eternally."
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_specialattention_001.ogg",
-      "text": "Are you stepping into the fire and betting on your fate? Come on then, come to me. I'll lead you to... the greatest ending!"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_levelup_001.ogg",
-      "text": "What treasure do you want me to bring you?"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_mcqueen_zhuoxinwangjing_clicking_001.ogg",
-      "text": "Oh, are you praying for me to get you out? Pray harder then... The goddess may just pity you..."
-    }
-  ],
-  "whimsical_theater": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_mcqueen_mengxisuitan_cacha_001.ogg",
-      "text": "Oh? Who is this esteemed guest stumbling upon my theater? Well, well, since you're here, why not stay and listen to me perform this new script?"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_mcqueen_mengxisuitan_greeting_001.ogg",
-      "text": "Perfect timing. Today's show was just about to begin... Hmm... Where did we leave off last time?"
-    },
-    {
-      "title": "Ordinary Contact 1",
-      "filename": "File:vo_mcqueen_mengxisuitan_talk_001.ogg",
-      "text": "Last time we were at... as the poor painter grew old, her desires swelled... Insatiable desire was gazing at the painter quietly, tempting her and controlling her thoughts, until she succumbed to it entirely."
-    },
-    {
-      "title": "Ordinary Contact 2",
-      "filename": "File:vo_mcqueen_mengxisuitan_talk_002.ogg",
-      "text": "You want to know what happened to the painter after that? Well, her first desire robbed her of her genuineness, her second desire took away her kindness, and her third desire stripped her of beauty... As for the ending... Well, take a guess?"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_mcqueen_mengxisuitan_idle_001.ogg",
-      "text": "(Relaxed exhale) I've been narrating this play for hours today. I'm too thirsty. My esteemed guest, don't I deserve some sympathy, and perhaps a cup of tea too?"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_mcqueen_mengxisuitan_specialattention_001.ogg",
-      "text": "Oh my, do you finally agree to let me portray you in this play too?"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_mcqueen_mengxisuitan_levelup_001.ogg",
-      "text": "This little tune you're humming is quite delightful. Can I hear it once more?"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_mcqueen_mengxisuitan_clicking_001.ogg",
-      "text": "Is it my play or me that you enjoy, my esteemed guest?"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_mcqueen_cacha_001.ogg",
+            "text": "These are the hands that arrested me? Your fingers and dexterous and strong. If only you could use them to paint for me... (Approaches) Of course, you could use them to do other things as well..."
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_mcqueen_battlebegin_001.ogg",
+            "text": "Be nice... Give me your hand. Don't let those incompetent appraisers make your hand dirty."
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_mcqueen_battlewin_001.ogg",
+            "text": "Sigh, what a pity. It's too worthless to even warrant a fake."
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_mcqueen_battlelose_001.ogg",
+            "text": "Oh no... They've spotted the flaw in the painting."
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_mcqueen_uniqueskill_001.ogg",
+            "text": "Don't blink. A mere moment separates real and fake."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_mcqueen_dead_001.ogg",
+            "text": "Ha, real or fake, dead or alive... I've stopped caring long ago..."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mcqueen_greeting_001.ogg",
+            "text": "How come you came back so late? I almost went to ask someone else for company... Hey, I'm kidding. Those people out there are all counterfeits. No one else can replace you."
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_mcqueen_talk1_001.ogg",
+            "text": "Hmm.. Take a look for me. Which of these two is genuine? Don't get nervous. If you say it's real, it's real"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_mcqueen_talk1_002.ogg",
+            "text": "An original work? A mediocre person like me with neither talent nor principles can't paint anything... But if it's for you, I'm willing to devote to painting you my heart."
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_mcqueen_talk1_003.ogg",
+            "text": "The painters want to make a living by painting, and the buyers want to purchase famous painting. I've helped them realize their dreams. Why are you mad at me, Chief?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mcqueen_idle_001.ogg",
+            "text": "What? Do you not find me attractive anymore?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mcqueen_clicking_001.ogg",
+            "text": "Why did you stop? You're not interested in me anymore, Chief?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mcqueen_specialattention_001.ogg",
+            "text": "What your eyes see may not be true. Instead of staring at me like this, why don't you... verify it with your hands?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_mcqueen_dispatch_001.ogg",
+            "text": "Hmm... It's about time to look for new forgers."
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_mcqueen_dispatch2_001.ogg",
+            "text": "You asked me to come back so urgently. Worried I may dine with someone else?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mcqueen_levelup_002.ogg",
+            "text": "Stop giving me so much attention. What if... I get serious?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_mcqueen_promotion_001.ogg",
+            "text": "Passing off fakes as the real thing? That's just the basics of basics."
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_mcqueen_promotion2_001.ogg",
+            "text": "Are you still willing to trust your own eyes?"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_mcqueen_talk2_001.ogg",
+            "text": "\"Never give up on your dreams.\" Hahaha... That's the funniest joke I've heard in Eastside."
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_mcqueen_talk2_002.ogg",
+            "text": "I used to be an art lover and a dreamer. As for now... Ha, I'm still passionate about art, but I don't have a dream anymore. All I have is you, Chief!"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_mcqueen_talk2_003.ogg",
+            "text": "Got dragged into trouble by McQueen but still tried to help her and thanked her for spotting her talent... Haha, no one will care about such a fool even if they go missing."
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_mcqueen_obeyfull_001.ogg",
+            "text": "You're the only valuable piece in my vault that cannot be replicated... Trust me, I'd never said that to anyone else before."
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_mcqueen_jointeam_001.ogg",
+            "text": "You know I won't turn down your request."
+        }
+    ],
+    "inferno_of_deception": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_cacha_001.ogg",
+            "text": "Fret not, my lost lamb, you've only stumbled upon my hall of flames... Oh... The way out? You'll have to distinguish... the real path from the false one."
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_greeting_001.ogg",
+            "text": "Have you made up your mind? Will you become a follower of lies or a martyr for the truth?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_talk_001.ogg",
+            "text": "The only way to test if these flames are real is to touch them yourself. But if they are the fire of truth, a touch of it will burn you to ashes... It'll break my heart to witness that."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_talk_002.ogg",
+            "text": "Fangs and claws? How can I bring myself to hurt you with those... I've got this mistletoe branch for you, though. Take it, will you?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_idle_001.ogg",
+            "text": "If you'd rather stay here forever, that's fine too. I'll keep you company eternally."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_specialattention_001.ogg",
+            "text": "Are you stepping into the fire and betting on your fate? Come on then, come to me. I'll lead you to... the greatest ending!"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_levelup_001.ogg",
+            "text": "What treasure do you want me to bring you?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mcqueen_zhuoxinwangjing_clicking_001.ogg",
+            "text": "Oh, are you praying for me to get you out? Pray harder then... The goddess may just pity you..."
+        }
+    ],
+    "whimsical_theater": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_mcqueen_mengxisuitan_cacha_001.ogg",
+            "text": "Oh? Who is this esteemed guest stumbling upon my theater? Well, well, since you're here, why not stay and listen to me perform this new script?"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_mcqueen_mengxisuitan_greeting_001.ogg",
+            "text": "Perfect timing. Today's show was just about to begin... Hmm... Where did we leave off last time?"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_mcqueen_mengxisuitan_talk_001.ogg",
+            "text": "Last time we were at... as the poor painter grew old, her desires swelled... Insatiable desire was gazing at the painter quietly, tempting her and controlling her thoughts, until she succumbed to it entirely."
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_mcqueen_mengxisuitan_talk_002.ogg",
+            "text": "You want to know what happened to the painter after that? Well, her first desire robbed her of her genuineness, her second desire took away her kindness, and her third desire stripped her of beauty... As for the ending... Well, take a guess?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_mcqueen_mengxisuitan_idle_001.ogg",
+            "text": "(Relaxed exhale) I've been narrating this play for hours today. I'm too thirsty. My esteemed guest, don't I deserve some sympathy, and perhaps a cup of tea too?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_mcqueen_mengxisuitan_specialattention_001.ogg",
+            "text": "Oh my, do you finally agree to let me portray you in this play too?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_mcqueen_mengxisuitan_levelup_001.ogg",
+            "text": "This little tune you're humming is quite delightful. Can I hear it once more?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_mcqueen_mengxisuitan_clicking_001.ogg",
+            "text": "Is it my play or me that you enjoy, my esteemed guest?"
+        }
+    ]
 }

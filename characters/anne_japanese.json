@@ -76,7 +76,7 @@
             "text": "狂瞳病は本当に治るんでしょうか？私には分かりません。ですが、可能性がわずかでもある限り私は諦めません。これは厳しい持久戦になるでしょう。それでも一緒に……戦ってくれますか？"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_anne_obeyfull_001.ogg",
             "text": "あの……もっと私を頼ってくださっていいんですよ？ 患者さんと関係があってもなくても、あなたのためなら、力になりたいんです。"
         },
@@ -101,7 +101,7 @@
             "text": "ひとまず、管理局の負傷者はお願いしますね。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_anne_dispatch2_001.ogg",
             "text": "ただいま戻りました。私がいない間、患者さんたちはちゃんと湿布を取り換えていましたか？"
         },
@@ -118,7 +118,7 @@
     ],
     "steamy_night_chat": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_anne_steamy_night_chat_cacha_001.ogg",
             "text": "部屋が散らかっていてごめんなさい。片付ける時間がなかったので……ふふ、不意打ちされたのは私なのに、どうしてあなたが顔を赤くしているのですか？"
         },
@@ -165,7 +165,7 @@
             "text": "応急処置は完了しました。患者さんは今のところ問題ありません。"
         },
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_anne_yeyuweiguang_cacha_001.ogg",
             "text": "すみません、突然パーティーを抜けてしまって……「ドアの外で突然気を失った人がいる。誰か応急処置ができる人はいないか」とウェイターが言っていたので、手伝えることがないか見に来たんです。応急処置は完了して、患者さんも無事なのでご安心ください。"
         },

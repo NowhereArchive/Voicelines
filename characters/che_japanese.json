@@ -76,7 +76,7 @@
             "text": "ハクイツってやつは、酒と賭博に溺れてるし、まともな仕事もしないで毎日厄介なことばかりして、酔っぱらったら俺のことをチビと呼びやがる……でも、あいつはこの世で一番面白いやつだ。俺が出会った時からそうだった。そんで、今でもそうなんだ。"
         },
         {
-            "title": "Compliance",
+            "title": "Full Compliance",
             "filename": "File:vo_che_obeyfull_001.ogg",
             "text": "せっかくそんな顔してるのに、局長として上に媚を売るわけでもないし、毎日のように俺たちコンビクトと一緒にいるなんて。お前って、面白いな……あっ、勘違いしないでくれ。別にそういう意味じゃないから。"
         },
@@ -101,7 +101,7 @@
             "text": "他の人に頼んでくれよ。俺は今取り込み中。"
         },
         {
-            "title": "Dispatch Completion",
+            "title": "Dispatch Complete",
             "filename": "File:vo_che_dispatch2_001.ogg",
             "text": "それじゃ、先に帰るから。"
         },
@@ -118,7 +118,7 @@
     ],
     "unexpected_guest": [
         {
-            "title": "Obtain the Sinner",
+            "title": "Obtain Attire",
             "filename": "File:vo_che_busuzhike_cacha_001.ogg",
             "text": "ん？誰かと思ったら、お前か。俺はここで仕事中。白記が借金取り立ての依頼を受けたんだが、K.K.は他の仕事で手を離せなくてな。俺が来るしかなかったんだよ。で、相手をビビらせるためにこれ着てるってわけだ——ハクイツのアイデアだから、俺は関与してないぞ。"
         },

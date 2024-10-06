@@ -1,119 +1,119 @@
 {
-  "default": [
-    {
-      "title": "Obtain the Sinner",
-      "filename": "File:vo_gekkabijin_cacha_001.ogg",
-      "text": "どーも。あんたがMBCCの局長？私にやられるまでしっかり自分の身を守っておきなよ。あんたの命には価値があるんだから。"
-    },
-    {
-      "title": "Raise to Phase 1",
-      "filename": "File:vo_gekkabijin_promotion_001.ogg",
-      "text": "危険だってわかってるくせに、私の力を上げさせるんだ。私じゃ脅威にならないって言いたいのかよ！"
-    },
-    {
-      "title": "Raise to Phase 3",
-      "filename": "File:vo_gekkabijin_promotion2_001.ogg",
-      "text": "貴方様だけの刃になると誓いましょう……ハッ……私は花庭園に斬りかかる刃。私を見下したやつは全員……ぶった切ってやる！"
-    },
-    {
-      "title": "Level Start",
-      "filename": "File:vo_gekkabijin_battlebegin_001.ogg",
-      "text": "私に見つかった以上、逃げられると思わないで。"
-    },
-    {
-      "title": "Deploy",
-      "filename": "File:bt_gekkabijin_jointeam_001.ogg",
-      "text": "いつもより手応えがあると良いんだけど。"
-    },
-    {
-      "title": "Win Battles",
-      "filename": "File:vo_gekkabijin_battlewin_001.ogg",
-      "text": "こんな弱い相手……舐めてんのかよ！"
-    },
-    {
-      "title": "Lose Battles",
-      "filename": "File:vo_gekkabijin_battlelose_001.ogg",
-      "text": "こんなの……ありえない！"
-    },
-    {
-      "title": "Ultimate Skill",
-      "filename": "File:bt_gekkabijin_uniqueskill_001.ogg",
-      "text": "大丈夫よ。痛くしないから！"
-    },
-    {
-      "title": "Die in Battles",
-      "filename": "File:bt_gekkabijin_dead_001.ogg",
-      "text": "弱さは……罪よ……"
-    },
-    {
-      "title": "Greeting",
-      "filename": "File:vo_gekkabijin_greeting_001.ogg",
-      "text": "へー、セキュリティけっこう固いじゃん。ふふっ……やっと私の実力を認めたんだ。"
-    },
-    {
-      "title": "Conversation 1",
-      "filename": "File:vo_gekkabijin_talk1_001.ogg",
-      "text": "ここ、静かすぎて花庭園の陰湿な感じを思い出しそう。でも、紛争ばっかのシンジケートよりはましかな。"
-    },
-    {
-      "title": "Conversation 2",
-      "filename": "File:vo_gekkabijin_talk1_002.ogg",
-      "text": "花庭園には「華道」に詳しい人がたくさんいるけど……私にはわかんない。暗殺は暗殺でしょ。そんな余計なもの、いらないじゃん。"
-    },
-    {
-      "title": "Conversation 3",
-      "filename": "File:vo_gekkabijin_talk1_003.ogg",
-      "text": "「強い者」たちの悲鳴は本当に気持ちがいいよね……そう思わない？"
-    },
-    {
-      "title": "Special Conversation 1",
-      "filename": "File:vo_gekkabijin_talk2_001.ogg",
-      "text": "花庭園に助けられたあの時、私はあいつらみたいな殺し屋になりたいと思った。でも、は……はは……あいつら、私は弱いから花庭園にふさわしくないって！！"
-    },
-    {
-      "title": "Special Conversation 2",
-      "filename": "File:vo_gekkabijin_talk2_002.ogg",
-      "text": "「ゲツライコウ」は私が自分でつけた名前。花庭園から名前を貰えるのはごく一部の人だけなの……。でも今はあんたの力があるし、花庭園最強の殺し屋になったら……あはは！その時の「師匠」の顔を見るのが楽しみね！"
-    },
-    {
-      "title": "Special Conversation 3",
-      "filename": "File:vo_gekkabijin_talk2_003.ogg",
-      "text": "あの「落桜」で死ぬところだった。でも、あんたがいれば……あんな技、軽く流せるはず……。ふん……次……次があいつの番だから！"
-    },
-    {
-      "title": "Compliance",
-      "filename": "File:vo_gekkabijin_obeyfull_001.ogg",
-      "text": "ありがとう、局長。花庭園の殺し屋を全部殺して、その人たちの命をプレゼントしてあげる！それから……最後にあんたをゆっくり楽しむの！"
-    },
-    {
-      "title": "Idle",
-      "filename": "File:vo_gekkabijin_idle_001.ogg",
-      "text": "美しい花たちがこの町で枯れていくと思うと……ああ、楽しみすぎて震えが止まんない！"
-    },
-    {
-      "title": "Annoyed",
-      "filename": "File:vo_gekkabijin_clicking_001.ogg",
-      "text": "心臓、動脈、脳……どこを切られたい？"
-    },
-    {
-      "title": "Special Attention",
-      "filename": "File:vo_gekkabijin_specialattention_001.ogg",
-      "text": "そんなに私のことを気にして……私にやられるのが怖いんだ。"
-    },
-    {
-      "title": "Dispatch",
-      "filename": "File:vo_gekkabijin_dispatch_001.ogg",
-      "text": "私が行くの？刺激的で危険な任務ってことだよね？"
-    },
-    {
-      "title": "Dispatch Completion",
-      "filename": "File:vo_gekkabijin_dispatch2_001.ogg",
-      "text": "あーあ、つまんない。もっと楽しめる相手だと思ったのに。"
-    },
-    {
-      "title": "Level Up",
-      "filename": "File:vo_gekkabijin_levelup_002.ogg",
-      "text": "見てろよ……花庭園。"
-    }
-  ]
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_gekkabijin_cacha_001.ogg",
+            "text": "どーも。あんたがMBCCの局長？私にやられるまでしっかり自分の身を守っておきなよ。あんたの命には価値があるんだから。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_gekkabijin_promotion_001.ogg",
+            "text": "危険だってわかってるくせに、私の力を上げさせるんだ。私じゃ脅威にならないって言いたいのかよ！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_gekkabijin_promotion2_001.ogg",
+            "text": "貴方様だけの刃になると誓いましょう……ハッ……私は花庭園に斬りかかる刃。私を見下したやつは全員……ぶった切ってやる！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_gekkabijin_battlebegin_001.ogg",
+            "text": "私に見つかった以上、逃げられると思わないで。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_gekkabijin_jointeam_001.ogg",
+            "text": "いつもより手応えがあると良いんだけど。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_gekkabijin_battlewin_001.ogg",
+            "text": "こんな弱い相手……舐めてんのかよ！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_gekkabijin_battlelose_001.ogg",
+            "text": "こんなの……ありえない！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_gekkabijin_uniqueskill_001.ogg",
+            "text": "大丈夫よ。痛くしないから！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_gekkabijin_dead_001.ogg",
+            "text": "弱さは……罪よ……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_gekkabijin_greeting_001.ogg",
+            "text": "へー、セキュリティけっこう固いじゃん。ふふっ……やっと私の実力を認めたんだ。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_gekkabijin_talk1_001.ogg",
+            "text": "ここ、静かすぎて花庭園の陰湿な感じを思い出しそう。でも、紛争ばっかのシンジケートよりはましかな。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_gekkabijin_talk1_002.ogg",
+            "text": "花庭園には「華道」に詳しい人がたくさんいるけど……私にはわかんない。暗殺は暗殺でしょ。そんな余計なもの、いらないじゃん。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_gekkabijin_talk1_003.ogg",
+            "text": "「強い者」たちの悲鳴は本当に気持ちがいいよね……そう思わない？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_gekkabijin_talk2_001.ogg",
+            "text": "花庭園に助けられたあの時、私はあいつらみたいな殺し屋になりたいと思った。でも、は……はは……あいつら、私は弱いから花庭園にふさわしくないって！！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_gekkabijin_talk2_002.ogg",
+            "text": "「ゲツライコウ」は私が自分でつけた名前。花庭園から名前を貰えるのはごく一部の人だけなの……。でも今はあんたの力があるし、花庭園最強の殺し屋になったら……あはは！その時の「師匠」の顔を見るのが楽しみね！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_gekkabijin_talk2_003.ogg",
+            "text": "あの「落桜」で死ぬところだった。でも、あんたがいれば……あんな技、軽く流せるはず……。ふん……次……次があいつの番だから！"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_gekkabijin_obeyfull_001.ogg",
+            "text": "ありがとう、局長。花庭園の殺し屋を全部殺して、その人たちの命をプレゼントしてあげる！それから……最後にあんたをゆっくり楽しむの！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_gekkabijin_idle_001.ogg",
+            "text": "美しい花たちがこの町で枯れていくと思うと……ああ、楽しみすぎて震えが止まんない！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_gekkabijin_clicking_001.ogg",
+            "text": "心臓、動脈、脳……どこを切られたい？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_gekkabijin_specialattention_001.ogg",
+            "text": "そんなに私のことを気にして……私にやられるのが怖いんだ。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_gekkabijin_dispatch_001.ogg",
+            "text": "私が行くの？刺激的で危険な任務ってことだよね？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_gekkabijin_dispatch2_001.ogg",
+            "text": "あーあ、つまんない。もっと楽しめる相手だと思ったのに。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_gekkabijin_levelup_002.ogg",
+            "text": "見てろよ……花庭園。"
+        }
+    ]
 }
