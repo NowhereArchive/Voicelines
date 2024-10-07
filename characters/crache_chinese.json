@@ -1,0 +1,176 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_crache_cacha_001.ogg",
+            "text": "玻璃关不住影子，这里也困不住我。别白费力气了，米诺斯的局长，你们这些大人只会把事情越搞越糟。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_crache_promotion_001.ogg",
+            "text": "只要不暴露在日光下，任何人都没办法发现我。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_crache_promotion2_001.ogg",
+            "text": "狄斯城每一寸阴影，都是我的领地。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_crache_battlebegin_001.ogg",
+            "text": "我可不适合出现在这种地方。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_crache_battlewin_001.ogg",
+            "text": "就这种货色……用得着我出手吗。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_crache_battlelose_001.ogg",
+            "text": "哈哈，我就知道，什么都改变不了。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_crache_uniqueskill_001.ogg",
+            "text": "如影……随形。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_crache_dead_001.ogg",
+            "text": "好黑……好冷啊……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_crache_greeting_001.ogg",
+            "text": "米诺斯的局长，请注意一下房间中的阴影，你刚才差点撞到我。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_crache_talk1_001.ogg",
+            "text": "“流浪儿”们闯的祸跟我无关。我不是头领，也没下过指令，不过是被借个名头扯虎皮罢了。不过……辛迪加的坏小孩很让你们头疼吗？呵呵，活该。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_crache_talk1_002.ogg",
+            "text": "你是个成熟的大人了，还有什么事非要找一个小鬼帮忙？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_crache_talk1_003.ogg",
+            "text": "没有人想出生在辛迪加，那里的谎言和暴力永远都不会改变。我放弃了，想离远点，不过分吧？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_crache_talk2_001.ogg",
+            "text": "这里……还算不错。卧室的床，比辛迪加那边软上很多。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_crache_talk2_002.ogg",
+            "text": "墙壁上的是“流浪儿”的徽记，想加入的话，就自己照着画一个吧……不过单单从年龄上来看，你就已经失去资格了。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_crache_talk2_003.ogg",
+            "text": "禁闭室的空间可以适当扩大一些么？我不是讨厌狭小的地方，我只是……有些不好的回忆。或者……你要不然就……和我聊聊管理局的事吧……"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_crache_obeyfull_001.ogg",
+            "text": "你……是个奇怪的人。如果辛迪加的那些人都像你一样，我们也能少受很多罪吧。……你为什么没有早点来……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_crache_idle_001.ogg",
+            "text": "啊——难得的放松时间，没有任务要出，也没有人来打扰我。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_crache_clicking_001.ogg",
+            "text": "唉……你们这些大人，真的是……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_crache_specialattention_001.ogg",
+            "text": "……当你凝视阴影时，阴影也在凝视着你。放弃吧，你碰不到影子。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_crache_dispatch_001.ogg",
+            "text": "哈？来你这儿还要工作的吗？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_crache_dispatch2_001.ogg",
+            "text": "唔……我果然，还是不适应在阳光下活动……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_crache_levelup_002.ogg",
+            "text": "阴影……在向我聚集。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_crache_head_001.ogg",
+            "text": "——干嘛……这身高只是暂时的。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_crache_jointeam_001.ogg",
+            "text": "What a pain... If I must be on the field, let's end the battle quickly."
+        }
+    ],
+    "eternal_night_hunt": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_crache_yongyeshoulie_cacha_001.ogg",
+            "text": "你还在听那些老掉牙的故事？好好看看吧，属于我们的“童话”，究竟长什么样……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_crache_yongyeshoulie_levelup_001.ogg",
+            "text": "影子，你闻到了吗，腐烂的、腥臭的气味……该加餐了。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_crache_yongyeshoulie_greeting_001.ogg",
+            "text": "喂，待在这儿，别出去。森林里……即便是你，也会被当成兔子吃掉。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_crache_yongyeshoulie_head_001.ogg",
+            "text": "耳朵、影子、眼睛……还不明白吗？我可不是那个戴着红帽子、任人欺负的小孩。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_crache_yongyeshoulie_talk_001.ogg",
+            "text": "那些混蛋用童话把孩子们变善良，利用他们的善良，伤害他们，最后将他们丢掉……我不会上当了。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_crache_yongyeshoulie_talk_002.ogg",
+            "text": "你真的相信狼会把到嘴的肉吐出来？它只会一口接一口，吃掉所有猎物。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_crache_yongyeshoulie_hand_001.ogg",
+            "text": "“小红帽”饼干，你也想要么？可以，不过……别太好奇它的原料。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_crache_yongyeshoulie_leg_001.ogg",
+            "text": "没人会把猎物让给一个穿裙子的小姑娘。除非，你比他们更强。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_crache_yongyeshoulie_idle_001.ogg",
+            "text": "安静点，再等等，夜还不够深……黑色的角落才是我们的领域。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_crache_yongyeshoulie_specialattention_001.ogg",
+            "text": "别抱什么期待，我是不会陪你玩过家家的。"
+        }
+    ]
+}

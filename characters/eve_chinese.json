@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eve_cacha_001.ogg",
+            "text": "这里就是米诺斯危机管理局吗？这一次，名为“伊芙”的累赘还会遇到不一样的故事吗？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_eve_promotion_001.ogg",
+            "text": "我的身上，早就不会发生奇迹了吧？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_eve_promotion2_001.ogg",
+            "text": "破碎的身体都能突破新的极限，那破碎的相片呢？为什么不能复原……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_eve_battlebegin_001.ogg",
+            "text": "何必带上我呢？我只会拖累各位。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_eve_battlewin_001.ogg",
+            "text": "它们的不幸，终于结束了。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_eve_battlelose_001.ogg",
+            "text": "又见面了……残酷的现实。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_eve_uniqueskill_001.ogg",
+            "text": "去吧——"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_eve_dead_001.ogg",
+            "text": "终于……可以团聚了……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eve_greeting_001.ogg",
+            "text": "原来你也在这里……不用顾虑我，我只是想找个安心的地方待着。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_eve_talk1_001.ogg",
+            "text": "我的轮椅总是趁我不注意的时候，带我“走”出很远……它大概是在找一个叫做“家”的地方。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_eve_talk1_002.ogg",
+            "text": "局长喜欢十二点之后的钟声吗？我很喜欢。只要敲响了它，就可以假装分不清梦境与现实。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_eve_talk1_003.ogg",
+            "text": "我以为玩具能一直陪伴主人，可塑料会风化，陶瓷易碎，金属生锈，人会长大……看来只有“变”才是不变的。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_eve_talk2_001.ogg",
+            "text": "我曾经有一颗世上最甜的糖果，可日子过去太久了，它尝起来却比药还苦。谢谢你，让我稍稍想起了一些甜味。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_eve_talk2_002.ogg",
+            "text": "能把你的笑容和希望分给我一些吗？或许我也开始向往局长眼中的世界了……那么灿烂，那么热烈……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_eve_talk2_003.ogg",
+            "text": "如果真的存在等不到天亮的夜晚，你会和我一起去吗？在没有尽头的深夜里，一起数星星，一起……做永不醒来的梦。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_eve_obeyfull_001.ogg",
+            "text": "The fairy tale says \"your beloved one is always by your side, you just can't see him/her\"... I reckon the fairy tale is lying again, because this time I see you."
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eve_idle_001.ogg",
+            "text": "小熊别怕，伊芙在这里，永远都在……可惜，伊芙却听不到别人对她说同样的话了……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eve_clicking_001.ogg",
+            "text": "如果这样的触摸能满足你的好奇，请便吧。不用同情我，在我失去的所有东西里，双腿是最不重要的一部分。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eve_specialattention_001.ogg",
+            "text": "谢谢你来陪我，不介意的话，能推我出去走走吗？外面的空气能帮我暂时忘记一些事情。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_eve_dispatch_001.ogg",
+            "text": "轮椅能去的地方有限，不建议你对我抱有什么期待。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_eve_dispatch2_001.ogg",
+            "text": "我回来了。如果没有别的事，请让我一个人休息一会吧。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eve_levelup_002.ogg",
+            "text": "为什么还不肯放弃这副没用的身体？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eve_head_001.ogg",
+            "text": "你的手，能再多停留一会儿吗？我怕这份温柔又像从前那样，转瞬即逝……"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_eve_jointeam_001.ogg",
+            "text": "It's time for the toys to meet new friends."
+        }
+    ]
+}

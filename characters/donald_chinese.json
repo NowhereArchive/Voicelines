@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_donald_cacha_001.ogg",
+            "text": "对，你没看错，是我，西区的大英雄，流民寨的救世主！唉，待会再解释来龙去脉，先给口饭吃，快饿死了都。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_donald_promotion_001.ogg",
+            "text": "局势有这么严峻？连我都非得特训吗？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_donald_promotion2_001.ogg",
+            "text": "我这柄破枪，居然还有焕发第二春的机会……还真叫人感慨。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_donald_levelup_002.ogg",
+            "text": "挺好，感觉不赖。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_donald_head_001.ogg",
+            "text": "得得得，别摸了，搞得跟个鸟窝似的，好不容易捯饬了一个帅发型，弄乱了你负责啊？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_donald_battlebegin_001.ogg",
+            "text": "我数到三，赶紧投降，别逼我先跪下！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_donald_battlewin_001.ogg",
+            "text": "惊讶啥？平时不露锋芒，你就真以为我没本事啊，哼哼哼。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_donald_battlelose_001.ogg",
+            "text": "风紧扯呼……该跑路咯！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_donald_uniqueskill_001.ogg",
+            "text": "风雷交加！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_donald_dead_001.ogg",
+            "text": "要死了吗……呵呵，也不是第一次了……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_donald_talk1_001.ogg",
+            "text": "咱们得空一定得一块儿回去一趟，让流民寨的人看看我跟在你身后当狗腿子的样子，也不知道他们会是什么表情……哈哈，好像也没什么，见怪不怪了都。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_donald_talk1_002.ogg",
+            "text": "你要记住，西区那地界，鱼龙混杂，藏龙卧虎。可别总当刺儿头，整的跟谁谁都不对付啊。“多交朋友少树敌”知道吗？万一哪天用得着人家呢对不对呢？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_donald_talk1_003.ogg",
+            "text": "说起来，执委会那边，你应该能出面替我摆平吧？毕竟原则上我整的那些活算是叛变，还是有点见不得人的。你帮我这一把，从今往后公若不弃，某必结草衔环以报……求你了！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_donald_talk2_001.ogg",
+            "text": "西区经历的一切都不能被翻篇……但比起怨恨和报复，我们更需要、也值得一个充满希望的未来。铁锈上复燃的火焰不为毁灭，为的是照亮前路……嘶——说的太好了，快，夸夸我。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_donald_talk2_002.ogg",
+            "text": "这杆枪，陪我很久了，第一次拿起它的时候，我还只是个一心想着出风头的毛小子，—晃十几年过去了……那句话怎么说来着？“物是人非事事休。”我从没想过还能再拿起它……加油啊老伙计，可别给咱们丢人。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_donald_talk2_003.ogg",
+            "text": "从这个角度看，西区还挺美的不是吗？西区本就该是这样。我还记得她过去的样子：太阳下的街道，风穿过去的时候，没有铁锈味，和阳光一样温暖，带着希望……对了，那一片有个夜市，应该是最接近过去味道的地方了。等太阳下山他们出摊了我就带你过去闻闻。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_donald_obeyfull_001.ogg",
+            "text": "管我叫“大英雄”？哼哼，这算啥，我身上名头多了去了。“西区明星”“雷电天王”“里湾湾草”“锈火领袖”“逃兵”“叛徒”“骗子”“失败者”，这些名头到现在都有人念叨，只有一个永久停用了……会叫我“挚友”的人已经不在了……你干嘛这么看着我？干啥，你想说啥？别别别没到那个份儿啊，我没做好准备呢别这么叫我哎唷你不脸红吗？？？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_donald_greeting_001.ogg",
+            "text": "呀，来啦？有什么困难呢尽管开口，跟哥们儿客气……能不能解决另说啊。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_donald_idle_001.ogg",
+            "text": "Rise and shine, sleeping beauty. Skipping work today?"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_donald_clicking_001.ogg",
+            "text": "怎么，对我这身腱子肉感兴趣？嗐，都什么时代了，在外面混要靠禁闭者能力的，几块肌肉吓唬不了谁的。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_donald_dispatch_001.ogg",
+            "text": "保证不一定完成任务。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_donald_dispatch2_001.ogg",
+            "text": "事儿办成了，什么时候开表彰会呀？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_donald_specialattention_001.ogg",
+            "text": "哟，MBCC的局长大驾光临所为何事啊？我这种社会闲散人士也没什么看头吧。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_donald_jointeam_001.ogg",
+            "text": "So, you need me to show off my skills again? Okay... Okay... I'll be serious this time."
+        }
+    ]
+}

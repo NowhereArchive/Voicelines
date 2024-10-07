@@ -1,0 +1,218 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_chelsea_cacha_001.ogg",
+            "text": "我不喜欢被关着……开个价吧,离开这儿要花多少钱？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_chelsea_promotion_001.ogg",
+            "text": "哦？西迪的净度是不是上升了？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_chelsea_promotion2_001.ogg",
+            "text": "以后，没有人能伤害我们，没有人。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_chelsea_battlebegin_001.ogg",
+            "text": "该去度假了吗？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_chelsea_battlewin_001.ogg",
+            "text": "就这？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_chelsea_battlelose_001.ogg",
+            "text": "呜……这比被人拒绝还难受……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_chelsea_uniqueskill_001.ogg",
+            "text": "西迪，拦住他们!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_chelsea_dead_001.ogg",
+            "text": "怎么会……这样？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_chelsea_greeting_001.ogg",
+            "text": "哟，你回来了。有段时间没见，我都有点儿担心了。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_chelsea_talk1_001.ogg",
+            "text": "为什么总有人说我嚣张呢？我只是对有钱这事儿很坦诚罢了。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_chelsea_talk1_002.ogg",
+            "text": "你看这颗祖母绿的火彩,是不是很漂亮？哼哼，它原石的净度其实不怎么样，不过，好的切工就是可以化腐朽为神奇。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_chelsea_talk1_003.ogg",
+            "text": "这里的孩子都好可爱，可为什么他们都不肯接受我的爱护呢？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_chelsea_talk2_001.ogg",
+            "text": "家里的猫，也不知道怎么样了……局长，我能把它们带来这儿吗？没多少，也就……一百来只吧。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_chelsea_talk2_002.ogg",
+            "text": "我认为我就是为宝石而生的……但我真的和它们一样耀眼吗？"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_chelsea_talk2_003.ogg",
+            "text": "局长，如果我说我想养你一辈子，你觉得怎么样？我是认真的。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_chelsea_obeyfull_001.ogg",
+            "text": "这是遗产分配协议，过来，签上你的名字……万一哪天我有个三长两短，拿着这笔钱，照顾好那些小可爱们……还有西迪，明白了吗？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_chelsea_idle_001.ogg",
+            "text": "西迪，乖孩子，待会儿有人来了你知道该怎么做的对吧。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_chelsea_clicking_001.ogg",
+            "text": "我还没试过花钱买人的手脚,真想试试看啊。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_chelsea_specialattention_001.ogg",
+            "text": "居然这么郑重地来找我……局长，你最近是缺钱了吗？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_chelsea_dispatch_001.ogg",
+            "text": "小事一桩。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_chelsea_dispatch2_001.ogg",
+            "text": "我回来了。看，我给大家都带了纪念品。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_chelsea_levelup_002.ogg",
+            "text": "不错不错。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_chelsea_head_001.ogg",
+            "text": "嗯？你这是想听我也呼噜呼噜？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_chelsea_jointeam_001.ogg",
+            "text": "Let's go, Sitri."
+        }
+    ],
+    "moonlight_rendezvous": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_chelsea_yueyinsheqing_cacha_001.ogg",
+            "text": "欢迎来到我的庄园！局长……你难得来一趟，把这里当成自己家就好。太拘束，可是会很无聊的。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_chelsea_yueyinsheqing_greeting_001.ogg",
+            "text": "一起来喝一杯么~？放心吧局长——这只是石榴汁而已。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_chelsea_yueyinsheqing_talk_001.ogg",
+            "text": "再靠近我一点，让我仔细听听你的呼吸声——啊……就像小猫一样。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_chelsea_yueyinsheqing_talk_002.ogg",
+            "text": "据说在这间屋子里对着镜子反复念上几遍“切尔西伯爵包养我”“切尔西伯爵包养我”。无论我在什么地方，都会立刻出现在这里哦，怎么样，不来试试么？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_chelsea_yueyinsheqing_idle_001.ogg",
+            "text": "西迪你今天又不好好吃饭……是钻石不合你的胃口么？唉……我知道了，我马上就去换几颗你最喜欢的黑欧珀。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_chelsea_yueyinsheqing_clicking_001.ogg",
+            "text": "局长你终于开窍了，我可以把这当成是你向我示爱的信号么！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_chelsea_yueyinsheqing_specialattention_001.ogg",
+            "text": "该拉上窗帘，享受只有你我二人的夜晚了。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_chelsea_yueyinsheqing_levelup_001.ogg",
+            "text": "长夜漫漫，要做些有趣的事么？"
+        }
+    ],
+    "lake_of_mythos": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_chelsea_yiluoxinhu_cacha_001.ogg",
+            "text": "你丢的是这把金斧头呢，还是这把宝石斧头？不要跟我客气，喜欢的话，可以都拿走~"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_chelsea_yiluoxinhu_greeting_001.ogg",
+            "text": "哈哈~不用假装有东西掉进了湖里，你想要的我都可以给你，我只收一点微不足道的报酬就行——永远留在我身边吧~"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_chelsea_yiluoxinhu_talk_001.ogg",
+            "text": "不合我口味的家伙，就算句句是真话，也不会把我的收藏带走~"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_chelsea_yiluoxinhu_talk_002.ogg",
+            "text": "每天都会有被忘记的，被抛弃的，被错失的东西，从湖面滑落至我的身边……那么，从你指缝中溜走的，是哪一种呢？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_chelsea_yiluoxinhu_hand_001.ogg",
+            "text": "你的手心干燥又温暖……我喜欢这个触感！开个价吧，我要给你多少宝石，才能让你像这样一直牵着我的手？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_chelsea_yiluoxinhu_leg_001.ogg",
+            "text": "湖水是我的四肢，我的心脏，我的裙摆……当你撩动它时，也就是在抚摸着我……呵呵，怎么，你不信吗？我可是真的能融入水中的哦~"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_chelsea_yiluoxinhu_idle_001.ogg",
+            "text": "西迪，你又去湖底玩寻宝游戏了啊。把这些几百年的旧东西都刨出来了……唉，快过来，我给你擦擦爪子。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_chelsea_yiluoxinhu_specialattention_001.ogg",
+            "text": "对我感兴趣就直说嘛，我现在就可以招待你去我家玩~放心，你在湖底的房间我也早就准备好了，特地给你用上了珍珠帘子和宝石床，你一定会喜欢的~"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_chelsea_yiluoxinhu_levelup_001.ogg",
+            "text": "呼~果然，水变清澈了，心情也会变好~"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_chelsea_yiluoxinhu_head_001.ogg",
+            "text": "这花环可是湖底生灵给我的宝贵礼物。怎么样，比那些标价好多个零的装饰品好看多了吧？"
+        }
+    ]
+}

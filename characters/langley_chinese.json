@@ -1,0 +1,228 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_langley_cacha_001.ogg",
+            "text": "居然能给自己的长官拷上手铐……新人，你很有胆量。来吧，让我看看，你都抓住了我的什么把柄。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_langley_promotion_001.ogg",
+            "text": "小心——你已经被瞄准了。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_langley_promotion2_001.ogg",
+            "text": "阴险鼠辈待在阴沟吧，你们不配享受阳光！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_langley_battlebegin_001.ogg",
+            "text": "让我看看你们抱头鼠窜的样子。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_langley_battlewin_001.ogg",
+            "text": "干得不错，回去庆祝吧。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_langley_battlelose_001.ogg",
+            "text": "撤退，部下宝贵的性命可不能交代在这里。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_langley_uniqueskill_001.ogg",
+            "text": "Time to die."
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_langley_dead_001.ogg",
+            "text": "会有人……继承这份意志……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_langley_greeting_001.ogg",
+            "text": "你来晚了，新人。行动有什么新进展吗？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_langley_talk1_001.ogg",
+            "text": "喜欢我的手杖吗？借你玩玩。不过要小心点，里面藏了不少东西……可别伤着自己了。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_langley_talk1_002.ogg",
+            "text": "去深入黑暗、沾染污秽……我的部下不需要完美，忠诚就是最大的美德。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_langley_talk1_003.ogg",
+            "text": "那些人说，第九机关是阴影里的蜘蛛，冷血的走狗？嗯……我喜欢。他们的憎恶源自恐惧，而恐惧……可是间谍最爱的武器。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_langley_talk2_001.ogg",
+            "text": "那些规章制度不需要你来担心，想干什么，就放手去做吧？你可是我的人，自信点。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_langley_talk2_002.ogg",
+            "text": "我的愿望……是世界和平。你相信吗？"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_langley_talk2_003.ogg",
+            "text": "很在意我太阳穴上的小装饰吗？你不用知道它的来历，只不过是……我偶尔也会有的爱美之心罢了。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_langley_obeyfull_001.ogg",
+            "text": "不要向我索取真实，新人，有些真相只能用性命交换。终有一天，它们会被我带进永夜，而你……你会活下去，我会让你活下去，和我的城市一起，度过黑夜，迎接曙光。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_langley_idle_001.ogg",
+            "text": "接下来……呵呵，该清理谁呢……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_langley_clicking_001.ogg",
+            "text": "你可想清楚了，丢掉工作和丢掉性命，都不是什么好事。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_langley_specialattention_001.ogg",
+            "text": "只会这么盯着我看，你可没法得到想要的情报。怎么样，新人，要我教你点拷问技巧吗？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_langley_dispatch_001.ogg",
+            "text": "哦？你需要我亲自出场啊——"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_langley_dispatch2_001.ogg",
+            "text": "想要一手情报资料？今晚来我办公室取吧。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_langley_levelup_002.ogg",
+            "text": "目标锁定——"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_langley_head_001.ogg",
+            "text": "想试这顶帽子，还是我的子弹？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_langley_jointeam_001.ogg",
+            "text": "Execution time."
+        }
+    ],
+    "banquet_guest": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_langley_banquet_guest_cacha_001.ogg",
+            "text": "一切进展顺利。但不得不说，你的到来……让这次宴会变得更加有趣了。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_langley_banquet_guest_greeting_001.ogg",
+            "text": "我不想听到你的报告，这是明天的日程安排，安心享受这场宴会吧，这才是当下最重要的任务。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_langley_banquet_guest_talk_001.ogg",
+            "text": "你来得太早了，新人。是不信任我，还是说……想要亲眼见证我完成任务？我希望你的答案是后者。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_langley_banquet_guest_talk_002.ogg",
+            "text": "看似清冽实则辛辣，这就是藏元柳生贤一的得意铭柄——“贡胜”的特点。就和辛迪加的帮派一样，表面一团草芥，实则暗藏刺刀。不这么觉得么，新人？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_langley_banquet_guest_hand_001.ogg",
+            "text": "有些真相只能用鲜血交换，不过这次……我不希望弄出太大的动静。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_langley_banquet_guest_leg_001.ogg",
+            "text": "别这么紧张，新人，一脸严肃的样子，可没法“钓”到情报……来我这儿坐着，跟我喝一杯吧，好好享受才是尊重这场宴会……和宴会的主人。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_langley_banquet_guest_idle_001.ogg",
+            "text": "Please give my friend a glass of orange juice—she/he can't handle such a strong drink."
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_langley_banquet_guest_specialattention_001.ogg",
+            "text": "所有的情报都在这里，想要的话……宴会结束后，多陪我一下吧——当然是去整理情报。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_langley_banquet_guest_levelup_001.ogg",
+            "text": "让我更加享受这场晚宴吧。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_langley_banquet_guest_head_001.ogg",
+            "text": "洋桔梗，黄鸢尾，山茶花……你觉得这场内的哪朵花更适合当我太阳穴上的装饰？"
+        }
+    ],
+    "madame_maelstrom": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_langley_ehainujue_cacha_001.ogg",
+            "text": "看来，败血症没能把你击垮。这才是我的好大副。那么现在，所有人回到自己的岗位上去，拔錨，拉绳索，扬起风帆，＂恶海女爵＂号要重新启航了！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_langley_ehainujue_greeting_001.ogg",
+            "text": "你醒了，大副。还在回味昨天的狂欢吗？不用害怕，我没在指责你。服从命令、纵情享乐、尽兴战斗……这就是＂恶海女爵＂号上全部的规矩。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_langley_ehainujue_talk_001.ogg",
+            "text": "城市.......特务机构........第九机关？你在说什么胡话？厨师，那桶龙舌兰有问题，统统倒进海里去。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_langley_ehainujue_talk_002.ogg",
+            "text": "暴风雨就要来了。大副，通知船员改变航向，去最近的避风港……把勇气留给敌人吧，别去和大海本身对抗……那样除了折断的桅杆什么也得不到。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_langley_ehainujue_hand_001.ogg",
+            "text": "上庭？放心吧，他们不会找我的麻烦……你在好奇我和他们的关系？呵呵，知晓这个秘密的人，要么在王座上,要么在海底。你打算做哪一个？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_langley_ehainujue_leg_001.ogg",
+            "text": "早晚有一天，我会把这顶帽子，连带这条船一起送给你。在此之前，你必须充分证明自己的价值。明白吗？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_langley_ehainujue_idle_001.ogg",
+            "text": "居然敢在船长的眼皮底下偷懒打盹。我亲爱的大副，你很有胆量。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_langley_ehainujue_specialattention_001.ogg",
+            "text": "欢迎回来，我的大副。那座岛上的情况如何？多少人驻守？有几门火炮？侦查工作做得很好。看来,我们的猎物就快露出破绽了。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_langley_ehainujue_head_001.ogg",
+            "text": "很好，丢下去喂鲨鱼。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_langley_ehainujue_levelup_001.ogg",
+            "text": "这条船欢迎一切额外火力。"
+        }
+    ]
+}

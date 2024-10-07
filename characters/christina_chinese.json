@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_christina_cacha_001.ogg",
+            "text": "嗯……MBCC的局长，摧毁黑环，击退死役，有一颗赤诚的正义之心……咳，我决定了，就由你来当我克里斯蒂娜的助手吧！我们联手的话，一定能侦破许多狄斯城的大案！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_christina_promotion_001.ogg",
+            "text": "”让真相水落石出！这就是我，新城的代理探长——克里斯蒂娜！”怎么样，是不是有点名侦探的感觉了？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_christina_promotion2_001.ogg",
+            "text": "“拥有直面真相的勇气，才能打开通往正义的门扉。”现在我终于能够践行这句话了。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_christina_battlebegin_001.ogg",
+            "text": "嗯……啊！第一步要干什么来着……我看看探案簿上是怎么写的……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_christina_battlewin_001.ogg",
+            "text": "排除一切不可能的可能，剩下的就算再难以接受，也只会是真相！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_christina_battlelose_001.ogg",
+            "text": "小助手，别灰心正义之路还很漫长，我会直陪着你的！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_christina_uniqueskill_001.ogg",
+            "text": "真相，即是力量！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_christina_dead_001.ogg",
+            "text": "对不起……我没做到……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_christina_greeting_001.ogg",
+            "text": "亲爱的助手啊，你来得正好！那个……管理局还有多余的创可贴嘛，要是有的话，不如顺便帮我贴一下吧！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_christina_talk1_001.ogg",
+            "text": "唉……这个月的修理赔偿费又是一大笔钱。我，我这不是故意的……都是因为，因为有些东西在阻碍我收集证据！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_christina_talk1_002.ogg",
+            "text": "你说管理局内禁闭者训练室的门坏了，打不开？还有空调也不好用了？里面的人会热死的吧……咳！这一定是暴风雪山庄模式的密室杀人事件！我克里斯蒂娜，一定会查明真相！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_christina_talk1_003.ogg",
+            "text": "总是用电子设备做记录可是很伤眼睛的！到时候你要是什么都看不清了，我可不管你！喏，这是我的探案簿和钢笔，你以后就在这上面做记录吧！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_christina_talk2_001.ogg",
+            "text": "之前我在治安管理局看到过一个好酷的探长，大家都叫他“老杜”！……你笑什么？他……以前不是这样？那，那还真是值得调查的事情呢……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_christina_talk2_002.ogg",
+            "text": "Assistant, what would you do if your little sister never calls you 'big sis'... Should you swallow your pride and call her 'lil sis' first, or... should you write her a letter to say you're sorry... something like that?"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_christina_talk2_003.ogg",
+            "text": "从前有个人，也会像你一样耐心聆听我的所有烦恼，接纳我的一切……甚至指明我人生的方向。那是我最重要的人，曾经是我最重要的人……"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_christina_obeyfull_001.ogg",
+            "text": "谢谢你，助手，能陪我走到这里。通往正义的道路上充满了艰难险阻，但为了尽头的光明，我愿奉献我的一切。即便如此，你也要跟我一起吗？哈哈……不愧是你。既然如此，那就牵上我的手，继续前进吧！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_christina_idle_001.ogg",
+            "text": "哦~我的直觉果然没错——我亲爱的助手啊，比起窝在办公室里吹空调，不如和本探长一起去侦破案件吧！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_christina_clicking_001.ogg",
+            "text": "我把探案簿做这么重，就是……给你这种家伙准备的！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_christina_specialattention_001.ogg",
+            "text": "亲爱的助手，你这是在羡慕我的全套探案设备么？是想试试这个微型变声器，还是这把空气手枪？哼哼，这些东西使用门槛可都是很高的，要不要我教教你呀~！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_christina_dispatch_001.ogg",
+            "text": "嗯？是新案子吗！我要帮忙我要帮忙！"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_christina_dispatch2_001.ogg",
+            "text": "代理探长克里斯蒂娜，已摧毁……啊不是……已侦破案件！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_christina_levelup_002.ogg",
+            "text": "离正义又近了一步！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_christina_jointeam_001.ogg",
+            "text": "Time for the Eastside acting inspector to shine!"
+        }
+    ]
+}

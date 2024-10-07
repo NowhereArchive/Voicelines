@@ -1,0 +1,218 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eirene_cacha_001.ogg",
+            "text": "时机已经成熟，所以，我来见你了，我亲爱的……同谋。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_eirene_promotion_001.ogg",
+            "text": "力量是达成目的的捷径，不过……也不是唯一的手段。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_eirene_promotion2_001.ogg",
+            "text": "我已经到达顶点，这里的风景……能满足你的期望吗？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_eirene_battlebegin_001.ogg",
+            "text": "这里能给我什么惊喜呢。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_eirene_battlewin_001.ogg",
+            "text": "一切都在计划之中。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_eirene_battlelose_001.ogg",
+            "text": "我都快忘了，失败原来是这种滋味。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_eirene_uniqueskill_001.ogg",
+            "text": "湮灭吧！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_eirene_dead_001.ogg",
+            "text": "我不能……倒在这里……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eirene_greeting_001.ogg",
+            "text": "剧变将至,今天的你会采取什么行动呢？我很期待，局长。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_eirene_talk1_001.ogg",
+            "text": "你可以“监管”我，也可以选择合作……想想看，局长，奎恩集团能提供给你的不只是金钱，还有更多你想象不到的东西。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_eirene_talk1_002.ogg",
+            "text": "我喜欢下棋。在棋盘上，我们眼中只有彼此，穷尽智慧将对方赶尽杀绝——这是多么纯粹的快乐。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_eirene_talk1_003.ogg",
+            "text": "我知道，你是个坦率的人。不过，也别把什么想法都写在脸上，让你的行为变得更加……不可预测一些吧。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_eirene_talk2_001.ogg",
+            "text": "狄斯城真是个美妙的地方，是世界的中心，也是人类的未来……她是否愿意接纳我呢？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_eirene_talk2_002.ogg",
+            "text": "金钱和地位、信任和友谊，又或者恐惧和威胁……这些都是换取忠诚的筹码，而我能让这笔交易永远持续下去。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_eirene_talk2_003.ogg",
+            "text": "我不想与你厮杀，但……如果那一天真的到来，希望你能给我一场最酣畅的对决。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_eirene_obeyfull_001.ogg",
+            "text": "你……属于我，我的棋子，我的珍藏，我全部秘密的分享者。不要背叛我……没人能背叛我。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eirene_idle_001.ogg",
+            "text": "和我下局棋吧……不要拒绝得这么快，这次我会让着你一点。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eirene_clicking_001.ogg",
+            "text": "你有什么欲求，坦率告诉我吧。我们之间不需要这种游戏。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eirene_specialattention_001.ogg",
+            "text": "一个挑战者，一个谈判对象，或者……一位亲密的朋友……你是以哪一种身份来见我？无论怎样，我都感到高兴。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_eirene_dispatch_001.ogg",
+            "text": "呵呵，让我看看，你都在计划些什么。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_eirene_dispatch2_001.ogg",
+            "text": "事情办完了，你要如何支付我的报酬呢？不如就用……呵呵……我只是在看着你。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eirene_levelup_002.ogg",
+            "text": "可供驱使的力量，无论何时都不会嫌多。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eirene_head_001.ogg",
+            "text": "真怀念，曾经也有人这样亲昵地对我，只可惜……他们都已经离开这个世界了。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_eirene_jointeam_001.ogg",
+            "text": "Getting my hands dirty could be fun."
+        }
+    ],
+    "seaside_sunrise": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_eirene_seaside_sunrise_cacha_001.ogg",
+            "text": "无论潮起潮落，都能尽收眼底——如此绝佳的观景位置，局长，还不落座吗？"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eirene_seaside_sunrise_greeting_001.ogg",
+            "text": "你来得正是时候，此时此景，最适合与宿命中的敌手对弈一局。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_eirene_seaside_sunrise_talk_001.ogg",
+            "text": "看似平静的海面下暗潮汹涌，随时会掀起巨浪……不过，对我而言，“危险”只是生意之余的调剂罢了。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_eirene_seaside_sunrise_talk_002.ogg",
+            "text": "日出的风景不尽相同，人们却总是傲慢地笃定，自己看见的一直是同一个太阳……多亏他们的愚蠢，才有今日的奎恩。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_eirene_seaside_sunrise_hand_001.ogg",
+            "text": "致我们共同缔造的黎明，Cheers~"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_eirene_seaside_sunrise_leg_001.ogg",
+            "text": "你很喜欢这件泳衣领口的设计吗？别小看了它，软布之下既是令人沉溺的温柔乡，也是能叫人一败涂地的杀器。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eirene_seaside_sunrise_idle_001.ogg",
+            "text": "难得有这样悠闲独处的机会，趁我微醺，一起做些下棋之外的事吧？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eirene_seaside_sunrise_levelup_001.ogg",
+            "text": "度假从来都是胜者的特权，只有那些无法把控时局的人，才需要一直绷紧神经。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_eirene_seaside_sunrise_head_001.ogg",
+            "text": "嗯？我可不会轻易放过对手的挑衅，就罚你——在这儿陪我一起看海吧。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eirene_seaside_sunrise_specialattention_001.ogg",
+            "text": "你欣赏的究竟是海滨的日出，还是别的“美景”？不用移开视线，我并不介意。"
+        }
+    ],
+    "daughter_of_fraser_city": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_eirene_feishazhinu_cacha_001.ogg",
+            "text": "你是谁？……你的眼神看士去不像我亲爱的哥哥姐姐们派来的人，所以……你是来找我合作的？那么你有一分钟的时间，展示你的诚意吧。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eirene_feishazhinu_greeting_001.ogg",
+            "text": "希望你离开的这段时间是去提升自己的能力了，我不希望站在我身边的合作者跟不上我的思路。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_eirene_feishazhinu_talk_001.ogg",
+            "text": "我的对手都是坎贝尔家嫡出的子女。与他们相比，我可以说是一无所有。就算如此，你还要同我站在一边吗？呵呵，有意思，我开始怀疑起你的动机了。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_eirene_feishazhinu_talk_002.ogg",
+            "text": "父亲不会插手我们之间的争斗。证明自己的优秀是坎贝尔子嗣的义务。获胜者得到一切，出局者失去所有。这就是游戏规则。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eirene_feishazhinu_idle_001.ogg",
+            "text": "这里的人一直都这么悠闲吗？呵呵，坎贝尔家族的人在这个年纪可没有休息的资格。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eirene_feishazhinu_clicking_001.ogg",
+            "text": "呵，这就是你来找我合作的动机，是吗？这种手段，从我祖母那一辈开始就不用了。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eirene_feishazhinu_levelup_001.ogg",
+            "text": "没人会嫌弃自己手牌太多，我也不例外。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eirene_feishazhinu_specialattention_001.ogg",
+            "text": "好，先待在我身边吧，我会慢慢告诉你详细计划的。"
+        }
+    ]
+}

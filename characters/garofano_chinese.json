@@ -1,0 +1,171 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_garofano_cacha_001.ogg",
+            "text": "初次见面，局长，您太客气了，不必称呼我为布劳恩夫人……毕竟那都是过去的事了。请直接叫我加洛法诺就好。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_garofano_promotion_001.ogg",
+            "text": "我会竭尽全力地守护您。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_garofano_promotion2_001.ogg",
+            "text": "现在，您再也不会离开我了……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_garofano_battlebegin_001.ogg",
+            "text": "是谁，不自量力……想要染指我的所有物？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_garofano_battlewin_001.ogg",
+            "text": "没事了，您还好好地留在我身边呢。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_garofano_battlelose_001.ogg",
+            "text": "……不！我不要……再失去任何东西！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_garofano_uniqueskill_001.ogg",
+            "text": "休想夺走——！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_garofano_dead_001.ogg",
+            "text": "也好，我终于……可以来陪你们了……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_garofano_greeting_001.ogg",
+            "text": "您有什么烦心事吗？无论是工作不顺利，还是衣服不合身……都可以告诉我，我会陪您一起解决的。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_garofano_talk1_001.ogg",
+            "text": "嗯，或许我就是习惯了去照顾别人吧，不过我很享受这种被他人依赖的感觉……因为这样，才会让大家舍不得离开我呀。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_garofano_talk1_002.ogg",
+            "text": "啊呀，您袖口的扣子掉了，我来帮您缝好吧？嘘，不要动……我是专业的裁缝，别担心，不会弄伤您的。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_garofano_talk1_003.ogg",
+            "text": "嗯？您的脸怎么这么红？是裁尺勒得太紧，喘不上气了？稍微忍耐一下吧，只有这样，我才能得到最精确的尺寸……是您说想要更合身的衬衣呀。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_garofano_talk2_001.ogg",
+            "text": "您总是给我一种亲切的熟悉感，明明相识不久，却好像是重逢一般……在您身边，我感受到了久违的欢愉。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_garofano_talk2_002.ogg",
+            "text": "我确实有过许多或幸福、或悲伤的经历，那些对我来说都很重要。但人不能只靠回忆活着，对吧？所以我啊……想更珍惜眼前的事物呢。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_garofano_talk2_003.ogg",
+            "text": "纽扣是种很特殊的装饰，它能感知体温，凝聚情感。所以我一直珍藏着血亲的纽扣，还将它藏在了最贴近心脏的地方……您想看看吗？"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_garofano_obeyfull_001.ogg",
+            "text": "真想把您想扣子一样系在身上，永远变成属于我的东西……啊，抱歉，我的意思是，请问，您愿意归我所有吗？我会好好爱惜您，守护您，绝对不会让您被别人夺走！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_garofano_idle_001.ogg",
+            "text": "沉睡的样子多么可爱……真想将您一直揽在怀中呢，局长……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_garofano_clicking_001.ogg",
+            "text": "如果您是想和我亲近，可以直接告诉我，别这么突然……我担心身上的针会扎到您。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_garofano_specialattention_001.ogg",
+            "text": "您也想要拥有我，对吗？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_garofano_dispatch_001.ogg",
+            "text": "是有需要上门定制的订单吗？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_garofano_dispatch2_001.ogg",
+            "text": "放心，订单完成得很顺利。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_garofano_levelup_002.ogg",
+            "text": "您给我的一切，我都会好好接受的。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_garofano_jointeam_001.ogg",
+            "text": "All right. I'll stay with you."
+        }
+    ],
+    "in_the_veiled_grove": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_garofano_in_the_veiled_grove_cacha_001.ogg",
+            "text": "您看，现在我们被困在一处了……就像，被这雨线紧紧地缝在了一起。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_garofano_in_the_veiled_grove_levelup_001.ogg",
+            "text": "被雨水浸湿的香气，似乎更浓了。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_garofano_in_the_veiled_grove_greeting_001.ogg",
+            "text": "再靠近一点吧，局长，我会为您遮住风雨的。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_garofano_in_the_veiled_grove_talk_001.ogg",
+            "text": "小心！别乱动……您的衣角被树枝钩住了，挣扎的话，只会越缠越紧。别担心，交给我就好。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_garofano_in_the_veiled_grove_talk_002.ogg",
+            "text": "如果您感到疲惫，枕着我休息一会也可以，放心，我会一直陪着您。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_garofano_in_the_veiled_grove_hand_001.ogg",
+            "text": "嗯，您的手指似乎有些冻僵了呢……别紧张，我只是想替您暖一暖手。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_garofano_in_the_veiled_grove_leg_001.ogg",
+            "text": "您朝我靠近的样子，像是想立刻成为我的所有物似的……呵呵，我知道，您只是不希望我们在雨夜里失温，对吧？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_garofano_in_the_veiled_grove_idle_001.ogg",
+            "text": "您给我的任务已经完成。现在，我们只需要一起呆在这里，像组建了一个临时的、小小的避难所……直到雨停。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_garofano_in_the_veiled_grove_specialattention_001.ogg",
+            "text": "您的目光对我来说，如图雨夜中温暖的灯光，不可忽视……"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_garofano_in_the_veiled_grove_head_001.ogg",
+            "text": "您亲手簪上的康乃馨，哪怕雨过天明，也将成为我宝贵的珍藏。"
+        }
+    ]
+}

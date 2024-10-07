@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_demon_cacha_001.ogg",
+            "text": "我不是第一次被关进这种地方……来吧，这次要如何拷问我?那些蛆虫又给我安排了什么罪名?"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_demon_promotion_001.ogg",
+            "text": "代价早已偿清，这是我应得的力量。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_demon_promotion2_001.ogg",
+            "text": "是时候了，我必须兑现承诺。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_demon_battlebegin_001.ogg",
+            "text": "行动开始，全员警戒。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_demon_battlewin_001.ogg",
+            "text": "敌对目标清除，行动继续，不要放松警惕。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_demon_battlelose_001.ogg",
+            "text": "哈哈…我果然还是什么都没能守住…"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_demon_uniqueskill_001.ogg",
+            "text": "休想跨过我!!"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_demon_dead_001.ogg",
+            "text": "我……辜负了你……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_demon_greeting_001.ogg",
+            "text": "死役、暴徒和阴谋家还在这座城市中横行无忌……你，该行动了。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_demon_talk1_001.ogg",
+            "text": "蛆虫渗透了这座城市，把所有人玩弄于鼓掌。我，要它们死。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_demon_talk1_002.ogg",
+            "text": "不要轻视蛰伏在这座城市之下的黑暗。这是我用曾经的一切换来的教训。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_demon_talk1_003.ogg",
+            "text": "我本该和其他辛迪加人一样死在街头。但亚伯带我离开了那里。现在看来，这也许是个错误……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_demon_talk2_001.ogg",
+            "text": "八年了，狄斯城还是这副样子。亚伯，连同他的梦想，已经被人忘得一干二净。有时候我会怀疑，他们究竟能记住什么?"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_demon_talk2_002.ogg",
+            "text": "亲手杀死自己的……父亲、多年的下属，葬送珍视的一切……你问那是种什么感觉?哈哈哈，你不会喜欢的。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_demon_talk2_003.ogg",
+            "text": "和你并肩作战，或许是我这辈子，唯一一个没做错的选择。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_demon_obeyfull_001.ogg",
+            "text": "那些我能称之为朋友的人，都已经不在了。你……活久一点，不要死在我前面。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_demon_idle_001.ogg",
+            "text": "亚伯，薇拉……我不会让你们失望的……不再会了……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_demon_clicking_001.ogg",
+            "text": "碳化钨装甲的确很好用。你喜欢的话，不妨自己也找一套穿上。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_demon_specialattention_001.ogg",
+            "text": "你这是要监视我?还是说……希望有人来保护你的安全?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_demon_dispatch_001.ogg",
+            "text": "任务收到，正在制定作战计划。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_demon_dispatch2_001.ogg",
+            "text": "任务完成，作战报告已提交。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_demon_levelup_001.ogg",
+            "text": "我还能承受更多。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_demon_jointeam_001.ogg",
+            "text": "I won't let them lay a hand on you."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_demon_head_001.ogg",
+            "text": "我……不喜欢这样"
+        }
+    ],
+    "under_the_neon_lights": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_demon_nihongzhixia_cacha_001.ogg",
+            "text": "我们还要在这里待多久？“需要等待答复？”唉，好吧……要是有紧急情况的话，你可以对我下达任何命令。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_demon_nihongzhixia_greeting_001.ogg",
+            "text": "该行动了，这样的玩乐会让人迷失，我不希望你也沉溺于此。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_demon_nihongzhixia_talk_001.ogg",
+            "text": "“最肮脏的地方，有最珍贵的情报。”在这一点上，我与你的意见一致。但……我还要一些时间，去适应这刺眼的霓虹灯光。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_demon_nihongzhixia_talk_002.ogg",
+            "text": "并肩作战么？不过这里空间狭小，万一有特别情况的话，还是交给我来处理?"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_demon_nihongzhixia_idle_001.ogg",
+            "text": "你们不要随意靠近，我在等我的……同伴回来。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_demon_nihongzhixia_clicking_001.ogg",
+            "text": "我们还在执行任务，不要做这种多余的动作。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_demon_nihongzhixia_levelup_001.ogg",
+            "text": "我不需要太显眼。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_demon_nihongzhixia_specialattention_001.ogg",
+            "text": "我会保护你安然无恙地完成任务，所以希望你不要畏首畏尾，浪费太多时间。"
+        }
+    ]
+}

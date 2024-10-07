@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_cinnabar_cacha_001.ogg",
+            "text": "辰砂，前军事承包商“蛇眼”的负责人。涉及安全方面的工作，我应该能提供些帮助。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_cinnabar_promotion_001.ogg",
+            "text": "原来这样就能提升作战能力，禁闭者这种……还真是特别?"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_cinnabar_promotion2_001.ogg",
+            "text": "再不会有所谓“必要的牺牲”了，这份力量将守护所有人?"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_cinnabar_battlebegin_001.ogg",
+            "text": "跟在我身后。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_cinnabar_battlewin_001.ogg",
+            "text": "放心吧，已经没有危险了。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_cinnabar_battlelose_001.ogg",
+            "text": "我断后，你快离开这儿，快！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_cinnabar_uniqueskill_001.ogg",
+            "text": "他们由我守护！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_cinnabar_dead_001.ogg",
+            "text": "不……还不行，他们还在……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cinnabar_greeting_001.ogg",
+            "text": "欢迎回来，局长。您不在的这段时间，局里没有发生什么异常状况。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_cinnabar_talk1_001.ogg",
+            "text": "截至目前，我的委托完成率还是百分之百。所以，请放心，我会保护好您的安全。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_cinnabar_talk1_002.ogg",
+            "text": "对我而言，蛇眼的前辈们是最好的老师。他们教给我的东西，比警官学院的“专业知识”更加有用。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_cinnabar_talk1_003.ogg",
+            "text": "这是“GH-2”型护盾发生器，中央研究院订制的高端货，非常可靠。只不过，它的内部零件很多，维护起来有些麻烦。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_cinnabar_talk2_001.ogg",
+            "text": "我也曾迷茫过，该守护什么，又该如何守护。但经过那件事，我找到了答案。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_cinnabar_talk2_002.ogg",
+            "text": "过去，除了保护上庭要员，我还经常要给各大机构做安全评估。但是MBCC……情况有点复杂，以往的经验在这里都不太适用。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_cinnabar_talk2_003.ogg",
+            "text": "我从来没有这么长时间地保护一个人，就像是你的私人保镖一样。不过……我喜欢这份工作。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_cinnabar_obeyfull_001.ogg",
+            "text": "自从离开蛇眼之后，我已经很久没有遇到过可以托付后背的战友了……能和您一起战斗，是我的荣幸。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cinnabar_idle_001.ogg",
+            "text": "嗯……奇怪，防弹插板放哪儿去了？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cinnabar_clicking_001.ogg",
+            "text": "请保持适当的距离……您这样我无法正常履行职责。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cinnabar_specialattention_001.ogg",
+            "text": "需要贴身保护么？我明白了。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_cinnabar_dispatch_001.ogg",
+            "text": "没问题，我会尽快完成任务。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_cinnabar_dispatch2_001.ogg",
+            "text": "任务完成了，有需要的话随时都可以找我。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cinnabar_levelup_002.ogg",
+            "text": "安全等级提升。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_cinnabar_jointeam_001.ogg",
+            "text": "Your command, please."
+        }
+    ],
+    "special_escort": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_cinnabar_texuhuwei_cacha_001.ogg",
+            "text": "很荣幸能够参与锈河行动的护卫任务，我也一直期待能够多一些与您相处的时间……抱歉……我，我只是想告诉您，我很开心。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cinnabar_texuhuwei_levelup_001.ogg",
+            "text": "警备力量提升。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cinnabar_texuhuwei_greeting_001.ogg",
+            "text": "您来了，局长。所有事项都已准备就绪，我们可以出发了。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_cinnabar_texuhuwei_talk_001.ogg",
+            "text": "如果觉得累了，您随时都可以告诉我。请放心，我会为您清理出一片安全区域的。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_cinnabar_texuhuwei_talk_002.ogg",
+            "text": "小心！锈河的落石、地面塌陷状况很多。请您尽可能靠近我一些。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cinnabar_texuhuwei_idle_001.ogg",
+            "text": "好好休息，局长。无论过去多久，我都会守在您身边的。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cinnabar_texuhuwei_clicking_001.ogg",
+            "text": "您的呼吸很急促，是察觉到什么异常了吗？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cinnabar_texuhuwei_specialattention_001.ogg",
+            "text": "锈河的确很凶险，不过请放心，我不会让您面对任何风险的——这是我的责任。"
+        }
+    ],
+    "courteous_call": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_cacha_001.ogg",
+            "text": "骑马出行是有些夸张了，但这是菲小姐特意提供的，她说不能丢了管理局的排面……我也不好辜负人家的好意。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_levelup_001.ogg",
+            "text": "我的骑术更精进了，不会让您感到颠簸。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_greeting_001.ogg",
+            "text": "约定时间到了，局长，我来接您赴宴——今天，我就是属于您的专属骑士。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_talk_001.ogg",
+            "text": "你想要摸摸它吗？没关系，它很温顺，就算骑上去试试也可以的。别担心，我会好好地扶住您。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_talk_002.ogg",
+            "text": "这个造型为了美观牺牲了些许功能性，看上去有点拘束繁琐……但请放心，我还是能够及时的保护好您。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_idle_001.ogg",
+            "text": "嘘，安静一些……你是觉得渴了吗？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_clicking_001.ogg",
+            "text": "咳……请不要弄乱这些装饰，它们佩戴起来比较麻烦，等宴会结束之后，我会把它们摘下来，亲自送给您慢慢看。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cinnabar_qianhouzhiyi_specialattention_001.ogg",
+            "text": "这身衣服很适合我？谢谢……只要您能喜欢就好。"
+        }
+    ]
+}

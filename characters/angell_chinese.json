@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_angell_cacha_001.ogg",
+            "text": "想委托我处理什么，就到暗网下单、预付、然后等待，我不接强硬插队的订单。但如果你只是来找我麻烦……考虑清楚，那样的代价你付不起。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_angell_promotion_001.ogg",
+            "text": "不需要什么特殊技巧，下手时心无杂念即可。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_angell_promotion2_001.ogg",
+            "text": "利刃一旦出了鞘，就必定是要见血的。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_angell_battlebegin_001.ogg",
+            "text": "需要踩点么？好，我去。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_angell_battlewin_001.ogg",
+            "text": "委托完成。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_angell_battlelose_001.ogg",
+            "text": "……还没完，我接下的订单不会这么结束。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_angell_uniqueskill_001.ogg",
+            "text": "这条命我收下了！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_angell_dead_001.ogg",
+            "text": "呵呵……雇主要失望了……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_angell_greeting_001.ogg",
+            "text": "我没想到你会来，有新委托吗？还是说，你也想躲这儿歇一会儿？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_angell_talk1_001.ogg",
+            "text": "……别动窗帘。被外面的人看到，很危险。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_angell_talk1_002.ogg",
+            "text": "我接暗网委托来维持生活，找猫也好，找人也好，动不动刀都一样，我只看性价比接单。个人喜好……并不重要。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_angell_talk1_003.ogg",
+            "text": "……我很孤单么？也许吧，但孤单意味着安全，在这边的世界安全才是难能可贵的。所以，我不介意孤单。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_angell_talk2_001.ogg",
+            "text": "我不觉得自己房间凌乱，能找到必要的东西就够了。刀、饭团、电脑、门和床，很明显，不是吗？这个家可比我的工作现场舒适多了，我很满意。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_angell_talk2_002.ogg",
+            "text": "那些被人恐怖憎恶的黑暗正是我习以为常的生活，我接受，也不觉得自己可悲，每个人都有自己的命，我不会奢望另一头的生活……除了你做的红豆汤，我真的很喜欢。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_angell_talk2_003.ogg",
+            "text": "我也曾见过温暖明亮的，被你称作希望、爱的东西，但它们最终都无一例外的消失了。在这边的世界，那些比幻影还要脆弱的东西，留不住。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_angell_obeyfull_001.ogg",
+            "text": "我不会强留你在身边，我身边注定阴暗，而你该走进光里。但我会在这一头保护你，深渊有我就够了，谁也别想把你拖进来。这是……我给自己下的，一生一世的订单。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_angell_idle_001.ogg",
+            "text": "……这把刀跟我，谁会先被折断呢？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_angell_clicking_001.ogg",
+            "text": "你好像很焦虑，要我做些什么吗？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_angell_specialattention_001.ogg",
+            "text": "这么盯着我也没用，你追不上我的动作，如果我想离开，你也留不住。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_angell_dispatch_001.ogg",
+            "text": "接了，定金打到老地方。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_angell_dispatch2_001.ogg",
+            "text": "验货吧，记得结尾款。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_angell_levelup_002.ogg",
+            "text": "报酬收到。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_angell_head_001.ogg",
+            "text": "怎么，有话对我说吗？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_angell_jointeam_001.ogg",
+            "text": "Gonna work."
+        }
+    ]
+}

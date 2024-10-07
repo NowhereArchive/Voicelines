@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_che_cacha_001.ogg",
+            "text": "抓住我这种货色没什么值得高兴的吧？加油，祝你下次能抓到更厉害的禁闭者。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_che_promotion_001.ogg",
+            "text": "不是，难不成你觉得我变强了就不偷懒了？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_che_promotion2_001.ogg",
+            "text": "好耶，我现在可太强了~接下来是不是该让我去黑环了？"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_che_battlebegin_001.ogg",
+            "text": "跟紧……我至少得带你活着回去。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_che_battlewin_001.ogg",
+            "text": "走吧，没什么可看的。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_che_battlelose_001.ogg",
+            "text": "哈……我们可以提前回家了。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_che_uniqueskill_001.ogg",
+            "text": "别想跑！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_che_dead_001.ogg",
+            "text": "居然栽在这种地方……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_che_greeting_001.ogg",
+            "text": "你不会在期待我给你打招呼吧？你也太无聊了……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_che_talk1_001.ogg",
+            "text": "有磨刀石吗，阿强和小杰有些钝了。为什么给武器起这种名字？没什么原因，觉得有趣而已。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_che_talk1_002.ogg",
+            "text": "找我聊天？别吧……我这会儿没心思聊天，你还是找别人吧。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_che_talk1_003.ogg",
+            "text": "只要钱给够了，我也不是不能给你干点杂活。打架就免了，我干不来那个。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_che_talk2_001.ogg",
+            "text": "喂，打个商量。这周你让干嘛干嘛，我绝对不偷懒……你帮我买张死恋电台的特典合集。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_che_talk2_002.ogg",
+            "text": "每次看到蔻蔻就像看到过去的自己——太无趣了，一天到晚就知道干活，一点自己的生活都没有。我要不看着点儿，她迟早被白逸卖了还赌债。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_che_talk2_003.ogg",
+            "text": "白逸这人，虽然成天不干正事儿到处闯祸……但她是天底下最有意思的家伙。从我认识她起。到现在，一直都是这样。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_che_obeyfull_001.ogg",
+            "text": "没想到，你作为局长，长着这么张脸，不去拍那些狄斯大佬的马屁，倒是成天跟我们这些禁闭者混在一块儿。你这人，还真是有意思……别误会啊，我没别的意思。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_che_idle_001.ogg",
+            "text": "？累了？累了就睡呗。放心，我替你望风，不会让你的手下发现他们的局长大人偷懒的。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_che_clicking_001.ogg",
+            "text": "Umm... Bro/Sis, what's your problem?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_che_specialattention_001.ogg",
+            "text": "你干你的活，我偷我的懒，咱们谁也别碍着谁，行不？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_che_dispatch_001.ogg",
+            "text": "能不能让别人去？我忙着呢。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_che_dispatch2_001.ogg",
+            "text": "就这样吧，我先回去了。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_che_levelup_002.ogg",
+            "text": "啧，真麻烦。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_che_jointeam_001.ogg",
+            "text": "Ah... My eyes... They hurt... I'm gonna turn blind. Do you still want me to go like this? Geez."
+        }
+    ],
+    "unexpected_guest": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_che_busuzhike_cacha_001.ogg",
+            "text": "哦？我以为谁呢，原来是你啊。我搁这儿工作呢。白记接了个讨债的单子，蔻蔻有活脱不开身，只能我来了。穿这身是为了能唬住人——白逸的主意，跟我没关系。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_che_busuzhike_levelup_001.ogg",
+            "text": "怎么又来？打打杀杀的多累人啊。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_che_busuzhike_greeting_001.ogg",
+            "text": "没完事呢，我又不可能真的动手。他开门做生意的，我坐这儿不走，迟早膈应死他。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_che_busuzhike_talk_001.ogg",
+            "text": "唉，你说她们接点什么不好，非得接这个讨债的委托，偏偏还要我来干……干不成就干不成吧，反正白记干不成的活也不是一件两件了。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_che_busuzhike_talk_002.ogg",
+            "text": "再这么坐下去我觉得我要成看场子的了。好在这里茶水瓜子不要钱随便拿。诶，你也吃点呗。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_che_busuzhike_specialattention_001.ogg",
+            "text": "你怎么有闲情逸致来这儿的？随便你吧，坐这儿晒晒太阳补充下维生素D也挺好。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_che_busuzhike_clicking_001.ogg",
+            "text": "别摸了，这不是纹身，就是个袖套。谁没事在自己身上动刀啊。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_che_busuzhike_idle_001.ogg",
+            "text": "看你也挺闲的，要不去后边凑一桌麻将？放心，我早跟老板混熟了，不会收我们台费的。"
+        }
+    ]
+}

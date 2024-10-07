@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_yao_cacha_001.ogg",
+            "text": "是你召我来此的吗？金乌既出，焦禾稼，杀草木，民无所食……凡人，做好觉悟。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_yao_promotion_001.ogg",
+            "text": "多谢……即便我并没能想起什么。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_yao_promotion2_001.ogg",
+            "text": "烈焰烧灼的翎羽，会为你护佑川河。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_yao_battlebegin_001.ogg",
+            "text": "愿所到之处，再无涂炭生灵。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_yao_battlewin_001.ogg",
+            "text": "我从前是否也曾这样……将它们斩于烈焰之下。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_yao_battlelose_001.ogg",
+            "text": "无妨……金乌之躯，不会感到疼痛。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_yao_uniqueskill_001.ogg",
+            "text": "天照流火——"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_yao_dead_001.ogg",
+            "text": "这本就是……灾厄之命……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_yao_greeting_001.ogg",
+            "text": "是日出的捷报？……不，是你呼唤我的声音。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_yao_talk1_001.ogg",
+            "text": "传说我是从太阳缝里蹦出来的……谣言真是可怕，我明明是狂厄的孩子……啊，这么说，不妥吗？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_yao_talk1_002.ogg",
+            "text": "饥贫与杀戮，若火之燎于原，无止无休。辛苦你，与灾厄同行。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_yao_talk1_003.ogg",
+            "text": "谢谢你替我寻回了这具身躯，带我见到这个不受天灾侵扰的城市……过去的我，终于能在日落时安眠了。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_yao_talk2_001.ogg",
+            "text": "天仓微鼓，命宫泛红，你这面相……别紧张，这是吉兆。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_yao_talk2_002.ogg",
+            "text": "畏惧与信仰伴生，我不得不成为让人害怕的存在……若有机会回到过去……一定与你，促膝长谈。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_yao_talk2_003.ogg",
+            "text": "我曾担忧无力保护众生，又曾害怕反噬带来新的劫难。如今一切无虞，幸而有你。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_yao_obeyfull_001.ogg",
+            "text": "下次十日再临之时，还请由你持弓。君子箭下，才是我的归处。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_yao_idle_001.ogg",
+            "text": "赤焰烧萤云，炎蒸塞空，恐有灾星降世！……哦，原来是我自己。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_yao_clicking_001.ogg",
+            "text": "人类的温度竟是这样的……要是我也能触碰你就好了。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_yao_specialattention_001.ogg",
+            "text": "是你？……想不到还有人能拥有直视太阳的勇气。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_yao_dispatch_001.ogg",
+            "text": "难得闲行。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_yao_dispatch2_001.ogg",
+            "text": "这就是凡尘的宝物吗？我……很熟悉……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_yao_levelup_002.ogg",
+            "text": "照耀……更广袤的疆域。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_yao_jointeam_001.ogg",
+            "text": "Turn into ashes!"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_yao_head_001.ogg",
+            "text": "太阳的华光，不容遮蔽！"
+        }
+    ]
+}

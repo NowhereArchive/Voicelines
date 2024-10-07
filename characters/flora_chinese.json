@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_flora_cacha_001.ogg",
+            "text": "新城消防大使芙洛拉前来报道！有我在的地方，连一个火星儿都不会出现。真的！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_flora_promotion_001.ogg",
+            "text": "这样一来，灭火就更轻松了。请期待我的表现吧，局长。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_flora_promotion2_001.ogg",
+            "text": "要是那场大火发生前，我就能拥有这样的力量该多好……不过，现在的我，能做到更多！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_flora_battlebegin_001.ogg",
+            "text": "快！别掉队！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_flora_battlewin_001.ogg",
+            "text": "准备收队，正在移交现场。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_flora_battlelose_001.ogg",
+            "text": "火势……已经无法控制了。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_flora_uniqueskill_001.ogg",
+            "text": "水流喷射！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_flora_dead_001.ogg",
+            "text": "还有人在……还有……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_flora_greeting_001.ogg",
+            "text": "早啊局长，记得定期检查消防设施，安全第一哦！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_flora_talk1_001.ogg",
+            "text": "我并不怎么喜欢用消防斧，因为……我总是会不小心划伤队友。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_flora_talk1_002.ogg",
+            "text": "我过去的那些同事……他们对我的态度总是怪怪的。我是不是被孤立了？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_flora_talk1_003.ogg",
+            "text": "只要有和水管有关的东西，我就能拿来灭火！嘿嘿……就是准头差了一点。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_flora_talk2_001.ogg",
+            "text": "抱歉，我并不是讨厌用火焰战斗的人，只是……算了，我一定会盯紧她们的，毕竟防患于未燃嘛！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_flora_talk2_002.ogg",
+            "text": "当时我觉得当一个消防大使也挺好的，也能帮到大家。直到我看见那些燃烧的建筑，还有向我求救的人时，我觉得……只有火场才是我最终的归宿。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_flora_talk2_003.ogg",
+            "text": "比起短发，我更喜欢长发多一点。不过……身处火场，长发只会成为负担。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_flora_obeyfull_001.ogg",
+            "text": "尽管这里不是火场，但我能帮助更多人。谢谢你，局长……这才是我真正的愿望。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_flora_idle_001.ogg",
+            "text": "唔……消防水枪要抬到什么高度来着？等我一下！我去翻翻手册。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_flora_clicking_001.ogg",
+            "text": "唉呀别捣乱！我还要训练呢！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_flora_specialattention_001.ogg",
+            "text": "为您科普消防知识也是我职责的一部分，请把消防安全手册翻到第一页！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_flora_dispatch_001.ogg",
+            "text": "芙洛拉，准备完成，等待出发。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_flora_dispatch2_001.ogg",
+            "text": "任务完成。芙洛拉，现已归队！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_flora_levelup_002.ogg",
+            "text": "我又变强了。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_flora_jointeam_001.ogg",
+            "text": "Gear up and prepare to go!"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_dreya_cacha_001.ogg",
+            "text": "红色的满月升空……你用未知将我捕获……你……是我所渴望的，秘密的黑洞。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_dreya_promotion_001.ogg",
+            "text": "你解开了吗？我身上的未解之谜。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_dreya_promotion2_001.ogg",
+            "text": "打破所有的桎梏，窥视我最深处的秘密。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_dreya_battlebegin_001.ogg",
+            "text": "这里没有我想探求的东西。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_dreya_battlewin_001.ogg",
+            "text": "这次行动……勉强有点价值……"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_dreya_battlelose_001.ogg",
+            "text": "行动已失去意义，不要浪费时间……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_dreya_uniqueskill_001.ogg",
+            "text": "赤色的光热将吞没一切！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_dreya_dead_001.ogg",
+            "text": "星辰……终将湮灭于黑暗。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dreya_greeting_001.ogg",
+            "text": "不……不……呃！是……是你吗……太好了……你过来了。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_dreya_talk1_001.ogg",
+            "text": "想要……想要挖空所有的未知，见证一千亿颗太阳渐渐地坍缩成包裹着奇异点的黑洞……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_dreya_talk1_002.ogg",
+            "text": "快……快！让我去探索去研究去寻找去吞下所有的秘密，直到它们在……在意识里完全消失。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_dreya_talk1_003.ogg",
+            "text": "它在折磨、在哀嚎……在怂恿我从你这里，得到一切关于你的秘密……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_dreya_talk2_001.ogg",
+            "text": "我……？我能存活下来，是靠吞噬未知的秘密，对……仅此而已……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_dreya_talk2_002.ogg",
+            "text": "我永远记得……那颗红色的星辰坠落在海里的样子……它带来了无穷的知识、秘密、隐私、未知……啊，多么让人着迷。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_dreya_talk2_003.ogg",
+            "text": "我为追求一切闻所未闻之事而前往那个地方……那里确实让我很满足，但我想，你给我的感觉，也一样。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_dreya_obeyfull_001.ogg",
+            "text": "量子场会吸引扭曲时空，而你，还有你的秘密……全都吸引着我……让人不由自主地趋近、坠落……无法逃离，也……心甘情愿。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dreya_idle_001.ogg",
+            "text": "与其在我的身边停留，不如慢慢地靠近我吧。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dreya_clicking_001.ogg",
+            "text": "不必告诉我这个举动的含义……我不想知道。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dreya_specialattention_001.ogg",
+            "text": "凝视黑洞……很危险……它不会回应你，只会将你撕碎，吞没……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_dreya_dispatch_001.ogg",
+            "text": "我不想离你太远。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_dreya_dispatch2_001.ogg",
+            "text": "这些既有物品，没什么价值。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dreya_levelup_002.ogg",
+            "text": "冲破极限吧。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_dreya_head_001.ogg",
+            "text": "你也会想要敲开人类最坚硬的保护，窥探他们的秘密吗？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_dreya_jointeam_001.ogg",
+            "text": "If you want to use me, be careful."
+        }
+    ],
+    "cosmic_escapist": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_dreya_huanyumimeng_cacha_001.ogg",
+            "text": "这是一场群星的集会……在这片虚空之中，赴宴的人只有我……和你……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dreya_huanyumimeng_greeting_001.ogg",
+            "text": "登上阶梯吧，来到我的身边……要是只为了这些花束驻足，便会错失更绚丽的星空奇景……"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_dreya_huanyumimeng_talk_001.ogg",
+            "text": "那片环绕的天体，只是同一颗恒星的影子……黑洞将那些光线扭曲、折射，以此来藏匿自己……但现在，我会带你洞悉它的存在。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_dreya_huanyumimeng_talk_002.ogg",
+            "text": "星辰在宇宙中汇集，我想要探究它们所有的秘密……即便会成为那些，因越过了安全距离而被撕裂瓦解的天体，我也无法抗拒……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dreya_huanyumimeng_idle_001.ogg",
+            "text": "越来越近了……红色的满月……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dreya_huanyumimeng_clicking_001.ogg",
+            "text": "如果想要了解我，与其牵扯我的裙摆，不如告诉我……你的秘密。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dreya_huanyumimeng_specialattention_001.ogg",
+            "text": "你是在观测这片星海……还是在观测……我？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dreya_huanyumimeng_levelup_001.ogg",
+            "text": "星辰越是燃烧，就越是明亮……"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_dudu_cacha_001.ogg",
+            "text": "欢迎光临！我这一首曲子10万狄斯币，想吹多久吹多久，能从白吹到黑，划算吧？老板要来一曲吗？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_dudu_promotion_001.ogg",
+            "text": "练的再多，我也只会吹这一首曲子呀。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_dudu_promotion2_001.ogg",
+            "text": "死生有命富贵在天，也可能在我。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_dudu_battlebegin_001.ogg",
+            "text": "人还挺多，听曲儿按人头收费哦。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_dudu_battlewin_001.ogg",
+            "text": "怎么样，曲儿还不错听吧？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_dudu_battlelose_001.ogg",
+            "text": "不要就不要呗，怎么还打人呢。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_dudu_uniqueskill_001.ogg",
+            "text": "百鸟朝凤，生死轮回！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_dudu_dead_001.ogg",
+            "text": "别怕……我会好好……走的。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dudu_greeting_001.ogg",
+            "text": "出门遇贵人，看来今天运气不错~"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_dudu_talk1_001.ogg",
+            "text": "做我们这行，要是不相信什么轮回，那可是会砸饭碗的。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_dudu_talk1_002.ogg",
+            "text": "艺术家的事儿，能叫扰民吗？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_dudu_talk1_003.ogg",
+            "text": "橡木板板做的盒儿味道挺好闻的，就算睡在里面，也不会感到害怕吧。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_dudu_talk2_001.ogg",
+            "text": "咽气儿倒也没那么可怕，我会引导你去该去的地方，然后再次相遇。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_dudu_talk2_002.ogg",
+            "text": "重生必定要浴火，只要承受住了剔骨削肉的痛苦，就一定能获得新生。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_dudu_talk2_003.ogg",
+            "text": "说不定，引导我渡过那座桥的，是你呢？"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_dudu_obeyfull_001.ogg",
+            "text": "我相信生死轮回，可很多东西生不带来死不带去的，轮回之后你还会记得我吗……？没关系，就算不记得，我也会想尽一切办法，让你重新认识我，并且再也无法忘记我！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dudu_idle_001.ogg",
+            "text": "好无聊啊，不如我吹个曲给老板助助兴？"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dudu_clicking_001.ogg",
+            "text": "青天白日的，你这么做我可是会叫的！除非有捂嘴费！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dudu_specialattention_001.ogg",
+            "text": "我知道我很可爱，但也不用这么看着我吧~还是你想听曲儿了？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_dudu_dispatch_001.ogg",
+            "text": "让我看看，是去西天干活儿，还是留在阳间吹曲儿啊？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_dudu_dispatch2_001.ogg",
+            "text": "嗨，这趟活儿也没赚多少，不过还是分你点吧！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dudu_levelup_002.ogg",
+            "text": "不错不错，再给点儿呗老板？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_dudu_jointeam_001.ogg",
+            "text": "Think I'm just a random passerby? I'll send you off to the afterworld!"
+        }
+    ],
+    "unsung_maestro": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_dudu_zhiyinnanmi_cacha_001.ogg",
+            "text": "天桥卖艺！自立自强！凭手艺挣点饭钱，还请各位心善的过路老板多多照顾生意啦！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dudu_zhiyinnanmi_greeting_001.ogg",
+            "text": "感谢捧场！如果觉得还不错就来给我打个赏呗，有狄斯币的给点狄斯币，有异方晶的给块异方晶，扫码也行，支持多种支付方式，您怎么方便怎么来！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_dudu_zhiyinnanmi_talk_001.ogg",
+            "text": "喂喂喂！那边的小鬼！偷人家血汗钱是会遭报应的！快给我放回盒子里来听见没有！还真当我看不见呢……啧啧，世风日下，人心不古啊……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_dudu_zhiyinnanmi_talk_002.ogg",
+            "text": "……哈？我拉琴像锯木头？胡扯，明明是你没有欣赏水平，我放的这可是二胡名曲三十首……这破音响怎么又卡带了！还是我花了重金从旧货摊子淘来的呢，能不能靠点谱……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dudu_zhiyinnanmi_idle_001.ogg",
+            "text": "……嗯？现在没人，休息一下……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dudu_zhiyinnanmi_specialattention_001.ogg",
+            "text": "老板，我看你盯着我很久了，怎么，是想和我合奏一曲？……来来来，别害羞嘛，二胡给你，我吹唢呐……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dudu_zhiyinnanmi_levelup_001.ogg",
+            "text": "嘿嘿，多谢老板！多谢老板！祝老板升职又加薪，路上捡大钞，彩票中头奖！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dudu_zhiyinnanmi_clicking_001.ogg",
+            "text": "咳，这位老板麻烦注意一下，不要动手动脚，我可是正经艺术家。"
+        }
+    ]
+}

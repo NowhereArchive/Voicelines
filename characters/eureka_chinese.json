@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_eureka_cacha_001.ogg",
+            "text": "……MBCC?MBCC是什么？不会也是要骗我去干什么坏事吧……我可以在这里继续搞发明？那太好了！你们应该有特殊设备和稀有材料提供吧"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_eureka_promotion_001.ogg",
+            "text": "谢谢你给的新锯条，我已经把它们装在发动机的周围做成风火轮小电扇了……诶，这个可以当我的新武器……？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_eureka_promotion2_001.ogg",
+            "text": "看！这辆小飞车是我最满意的作品，因为可以骑着它去看蓝天白云，所以我给它取名叫做……金刚小番茄！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_eureka_battlebegin_001.ogg",
+            "text": "我的全自动冲锋轮去哪……咦？已经……冲出去了……？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_eureka_battlewin_001.ogg",
+            "text": "那些家伙长得好可怕，应该很危险吧……啊？已经都被我打跑了？对哦……"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_eureka_battlelose_001.ogg",
+            "text": "下次把电动乱窜鼠一起带上好了，应该可以用来多争取一些时间……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_eureka_uniqueskill_001.ogg",
+            "text": "小地雷！出动！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_eureka_dead_001.ogg",
+            "text": "电量储备……不够了……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_eureka_greeting_001.ogg",
+            "text": "局长，试试你办公室里的紧急弹射逃生办公椅吧……不会有事的，我已经在外面铺好海绵垫了。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_eureka_talk1_001.ogg",
+            "text": "我的包里装着什么？呃……也没什么特别的啦，就是一些钻头、手锯、扳手、老虎钳之类的工具……对，还有一个折叠型全自动洗衣晾晒一体机。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_eureka_talk1_002.ogg",
+            "text": "太阳能陀螺，很有意思的小玩具，只要放在地上就可以一直不停地转，都不用再手动去维持……啊？你说大家玩陀螺的乐趣就在于不停地用力去抽它……？是这样吗……？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_eureka_talk1_003.ogg",
+            "text": "嗯……餐厅的桌子马上就可以全部拆解完毕了，下一步就是把训练室的运动器械搬过来进行组装。有了这些运动餐桌的话，大家吃饭锻炼两不误，可以节约大把时间，提高生活效率……"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_eureka_talk2_001.ogg",
+            "text": "小水母，你怎么跑到这里来了？不是跟你说了在加固完成之前还不能乱蹦吗……哦，局长？这个不是武器，就是加上了弹跳和聊天功能的闹钟。嗯……可以录下你的声音当它的音源吗？感觉好像很搭……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_eureka_talk2_002.ogg",
+            "text": "我给你坏掉的手表换了个运行正常的表芯，又往里面加装了一个任何仪器都扫描不出来的微型通讯器。只要戴着它用手在耳边比出打电话的动作就可以触发秘密通话功能，我……呃……你总是去执行卧底任务，应、应该会用得上吧……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_eureka_talk2_003.ogg",
+            "text": "我的很多发明灵感都是来源于旅途中的奇妙见闻，比如毒蘑菇检测仪，野生动物防御帐篷，还有变形伪装旅行车……那个，其实我的旅行车里还有一个副驾驶位空着……一个和枷锁颜色很配，可以按摩缓解疲劳，还装有方便处理公务的小桌板的副驾驶，你的身材坐上去刚刚好！"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_eureka_obeyfull_001.ogg",
+            "text": "闪电逃跑鞋，自动反击护板，噩梦捕捉头盔……全部装备完成！这些都是我花了很长时间才研制出的防身器械，现在终于能够派上用场了！它们一定可以把你保护得很好，也、也谢谢你愿意接受它们。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_eureka_idle_001.ogg",
+            "text": "……是出故障了吗？拆开看看……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_eureka_clicking_001.ogg",
+            "text": "嗯？镜片上怎么突然多出了几块神秘花纹！？是未知的光学现象吗？得好好检测分析一下……它们的形状居然跟你的指纹相似度高达……100%？啊，原来就是你的指纹啊……虽然不太明白你为什么总是要摸我的目镜，但如果你喜欢这么做的话，也行吧……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_eureka_specialattention_001.ogg",
+            "text": "不应该啊，按道理来讲只要把电极反转就可以解决，怎么还是没反应……你是什么时候来的？一直在看我做实验吗？……啊！我想到了！之前看到过有理论说观测者的存在会影响实验现象，你继续盯着别动，我再来试一次……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_eureka_dispatch_001.ogg",
+            "text": "嗯……刚好可以把新做的踢踏舞冰激凌车开出去试试性能……"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_eureka_dispatch2_001.ogg",
+            "text": "踢踏舞冰激凌车的性能测试完毕，根据搜集的实验数据和试用者反馈来看，把踢踏舞换成芭蕾舞可能会更适合一些……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_eureka_levelup_002.ogg",
+            "text": "再加个什么功能好呢？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_eureka_jointeam_001.ogg",
+            "text": "What are we... about to do?"
+        }
+    ]
+}

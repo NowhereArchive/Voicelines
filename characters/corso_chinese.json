@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_corso_cacha_001.ogg",
+            "text": "哈哈，居然被锁住了，看来你还是有两把刷子……这下战帖的方式真够新鲜，我接下了！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_corso_promotion_001.ogg",
+            "text": "哈！等着被疯狗撕碎吧！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_corso_promotion2_001.ogg",
+            "text": "现在我站在顶点，等待所有人来挑战我"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_corso_battlebegin_001.ogg",
+            "text": "来，决斗吧！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_corso_battlewin_001.ogg",
+            "text": "对……对！跪下来！然后向我求饶！就是这样！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_corso_battlelose_001.ogg",
+            "text": "别太得意……我总会赢回来的！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_corso_uniqueskill_001.ogg",
+            "text": "尝尝我的“大宝贝”们吧！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_corso_dead_001.ogg",
+            "text": "哈……角斗士死也该……死在战场上……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_corso_greeting_001.ogg",
+            "text": "过来打一场！赢了我可以考虑让你顺顺利利地走到办公室。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_corso_talk1_001.ogg",
+            "text": "为什么要在战场上那么拼命？哈哈，没什么原因，我就是喜欢赢而已！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_corso_talk1_002.ogg",
+            "text": "弱肉强食？哈！只知道用蛮力有个屁用！战斗，是要靠脑子的！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_corso_talk1_003.ogg",
+            "text": "什么是“辛迪加精神”？胜者为王就是辛迪加的精神！蠢货才会去在乎赢得胜利的手段，而我，只看结果。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_corso_talk2_001.ogg",
+            "text": "嗯，嗯……你是个聪明人，比那些连大脑都是肌肉的莽夫有趣多了。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_corso_talk2_002.ogg",
+            "text": "过去那堆围在我身边的家伙，就像闻着肉味儿凑上来的狗，我也会像打发狗一样打发他们……哎，皱什么眉，我又不会对你这样！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_corso_talk2_003.ogg",
+            "text": "以前在角斗场，他们都像嫌弃疯狗一样看我，却也怕我怕得要死。我喜欢你看我的眼神……和他们不一样。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_corso_obeyfull_001.ogg",
+            "text": "我从来都是为自己而战，但你很聪明，你成功“束缚”了我，那……我的力量，也可以为你带来胜利。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_corso_idle_001.ogg",
+            "text": "喂，过来比划比划，我骨头都要生锈了！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_corso_clicking_001.ogg",
+            "text": "你也要尝尝钉子的厉害？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_corso_specialattention_001.ogg",
+            "text": "看什么看，想打架吗？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_corso_dispatch_001.ogg",
+            "text": "去哪儿打架？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_corso_dispatch2_001.ogg",
+            "text": "喏，今天的战利品。哎，我还没打过瘾呢！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_corso_levelup_002.ogg",
+            "text": "就是这样，战斗，继续战斗！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_corso_jointeam_001.ogg",
+            "text": "It's finally my turn on the battlefield!"
+        }
+    ],
+    "suit_up_outlaw": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_cacha_001.ogg",
+            "text": "敢把角斗士当看门狗一样带出去，你倒是有点胆量。记得握紧了你手里的绳子，省得我……咬了你不想让我咬的人。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_greeting_001.ogg",
+            "text": "我说，这儿看着尽是些花里胡哨的软蛋，真的能让我打个爽吗？要是不能，回去之后你可得给我补上。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_talk_001.ogg",
+            "text": "这身衣服裹得人难受，还带不进多少东西……看来那些怕死的有钱人还算有点脑子。不过，就这点算计还拦不住我——我还没试过用钻石当沙子用呢，让我看看有钱人的装饰品够不够格给我当道具！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_talk_002.ogg",
+            "text": "看到没，那边那个家伙身上有股奇怪的臭味，估计下毒来了。还有那边，那人打算先下手为强把你宰了再说，但同伙不答应……我怎么知道？哈，别装傻了，你不也是看中狗鼻子和耳朵都灵才带上我的吗？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_idle_001.ogg",
+            "text": "逃跑的话这条路最近但有人碍事，那条路前面又有东西拦着……啧，还没开打就先考虑怎么逃，我还是第一次这么窝囊……这次是特例，下次可别想再让我这么干了！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_specialattention_001.ogg",
+            "text": "不用盯得这么紧，我不会逃，也不会惹事的——毕竟，绳子一直就在你手里啊，你担心什么呢？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_levelup_001.ogg",
+            "text": "还不够，还得再找几个不长眼的家伙磨磨牙！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_corso_zhengzhuangkuangtu_clicking_001.ogg",
+            "text": "哎哎哎，松个项圈还这么手忙脚乱的，你行不行啊？那边的傻大个！你刚才是哪只手碰我老大的？不想要了？"
+        }
+    ]
+}

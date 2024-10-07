@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_demolia_cacha_001.ogg",
+            "text": "爱慕——壁——西西……是吧。哎呀你们这地方我听过，这里可收养了不少禁闭者。别说了，快带我进去吧！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_demolia_promotion_001.ogg",
+            "text": "能力，就像捡垃圾，越捡越强。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_demolia_promotion2_001.ogg",
+            "text": "嗯——果然还是强一点比较好。收工越早，睡得越好。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_demolia_battlebegin_001.ogg",
+            "text": "这一趟肯定能捡不少好东西。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_demolia_battlewin_001.ogg",
+            "text": "书上写的那个叫什么来着……对对！一力降……十会！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_demolia_battlelose_001.ogg",
+            "text": "快跑！他们要追上来了！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_demolia_uniqueskill_001.ogg",
+            "text": "给我停下！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_demolia_dead_001.ogg",
+            "text": "你们……不准过去……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_demolia_greeting_001.ogg",
+            "text": "今儿咱去哪儿捡……啊不是，去哪抓禁闭者啊？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_demolia_talk1_001.ogg",
+            "text": "采购办这些人花钱总是大手大脚的，我得去说说他们，钱可不是大风刮来的。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_demolia_talk1_002.ogg",
+            "text": "来玩狄斯战棋吗？那几个不在，就咱俩来玩两盘吧——局长你别走啊局长！试试啊，很好玩的！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_demolia_talk1_003.ogg",
+            "text": "“不要把别人的闲言碎语当成礼物，因为你并不是收破烂的人？”嗯？书上这句是不是在骂我啊，局长？不是啊……不是就好，让我给它记下来。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_demolia_talk2_001.ogg",
+            "text": "打死役是工作，享受生活才是最重要的事。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_demolia_talk2_002.ogg",
+            "text": "哟局长，你又熬夜了？这可不行。听我的，这年轻人呐，就得好好睡觉。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_demolia_talk2_003.ogg",
+            "text": "和原先住的地方比，这儿也太豪华了，我情愿自己睡走廊，让辛迪加那些孩子睡床上。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_demolia_obeyfull_001.ogg",
+            "text": "局长，既然咱们都已经那么熟了，我就直说了啊——我之前要的那个阳台什么时候能批下来？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_demolia_idle_001.ogg",
+            "text": "啥时候能再去—趟锈河啊？那边又到了一批新货，好像还有什么光轨的建材，这要是捡到了得卖上多少钱呐！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_demolia_clicking_001.ogg",
+            "text": "对对对！就这儿！使劲！欸——舒坦——"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_demolia_specialattention_001.ogg",
+            "text": "啊？就留我一个在这站着？别啊！这多没劲啊！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_demolia_dispatch_001.ogg",
+            "text": "局长，今儿外面阳光这么好，你不一起去么？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_demolia_dispatch2_001.ogg",
+            "text": "芜——丰收！我的三轮车都要装不下了！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_demolia_levelup_002.ogg",
+            "text": "哦？锤子好像变轻了！"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_demolia_head_001.ogg",
+            "text": ""
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_demolia_jointeam_001.ogg",
+            "text": ""
+        }
+    ]
+}

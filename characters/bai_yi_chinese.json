@@ -1,0 +1,228 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_bai_yi_cacha_001.ogg",
+            "text": "就来这儿陪你玩玩吧。毕竟……你努力追赶我的样子，实在太可爱了。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_bai_yi_promotion_001.ogg",
+            "text": "想当白记实业的老板，当然要有点本事。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_bai_yi_promotion2_001.ogg",
+            "text": "偶尔也得拿出点认真劲儿，你说对吧？局长。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_bai_yi_battlebegin_001.ogg",
+            "text": "完工之后记得陪我喝几杯。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_bai_yi_battlewin_001.ogg",
+            "text": "工作完成！算算报酬吧？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_bai_yi_battlelose_001.ogg",
+            "text": "留得青山在——溜了溜了。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_bai_yi_uniqueskill_001.ogg",
+            "text": "你们——逃不掉了。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_bai_yi_dead_001.ogg",
+            "text": "照顾好他们……拜托你了……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_bai_yi_greeting_001.ogg",
+            "text": "MBCC白记分店竭诚为您服务——你来的话，打八折哦。嘘……别告诉蔻蔻。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_bai_yi_talk1_001.ogg",
+            "text": "睡觉时间到。可以的吧，局长？为了你，我已经那——么努力了。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_bai_yi_talk1_002.ogg",
+            "text": "我认真起来，能比闪电还快，你呀，根本拦不住，怎么，不相信？那就放我出去试试呀~"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_bai_yi_talk1_003.ogg",
+            "text": "白记这公司，能在辛迪加活到现在，全靠我这个老板奔波养家。那两个小鬼太靠不住了，真是的……你干嘛这么看着我，我说错什么了吗？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_bai_yi_talk2_001.ogg",
+            "text": "我没有什么崇高的信仰，能守护好身边的人就足够了。我再也不想失去任何人了。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_bai_yi_talk2_002.ogg",
+            "text": "城里那种“扫码下单立减十元”的小广告半都是我贴的。狄斯城所有的角落我都去过，你想调查的事，我也都知道。你想听吗——给钱呀。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_bai_yi_talk2_003.ogg",
+            "text": "地底之城？你怎么老喜欢打听这种东西，有人见过吗？没人见过就是假的嘛。不然……就是进去的人，都没能活着回来。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_bai_yi_obeyfull_001.ogg",
+            "text": "我不喜欢努力，但我喜欢努力的人。比如蔻蔻，澈……还有你。相信我，你们的努力不会白费的——我不会让它白费的。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_bai_yi_idle_001.ogg",
+            "text": "这儿伙食不错，还不用还债，房东也进不来，挺好……嗯，我就不出去了！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_bai_yi_clicking_001.ogg",
+            "text": "哦？难得你这么主动，我就好好陪你玩玩吧"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_bai_yi_specialattention_001.ogg",
+            "text": "你就这么想接近我吗？哎呀，真是个坦率的好孩子。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_bai_yi_dispatch_001.ogg",
+            "text": "这算是给我的委托吗？按老规矩，要计费哦~"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_bai_yi_dispatch2_001.ogg",
+            "text": "呼——真该让蔻蔻帮我搞定这事儿……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_bai_yi_levelup_002.ogg",
+            "text": "行行行，如果你需要的话。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_bai_yi_jointeam_001.ogg",
+            "text": "Oh? Try to keep up with me, you guys."
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bai_yi_head_001.ogg",
+            "text": "嗯，真不安分，怎么，局长想跟我兜个风么？"
+        }
+    ],
+    "blade_of_night": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_bai_yi_yeyoushen_cacha_001.ogg",
+            "text": "终究还是被你发现了。不用惊讶，辛迪加有不少藏在暗处的阴湿老鼠，总得有人处理，我只是顺手为之罢了。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_bai_yi_yeyoushen_levelup_001.ogg",
+            "text": "刀越快，麻烦就越少。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_bai_yi_yeyoushen_greeting_001.ogg",
+            "text": "终于回来啦。你不在的时候，我可是一直待在这儿，绝对没有出去瞎晃悠……呃，斗篷上沾了什么？澈不小心洒出来的水吧。对，一定是这样。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bai_yi_yeyoushen_head_001.ogg",
+            "text": "这些发簪配饰可都有各自的用途，小心割着手哦。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_bai_yi_yeyoushen_talk_001.ogg",
+            "text": "委托？正经人谁在晚上做委托啊……大半夜闲逛只是我的个人爱好。嗯，你就当是这样吧。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_bai_yi_yeyoushen_talk_002.ogg",
+            "text": "我知道附近有家馆子，他们家的卤牛肉特别下酒。怎么样，一起去喝一杯？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_bai_yi_yeyoushen_hand_001.ogg",
+            "text": "清风明月无人管，并作南楼一味凉……这么好的夜色，用来清理宿恶，再合适不过了。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_bai_yi_yeyoushen_leg_001.ogg",
+            "text": "只要动作够快，刀划过的地方就会留下残影。很美，不是吗？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_bai_yi_yeyoushen_idle_001.ogg",
+            "text": "嗯，熟悉的臭味……是在那边吗？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_bai_yi_yeyoushen_specialattention_001.ogg",
+            "text": "这是打算贴身监视我么？你猜，是你的的眼皮眨的快，还是我的动作快。"
+        }
+    ],
+    "wave_rider": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_bai_yi_langlibaitiao_cacha_001.ogg",
+            "text": "我真去过海边，别不信。我当时包了一条豪华游艇在那里打捞到了很多财宝……蔻蔻和澈也在，他们可以作证！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_bai_yi_langlibaitiao_levelup_001.ogg",
+            "text": "然后啊，我就找到了更多的财宝。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_bai_yi_langlibaitiao_greeting_001.ogg",
+            "text": "休息够了？休息够了就出发吧。海底还有很多宝物筹着咱们去捞呢。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bai_yi_langlibaitiao_head_001.ogg",
+            "text": "啧啧啧，和我这样的大美女在同一条船上单独相处，难免有点小想法。好吧，原谅你了。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_bai_yi_langlibaitiao_talk_001.ogg",
+            "text": "当时我那条船啊……哼哼，动力强劲，内饰豪华，各种配件应有尽有……你什么意思，不许我以前阔过？"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_bai_yi_langlibaitiao_talk_002.ogg",
+            "text": "海上偶尔也会有些危险，风暴啊、海盗啊还有鲨鱼啊什么的。但是不用害怕，在我白逸面前，那都不过是发财路上的小插曲而已。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_bai_yi_langlibaitiao_hand_001.ogg",
+            "text": "我的泳姿，那可真是游龙入海海晏河清清水芙蓉……等会儿我下水你就知道了。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_bai_yi_langlibaitiao_leg_001.ogg",
+            "text": "呼，太阳真大，好热好热，都出汗了……哟，你的脸怎么红啦~"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_bai_yi_langlibaitiao_idle_001.ogg",
+            "text": "啊~累了的话，就在甲板上睡觉吧。正好阳光这么暖和，海风吹着也很舒服……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_bai_yi_langlibaitiao_specialattention_001.ogg",
+            "text": "好了，所有水手就位。那我们要向深海进发咯！"
+        }
+    ]
+}

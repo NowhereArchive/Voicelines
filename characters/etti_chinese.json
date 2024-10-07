@@ -1,0 +1,166 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_etti_cacha_001.ogg",
+            "text": "行动判定成功，庆贺吧，勇者，你可以将我带走了。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_etti_promotion_001.ogg",
+            "text": "哼哼，这才符合“游戏主宰者”的身份嘛！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_etti_promotion2_001.ogg",
+            "text": "从今天起，游戏规则由我制定！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_etti_battlebegin_001.ogg",
+            "text": "游戏开始，来选择转动命运的方式吧！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_etti_battlewin_001.ogg",
+            "text": "恭喜通关~勇者们啊~快去开启属于你们的宝藏~"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_etti_battlelose_001.ogg",
+            "text": "嘶……疼疼疼，我就说踢门团不好带嘛……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_etti_uniqueskill_001.ogg",
+            "text": "遵从我的规则！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_etti_dead_001.ogg",
+            "text": "一切都被……撕碎……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_greeting_001.ogg",
+            "text": "暗黑的力量即将降临世界……勇者啊，快踏上旅途吧~！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_etti_talk1_001.ogg",
+            "text": "别怕，来告诉我你的下一步，想要怎样行动吧。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_etti_talk1_002.ogg",
+            "text": "这个世界中，一切“有趣”都来源于“想象”，所以，不用在我面前束缚自己，明白吗~？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_etti_talk1_003.ogg",
+            "text": "我的游戏可不是随便什么人就能通关的~不过，你看上去……好像很有潜力的样子，要来试试吗？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_etti_talk2_001.ogg",
+            "text": "“善良”，“中立”，“邪恶”，在你眼里，我属于哪一方……又或者，你希望我属于哪一方呢？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_etti_talk2_002.ogg",
+            "text": "他们都说龙是自私和贪婪的，但我想……那只是因为没尺愿意和它亲近罢了……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_etti_talk2_003.ogg",
+            "text": "即使是断裂的屠龙之枪，只要握在你手里，就是正义的代表。那么……你要对我这条恶龙，做什么呢？"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_etti_obeyfull_001.ogg",
+            "text": "我沉迷黑暗世界的想象，但也害怕那里的冰冷孤独……谢谢你打败我，谢谢你……陪着我。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_idle_001.ogg",
+            "text": "“世界”偶尔也会想偷懒一下的~休息一会儿，休息一会儿~"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_clicking_001.ogg",
+            "text": "不经过判定就擅自行动……这个世界可是会惩罚你的。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_specialattention_001.ogg",
+            "text": "我的眼里~有你追寻的宝藏吗？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_etti_dispatch_001.ogg",
+            "text": "春游团出发咯~"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_etti_dispatch2_001.ogg",
+            "text": "获得了不少道具嘛~想不想打开看看都是什么？反正有我在，不会发生什么事的~"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_levelup_002.ogg",
+            "text": "基础属性要有取舍权衡，才能玩得更开心。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_etti_head_001.ogg",
+            "text": "你也喜欢我的角？那我来跟你说说它的来历吧！那是一个寒冷的冬天……哎哎！干嘛去啊你！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_etti_jointeam_001.ogg",
+            "text": "I'll show you a good game."
+        }
+    ],
+    "noctivagation": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_etti_guiyeqilv_cacha_001.ogg",
+            "text": "夜幕降临之时，幽幽灯火亮起。巨龙古堡也将重新开启他尘封已久的大门，以秘密和宝藏迎接被选召的无畏勇士……嘿嘿，怎么样，够有沉浸感的吧？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_etti_guiyeqilv_levelup_001.ogg",
+            "text": "来自恶魔的注视生效，幸运值+1~"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_etti_guiyeqilv_greeting_001.ogg",
+            "text": "零点的钟声已经敲响，事不宜迟，赶快跟随来自遗忘之地的暗夜恶魔，嗯~也就是你的向导我本人，一同踏上全新的探险之旅吧！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_etti_guiyeqilv_talk_001.ogg",
+            "text": "……这些南瓜长得太可爱了？呃，被你这么一说好像确实……哎呀，不对不对！我们今天玩的游戏是恐怖题材！它们明明可怕极了！怎么会可爱呢！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_etti_guiyeqilv_talk_002.ogg",
+            "text": "嗯？……糖果？你、你别以为用区区两块糖果就能收买我！我的设定可是恶魔，恶魔就是要捣乱的，你知道吧？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_etti_guiyeqilv_idle_001.ogg",
+            "text": "亲爱的旅人啊，请不要放松警惕。石子小路上遍布着诱惑与陷阱，红翅的恶魔也终会露出巨龙的爪牙～"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_etti_guiyeqilv_clicking_001.ogg",
+            "text": "啊！不要拽我的尾巴！未经判定就擅自行动是要受到惩罚的！哪怕是对你的向导也不行！……你问是什么样的惩罚？哼哼，你猜—猜—看呢？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_etti_guiyeqilv_specialattention_001.ogg",
+            "text": "光看着我干嘛？快跟上呀……咦？不会是真的被吓到了吧？哎呀放轻松啦，要是真的遇到了什么危险，我会破例为你提供一些小小的额外帮助，不过这件事可千万不能告诉别人！"
+        }
+    ]
+}

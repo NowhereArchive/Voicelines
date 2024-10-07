@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_coquelic_cacha_001.ogg",
+            "text": "我愿意走进这里是你的荣幸，希望我的房间外能有一个小花园，辛苦你啦~"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_coquelic_promotion_001.ogg",
+            "text": "努力的孩子，我会认可你的。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_coquelic_promotion2_001.ogg",
+            "text": "享受被花儿们簇拥的时刻吧。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_coquelic_battlebegin_001.ogg",
+            "text": "今天将会是谁在我的剑下绽放呢？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_coquelic_battlewin_001.ogg",
+            "text": "这一地的花瓣，真是美得无与伦比"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_coquelic_battlelose_001.ogg",
+            "text": "暂时放你一条生路……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_coquelic_uniqueskill_001.ogg",
+            "text": "于此绽放，直至荼蘼。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_coquelic_dead_001.ogg",
+            "text": "这将是……最美的花雨……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_coquelic_greeting_001.ogg",
+            "text": "希望今天我们都没有委托，能在这里……好好地休息一整天~"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_coquelic_talk1_001.ogg",
+            "text": "我珍惜怜爱这花园里的每一朵花，希望在我的养育下，她们能让枝叶变得锋利，划开苦难，让灵魂绽放成最漂亮的花儿……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_coquelic_talk1_002.ogg",
+            "text": "条条框框无法困住想要盛放的愿望，在黑暗中生长的枝叶，迟早会将这些边框击碎。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_coquelic_talk1_003.ogg",
+            "text": "拿钱办事，最正常不过的生活方式~顾客获得方便，我获得快乐~比起那些为了空泛和不切实际的目标就往前冲的家伙，我还是更喜欢现在的生活~"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_coquelic_talk2_001.ogg",
+            "text": "喜欢花的人会将花摘下，爱花的人才会为她们浇水……但我不介意，你将我摘下带走~"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_coquelic_talk2_002.ogg",
+            "text": "不要总跟我说那些乱七八糟的大道理，这个世界上，没有任何道理比得过“我乐意”这三个字。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_coquelic_talk2_003.ogg",
+            "text": "像我这样善良又美丽的人，是会将那些污秽好好教导，再冲刷干净，让他们的下一世，有机会成为美丽的花……啊~我真是太伟大了。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_coquelic_obeyfull_001.ogg",
+            "text": "鲜花盛放总会凋零，等到那一天，我希望能沉睡在你这道永不安息的湛蓝色的深渊里，让虞美人盛开在你的心口，彤红地燃烧。那是我为你留下的真心，洒下的痕迹。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_coquelic_idle_001.ogg",
+            "text": "无人触碰也无人喜爱，尽管寂寞难挨，却能更加灿烂地盛放。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_coquelic_clicking_001.ogg",
+            "text": "别仗着我的宠爱乱来哦？否则……你也是我花园泥土里躺着的那几个之一了。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_coquelic_specialattention_001.ogg",
+            "text": "哎~我知道，我很漂亮，所以你才想每时每刻都看着我。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_coquelic_dispatch_001.ogg",
+            "text": "我拿不起我的外套，能麻烦你帮我披上吗?"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_coquelic_dispatch2_001.ogg",
+            "text": "下次这种事，交给别人吧，不适合我。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_coquelic_levelup_002.ogg",
+            "text": "现在的我，还不能让你满意吗？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_coquelic_head_001.ogg",
+            "text": "喜欢这朵花？或者……想看看它是如何被染红的？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_coquelic_jointeam_001.ogg",
+            "text": "Flowers will bloom wherever I go."
+        }
+    ]
+}

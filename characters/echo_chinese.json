@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_echo_cacha_001.ogg",
+            "text": "我是自由的音乐家，街头的大明星！过目不忘的天才萨克斯手——艾可，向您致意~怎么样，听完我的自我介绍，是不是很想听我吹奏一曲呢？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_echo_promotion_001.ogg",
+            "text": "区区几页谱子，根本难不倒我~"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_echo_promotion2_001.ogg",
+            "text": "走过路过不要错过！萨克斯天才，将为大家带来最精彩的演出！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_echo_battlebegin_001.ogg",
+            "text": "用一首慷慨激昂的进行曲开启我们的战斗！"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_echo_battlewin_001.ogg",
+            "text": "艾可的演出完美落幕，谢谢捧场~"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_echo_battlelose_001.ogg",
+            "text": "糟糕，演砸了……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_echo_uniqueskill_001.ogg",
+            "text": "来听听这奇迹般的伟大旋律吧！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_echo_dead_001.ogg",
+            "text": "好冷……好黑啊……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_echo_greeting_001.ogg",
+            "text": "嗨，你怎么一副没睡醒的样子，要不我吹首曲子让你精神精神吧！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_echo_talk1_001.ogg",
+            "text": "服装，完美。舞台，完美。萨克斯，完美！好，那我就开……欸欸欸别动它们，那些是我辛辛苦苦布置的场地道具！就算是街头艺人，也要讲究仪式感的！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_echo_talk1_002.ogg",
+            "text": "当当当当~噢，我在想新曲子啦~我看到过一句话，说是什么，艺术来源于生活，简直太对了！我刚吃完饭，马上就有了灵感！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_echo_talk1_003.ogg",
+            "text": "我、我才没偷懒，那些书我已经背完啦！啊？你居然怀疑我的记性？哼，那你随便抽，背不出来算我输！还不够的话，管理局食堂上周上周上上周的菜单我也能全部背给你听！"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_echo_talk2_001.ogg",
+            "text": "哎呀，没人欣赏只是一时的，天才也有落魄的时候嘛~我相信，只要我一直一直吹下去，总有一天，大家都会爱上我的表演！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_echo_talk2_002.ogg",
+            "text": "心情不好的话，让我来为你唱首歌吧！从前孤儿院里的大家就特别喜欢听我唱歌~每当我表演的时候，他们就会笑得特别开心！所以我想，我的歌声，是不是能给人带去欢乐呢~"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_echo_talk2_003.ogg",
+            "text": "我希望我的演出，能感动到许多许多许多观众！要是能被大家注视、赞叹、铭记……就再也不会被遗忘，再也不会感到寂寞了！想想都觉得很幸福啊~"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_echo_obeyfull_001.ogg",
+            "text": "悄悄告诉你，就算天才如我，在表演时偶尔也会感到紧张……不过，只要感受到你在台下看着我的目光，我所有的不安都会瞬间消失，身体里也会充满了力量！因为我知道，总有一个人，会永远支持我……谢谢你，我最忠实的观众！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_echo_idle_001.ogg",
+            "text": "这地方真不错，比桥洞暖和多啦~让我好好躺躺~"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_echo_clicking_001.ogg",
+            "text": "哇呜，别乱碰我的“可艾”！……给萨克斯起名字怎么了！它可是我非常重要的伙伴！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_echo_specialattention_001.ogg",
+            "text": "好啦好啦，我知道你想要什么！喏，拿去吧，记得好好收藏，天才萨克斯手的签名可是很珍贵的！"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_echo_dispatch_001.ogg",
+            "text": "不就是街头表演嘛，包在我身上！这可是我的老本行呀~"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_echo_dispatch2_001.ogg",
+            "text": "奇怪，那些同行为什么追着送钱求我走呢……呵呵呵，可能是我吹得太好了吧！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_echo_levelup_002.ogg",
+            "text": "还有吗……我还想吃~"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_echo_jointeam_001.ogg",
+            "text": "Come! Let me show you what a true Saxophone genius sounds like!"
+        }
+    ]
+}

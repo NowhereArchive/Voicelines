@@ -1,0 +1,176 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_cabernet_cacha_001.ogg",
+            "text": "我很开心，你能带我来到这盛筵的现场~啊……这里的每一个角落，都能嗅到令人沉醉的香甜气息！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_cabernet_promotion_001.ogg",
+            "text": "只是这样的话，我可不知足……"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_cabernet_promotion2_001.ogg",
+            "text": "为了极致的味道，我愿意让自己也化身盘中食粮。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_cabernet_battlebegin_001.ogg",
+            "text": "让我来品鉴一二。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_cabernet_battlewin_001.ogg",
+            "text": "能算得上是不错的一餐。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_cabernet_battlelose_001.ogg",
+            "text": "……难以下咽。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_cabernet_uniqueskill_001.ogg",
+            "text": "我嗅到了灵魂的芬芳！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_cabernet_dead_001.ogg",
+            "text": "哈……哈哈哈……撕扯吧，吞咽吧……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cabernet_greeting_001.ogg",
+            "text": "绿色的仙子飞过，我先是见到现实，再是见到恐惧，最后……我见到了你。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_cabernet_talk1_001.ogg",
+            "text": "进食并不是指单纯的“吞咽”动作，学会了“品味”二字，它将会变成一种美妙的体验，所以，坦诚面对进食的欲望吧，尽力填满它吧！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_cabernet_talk1_002.ogg",
+            "text": "我得到过许多极为稀有珍贵的食材，它们有的甚至价值一栋房子。但……它们的味道，都不及我曾经品尝的那串香甜的葡萄。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_cabernet_talk1_003.ogg",
+            "text": "当人生在高处时，所闻所见总是会被蒙上一层云雾，无法看清。不过，只要努力寻找，还是能看到那些，灵魂闪烁着光芒的人。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_cabernet_talk2_001.ogg",
+            "text": "我总是过分痴迷地、热情地偏爱那些能够满足我味觉感官的东西，而恰好我所拥有的地位，能满足我这些过分的偏爱。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_cabernet_talk2_002.ogg",
+            "text": "高尚的人类会散发着让人痴迷、无法拒绝的味道——他们就像古老的品丽珠，酿成了红宝石般的琼浆，诱惑我将其饮下。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_cabernet_talk2_003.ogg",
+            "text": "温热的汁水在舌尖迸发，抚摸着口腔，顺着咽喉缓缓流入腹中……这便是你给我的感觉。抱歉……待在你身边好像已经无法满足我了，我希望……我们能够更加彻底地融为一体。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_cabernet_obeyfull_001.ogg",
+            "text": "你的灵魂融合了梦想与现实，艺术与人生，在它孕育成熟之前，我愿意忍受令人焦躁的饥饿感，克制亲吻你嘴角的冲动，直到这饱满诱人的果实绽放在我的眼前，心甘情愿地让我品尝……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cabernet_idle_001.ogg",
+            "text": "唉……没什么食欲呢。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_cabernet_clicking_001.ogg",
+            "text": "狡黠的深渊来客，一直在等待捕食那些……不老实的家伙。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cabernet_specialattention_001.ogg",
+            "text": "看来你也很期待与我一起用餐，对吗?"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_cabernet_dispatch_001.ogg",
+            "text": "这些……需要我亲手来做吗？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_cabernet_dispatch2_001.ogg",
+            "text": "很新奇的体验。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cabernet_levelup_002.ogg",
+            "text": "嗯，味道不错。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_cabernet_head_001.ogg",
+            "text": "对于一些食材，这个部位，确实是最美味的，你也这么认为吗？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_cabernet_jointeam_001.ogg",
+            "text": "Thank you for your warm invitation."
+        }
+    ],
+    "bacchanal_reverie": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_cabernet_mingdingyoumeng_cacha_001.ogg",
+            "text": "欢迎来到极乐丰饶的圣地。天上天下，只有这里才能滋养你那鲜醇独特的灵魂……来，与我共饮一杯如何？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_cabernet_mingdingyoumeng_levelup_001.ogg",
+            "text": "果香丰沛、口感饱满……真是佳酿。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_cabernet_mingdingyoumeng_greeting_001.ogg",
+            "text": "地底涌出蜂蜜，羊角倒出甘霖，配上雷霆击打的琳慕诗，才成为这样荡漾于杯中的琼浆玉露……喝下它吧，你将与我一同体验到这前所未有的欢愉~"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_cabernet_mingdingyoumeng_head_001.ogg",
+            "text": "呵呵，不用担心，我还很清醒，知道把握限度才能充分地享受微醺带来的欢悦……"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_cabernet_mingdingyoumeng_talk_001.ogg",
+            "text": "你在犹豫什么？如果还有现世的烦恼牵绊着你，就摘一颗可爱的果实尝尝吧。它们会让你忘却苦闷，却下重担，你一定……会爱上的。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_cabernet_mingdingyoumeng_talk_002.ogg",
+            "text": "没有人能抵抗欢愉。他们会慢慢被快乐腌渍，在放纵中熟成……直到血管中，都奔流着葡萄的香醇。那将是另一种颓靡而奢侈的美味……"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_cabernet_mingdingyoumeng_hand_001.ogg",
+            "text": "你也觉得只有这个还不够吗？是啊，顶级的饮品要配上极致的食材，才能交织成至高的感官快乐。比如，像你这样敏锐坚定的灵魂……"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_cabernet_mingdingyoumeng_leg_001.ogg",
+            "text": "和人相比，动物的欲望要简单明了得多。就像这个可爱的大家伙，它很清楚自己要什么，也很容易满足。人的欲望却是复杂混沌，永无止境……你觉得这是进化，还是退化？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_cabernet_mingdingyoumeng_idle_001.ogg",
+            "text": "放心，我不催你。这里没有饥馑，没有干渴，你大可以在品味过每个细节之后，再做出决定。不像苛刻的凡间……这里的一切，都会对你很宽容的~"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_cabernet_mingdingyoumeng_specialattention_001.ogg",
+            "text": "这么期待我亲自动手吗？看来在你的感知中，我的温度和气息……才是你享用这琼浆与果实的绝配呀~"
+        }
+    ]
+}

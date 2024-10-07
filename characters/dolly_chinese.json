@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_dolly_cacha_001.ogg",
+            "text": "又被你们抓住了啊。好吧，那我还是继续去把那些死役的头当棒球打吧，毕竟我现在的样子拜他们所赐。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_dolly_promotion_001.ogg",
+            "text": "更强的力量……要是能控制住它就好了。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_dolly_promotion2_001.ogg",
+            "text": "已经变得这么强了？要是在新城球场时，我能有这么厉害就好了呀。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_dolly_battlebegin_001.ogg",
+            "text": "哦~这是界外区域么？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_dolly_battlewin_001.ogg",
+            "text": "比触击还简单。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_dolly_battlelose_001.ogg",
+            "text": "可恶！被触杀了……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_dolly_uniqueskill_001.ogg",
+            "text": "本——垒——打——！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_dolly_dead_001.ogg",
+            "text": "力量……再强……又如何——！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_dolly_greeting_001.ogg",
+            "text": "什么时候能轮到我上场啊？"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_dolly_talk1_001.ogg",
+            "text": "可以多准备一些备用棒球棍么，采购办的那几根完全不够用，甚至连一场战斗都撑不过。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_dolly_talk1_002.ogg",
+            "text": "诶，这不是我当时伪造的新城身份么！咳……当时为了参赛，没办法才这样的嘛。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_dolly_talk1_003.ogg",
+            "text": "我很难控制情绪，如果你发现我的情绪特别亢奋，或者特别低落……一定要和我保持距离，要是你被打飞的话，别怪我没警告过你。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_dolly_talk2_001.ogg",
+            "text": "你不觉得棒球棍的击球声特别好听么？对吧？当初我就是听到这声音，才对棒球有了兴趣。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_dolly_talk2_002.ogg",
+            "text": "新城的任务我可以不参加么？哎呀，不是害怕，就是单纯对那里没什么好感……当然，要是完成任务之后，顺便能看“新城棒球联盟”的比赛，前面的话就当我没说过。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_dolly_talk2_003.ogg",
+            "text": "明天有辛迪加队的的棒球比赛，你要一起来看直播么？如果看不懂的话，我可以临时当一下解说。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_dolly_obeyfull_001.ogg",
+            "text": "如果可以的话，真的好想和那些强队过过招啊……不过现在有你在，我应该能控制住力量。咳，要不哪天我们去棒球场试试？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_dolly_idle_001.ogg",
+            "text": "啊——你可以让采购办给我带几张这次棒球联赛的海报么？不打……不打也可以收藏的嘛！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_dolly_clicking_001.ogg",
+            "text": "喂！不是说好了要保持距离的么！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_dolly_specialattention_001.ogg",
+            "text": "眼神不错，像顶尖击球手全神贯注的样子。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_dolly_dispatch_001.ogg",
+            "text": "开始跑垒咯！"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_dolly_dispatch2_001.ogg",
+            "text": "跑垒得分！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_dolly_levelup_002.ogg",
+            "text": "……我已经够强了。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_dolly_jointeam_001.ogg",
+            "text": "Prepare to bat."
+        }
+    ]
+}

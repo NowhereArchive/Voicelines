@@ -1,0 +1,203 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_emp_cacha_001.ogg",
+            "text": "你们知道自己抓的是谁吗？！我……我可是辛迪加的无冕之王、帮派战中的号箭死神！咳咳，别动手别动手,我配合，我都配合。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_emp_promotion_001.ogg",
+            "text": "早跟你说过了，我是最强的。喂！听我说话！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_emp_promotion2_001.ogg",
+            "text": "EMP进化————究极EMP！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_emp_battlebegin_001.ogg",
+            "text": "局长……您先请。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_emp_battlewin_001.ogg",
+            "text": "哼。多亏了无敌的我。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_emp_battlelose_001.ogg",
+            "text": "发挥失常，发挥失常而已啦！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_emp_uniqueskill_001.ogg",
+            "text": "这是……你们逼我的！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_emp_dead_001.ogg",
+            "text": "局长……快想想办法……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_greeting_001.ogg",
+            "text": "啊？是局长啊？今天要玩点什么呢？扑克？掷骰子？麻将？不玩？别那么死板嘛，什么都不做多无聊啊。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_emp_talk1_001.ogg",
+            "text": "局长，和我去辛迪加逛逛怎么样？放心——有我在的话，没人敢惹咱们的！哦，对了！记得要开管理局的车。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_emp_talk1_002.ogg",
+            "text": "要是有人来找我，说什么还债之类的话……拜托了局长，帮我打个掩护。要是让这帮放贷的找着我，我还不如死了呢。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_emp_talk1_003.ogg",
+            "text": "啊啊，局长，能把那个架子上的漫画递给我不，那本，不对，是那本，哎呀……诶诶算了，您坐您坐，我自己来。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_emp_talk2_001.ogg",
+            "text": "停电么？确实是有这么一件事来着，怎么样，我一个人就让半个辛迪加停了一周的电哦？厉害吧？厉害吧？给点反应啊求求你了……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_emp_talk2_002.ogg",
+            "text": "我很弱，话又多，嘴又碎，没什么本事还特别惹人厌。遇上这样的家伙，你一定很头疼吧，哈哈……谢谢你……"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_emp_talk2_003.ogg",
+            "text": "嘘！别吵！我在练习射箭呢！哎呀……有朝一日，我一定可以不用能力也能射中目标！"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_emp_obeyfull_001.ogg",
+            "text": "其实我的名字……就是那个，那个EMP之前的名字，叫做艾米.潘来着……啊，没什么，就是那个……真的很高兴认识你，局长。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_idle_001.ogg",
+            "text": "局长——局长——局长你快理理我啊！要是没有人和我说话！我真的会死的！是真的！是真的啊！局长——"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_clicking_001.ogg",
+            "text": "啊——不会吧局长，你真的对我这种歪瓜瘪枣也下得去手吗？饶了我吧。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_specialattention_001.ogg",
+            "text": "哎呀，局长，没想到你还能想起我来啊。既然来了，我们聊聊天吧，我一个人都快闷死了。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_emp_dispatch_001.ogg",
+            "text": "我EMP最喜欢的事情之一，就是对那些自以为是的家伙说不……开玩笑的，我去我去。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_emp_dispatch2_001.ogg",
+            "text": "EMP，堂堂回归！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_levelup_002.ogg",
+            "text": "这下战斗力应该不止5了吧。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_emp_jointeam_001.ogg",
+            "text": "Do I have to go?"
+        }
+    ],
+    "backstreet_overlord": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_emp_backstreet_overlord_cacha_001.ogg",
+            "text": "见到暗巷中的无冕之王，第一反应不是逃跑，反而是向我走来的人可不多见了。我EMP很欣赏你，报上你的名号吧。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_backstreet_overlord_greeting_001.ogg",
+            "text": "走，我们去附近转转。嗨——放心，在这辛迪加没人敢找我艾米·潘的茬。对了，你……走我前面。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_emp_backstreet_overlord_talk_001.ogg",
+            "text": "那个……你说的那个米诺斯危机管理局，平时都干些什么啊？哎呀，没事没事没事……不用紧张就是作为老大，想了解一下小弟的业务能力而已。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_emp_backstreet_overlord_talk_002.ogg",
+            "text": "最近这边的乱象都被我平定了！现在唯一有趣的事情，大概也就是坑蒙……啊不是，培养你这样有前途的人才！跟我多学点！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_backstreet_overlord_idle_001.ogg",
+            "text": "看见她了么，以后见到她，记得叫二姐。咳，虽然她只有几个月大，但也是帮派创始人之一！你可不能怠慢她。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_backstreet_overlord_clicking_001.ogg",
+            "text": "你这家伙，才刚来几天就想以下犯上么！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_backstreet_overlord_levelup_001.ogg",
+            "text": "你要去哪……西区？咳咳咳，啊——我就是被呛了一下，没事……但是，你……要不……再想想？那边可是军团的地盘。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_backstreet_overlord_specialattention_001.ogg",
+            "text": "最近好久没见到那个拿水管的小家伙了，我上次被她抡了一棍子，现在还没好全……要是再见到她，可得好好招待招待她。"
+        }
+    ],
+    "hail_from_the_otaku_world": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_emp_qihangerciyuan_cacha_001.ogg",
+            "text": "汝既然发现了吾的秘密，就永远留在这里陪吾吧……哎呀，你还愣着干什么，这时候你就应该说，“魔王，别做梦了！就算赌上我的心脏，我也绝不会让你得逞！”~"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_emp_qihangerciyuan_greeting_001.ogg",
+            "text": "你来得正好，快来看看我的本命作，怎么样，分镜和剧情都很有魄力吧！上次本命作还不是这本？那什么……我只是犯了漫画宅都会犯的错误！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_emp_qihangerciyuan_talk_001.ogg",
+            "text": "怎么样，这一屋子的漫画，都是朕给自己打下的江山！里面可是有不少绝版货色，多亏这些宝贝，我才能在同好会里尽情拿捏……咳，我是说，获得泰山北斗般的地位！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_emp_qihangerciyuan_talk_002.ogg",
+            "text": "你要是实在眼馋，我也不是不能借给你，但我要跟你约法三章：第一，不能弄脏折页；第二不能转借别人；第三，下次我去排队买特典版单行本的时候你得给我批条子。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_emp_qihangerciyuan_idle_001.ogg",
+            "text": "……又是这个家伙乱发剧透贴，举报了这么多次都没用，这论坛也太垃圾了！唔唔唔……！这可是你们逼我的，等着瞧吧，你服务器没了！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_emp_qihangerciyuan_clicking_001.ogg",
+            "text": "不随便乱碰可是冒险守则第一条。你再这样冒失下去，万一触发了封印在我装备里的结界……哼哼，那可有你好果子吃了！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_emp_qihangerciyuan_specialattention_001.ogg",
+            "text": "不是我小气，但这个可是彩插版限量附送的随机款特典，我捆了两个冷门才蹲到的。我发过誓，绝不会让它落到圈外人手里！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_emp_qihangerciyuan_levelup_001.ogg",
+            "text": "哼哼，看到这闪耀的魔纹了吗，我不仅没秃，还变强了！"
+        }
+    ]
+}

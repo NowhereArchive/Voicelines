@@ -1,0 +1,176 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_adela_cacha_001.ogg",
+            "text": "又见面了，局长。这次是来找我修理发型，还是修理烦恼呢？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_adela_promotion_001.ogg",
+            "text": "您的认可，就是对我最好的褒奖。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_adela_promotion2_001.ogg",
+            "text": "雾气升起，浓雾中的潜伏者早已瞄准她的猎物。嘘...不要回头，她正盯着你呢。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_adela_battlebegin_001.ogg",
+            "text": "啊……要起雾了。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_adela_battlewin_001.ogg",
+            "text": "服务结束，期待与您的再会。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_adela_battlelose_001.ogg",
+            "text": "您对我的服务不满意吗？"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_adela_uniqueskill_001.ogg",
+            "text": "嘘……找到你了。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_adela_dead_001.ogg",
+            "text": "还不能在这里结束……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_adela_greeting_001.ogg",
+            "text": "欢迎，虽然不在店里，但我愿意倾听每一位客人的需求。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_adela_talk1_001.ogg",
+            "text": "每个前来的客人都有说不完的心事，而我享受着为他们理除烦恼的过程。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_adela_talk1_002.ogg",
+            "text": "曾有人说，剪去代表烦恼的发丝，就能达到无忧无虑的境界……欢迎您随时过来，换换心情。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_adela_talk1_003.ogg",
+            "text": "您帮我磨利剪刀，却不让我剪尽所有人的烦恼……局长，我该如何理解您的深意呢？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_adela_talk2_001.ogg",
+            "text": "您也好奇雾巷传说的真身吗？是为人清除烦恼的帮手，还是享受破坏与裁剪的怪人。又或，两者都是。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_adela_talk2_002.ogg",
+            "text": "所有人都喜欢理发师阿黛拉，却对着浓雾深处的怪谈大变脸色。如果服务本身也变成一种烦恼，那就只好让客人，把这些通通忘记了。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_adela_talk2_003.ogg",
+            "text": "别怕，大多数人都不会再想起那些烦恼的回忆，只会当那是一场梦。雾散了，梦也就结束了。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_adela_obeyfull_001.ogg",
+            "text": "人总被烦恼和旧日回忆层层包裹，不堪重负，无法呼吸。但我也不曾想，剪断这些拘束后，这颗心再也没有产生过悸动的感觉——直到和你相遇，我终于找回了心跳。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_adela_idle_001.ogg",
+            "text": "长时间不用的剪刀，可是会生锈的。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_adela_clicking_001.ogg",
+            "text": "嗯？看来您似乎有些特别的烦恼，请别乱动，我来帮您修剪一下……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_adela_specialattention_001.ogg",
+            "text": "可以理解为，您希望我一直陪在身边吗？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_adela_dispatch_001.ogg",
+            "text": "能帮上您的忙，我很荣幸。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_adela_dispatch2_001.ogg",
+            "text": "为您效劳，这次的收获您满意吗？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_adela_levelup_002.ogg",
+            "text": "谢谢，我该如何报答您呢？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_adela_head_001.ogg",
+            "text": "喜欢我的造型吗？这是新城最流行的款式。如果你也想要同款...那或许要先从蓄发开始。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_adela_jointeam_001.ogg",
+            "text": "At your service."
+        }
+    ],
+    "candlelit_turret": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_adela_talouzhuguang_cacha_001.ogg",
+            "text": "您能登上塔楼来与我相会是我的荣幸，欢迎您，殿下。希望这一次，您可以在这里多停留一会儿……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_adela_talouzhuguang_levelup_001.ogg",
+            "text": "塔顶的烛光，似乎更加明亮了。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_adela_talouzhuguang_greeting_001.ogg",
+            "text": "连头发都被吹乱了……来，坐到这边，让我来为您打理一下头发，舒缓一下疲惫紧绷的心情吧。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_adela_talouzhuguang_head_001.ogg",
+            "text": "我曾在塔楼的藏书里看到过这样的说法：如果想带走一个人的心，可以将自己的头发与对方的绑在一起……殿下这样抚摸我的头发，是想要把我的心也带走吗？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_adela_talouzhuguang_talk_001.ogg",
+            "text": "外界的纷扰只会让您的头发变得憔悴，凌乱，徒增忧虑。如果可以的话，我希望替您剪去一切烦恼，呵护着您的头发，直到它长得很长，与我的头发交织在一起……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_adela_talouzhuguang_talk_002.ogg",
+            "text": "来塔楼拜访我的，都是需要我帮助的人，我也一直都在这里等待着大家，为所有需要的人留一盏烛灯。只有您不一样……您对我似乎有一些别的请求？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_adela_talouzhuguang_hand_001.ogg",
+            "text": "有时候，我也会羡慕殿下这样从外面来的到访者……我的头发是这座塔楼唯一的进出途径，所以我也只能任由它不断地生长繁盛，变得像这层叠的纱网，甚至是，将我自己困在了这里。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_adela_talouzhuguang_leg_001.ogg",
+            "text": "跳动的烛火，安神的熏香，塔顶的时光总是这样宁静平和，像一场隔绝了所有喧嚣的梦。我习惯了这一切，也从未想过要改变什么……直到，你的出现。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_adela_talouzhuguang_idle_001.ogg",
+            "text": "殿下，您又在对着窗外恍神了，外面的世界真的那么有趣吗？一提起这个，您就像有说不完的话……如果您希望的话，或许，我也可以和您一起……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_adela_talouzhuguang_specialattention_001.ogg",
+            "text": "您的目光中盛满了诚挚，如果和您一起离开这里是您对我的要求，那我一定会答应的……只是，在那之前，希望您能在这里停留片刻，延缓步调，放松神级。"
+        }
+    ]
+}

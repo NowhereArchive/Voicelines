@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_bianca_cacha_001.ogg",
+            "text": "观众朋友们，现在你们看到的就是我被MBCC抓获的完整影像啦！来，局长看镜头——三二一，茄子~"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_bianca_promotion_001.ogg",
+            "text": "每天举摄像机真的能强身健体！看我的迷你肱二头肌！可爱吧？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_bianca_promotion2_001.ogg",
+            "text": "躲藏在黑暗角落的坏蛋们，快在屏幕前展现你们真正的样子，我以局长的名字命令你们——看镜头！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_bianca_battlebegin_001.ogg",
+            "text": "摄像机就位！来，笑一个~"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_bianca_battlewin_001.ogg",
+            "text": "猜猜看我拍到了什么？锵锵——是它们被炸成浆糊的瞬间！太酷了，我要裱起来挂在床头！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_bianca_battlelose_001.ogg",
+            "text": "好、丢、人、啊……把刚刚那段删掉吧，拜托拜托~"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_bianca_uniqueskill_001.ogg",
+            "text": "新闻时间到！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_bianca_dead_001.ogg",
+            "text": "摄像机，就交给你了……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_bianca_greeting_001.ogg",
+            "text": "新朋友老朋友，我是你们的记者好朋友！在我身边的，就是鼎鼎有名的米诺斯危机管理局局长啦！哎呀，别害羞呀局长，快和大家打个招呼吧~"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_bianca_talk1_001.ogg",
+            "text": "你知道吗，我刚刚做了一个噩梦，梦到主编催我上交新闻稿！太可怕了，幸好我现在已经失业了。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_bianca_talk1_002.ogg",
+            "text": "偷偷摸摸被拍到呀，正义记者曝光了他，大卸八块脑袋开花，为民除害啦啦啦啦~"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_bianca_talk1_003.ogg",
+            "text": "我知道自己要为过去的行为付出代价，在来到管理局的第一天，我就已经做好了觉悟。来惩罚我吧，我愿意承受这一切！……但先帮我按一下录制键，谢啦~"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_bianca_talk2_001.ogg",
+            "text": "苹果汁可以净化罪恶洗涤心灵带走一切阴霾它是原始的禁忌是真理的结构能够带来下一篇采访稿的灵感以上都是我编的总之……来陪我喝一杯吗？"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_bianca_talk2_002.ogg",
+            "text": "没有新闻的日子好无聊啊——局长，我们养些宠物玩吧？把那些手脚不干净的家伙关起来，放在跑轮上，看它们一直跑一直跑，谁敢偷懒就用电棍威胁它们！左右不过是些吐黑泥的坏东西而已，一不小心养死了也算大功一件啦~"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_bianca_talk2_003.ogg",
+            "text": "抓拍名流的桃色新闻算什么本事，我最喜欢的还是去见不得光阴湿恶心的地方，跟踪那些自以为躲过法律玩弄道德在阴沟里得意洋洋吐黑泥污染世界的小臭虫。把他们从污水沟里抓出来，拖到明媚阳光下暴晒成干！光是想象他们被做成酥脆标本的样子，就超有成就感的！"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_bianca_obeyfull_001.ogg",
+            "text": "采访一下局长，请问你对未来的感情生活有什么规划吗？你的理想型标准是什么样的？你喜欢温柔一点还是活泼一点的？喜欢那种扎着高马尾，每天举着摄像机跑来跑去的吗？那你觉得……我怎么样？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_bianca_idle_001.ogg",
+            "text": "苹果汁万岁！干杯！……唔，局长？你也在这里啊……你怎么有那么多分身啊？一个局长，两个局长，三个局长……嘿嘿，都是我的。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_bianca_clicking_001.ogg",
+            "text": "你你你干嘛？！不会是想要对我……哎呀，不行不行，这种事情播不出去的~"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_bianca_specialattention_001.ogg",
+            "text": "终于到了这激动人心的时刻，让我们掌声有请本届最佳新闻奖的获奖者，她就是——噔噔噔噔……MBCC台记者，毕安卡。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_bianca_dispatch_001.ogg",
+            "text": "来了来了，等我涂个唇膏……什么，转播车已经开走了？！"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_bianca_dispatch2_001.ogg",
+            "text": "这个是给你的，这个也是给你的……咦，怎么感觉自己好像白跑了一趟？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_bianca_levelup_002.ogg",
+            "text": "你一定是在鼓励我继续挖掘更劲爆的新闻对不对？天哪，好感动……嘤嘤。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_bianca_head_001.ogg",
+            "text": "我在案发现场拍到过一样的动作，嫌疑人把手放在了仇家的脖子上，然后——咔哒！我还存了高清录像，要一起看吗？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_bianca_jointeam_001.ogg",
+            "text": "Ready? We're going on TV now!"
+        }
+    ]
+}

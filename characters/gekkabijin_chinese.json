@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_gekkabijin_cacha_001.ogg",
+            "text": "初次见面~你就是MBCC的局长么？在我动手之前，保好自己的项上人头，你可是很值钱的。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_gekkabijin_promotion_001.ogg",
+            "text": "明明知道我很危险，还要提升我的力量。你是觉得我对你没有任何威胁么！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_gekkabijin_promotion2_001.ogg",
+            "text": "I am your personal blade. A sharp blade that swings towards the Garden and slices those who used to look down on me to pieces!"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_gekkabijin_battlebegin_001.ogg",
+            "text": "被我发现的话，可就逃不掉了。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_gekkabijin_battlewin_001.ogg",
+            "text": "这么弱的对手……是看不起我么！"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_gekkabijin_battlelose_001.ogg",
+            "text": "不可能……不可能！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_gekkabijin_uniqueskill_001.ogg",
+            "text": "放心，一点也不会痛。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_gekkabijin_dead_001.ogg",
+            "text": "弱小……就是原罪……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_gekkabijin_greeting_001.ogg",
+            "text": "安保措施这么完备？呵……看来你是认可了我的实力。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_gekkabijin_talk1_001.ogg",
+            "text": "这里太安静了，让我想起了花园的阴冷氛围。但无论如何都比辛迪加的纷乱嘈杂要好得多。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_gekkabijin_talk1_002.ogg",
+            "text": "Many in the Garden obsess over \"the art of flower arrangement,\" but... I don't get it. Assassination is assassination. Why involve so many unrelated things?"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_gekkabijin_talk1_003.ogg",
+            "text": "听着那些所谓“强者”的哀嚎，真是让人身心愉快……你不这么觉得么？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_gekkabijin_talk2_001.ogg",
+            "text": "When I was saved by the Garden, I wanted to be a killer just like them. Ha... haha... how dare they say that I am weak! How dare they say that I am not worthy of joining the Garden!"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_gekkabijin_talk2_002.ogg",
+            "text": "\"Gekkabijin\" is the name I gave to myself. Not everyone is qualified to receive a name from the Garden. But now, if I become the strongest killer in the Garden with your power... Can't wait to see the look on that so-called Mentor's face!"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_gekkabijin_talk2_003.ogg",
+            "text": "那招“落樱”差点要了我的命，不过，有你在的话……轻松接下那一刀应该不是什么问题。哼……下一个……下一个就该轮到她了！"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_gekkabijin_obeyfull_001.ogg",
+            "text": "谢谢你，局长。在打倒所有的花园杀手之后，我要把这些人的性命当作礼物送给你！最后……最后再好好享用你！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_gekkabijin_idle_001.ogg",
+            "text": "想到美好的花朵们，要在这城里不断凋零……啊——真是想想就让人愉快！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_gekkabijin_clicking_001.ogg",
+            "text": "Heart, artery, brain... where do you want to be cut open?"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_gekkabijin_specialattention_001.ogg",
+            "text": "这么关注我，是害怕我对你下手吗？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_gekkabijin_dispatch_001.ogg",
+            "text": "派我出去？一定是很刺激的任务吧？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_gekkabijin_dispatch2_001.ogg",
+            "text": "啊——真扫兴。还以为能碰到有价值的对手呢。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_gekkabijin_levelup_002.ogg",
+            "text": "等着瞧吧……花园。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_gekkabijin_jointeam_001.ogg",
+            "text": "I hope my opponent this time can put up a tough fight."
+        }
+    ]
+}
