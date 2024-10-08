@@ -171,52 +171,52 @@
     "traveller_s_tale": [
         {
             "title": "Obtain Attire",
-            "filename": "File:vo_hecate_traveller's_tale_cacha_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_cacha_001.ogg",
             "text": "こんにちは。私は異世界から来た魔法使い。夢と幻想を操る能力があります……セリフはこれで合っている？"
         },
         {
             "title": "Greeting",
-            "filename": "File:vo_hecate_traveller's_tale_greeting_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_greeting_001.ogg",
             "text": "局長も参加したいの？分かった。ゲームの中でも、しっかり守る。"
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_hecate_traveller's_tale_talk_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_talk_001.ogg",
             "text": "たまには、命令以外のことをしてもいいのかもしれない……リラックスの意味が分かった。"
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_hecate_traveller's_tale_talk_002.ogg",
+            "filename": "File:vo_hecate_travellers_tale_talk_002.ogg",
             "text": "仮想世界では、誰もが思い描いた自分になれる。現実ではできないこともできる……これが、ゲームの魅力。"
         },
         {
             "title": "Ordinary Contact 3",
-            "filename": "File:vo_hecate_traveller's_tale_hand_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_hand_001.ogg",
             "text": "悪夢にも新しい装備をつけた。気に入ったみたい。"
         },
         {
             "title": "Ordinary Contact 4",
-            "filename": "File:vo_hecate_traveller's_tale_leg_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_leg_001.ogg",
             "text": "ラムゴラド——あっ……EMPが言っていた。ゲームをプレイする時は、魔導書に書かれたスキル名を読み上げた方が没入感があるって。"
         },
         {
             "title": "Idle",
-            "filename": "File:vo_hecate_traveller's_tale_idle_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_idle_001.ogg",
             "text": "「彼方から来た勇者よ。天空と星の導きを受け、未知なる旅へ出よ。神秘の宝物を探すために……」"
         },
         {
             "title": "Special Attention",
-            "filename": "File:vo_hecate_traveller's_tale_specialattention_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_specialattention_001.ogg",
             "text": "局長がやりたいのは、どの場所のクエスト？命令をくれれば、一緒に行く。"
         },
         {
             "title": "Level Up",
-            "filename": "File:vo_hecate_traveller's_tale_levelup_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_levelup_001.ogg",
             "text": "魔力値、増加。"
         },
         {
             "title": "Pat Head",
-            "filename": "File:vo_hecate_traveller's_tale_head_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_head_001.ogg",
             "text": "これは魔法使いの専用装備だってメイスから聞いた……帽子が大きければ大きいほど、特殊なバフ効果も高くなるみたい。局長も欲しい？"
         }
     ]

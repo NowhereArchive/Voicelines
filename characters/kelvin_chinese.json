@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_kelvin_cacha_001.ogg",
+            "text": "如果可以的话我想呆在厨房，最好有个冷库……啊，对不起我不是故意要让您们为难，我保证不做奇怪的事。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_kelvin_promotion_001.ogg",
+            "text": "呼……刚刚的感觉，难道就是绝对零度吗？"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_kelvin_promotion2_001.ogg",
+            "text": "从今以后，不论是料理还是战斗……我……都不会再怀疑自己了！"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_kelvin_battlebegin_001.ogg",
+            "text": "应该有比我更合适的人选……吧？"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_kelvin_battlewin_001.ogg",
+            "text": "成功活下来了……！这都是大家的功劳。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_kelvin_battlelose_001.ogg",
+            "text": "我总会搞砸所有事……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_kelvin_uniqueskill_001.ogg",
+            "text": "请不要过来！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_kelvin_dead_001.ogg",
+            "text": "好冷……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_kelvin_greeting_001.ogg",
+            "text": "今天好像有点热呢……局长，我尝试做了新口味的刨冰，您要试试吗？不会让您失望的。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_kelvin_talk1_001.ogg",
+            "text": "局长，您知道哪种蔬菜的视力最差吗？……一样差哦！因为植物都没有眼睛！……哈哈…………哈……对不起我就是不行啦……！"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_kelvin_talk1_002.ogg",
+            "text": "我没法尝出热菜的味道，却还梦想着当一个厨师……对不起，您一定觉得我这种人很奇怪吧。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_kelvin_talk1_003.ogg",
+            "text": "狄斯蓝缎厨艺学校是最有名的厨师学校，每一个学生都能成为未来的明星主厨——除了我……已经留级3年，我还是没有拿到毕业证书。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_kelvin_talk2_001.ogg",
+            "text": "为了通过考试，为了得到大家的认可，我背叛了唯一陪伴我的料理学着做“正常”的美味，尝那些我根本尝不出味道的东西……那以后，我得到了毕业证,却失去了更宝贵的东西。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_kelvin_talk2_002.ogg",
+            "text": "我知道自己的料理不是大家都喜欢的那一种……可是……低温料理也有独特风味，我真的不想放弃它们！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_kelvin_talk2_003.ogg",
+            "text": "“与大家不一样”，是一件非常可怕的事……大家觉得甜的，您也要觉得甜；大家觉得酸的，您也要觉得酸……不然，我就只能是一个“怪人”了……"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_kelvin_obeyfull_001.ogg",
+            "text": "谢谢您局长，能给我一个容身之所，可以做自己想做的料理，还愿意和我说话。明明我无论说什么话题都会冷场……今后，无论您有什么要求，我都会照做的。我保证！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_kelvin_idle_001.ogg",
+            "text": "这里好像已经不需要我了……嗯……能不能去厨房看看呢？只是看看？嗯。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_kelvin_clicking_001.ogg",
+            "text": "噫！局局局长……好烫……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_kelvin_specialattention_001.ogg",
+            "text": "局长？您也要来监督我吗？对不起，我不会背着您偷偷用冰库的……真的。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_kelvin_dispatch_001.ogg",
+            "text": "那个……我可以在回来的路上买些食材吗？"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_kelvin_dispatch2_001.ogg",
+            "text": "对不起，局长，我好像……有些中暑……"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_kelvin_levelup_002.ogg",
+            "text": "……嗯？我好像尝出一些味道了。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_kelvin_jointeam_001.ogg",
+            "text": "... are you sure you want to leave this to me?"
+        }
+    ],
+    "chilling_hideaway": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_kelvin_bishushengdi_cacha_001.ogg",
+            "text": "呼……好凉快啊——诶！局局局长！您……您什么时候在这里的！对，对不起！能让我在这里再待一会儿么……我等下一定会把冰箱收拾好的！"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_kelvin_bishushengdi_levelup_001.ogg",
+            "text": "这样温度就会降下来了吧……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_kelvin_bishushengdi_greeting_001.ogg",
+            "text": "局长您要来试试么！这里和蓝缎学院的冰库不一样，没有那种凉飕飕的感觉，温度正好！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_kelvin_bishushengdi_talk_001.ogg",
+            "text": "要是被大家看见我这副样子，我的“怪人”属性就又要被加强了吧。您说……您觉得还不错？嘿嘿……那就好……"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_kelvin_bishushengdi_talk_002.ogg",
+            "text": "我想到了！等下去泳池玩的时候，就用这些水果做点刨冰吧，冰冰凉凉的，一定很解暑！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_kelvin_bishushengdi_idle_001.ogg",
+            "text": "有一天，草莓味的甜筒和巧克力味的甜筒起比赛游泳，局长您猜猜看，它们谁会先到终点？答案是都没到，因为它们在海里融化了！对，对不起……因为天气实在太热了我才……您不用强迫自己笑的！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_kelvin_bishushengdi_clicking_001.ogg",
+            "text": "哇！局长您的手好凉啊，和平时的感觉不太样！好像……好像比液氮的降温效果还要好！嗯？这……这就是枷锁的力量吗？太神奇了！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_kelvin_bishushengdi_specialattention_001.ogg",
+            "text": "尽管特意准备了轻便的衣服，但我还是低估了这里的温度，差一点……差一点我就要变成水蒸气们的一员了……"
+        }
+    ]
+}

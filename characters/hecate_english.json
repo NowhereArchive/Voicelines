@@ -171,52 +171,52 @@
     "traveller_s_tale": [
         {
             "title": "Obtain Attire",
-            "filename": "File:vo_hecate_traveller's_tale_cacha_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_cacha_001.ogg",
             "text": "Hi, I'm an otherworld mage with the power to manipulate dreams and fantasies... These are my lines, right?"
         },
         {
             "title": "Greeting",
-            "filename": "File:vo_hecate_traveller's_tale_greeting_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_greeting_001.ogg",
             "text": "Are you going to join us too, Chief? All right, I will do my best to protect you, even if it's just a game."
         },
         {
             "title": "Ordinary Contact 1",
-            "filename": "File:vo_hecate_traveller's_tale_talk_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_talk_001.ogg",
             "text": "It's nice to do something other than following orders once in a while... I guess this is what relaxing means."
         },
         {
             "title": "Ordinary Contact 2",
-            "filename": "File:vo_hecate_traveller's_tale_talk_002.ogg",
+            "filename": "File:vo_hecate_travellers_tale_talk_002.ogg",
             "text": "In the virtual world, anyone can become the character of their dreams, and do things that they can't do in reality... I guess this is what makes games so alluring."
         },
         {
             "title": "Ordinary Contact 3",
-            "filename": "File:vo_hecate_traveller's_tale_hand_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_hand_001.ogg",
             "text": "Nightmare also put on the new gear, it seems to like it a lot."
         },
         {
             "title": "Ordinary Contact 4",
-            "filename": "File:vo_hecate_traveller's_tale_leg_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_leg_001.ogg",
             "text": "Mulangrador... Ah... EMP says that to really immerse yourself in the game, you should say the magic skill names out loud."
         },
         {
             "title": "Idle",
-            "filename": "File:vo_hecate_traveller's_tale_idle_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_idle_001.ogg",
             "text": "O brave warrior who have come here from afar, accept the guidance of the heavens and stars to embark on a quest for the secret treasure..."
         },
         {
             "title": "Special Attention",
-            "filename": "File:vo_hecate_traveller's_tale_specialattention_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_specialattention_001.ogg",
             "text": "Where do you want to go for the mission, Chief? Just give me the order and I'll come with you."
         },
         {
             "title": "Level Up",
-            "filename": "File:vo_hecate_traveller's_tale_levelup_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_levelup_001.ogg",
             "text": "Magic value increased."
         },
         {
             "title": "Pat Head",
-            "filename": "File:vo_hecate_traveller's_tale_head_001.ogg",
+            "filename": "File:vo_hecate_travellers_tale_head_001.ogg",
             "text": "Mess told me that this is the gear only a mage gets to have... The bigger the hat, the higher the bonus stats. Want one too, Chief?"
         }
     ]

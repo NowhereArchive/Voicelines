@@ -1,0 +1,119 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_jane_cacha_001.ogg",
+            "text": "您好，我是简，如您所见，是一名禁闭者。请问……这里就是禁闭者们能找到工作的地方么？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_jane_promotion_001.ogg",
+            "text": "变强的话，工资也会涨吧？要是不涨的话，我就只能再去金库里面取了。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_jane_promotion2_001.ogg",
+            "text": "这样，就够了……我犯下的过错，必须由我亲自偿还才行。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_jane_battlebegin_001.ogg",
+            "text": "来吧……享受战斗的时刻终于到了……"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_jane_battlewin_001.ogg",
+            "text": "好弱，几枪就不能动了。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_jane_battlelose_001.ogg",
+            "text": "下次……下次我一定会把这群死役通通炸成碎片的。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_jane_uniqueskill_001.ogg",
+            "text": "永别了，爬虫们。"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_jane_dead_001.ogg",
+            "text": "这是……对我的惩罚……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_jane_greeting_001.ogg",
+            "text": "是有合适的任务吗？最好是单人任务。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_jane_talk1_001.ogg",
+            "text": "为什么要用这种武器？因为简单，而且效率。我只需要把特制榴弹装进枪管，关闭并锁定控制杆后再瞄准开枪，就能完成工作了。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_jane_talk1_002.ogg",
+            "text": "这枚子弹是我的家人留给我的，他们希望我能像子弹一样勇往直前，突破一切困难。当然，这也是在我失控时，留给自己的最后一道保险。"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_jane_talk1_003.ogg",
+            "text": "在任务中，我可以是兵器，可以是工具，可以是您能想到的任何东西——前提是不违反律法且报酬合理。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_jane_talk2_001.ogg",
+            "text": "不管伤成什么样，都是属于我的赎罪罢了，不是任何人的错。您……您不需要这么关心我这种人……我会努力做好一切的。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_jane_talk2_002.ogg",
+            "text": "我还真是差劲……总是会从破坏和毁灭中感到满足。您一定……觉得我很奇怪吧。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_jane_talk2_003.ogg",
+            "text": "谢谢MBCC和局长您的帮助，我的家人已经安全回到新城了……过两天，我想去看望他们。诶？！您、您也要去吗？这……这会不会有点……太早了？"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_jane_obeyfull_001.ogg",
+            "text": "您说，如果那时候我再理智一些，会不会一切都不一样呢？啊……我又开始多想了，我知道的，这世界上所有选择，没有如果，只有结果……但我很庆幸，您就是我所有选择中，最正确的答案。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_jane_idle_001.ogg",
+            "text": "八，九，十……准备这么多应该够了。不……以防万一还是再准备一点别的子弹，上次任务的浴火者打了好久才放倒一只。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_jane_clicking_001.ogg",
+            "text": "……有点痒。请您不要在我专心的时候做这种事。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_jane_specialattention_001.ogg",
+            "text": "请和我保持一点距离吧……就算您好奇也别贴这么近……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_jane_dispatch_001.ogg",
+            "text": "银行以外的地方，我都没问题。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_jane_dispatch2_001.ogg",
+            "text": "比预想得还要简单一些。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_jane_levelup_002.ogg",
+            "text": "要是子弹也会和我一起变强就好了，有些死役的皮真的很硬。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_jane_jointeam_001.ogg",
+            "text": "Let me be clear, if you insist on putting me on the battlefield, I can't be held responsible if anything goes haywire."
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hella_cacha_001.ogg",
+            "text": "救命啊，放我出去，绑架美少女啦！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hella_promotion_001.ogg",
+            "text": "我好像更能打了耶！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hella_promotion2_001.ogg",
+            "text": "我觉得我已经无敌了。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hella_battlebegin_001.ogg",
+            "text": "GOGOGO!"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hella_battlewin_001.ogg",
+            "text": "呼，总算赢了。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hella_battlelose_001.ogg",
+            "text": "唉，我明明还能……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hella_uniqueskill_001.ogg",
+            "text": "还没结束呢！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hella_dead_001.ogg",
+            "text": "好痛……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hella_greeting_001.ogg",
+            "text": "局长大人~能不能给世界上最可爱的海拉一点点零花钱呢？好吗，好吗——局长最好了——"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hella_talk1_001.ogg",
+            "text": "什么事啊局长？呃……钱包？诶嘿嘿，还你还你，职业习惯，职业习惯……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hella_talk1_002.ogg",
+            "text": "我？装可爱？谁说的？！人家难道不可爱吗？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hella_talk1_003.ogg",
+            "text": "别再跟我提过去那些破事儿了。我可不是成天哭哭啼啼找人安慰的小姑娘。我能活到今天，靠的是**的自己"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hella_talk2_001.ogg",
+            "text": "这根水管的重量、大小还有手感，简直就是为我量身打造的，所以以后别跟我提换武器这件事了，我是绝对不会抛弃它的！"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hella_talk2_002.ogg",
+            "text": "有机会我带你跟九十九一块儿玩吧，别看她长得那么凶，其实人挺好的。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hella_talk2_003.ogg",
+            "text": "其实我不太喜欢打架。虽然不容易死，但是会痛啊，又很麻烦……放心放心，替你做事我还是很乐意的啦，不用有什么负担。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_hella_obeyfull_001.ogg",
+            "text": "我决定了，鉴于你成天粘着我，踹都踹不走，那我就大发慈悲收下你这个小弟吧。你可永远都不许背叛我，知道了吗？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hella_idle_001.ogg",
+            "text": "困死了……你过来，让我靠着你睡一会儿……"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hella_clicking_001.ogg",
+            "text": "你这是在给我按摩吗？"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hella_specialattention_001.ogg",
+            "text": "哈，我就知道你要来找我。怎么，又想我了？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hella_dispatch_001.ogg",
+            "text": "终于轮到我出门啦！局长，能不能多给我批点经费啊~"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_hella_dispatch2_001.ogg",
+            "text": "活儿干完咯，局长，有没有给我准备犒劳品啊？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hella_levelup_002.ogg",
+            "text": "好耶！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_hella_jointeam_001.ogg",
+            "text": "Hmm? You really like being with me, don't you?"
+        }
+    ],
+    "queen_of_hearts": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_hella_queen_of_hearts_cacha_001.ogg",
+            "text": "又*文明狄斯*是谁想来打扰本皇后的午睡时间？还不快给我跪下！诶……这不是局长么？太好了！这样我的板球赛就能如期举行了！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hella_queen_of_hearts_greeting_001.ogg",
+            "text": "?别拿着白色的花来见我，我更喜欢红色的玫瑰。再有下次，我……就在你的脑袋上打一百个包！"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hella_queen_of_hearts_talk_001.ogg",
+            "text": "这根权杖的重量、大小、手感，还有这“布灵布灵”的光泽……简直就是为我量身打造的！而且……最重要的是，它的头很大！大得很有美感！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hella_queen_of_hearts_talk_002.ogg",
+            "text": "我想吃那个面皮上都是水果和奶油的东西！叫什么……塔来着……？对对对！就是果塔！我想吃~快做给我吃！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hella_queen_of_hearts_idle_001.ogg",
+            "text": "马上就要到茶会时间了~局长赶紧去布置一下会场吧……为什么？因为这里闲得没事干的仆从只有你一个了啊。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hella_queen_of_hearts_clicking_001.ogg",
+            "text": "再多试几次的话，你可要护好自己的脑袋哦……局长~"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hella_queen_of_hearts_levelup_001.ogg",
+            "text": "这些小动物都怎么回事，整天都在给我添麻烦！算了，要不是看你们可爱，我早就……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hella_queen_of_hearts_specialattention_001.ogg",
+            "text": "咳咳，为了维持我们之间的平等关系，我以皇后的名义命令你……喂！你这家伙又在用枷锁做奇怪的事！"
+        }
+    ]
+}

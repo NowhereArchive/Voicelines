@@ -1,0 +1,124 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hestia_cacha_001.ogg",
+            "text": "你……是你？！看到火光了对吗？我就知道你能看到……嘿嘿，我等你……好久了……"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hestia_promotion_001.ogg",
+            "text": "我看见了……将燃的火种。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hestia_promotion2_001.ogg",
+            "text": "我……被点亮了……太好了，他们终于能……回来了……"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hestia_battlebegin_001.ogg",
+            "text": "太黑了……我要在这里生一团火。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hestia_battlewin_001.ogg",
+            "text": "原来……也没有那么可怕……"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hestia_battlelose_001.ogg",
+            "text": "不……不要过来……走开！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hestia_uniqueskill_001.ogg",
+            "text": "这是火焰的指引！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hestia_dead_001.ogg",
+            "text": "谁来……救救我……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hestia_greeting_001.ogg",
+            "text": "你回来啦……找到其他人了？没有么……只是问问，别紧张。至少我……还在这里呢……"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hestia_talk1_001.ogg",
+            "text": "我的眼睛……看不见你们看到的东西，但……你们也看不见我所见的……那轮升空的红月，那个殒落的幻影……想在这儿活命，就听从我的指引，明白了吗……"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hestia_talk1_002.ogg",
+            "text": "有个声音……让我点燃火炬……说……只有这样你们才会回来……祂没有骗我，至少你来了，不是吗……"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hestia_talk1_003.ogg",
+            "text": "这里的人……总是在说一些……奇奇怪怪的话。你能听懂吗？他们……他们想要做什么？你会保护我的，对吗？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hestia_talk2_001.ogg",
+            "text": "从来没有人像你们这样对待过我……为什么呢？为什么你们能这样轻易收留一个陌生人，毫无代价地把食物分给我，还保护我……你们明明……并不相信我说的话……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hestia_talk2_002.ogg",
+            "text": "我也讨厌……那个神明……可祂真的存在……就在前面，在你们要去的地方……为什么……你们不愿意相信呢？"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hestia_talk2_003.ogg",
+            "text": "不要再向前了……那是陷阱，黑暗会吞噬你们每一个人……我知道，你们不会相信骗子……可这一次，我没有说谎……"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_hestia_obeyfull_001.ogg",
+            "text": "都怪你……我连怎么独自生存下去都忘记了……一个人被留在那种地方……真的……好可怕……不要回去了……不要再离开我，我不想再被丢下了……"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hestia_idle_001.ogg",
+            "text": "嘘……不要出声……祂在看我们……我感觉到了。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hestia_clicking_001.ogg",
+            "text": "你……你欺负人！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hestia_specialattention_001.ogg",
+            "text": "又一次，你穿越黑暗找到了我。我知道的，因为这是神明的安排……无论过去多久，你都会回到我身边……"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hestia_dispatch_001.ogg",
+            "text": "这也是祂的旨意……"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_hestia_dispatch2_001.ogg",
+            "text": "我不会迷路的。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hestia_levelup_002.ogg",
+            "text": "火焰……更亮了……"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hestia_head_001.ogg",
+            "text": "不许这样……圣女……不容亵渎！"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_hestia_jointeam_001.ogg",
+            "text": "There is nothing to fear. I'm here to show you the way..."
+        }
+    ]
+}

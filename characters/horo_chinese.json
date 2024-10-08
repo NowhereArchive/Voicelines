@@ -1,0 +1,161 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_horo_cacha_001.ogg",
+            "text": "?怎么又是这儿！放我出去！军团不会放过你，我老大迟早找上门，砸了你这破地方。听到没！"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_horo_promotion_001.ogg",
+            "text": "哇，这力量……我得赶紧去跟卓娅老大比划比划试试！"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_horo_promotion2_001.ogg",
+            "text": "从今以后，军团，就交给我吧。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_horo_battlebegin_001.ogg",
+            "text": "别怕，有我罩着你呢。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_horo_battlewin_001.ogg",
+            "text": "哼，这下知道我的厉害了吧。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_horo_battlelose_001.ogg",
+            "text": "没关系的，只要人还在，我们总有机会赢的！"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_horo_uniqueskill_001.ogg",
+            "text": "啊——"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_horo_dead_001.ogg",
+            "text": "我们……不会输……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_horo_greeting_001.ogg",
+            "text": "唷，是你啊？我正热身呢，你要一起不？优秀的战士决不能疏于练习，否则身体迟早会生锈的。这是卓娅老大教我的！"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_horo_talk1_001.ogg",
+            "text": "都是一个妈生的，凭什么厄尔希就能长那么高……等着瞧吧，我一定会超过他的。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_horo_talk1_002.ogg",
+            "text": "强大的秘诀？勤练，一往无前的勇气，还有每天一公升牛奶……你笑什么？！摄取营养很重要的！"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_horo_talk1_003.ogg",
+            "text": "这柄斧头是军团的兄弟们送我的。怎么样，和勇猛无敌的我很般配吧？"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_horo_talk2_001.ogg",
+            "text": "卓娅老大超强的，人又体贴，脑子还好使。真希望有朝一日我能像她那样。嗯，有她一半厉害就好了。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_horo_talk2_002.ogg",
+            "text": "裙子？我不穿裙子，不方便战斗还容易走光。你……你胡说！我上次才没盯着橱窗里的裙子看……闭嘴！"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_horo_talk2_003.ogg",
+            "text": "我现在很强，没人再把我当作累赘了。可我最在乎的那个人，已经不在了。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_horo_obeyfull_001.ogg",
+            "text": "当初你说你是卓娅老大派来救我的，其实都是骗我的吧？哼，算了，我原谅你了。为一点小事和重要的人斤斤计较……这种蠢事我不会再做第二遍了。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_horo_idle_001.ogg",
+            "text": "喂，你知道采购办在哪儿吗？那个紫毛小妞说要处理临期牛……商品，全场5折，我得去看看。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_horo_clicking_001.ogg",
+            "text": "啊！别跑，我砍了你！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_horo_specialattention_001.ogg",
+            "text": "来找我干嘛？只是来看看？我有什么好看的。或者说，你想和我练练？"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_horo_dispatch_001.ogg",
+            "text": "放心，包在我身上。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_horo_dispatch2_001.ogg",
+            "text": "都让我出马了，这点小事还不是轻轻松松？"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_horo_levelup_002.ogg",
+            "text": "好！再来点儿。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_horo_jointeam_001.ogg",
+            "text": "Legion, let's go!"
+        }
+    ],
+    "limit_breaker": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_horo_jixianyundongjihua_cacha_001.ogg",
+            "text": "……来找我干嘛？ 只是来看看？ 我有什么好看的。来都来了，不如先和我练练再说，看你这细路膊细腿的，我都怕哪天内海刮大风给你吹走了。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_horo_jixianyundongjihua_greeting_001.ogg",
+            "text": "这都几点呢？你怎么还在磨蹭。优秀的战士可不能疏忽了锻练，来先跟我热个身跑两公里再说。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_horo_jixianyundongjihua_talk_001.ogg",
+            "text": "颈前下拉五组，反握下拉五组，哑铃弯举五组，杠铃弯举五组,，这些只是第一阶段的训练计划，做完这些咱们再……喂你别跑啊！那先三组，三组总行了吧！"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_horo_jixianyundongjihua_talk_002.ogg",
+            "text": "那句话怎么说来着……量变引起……什么变的……啊记不住了！唉总之就是坚持锻炼肯定没错!！总有一天，我会超过那个家伙，还有卓娅老大，成为军团最强的！"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_horo_jixianyundongjihua_idle_001.ogg",
+            "text": "呸呸呸，这草莓味香精也太浓了，甜到齁……我，我当然知道蛋白粉要兑水喝了，你就不好奇它本来的味道么！"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_horo_jixianyundongjihua_specialattention_001.ogg",
+            "text": "你穿成这样怎么跟我一起运动啊？ 来，先跟我回军团让大伙儿给你凑几件轻便的衣服吧。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_horo_jixianyundongjihua_levelup_001.ogg",
+            "text": "……啊——！运动之后就是得喝牛奶才行！"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_horo_jixianyundongjihua_clicking_001.ogg",
+            "text": "诶， 你小心点！ 这外套可是我花了大价钱定制的， 说它是军团之魂也不为过！ 你也想穿穿看？行吧，看在你认可军团的份上，我就……不对！等…等我先把衣服洗了再说…"
+        }
+    ]
+}

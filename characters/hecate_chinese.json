@@ -1,0 +1,223 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hecate_cacha_001.ogg",
+            "text": "我一直都在等你。"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hecate_promotion_001.ogg",
+            "text": "只要你需要，我会一直在你身边。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hecate_promotion2_001.ogg",
+            "text": "我的一切都将为你所用，这就是“赫卡蒂”存在的意义。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hecate_battlebegin_001.ogg",
+            "text": "跟在我身后。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hecate_battlewin_001.ogg",
+            "text": "接下来，我该怎么做？"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hecate_battlelose_001.ogg",
+            "text": "没事的，我感觉不到痛。"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hecate_uniqueskill_001.ogg",
+            "text": "你……不该靠近他！"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hecate_dead_001.ogg",
+            "text": "没关系……还会有下一个我。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hecate_greeting_001.ogg",
+            "text": "昨晚睡得好吗，局长？请给我今天的命令。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hecate_talk1_001.ogg",
+            "text": "……只要能保护好你，就可以了吧？"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hecate_talk1_002.ogg",
+            "text": "“禁闭者”与那些“死役”有什么不一样？同样都是会流血与死亡的生命，为什么你认为我们是不同的？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hecate_talk1_003.ogg",
+            "text": "如果我消失，还会有下一个“赫卡蒂”出现。所以，你不必在乎。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hecate_talk2_001.ogg",
+            "text": "你可以对我再严苛一些，那些对我友善的人……都……"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hecate_talk2_002.ogg",
+            "text": "与你相遇以后，我总觉得自己不再是赫卡蒂。我不知道自己到底会变成什么，等到那一天……你会告诉我该怎么做吗？"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hecate_talk2_003.ogg",
+            "text": "局长，如果有天……我不再作为“赫卡蒂”活着，你还会让我站在你身边吗？"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_hecate_obeyfull_001.ogg",
+            "text": "我已经不再需要命令了，局长。请好好看着我，剩下的路，我会遵从自己的意志陪你一起走完。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hecate_idle_001.ogg",
+            "text": "做个好梦。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hecate_clicking_001.ogg",
+            "text": "如果是难以启齿的命令，不必犹豫，尽管使用我就好。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hecate_specialattention_001.ogg",
+            "text": "就算不这样做，我也会一直陪着你。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hecate_dispatch_001.ogg",
+            "text": "是命令吗？明白了，我会做好的。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_hecate_dispatch2_001.ogg",
+            "text": "命令完成，我回来了。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hecate_levelup_002.ogg",
+            "text": "如果这就是你所期望的，我会去做。"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_hecate_jointeam_001.ogg",
+            "text": "I'm here."
+        }
+    ],
+    "yesterday_revisits": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_hecate_yesterday_revisits_cacha_001.ogg",
+            "text": "嗯，如果不是你的要求……我没有穿这身衣服的机会。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hecate_yesterday_revisits_greeting_001.ogg",
+            "text": "今天需要我做些什么呢？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hecate_yesterday_revisits_talk_001.ogg",
+            "text": "每次穿这身衣服时，总有人会给我拍照。不过，已经很久没有人要求我穿上它们了。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hecate_yesterday_revisits_talk_002.ogg",
+            "text": "如果有机会……也想请你带我去战场之外的地方。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hecate_yesterday_revisits_hand_001.ogg",
+            "text": "以前，会有睡前故事从电话的另一端传过来。后来我突然忘记了故事的内容，电话也再没响起过。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hecate_yesterday_revisits_leg_001.ogg",
+            "text": "夜莺副官说我的画册很危险，不该被人看到，我就把它放在这箱子里了。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hecate_yesterday_revisits_idle_001.ogg",
+            "text": "我画过一些和局长有关的画，他们都说，绝不能让你看到。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hecate_yesterday_revisits_specialattention_001.ogg",
+            "text": "如果你喜欢这种风格的话……要把它做成管理局的常用制服吗?"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hecate_yesterday_revisits_levelup_001.ogg",
+            "text": "休息时我也不会松懈。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hecate_yesterday_revisits_head_001.ogg",
+            "text": "很在意我的帽子吗？她们告诉我这是画家才能戴的，不过……画家是什么？"
+        }
+    ],
+    "traveller_s_tale": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_hecate_travellers_tale_cacha_001.ogg",
+            "text": "你好，我是来自异世界的魔法使，拥有操控梦境与幻想的力量……台词是这样没错吧。"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hecate_travellers_tale_greeting_001.ogg",
+            "text": "局长想要加入我们？好的，即使是在游戏里，我也会保护好你。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hecate_travellers_tale_talk_001.ogg",
+            "text": "偶尔做一些命令之外的事，好像也不错……原来放松是指这个意思。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hecate_travellers_tale_talk_002.ogg",
+            "text": "在虚拟世界里，大家都能成为幻想中的自己，去做现实中无法做到的事情……这就是所谓游戏的魅力吗。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hecate_travellers_tale_hand_001.ogg",
+            "text": "梦魇也换上了新的装备，它好像很喜欢。"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hecate_travellers_tale_leg_001.ogg",
+            "text": "姆兰哥拉多——啊……是艾米潘说，玩游戏要把魔法书上的技能名都念出来，才更有代入感。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hecate_travellers_tale_idle_001.ogg",
+            "text": "“远道而来的勇者，接受天空与星辰的指引，将踏上未知的旅途，寻找那神秘的宝藏……”"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hecate_travellers_tale_specialattention_001.ogg",
+            "text": "局长想去哪个地方做任务？只要给我命令，我会陪你一起去的。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hecate_travellers_tale_levelup_001.ogg",
+            "text": "魔力值增加。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hecate_travellers_tale_head_001.ogg",
+            "text": "莓丝告诉我，这是魔法使的专属装备……帽子越大，特殊加成越高，局长也想要吗？"
+        }
+    ]
+}

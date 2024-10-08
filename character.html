@@ -112,6 +112,7 @@
               sanitizedAttire,
               englishVoicelineMap
             );
+            filterVoicelines();
           })
           .catch((error) => {
             console.error("Error loading English voicelines:", error);
@@ -119,6 +120,7 @@
           });
       } else {
         displayVoicelines(voicelinesContainer, voicelines, sanitizedAttire);
+        filterVoicelines();
       }
     }
 
@@ -156,30 +158,33 @@
     }
 
     function createAttireButtons(data) {
-      const attireButtonsContainer = document.getElementById(
-        "attireButtonsContainer"
-      );
-      attireButtonsContainer.innerHTML = "";
+  const attireButtonsContainer = document.getElementById("attireButtonsContainer");
+  attireButtonsContainer.innerHTML = "";
 
-      Object.keys(data).forEach((attire) => {
-        const button = document.createElement("button");
-        button.classList.add("attire-button");
-        button.innerText = attire
-          .replace(/_/g, " ")
-          .replace(/\b\w/g, (char) => char.toUpperCase());
-        button.onclick = () => {
-          const buttons =
-            attireButtonsContainer.getElementsByClassName("attire-button");
-          Array.from(buttons).forEach((btn) =>
-            btn.classList.remove("active-button")
-          );
+  Object.keys(data).forEach((attire) => {
+    const button = document.createElement("button");
+    button.classList.add("attire-button");
+    button.innerText = attire.replace(/_/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
+    
+    button.onclick = () => {
+      const buttons = attireButtonsContainer.getElementsByClassName("attire-button");
+      Array.from(buttons).forEach((btn) => btn.classList.remove("active-button"));
 
-          button.classList.add("active-button");
-          renderVoicelines(data, attire, language);
-        };
-        attireButtonsContainer.appendChild(button);
-      });
-    }
+      button.classList.add("active-button");
+      
+      // Store the current search value
+      const searchValue = document.getElementById("searchInput").value;
+      
+      renderVoicelines(data, attire, language);
+      
+      // Restore the search value
+      document.getElementById("searchInput").value = searchValue;
+      filterVoicelines(); // Reapply filtering based on the previous search
+    };
+    attireButtonsContainer.appendChild(button);
+  });
+}
+
 
     function createLanguageButtons() {
       const languageButtonsContainer = document.getElementById(
@@ -296,20 +301,22 @@
       .addEventListener("input", filterVoicelines);
 
     function filterVoicelines() {
-      const searchValue = document
-        .getElementById("searchInput")
-        .value.toLowerCase();
-      const voicelines = document.querySelectorAll(".voiceline");
+  const searchValue = document.getElementById("searchInput").value.toLowerCase();
+  const voicelines = document.querySelectorAll(".voiceline");
 
-      voicelines.forEach((line) => {
-        const lineText = line
-          .querySelector(".voiceline-text")
-          .innerText.toLowerCase();
-        line.style.display = lineText.includes(searchValue)
-          ? "block"
-          : "none";
-      });
-    }
+  voicelines.forEach((line) => {
+    const lineTitle = line.querySelector("p").innerText.toLowerCase(); // Get the voiceline title
+    const lineText = line.querySelector(".voiceline-text").innerText.toLowerCase(); // Get the non-English text
+    const englishText = line.querySelector(".voiceline-text-NotEn")?.innerText.toLowerCase(); // Get the English text if available
+
+    // Check if the search term is found in either the title, the voiceline text, or the English translation
+    const match = lineTitle.includes(searchValue) || lineText.includes(searchValue) || (englishText && englishText.includes(searchValue));
+    
+    // Toggle display based on the search match
+    line.style.display = match ? "block" : "none";
+  });
+}
+
 
     function handleSmallScreens() {
       document

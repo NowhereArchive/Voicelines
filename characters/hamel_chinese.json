@@ -1,0 +1,228 @@
+{
+    "default": [
+        {
+            "title": "Obtain the Sinner",
+            "filename": "File:vo_hamel_cacha_001.ogg",
+            "text": "你将我从幻境中唤醒，我应该感谢你才对，可是……失去舞台的舞者，该去往哪里呢？"
+        },
+        {
+            "title": "Raise to Phase 1",
+            "filename": "File:vo_hamel_promotion_001.ogg",
+            "text": "用这份力量为更多的灵魂带去抚慰——这是我的宿命，我不会再逃避了。"
+        },
+        {
+            "title": "Raise to Phase 3",
+            "filename": "File:vo_hamel_promotion2_001.ogg",
+            "text": "这还不是终点，在生命燃尽之前，我的舞步不会休止。"
+        },
+        {
+            "title": "Level Start",
+            "filename": "File:vo_hamel_battlebegin_001.ogg",
+            "text": "破碎的灵魂唱着歌，它在为我们指引方向。"
+        },
+        {
+            "title": "Win Battles",
+            "filename": "File:vo_hamel_battlewin_001.ogg",
+            "text": "狂欢结束了，睡吧， 我带你们回家。"
+        },
+        {
+            "title": "Lose Battles",
+            "filename": "File:vo_hamel_battlelose_001.ogg",
+            "text": "曲终，舞停，人散……"
+        },
+        {
+            "title": "Ultimate Skill",
+            "filename": "File:bt_hamel_uniqueskill_001.ogg",
+            "text": "尽兴起舞吧——"
+        },
+        {
+            "title": "Die in Battles",
+            "filename": "File:bt_hamel_dead_001.ogg",
+            "text": "还不能落幕……"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hamel_greeting_001.ogg",
+            "text": "每当我迷失在幻境，你就会出现，把我带回现实……你好，局长，欢迎回来。"
+        },
+        {
+            "title": "Conversation 1",
+            "filename": "File:vo_hamel_talk1_001.ogg",
+            "text": "台下有对艺术最纯粹的欣赏，世间有最极致的美好值得演绎，我并不孤单。"
+        },
+        {
+            "title": "Conversation 2",
+            "filename": "File:vo_hamel_talk1_002.ogg",
+            "text": "贪婪的欲望、死役的包围和黑色的铁窗，究竟哪个才是真正的牢笼呢？"
+        },
+        {
+            "title": "Conversation 3",
+            "filename": "File:vo_hamel_talk1_003.ogg",
+            "text": "肢体可以替我说话，感激、欣喜、挣扎、痛苦……但很遗憾，不是每个人都能读懂。"
+        },
+        {
+            "title": "Special Conversation 1",
+            "filename": "File:vo_hamel_talk2_001.ogg",
+            "text": "丑陋的怪物？请不要这样形容他们，这些被称为死役的孩子，是我最忠实的观众。"
+        },
+        {
+            "title": "Special Conversation 2",
+            "filename": "File:vo_hamel_talk2_002.ogg",
+            "text": "黑环的中心像是幽深的海底，在那里，可以听清心底的声音。"
+        },
+        {
+            "title": "Special Conversation 3",
+            "filename": "File:vo_hamel_talk2_003.ogg",
+            "text": "凶残的野兽不会懂得如何爱人，所以……请你千万不要变成那样。"
+        },
+        {
+            "title": "Full Compliance",
+            "filename": "File:vo_hamel_obeyfull_001.ogg",
+            "text": "有些情感，只能通过舞蹈传达。来，把手给我，跟上我的步调……局长，你……能感受到吗？"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hamel_idle_001.ogg",
+            "text": "嘘——你听，这是你心脏的声音，怦怦，怦怦……它也在跳舞呢。"
+        },
+        {
+            "title": "Annoyed",
+            "filename": "File:vo_hamel_clicking_001.ogg",
+            "text": "你……很寂寞吗？如果舞蹈能填补你的空虚，那就再靠近些吧。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hamel_specialattention_001.ogg",
+            "text": "好干净的眼睛……能被这样一双眼睛注视着起舞，一定是很幸福的事吧。"
+        },
+        {
+            "title": "Dispatch",
+            "filename": "File:vo_hamel_dispatch_001.ogg",
+            "text": "风的声音……就像大自然馈赠的舞曲。"
+        },
+        {
+            "title": "Dispatch Complete",
+            "filename": "File:vo_hamel_dispatch2_001.ogg",
+            "text": "我回来了。这是一次……不错的体验。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hamel_levelup_002.ogg",
+            "text": "感觉……轻飘飘的？"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hamel_head_001.ogg",
+            "text": "嗯？是想要……与我共舞吗？"
+        },
+        {
+            "title": "Deploy",
+            "filename": "File:bt_hamel_jointeam_001.ogg",
+            "text": "I can hear it... the prelude of the dance..."
+        }
+    ],
+    "joyful_tune": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_hamel_joyful_tune_cacha_001.ogg",
+            "text": "铃声摇曳，鼓点沉重……来吧，让我们起舞吧，在这雪夜之下起舞吧！"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hamel_joyful_tune_greeting_001.ogg",
+            "text": "每一个不曾起舞的日子，都是对生命的辜负。所以……局长不来和我共舞一曲么？"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hamel_joyful_tune_talk_001.ogg",
+            "text": "脚步，情绪，身体，精神……缺一不可。它不仅是舞，更是灵魂的颂歌。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hamel_joyful_tune_talk_002.ogg",
+            "text": "这舞蹈中的热烈情感，与佳节的氛围相得益彰……大家能够体会到么？"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hamel_joyful_tune_hand_001.ogg",
+            "text": "好久没有在演出后，看见这么纯粹的笑脸了。真是，奇妙的感觉……"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hamel_joyful_tune_leg_001.ogg",
+            "text": "多希望今晚的时间能够永远停留在此刻……我还真是贪心。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hamel_joyful_tune_idle_001.ogg",
+            "text": "在练习时，我就被这支舞蹈中的力量与慷慨所打动。希望大家看完后，能够化解心中的痛苦与不快。"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hamel_joyful_tune_specialattention_001.ogg",
+            "text": "既然看向了我，就请不要移开目光，我的感情，将会通过舞蹈传递给您。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hamel_joyful_tune_levelup_001.ogg",
+            "text": "节奏——加快了。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hamel_joyful_tune_head_001.ogg",
+            "text": "嗯……？这是我为了这支舞特意盘起来的。您……喜欢么？"
+        }
+    ],
+    "odile": [
+        {
+            "title": "Obtain Attire",
+            "filename": "File:vo_hamel_aojiliya_cacha_001.ogg",
+            "text": "苦痛却也优雅，每一片羽毛都有它的故事，这是为你献上的舞，只为你献上的舞——"
+        },
+        {
+            "title": "Greeting",
+            "filename": "File:vo_hamel_aojiliya_greeting_001.ogg",
+            "text": "局长，这次的舞蹈难度很高，如果没有做过相关训练的话，还是不要轻易尝试为好。"
+        },
+        {
+            "title": "Ordinary Contact 1",
+            "filename": "File:vo_hamel_aojiliya_talk_001.ogg",
+            "text": "黑与白，光与暗。正如我扮演的奥杰塔与奥吉莉亚，她们在王子眼中始终是同一人。"
+        },
+        {
+            "title": "Ordinary Contact 2",
+            "filename": "File:vo_hamel_aojiliya_talk_002.ogg",
+            "text": "散落的黑色羽翼，将全剧推向了高潮。美与毁灭仅一步之遥，这便是美之为美的宿命。"
+        },
+        {
+            "title": "Ordinary Contact 3",
+            "filename": "File:vo_hamel_aojiliya_hand_001.ogg",
+            "text": "局长认为现在的我更接近谁呢？是圣洁的天鹅公主奥杰塔，还是自由活泼的黑天鹅奥吉莉亚？"
+        },
+        {
+            "title": "Ordinary Contact 4",
+            "filename": "File:vo_hamel_aojiliya_leg_001.ogg",
+            "text": "当时的人们不愿看我扮演奥吉莉亚，他们只想通过我看到绝对的幸福与美好。与其说我是一位舞者，不如说……我更像是他们心中那只完美的白天鹅。"
+        },
+        {
+            "title": "Idle",
+            "filename": "File:vo_hamel_aojiliya_idle_001.ogg",
+            "text": "奥吉莉亚的连续三十二个挥鞭转是这支舞公认的精髓和难点。但在你的注视下，我却能轻松完成……"
+        },
+        {
+            "title": "Special Attention",
+            "filename": "File:vo_hamel_aojiliya_specialattention_001.ogg",
+            "text": "多希望你我能够被音乐与舞蹈包围，永远自由，欢欣地沉湎于此刻。"
+        },
+        {
+            "title": "Pat Head",
+            "filename": "File:vo_hamel_aojiliya_head_001.ogg",
+            "text": "你还是想试一试么……那，最后把我托起的环节，你应该可以做到的。"
+        },
+        {
+            "title": "Level Up",
+            "filename": "File:vo_hamel_aojiliya_levelup_001.ogg",
+            "text": "让我们尽情舒展羽翼吧。"
+        }
+    ]
+}
